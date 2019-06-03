@@ -1,102 +1,102 @@
-﻿key,0,1,2,3,4,5,6
-#,Name,Description,Icon,Action,Pet,,
-int32,str,str,Image,Action,Pet,bit&01,bit&02
-0,"","",405,0,0,False,True
-1,"回收","收回已经招出的召唤兽",530,0,0,False,True
-2,"跟随","让召唤兽跟随自己",529,0,0,False,True
-3,"移动","让召唤兽移动到指定位置",527,0,0,False,True
-4,"待命","让召唤兽在原地待命",528,0,0,False,True
-5,"截击","让召唤兽在召唤者发动攻击或召唤者与召唤兽其中之一受到攻击后才开始进行战斗",531,0,0,False,True
-6,"等待指示","让召唤兽在接到召唤者的指示前不进行战斗",532,0,0,False,True
-7,"自主战斗","让召唤兽自主攻击",525,0,0,False,True
-8,"协助战斗","让召唤兽进行攻击， 不过一部分技能会在得到命令后才会发动",526,0,0,False,True
-9,"突风","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90",561,637,1,False,True
+﻿key,0,1,2,3,4,5,6,7
+#,Name,Description,Icon,Action,Pet,,,
+int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
+0,"","",405,0,0,False,True,False
+1,"回收","收回已经招出的召唤兽",530,0,0,False,True,False
+2,"跟随","让召唤兽跟随自己",529,0,0,False,True,False
+3,"移动","让召唤兽移动到指定位置",527,0,0,False,True,False
+4,"待命","让召唤兽在原地待命",528,0,0,False,True,False
+5,"截击","让召唤兽在召唤者发动攻击或召唤者与召唤兽其中之一受到攻击后才开始进行战斗",531,0,0,False,True,False
+6,"等待指示","让召唤兽在接到召唤者的指示前不进行战斗",532,0,0,False,True,False
+7,"自主战斗","让召唤兽自主攻击",525,0,0,False,True,False
+8,"协助战斗","让召唤兽进行攻击， 不过一部分技能会在得到命令后才会发动",526,0,0,False,True,False
+9,"突风","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90",561,637,1,False,True,False
 10,"吹飞","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标击退15米
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",563,638,1,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",563,638,1,False,True,False
 11,"下行突风","对目标及其周围的敌人发动风属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",562,639,1,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",562,639,1,False,True,False
 12,"绿宝石之光","一定时间内，令目标受到的魔法伤害增加10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",564,640,1,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",564,640,1,False,True,False
 13,"利爪","对目标发动土属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨",551,633,2,False,True
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨",551,633,2,False,True,False
 14,"黄宝石之光","对自身周围的敌人发动土属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",552,634,2,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",552,634,2,False,True,False
 15,"硬化","一定时间内召唤兽所受到的伤害减轻20%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",553,635,2,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",553,635,2,False,True,False
 16,"冲撞","对目标发动土属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",554,636,2,False,True
-17,"烈风刃","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110",2711,792,5,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",554,636,2,False,True,False
+17,"烈风刃","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110",2711,792,5,False,True,False
 18,"震荡波","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标击退15米
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2713,793,5,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2713,793,5,False,True,False
 19,"大气风斩","对目标及其周围的敌人发动风属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2712,794,5,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2712,794,5,False,True,False
 20,"歪风","一定时间内，令目标受到的魔法伤害增加10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2714,795,5,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2714,795,5,False,True,False
 21,"大气爆发","对目标及其周围的敌人发动风属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
-召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2715,796,5,True,True
+召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2715,796,5,True,True,False
 22,"碎岩","对目标发动土属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>85
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨",2701,787,4,False,True
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨",2701,787,4,False,True,False
 23,"山崩","对自身周围的敌人发动土属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提升仇恨
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2702,788,4,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2702,788,4,False,True,False
 24,"大地之护","一定时间内召唤兽所受到的伤害减轻20%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2703,789,4,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2703,789,4,False,True,False
 25,"地裂","对目标发动土属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2704,790,4,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2704,790,4,False,True,False
 26,"大地之怒","对自身周围的敌人发动土属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>生成范围伤害区域
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2705,791,4,True,True
+召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2705,791,4,True,True,False
 27,"深红旋风","对目标发动火属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2721,797,3,False,True
-28,"燃火强袭","对目标发动火属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135",2722,798,3,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2721,797,3,False,True,False
+28,"燃火强袭","对目标发动火属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135",2722,798,3,False,True,False
 29,"辉煌盾","为自身与周围队员附加防护罩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>防护罩效果（被攻击时100％发动）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击者所受物理伤害提高2%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2723,799,3,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2723,799,3,False,True,False
 30,"烈焰碎击","对自身周围的敌人发动火属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2724,800,3,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2724,800,3,False,True,False
 31,"地狱之火炎","向目标所在方向发出扇形火属性范围攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火属性持续伤害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2725,801,3,True,True
-32,"日光的拥抱","恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",2826,802,6,False,True
+召唤者使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“内力迸发”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时发动",2725,801,3,True,True,False
+32,"日光的拥抱","恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",2826,802,6,False,True,False
 33,"日光的低语","持续恢复自身与周围队员的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>21秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2827,803,6,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2827,803,6,False,True,False
 34,"异想的盟光","一定时间内自身与周围队员的魔法防御力提高20%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2828,804,6,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2828,804,6,False,True,False
 35,"异想的幻光","一定时间内自身与周围队员发动治疗魔法的治疗量提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2829,805,6,False,True
-36,"月光的拥抱","恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",2836,806,7,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2829,805,6,False,True,False
+36,"月光的拥抱","恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",2836,806,7,False,True,False
 37,"月光的沉默","令目标陷入沉默状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2837,807,7,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2837,807,7,False,True,False
 38,"异想的柔光","解除周围队员身上部分弱化效果中的一种
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2811,810,7,False,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2811,810,7,False,True,False
 39,"异想的流光","一定时间内自身与周围队员的自动攻击间隔、战技与魔法的咏唱及复唱时间缩短3%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2812,811,7,False,True
-40,"攻击模式","对敌人发动攻击",405,0,8,False,True
-41,"支援模式","为己方提供辅助效果",405,0,8,False,True
-42,"","",405,7428,10,True,False
-43,"","",405,7449,10,True,True
-44,"","",405,7450,0,True,False
-45,"","",405,7416,8,True,True
-46,"","",405,7417,9,True,True
-47,"","",405,7438,0,True,False
-48,"","",405,7440,0,True,True
-49,"","",405,7441,0,True,True
-50,"","",405,8879,0,True,False
-51,"","",405,8881,0,True,True
-52,"","",405,9127,0,True,True
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",2812,811,7,False,True,False
+40,"攻击模式","对敌人发动攻击",405,0,8,False,True,False
+41,"支援模式","为己方提供辅助效果",405,0,8,False,True,False
+42,"","",405,7428,10,True,False,False
+43,"","",405,7449,10,True,True,False
+44,"","",405,7450,0,True,False,False
+45,"","",405,7416,8,True,True,False
+46,"","",405,7417,9,True,True,False
+47,"","",405,7438,0,True,False,False
+48,"","",405,7440,0,True,True,False
+49,"","",405,7441,0,True,True,False
+50,"","",405,8879,0,True,False,False
+51,"","",405,8881,0,True,True,False
+52,"","",405,9127,0,True,True,False

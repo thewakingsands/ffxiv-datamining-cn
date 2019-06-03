@@ -204,7 +204,8 @@ int32,str,str
 传授给雇员。"
 146,"TEXT_CMNDEFRETAINERDESK_00009_JOB_HOWTO_TALK_02","要将雇员设置为特职，
 需要事先使用40枚探险币换取<Sheet(Item,IntegerParameter(1),0)/>。"
-147,"TEXT_CMNDEFRETAINERDESK_00009_JOB_HOWTO_TALK_03","另外，无法传授自身等级未达到50级的特职。"
+147,"TEXT_CMNDEFRETAINERDESK_00009_JOB_HOWTO_TALK_03","另外，无法传授自身等级未达到50级的特职，
+设限特职也无法进行传授。"
 148,"TEXT_CMNDEFRETAINERDESK_00009_JOB_HOWTO_TALK_04","设置为特职的雇员要想更改为其他的职业或特职，
 需要重置雇员的职业或特职。"
 149,"TEXT_CMNDEFRETAINERDESK_00009_RELATION_TALK_01","要传授雇员特职的知识，需要满足一些条件。"

@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","呀，最近有什么新奇的事情吗？
 如果有能让我写成诗歌的冒险故事，请务必讲给我听。"
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","讲述“<If(Equal(IntegerParameter(1),20047))>豪神须佐之男<Else/><If(Equal(IntegerParameter(1),20049))>美神吉祥天女<Else/><If(Equal(IntegerParameter(1),20050))>神龙<Else/><If(Equal(IntegerParameter(1),30057))>龙神巴哈姆特<Else/><If(Equal(IntegerParameter(1),30067))>究极神兵<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神月读<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/></If></If></If></If></If></If></If></If>”的故事"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","讲述“<If(Equal(IntegerParameter(1),20047))>豪神须佐之男<Else/><If(Equal(IntegerParameter(1),20049))>美神吉祥天女<Else/><If(Equal(IntegerParameter(1),20050))>神龙<Else/><If(Equal(IntegerParameter(1),30057))>龙神巴哈姆特<Else/><If(Equal(IntegerParameter(1),30067))>究极神兵<Else/><If(Equal(IntegerParameter(1),20052))>白虎<Else/><If(Equal(IntegerParameter(1),20056))>夜神月读<Else/><If(Equal(IntegerParameter(1),20058))>朱雀<Else/><If(Equal(IntegerParameter(1),20061))>青龙<Else/></If></If></If></If></If></If></If></If></If>”的故事"
 2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","取消"
 3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……现在有比回顾过去更加重要的事情要做？
 哈哈哈，每次迎来新的冒险时，你的双眼都会闪闪发光。
@@ -184,4 +184,35 @@ int32,str,str
 它就这么忍着悲伤活了一千年，想想可真是太痛苦了。"
 83,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_103","要是你又经历了什么不可思议的事情，一定要告诉我。
 从今以后我也会继续传唱你的故事。"
-84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000","（★未使用／削除予定★）"
+84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_110","所谓四圣兽是指无地鼓座演出的三大戏剧之一，
+“典膳驱鬼”中登场的4只兽吧。"
+85,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_111","呵呵……你很奇怪我为什么知道吗？
+毕竟我也是干这行的，每天都在学习啊。"
+86,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_112","那么，你要告诉我有关四圣兽的什么呢？"
+87,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_113","能通人语的兽们守护的神社，醴泉神社……
+你就是在那里和四圣兽之一的玄武相遇的？
+好厉害啊，简直像童话故事一样！"
+88,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_114","虽然有点不敢相信，但我听你讲了这么多冒险故事，
+这应该不是胡说。"
+89,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_115","那么，能告诉我你这次进行镇魂的四圣兽的故事吗？"
+90,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_116","哪怕是将自己的灵魂交给荒魂，
+也要达成跟典膳立下誓言的瑞兽——青龙啊……
+好，我感觉可以写出很好的短歌了！"
+91,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_117","啊，所谓短歌就是远东之国传统的诗句。
+这是无地鼓座的人们教我的，
+我还不是很熟练，你听了别笑我哦？"
+92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","“纵魂已不净 心中魂河仍长青 奔流未曾停
+此身化鬼亦无畏 唯有誓言留我心”"
+93,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_119","世上虽然留存着有关青龙的传说，
+但和其他四圣兽相比，其真实面目依然充满谜团。"
+94,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_120","在东方这边，一部分的占卜之术会用到青龙的名字。
+由此看来，青龙从古代就成为了阴阳师们所信仰的对象。"
+95,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_121","听了你的叙说，青龙好像被看成是幸运之神而受到供奉……
+所谓的土地神就是人们擅自祈愿的对象，
+而当愿望没有实现的话，就可能会被烙下伪神的印记。"
+96,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_122","没准青龙认为如果自己没能达成誓言，
+典膳也会离他而去吧。
+不过他现在应该已经明白，典膳绝对不会这么做的。"
+97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","要是你又经历了什么不可思议的事情，一定要告诉我。
+从今以后我也会继续传唱你的故事。"
+98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000","（★未使用／削除予定★）"

@@ -70,10 +70,9 @@ int32,str,str
 1个小队只有1台。"
 37,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_120","但是，三种机体当中的“压迫者”，
 每个阵营只能同时搭乘2台。"
-38,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_121","而“残暴正义号”的搭乘权，只会在己方防御塔被破坏的时候发生。
-因此，在一次比赛当中可以搭乘的数量，最多只有2台。"
-39,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_122","而且，“残暴正义号”的搭乘权，
-并非是以小队为单位，而是阵营全体所共有的。"
+38,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_121","而“残暴正义号”的搭乘权只会在己方防御塔被破坏的时候产生。"
+39,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_122","因此，“残暴正义号”在自阵营内的可同时搭乘数量
+即为损失的防御塔数量。"
 40,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_130","机动兵器 虽然很强 可没有 燃料的话 就动不了——
 想要启动 就去找来 足够量的 “青磷水”——！"
 41,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_135","想要搭乘机动兵器，需要使用青磷水。
@@ -101,15 +100,13 @@ int32,str,str
 积极地 打倒 敌人吧——！"
 51,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_165","“气势”是指打倒敌方小队成员后，
 赋予我方小队的状态效果。"
-52,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_166","这种状态效果，最大可以积累到10档。
-根据档数的不同，会给予不同程度的伤害增加，
-治疗魔法的治疗量提高效果。"
-53,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_167","气势会以小队为单位增减。
-打倒敌方成员会使气势上升，
-反之，我方成员被打倒则会减少。"
-54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","我方成员陷入无法战斗的状态时，若此时处于气势状态，
-则将失去气势档位数的一半，而失去的档位数，
-将会被赋予给击倒该我方成员的敌方小队。"
+52,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_166","这种状态效果，最大可以积累到20档。
+根据档数的不同，会给予不同程度的伤害、治疗量增加效果。"
+53,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_167","另外，当档数达到20时，
+状态效果“气势”会变为“气势高昂”，
+变得更加强力。"
+54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","气势的获取方式为打倒敌方成员或破坏敌方防御塔，
+阵营内每个小队的气势是独立的。"
 55,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_169","（★未使用／削除予定★）"
 56,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_200","呼哧……呼哧……
 在对战中 胜出的话 就能 多多 得到 报酬哦——！

@@ -176,7 +176,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 172,"打招呼",6222,0,663,6223,6223,0,0,True,True,True,1,0,False,True,False,False,5,573,64361,8104,8105,68558
 173,"方形步",6258,6257,0,0,0,0,0,False,False,False,2,39,False,True,False,False,10026,574,64362,8106,8107,260
 174,"侧步",6260,6259,0,0,0,0,0,False,False,False,2,40,False,True,False,False,10027,575,64363,8108,8109,261
-175,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
+175,"究极",6251,0,0,0,0,0,0,False,False,False,2,0,False,True,False,False,12004,576,64364,8110,8111,262
 176,"胡鹰之舞",6231,6230,0,0,0,0,0,False,False,False,2,41,False,True,False,False,10025,577,64365,8112,8113,269
 177,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
 178,"撩水",6252,0,0,0,6255,0,0,False,True,False,1,0,False,True,False,False,94,579,64366,8114,8115,270
@@ -193,12 +193,12 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 189,"说明计划",6275,6274,0,0,0,0,0,False,False,False,2,48,False,True,False,False,11014,590,64374,8134,8135,396
 190,"表情：忍耐",6253,0,6253,6253,6253,6253,0,True,True,True,3,0,False,False,False,False,20027,591,64131,8136,8137,68684
 191,"欣赏神典石",6302,0,0,6303,6303,0,0,True,False,True,1,0,False,True,False,False,139,592,64375,8138,8139,406
-192,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
-193,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
+192,"趾踵步",6299,6298,0,0,0,0,0,False,False,False,2,49,False,True,False,False,10030,593,64376,8140,8141,232
+193,"古菩步",6301,6300,0,0,0,0,0,False,False,False,2,50,False,True,False,False,10031,594,64377,8142,8143,233
 194,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
 195,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
-196,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
-197,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
+196,"提醒",6277,6276,0,0,0,0,0,False,False,False,2,51,False,True,False,False,11015,597,64380,8148,8149,235
+197,"优雅仙人刺",6250,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,58,598,64381,8150,8151,236
 198,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
 199,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
 200,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0

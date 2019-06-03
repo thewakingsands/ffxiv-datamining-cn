@@ -275,8 +275,8 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 271,3,51,False,3,0,4,0,0,False,0,0,0,0,0,False,0,0,0,0
 272,3,27,True,4,26,4,26,3,True,4,24,4,24,68,False,3,0,3,0
 273,4,6,False,1,0,1,0,3,False,1,0,1,0,0,False,0,0,0,0
-274,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
-275,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
+274,4,6,False,1,0,1,0,3,False,1,0,1,0,0,False,0,0,0,0
+275,4,6,False,1,0,1,0,3,False,1,0,1,0,0,False,0,0,0,0
 276,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
 277,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
 278,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
@@ -393,4 +393,10 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 389,3,3,True,8,193,10,241,0,False,0,0,0,0,0,False,0,0,0,0
 390,3,4,True,8,180,10,225,0,False,0,0,0,0,0,False,0,0,0,0
 391,3,5,True,8,180,10,225,0,False,0,0,0,0,0,False,0,0,0,0
-392,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
+392,3,44,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+393,3,45,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+394,3,19,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+395,3,27,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+396,3,46,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+397,3,22,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
+398,3,6,True,4,10,4,10,3,True,5,12,5,12,68,False,3,0,3,0
