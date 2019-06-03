@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000","我这里可以将您的<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>，
+分别换成<Sheet(Item,IntegerParameter(3),0)/>和<Sheet(Item,IntegerParameter(4),0)/>。"
+1,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000","要交换哪种工票？"
+2,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A001","<Sheet(Item,IntegerParameter(1),0)/>"
+3,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A002","<Sheet(Item,IntegerParameter(1),0)/>"
+4,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A003","取消"
+5,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_EXCHANGE_Q000","确定要将您的<Value>IntegerParameter(2)</Value>张<Sheet(Item,IntegerParameter(1),0)/>，
+换成<Value>IntegerParameter(4)</Value>张<Sheet(Item,IntegerParameter(3),0)/>吗？"
+6,"TEXT_CMNDEFSCRIPCONVERT_00390_ASK_LIMIT_Q000","确定要交换吗？
+您的<Sheet(Item,IntegerParameter(1),0)/>会超出持有上限，
+超出的部分会被浪费。"
+7,"TEXT_CMNDEFSCRIPCONVERT_00390_SYSTEM_EXCHANGE_00000","将<Value>IntegerParameter(2)</Value>张<Sheet(Item,IntegerParameter(1),0)/>换成了<Value>IntegerParameter(4)</Value>张<Sheet(Item,IntegerParameter(3),0)/>。"
+8,"TEXT_CMNDEFSCRIPCONVERT_00390_TALK_NOTOBTAINABLE_00000","您身上没有<Sheet(Item,IntegerParameter(1),0)/>。"
+9,"TEXT_CMNDEFSCRIPCONVERT_00390_TALK_MAXIMUM_00000","您的<Sheet(Item,IntegerParameter(1),0)/>已满。"

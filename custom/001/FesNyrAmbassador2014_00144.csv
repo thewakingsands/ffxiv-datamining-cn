@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000","我们从祖国“远东之国”带来了庆祝降神节的纪念品。
+今后也想和艾欧泽亚各国保持友好关系。"
+1,"TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010","……嗯？
+莫非你弄丢了我送给你的<Sheet(Item,6964,0)/>？"
+2,"TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011","竟然弄丢了友好纪念品，真是个不知轻重的<If(PlayerParameter(4))>女人<Else/>男人</If>……
+好吧，给你个备用的。
+这次可别再弄丢了！"

@@ -1,0 +1,686 @@
+﻿key,0
+#,
+int32,str
+0,""
+1,"<CommandIcon(10)/>收回物品"
+2,"<CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+3,"<CommandIcon(8)/>改变队员排列顺序  <CommandIcon(10)/>次级指令"
+4,"<CommandIcon(11)/>开始搜索"
+5,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>购买 <CommandIcon(11)/>选择要出售的道具"
+6,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>文本指令一览"
+7,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>写新邮件"
+8,"<CommandIcon(10)/>次级指令"
+9,"<CommandIcon(8)/><CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+10,"<CommandIcon(8)/>选择附件道具"
+11,"<CommandIcon(10)/>在任务列表中优先显示或隐藏  <CommandIcon(24)/>滚动查看详细情报"
+12,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+13,"<CommandIcon(12)/>"
+14,"<CommandIcon(13)/>"
+15,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>发动"
+16,"<CommandIcon(10)/>装备栏次级指令"
+17,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
+18,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(13)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
+19,"<CommandIcon(8)/><CommandIcon(10)/>次级指令  <CommandIcon(11)/>发送好友申请"
+20,"<CommandIcon(8)/><CommandIcon(10)/>次级指令  <CommandIcon(11)/>加入到黑名单"
+21,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+22,"<CommandIcon(10)/>次级指令"
+23,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>选择交易道具"
+24,"<CommandIcon(8)/>出售  <CommandIcon(10)/>次级指令"
+25,"<CommandIcon(8)/><CommandIcon(10)/>次级指令  <CommandIcon(11)/>选择出售商品"
+26,"<CommandIcon(10)/>次级指令"
+27,"<CommandIcon(10)/>次级指令"
+28,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+29,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+30,"<CommandIcon(8)/>确认接受  <CommandIcon(11)/>查看日志  <CommandIcon(24)/>滚动查看详细情报"
+31,"<CommandIcon(11)/>搜索"
+32,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>查看市场情况  <CommandIcon(9)/>返回"
+33,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>查看市场情况  <CommandIcon(9)/>返回  <CommandIcon(12)/><CommandIcon(13)/>翻页"
+34,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+35,"<CommandIcon(11)/>重新获取队员招募列表　<CommandIcon(10)/>次级指令　<CommandIcon(8)/>查看详情"
+36,"<CommandIcon(11)/>开始搜索"
+37,"<CommandIcon(11)/>在各个职能间依次切换　<CommandIcon(8)/>指定具体职业"
+38,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>交换"
+39,"<CommandIcon(10)/>次级指令"
+40,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>确定  <CommandIcon(9)/>关闭"
+41,"<CommandIcon(13)/>"
+42,"<CommandIcon(12)/>"
+43,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>传送"
+44,"<CommandIcon(10)/>次级指令"
+45,"<CommandIcon(10)/><CommandIcon(8)/>次级指令"
+46,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>编辑宏指令  <CommandIcon(24)/>滚动查看详细情报"
+47,"<CommandIcon(8)/>选择  <CommandIcon(11)/>返回列表"
+48,"<CommandIcon(8)/>解除选择  <CommandIcon(11)/>切换到物品窗口"
+49,"<CommandIcon(11)/>切换到物品窗口"
+50,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>搜索道具"
+51,"<CommandIcon(20)/>移动  <CommandIcon(25)/>旋转  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+52,"<CommandIcon(12)/><CommandIcon(13)/>切换列表"
+53,"<CommandIcon(24)/>滚动查看详细情报"
+54,"<CommandIcon(10)/>取消选择"
+55,"<CommandIcon(8)/>移动到个人房间  <CommandIcon(10)/>查看个人房间资料"
+56,"<CommandIcon(8)/>训练  <CommandIcon(10)/>次级指令"
+57,"<CommandIcon(8)/>训练  <CommandIcon(10)/>次级指令"
+58,"<CommandIcon(11)/>显示探索记录"
+59,"<CommandIcon(11)/>显示风景印象"
+60,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>召唤"
+61,"<CommandIcon(10)/>次级指令"
+62,"<CommandIcon(11)/>切换表示方式  <CommandIcon(10)/>次级指令"
+63,"<CommandIcon(10)/>次级指令"
+64,"<CommandIcon(11)/>"
+65,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>选择"
+66,"<CommandIcon(10)/>次级指令"
+67,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(11)/>放大消息窗口"
+68,"<CommandIcon(1)/>选择消息窗口  <CommandIcon(11)/>放大消息窗口"
+69,"<CommandIcon(8)/>设置到扩展技能栏中"
+70,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>选择"
+71,"<CommandIcon(8)/>更换装备  <CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位"
+72,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>  <CommandIcon(11)/>放大消息窗口"
+73,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
+74,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
+75,"<CommandIcon(5)/>履历  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(GreaterThan(PlayerParameter(75),0))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If> "
+76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前进  <CommandIcon(13)/>定型文"
+77,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
+78,"<CommandIcon(11)/>应用  <CommandIcon(10)/>删除设置　"
+79,"<CommandIcon(8)/>跳过剧情  <CommandIcon(9)/>取消"
+80,"<CommandIcon(12)/><CommandIcon(13)/>选择职业分类"
+81,"<CommandIcon(8)/><CommandIcon(10)/>次级指令  <CommandIcon(11)/>设置搜索条件"
+82,"<CommandIcon(5)/>顺序移动  <CommandIcon(8)/>确定  <CommandIcon(9)/>取消"
+83,"<CommandIcon(7)/>移动  <CommandIcon(8)/>确定  <CommandIcon(9)/>取消"
+84,"<CommandIcon(11)/>编辑部队公告"
+85,"<CommandIcon(11)/>只显示在线队员"
+86,"<CommandIcon(11)/>显示所有队员"
+87,"<CommandIcon(11)/>应用"
+88,"<CommandIcon(11)/>应用"
+89,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
+90,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+91,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+92,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+93,"<CommandIcon(8)/>放入兵装库  <CommandIcon(10)/>次级指令"
+94,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位"
+95,"<CommandIcon(8)/>从物品栏中取出  <CommandIcon(12)/><CommandIcon(13)/>切换部位"
+96,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+97,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+98,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+99,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+100,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+101,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+102,"<CommandIcon(10)/>装备栏次级指令"
+103,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
+104,"<CommandIcon(11)/>只显示在线成员  <CommandIcon(3)/><CommandIcon(4)/>翻页"
+105,"<CommandIcon(11)/>显示全体成员  <CommandIcon(3)/><CommandIcon(4)/>翻页"
+106,"<CommandIcon(24)/>滚动查看详细情报"
+107,"<CommandIcon(8)/>使用  <CommandIcon(10)/>次级指令"
+108,"<CommandIcon(10)/>设置热键"
+109,"<CommandIcon(10)/>选择  <CommandIcon(11)/>确定参加并关闭窗口  <CommandIcon(24)/>滚动查看详细情报"
+110,"<CommandIcon(10)/>返回附件道具"
+111,"<CommandIcon(8)/>选择交易道具"
+112,"<CommandIcon(5)/>滚动"
+113,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>选择要放入的道具"
+114,"<CommandIcon(7)/>移动  <CommandIcon(8)/>确定  <CommandIcon(9)/>取消"
+115,"<CommandIcon(8)/>取出  <CommandIcon(11)/>选择要放入的道具"
+116,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+117,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+118,"<CommandIcon(10)/>设置热键"
+119,"<CommandIcon(10)/>次级指令"
+120,"<CommandIcon(8)/>穿脱装备"
+121,"<CommandIcon(11)/>随机选择"
+122,"<CommandIcon(8)/>选择用色  <CommandIcon(11)/>随机选择"
+123,"<CommandIcon(8)/>选择  <CommandIcon(11)/>随机选择"
+124,"<CommandIcon(24)/>滚动查看详细情报"
+125,"<CommandIcon(3)/><CommandIcon(4)/>移动  <CommandIcon(8)/>确定"
+126,"<CommandIcon(11)/>应用"
+127,"<CommandIcon(11)/>选择要放入的道具"
+128,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(11)/>将消息窗口恢复原尺寸"
+129,"<Gui(17)/>缩放窗口  <CommandIcon(11)/>切换显示内容"
+130,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>查看内容"
+131,"<CommandIcon(8)/>显示典型钓场"
+132,"<CommandIcon(23)/>滚动查看地图"
+133,"<CommandIcon(23)/>滚动查看地图  <CommandIcon(8)/>打开鱼类图鉴"
+134,"<CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>  <CommandIcon(11)/>放大消息窗口"
+135,"<CommandIcon(1)/>选择消息窗口  <CommandIcon(11)/>将消息窗口恢复原尺寸"
+136,"<CommandIcon(11)/>选择要放入的道具"
+137,"<CommandIcon(10)/>撤销变更部分"
+138,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>家具列表"
+139,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>物品 <CommandIcon(14)/><CommandIcon(15)/>切换已布置/仓库"
+140,"<CommandIcon(11)/>移动"
+141,"<CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+142,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+143,"<CommandIcon(10)/>设置热键"
+144,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>"
+145,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+146,"<CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>"
+147,"<CommandIcon(12)/><CommandIcon(13)/>切换消息栏"
+148,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
+149,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
+150,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放"
+151,"<CommandIcon(10)/>次级指令"
+152,"<CommandIcon(9)/>返回"
+153,"<CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>"
+154,"<CommandIcon(12)/><CommandIcon(13)/>选择职业"
+155,"<CommandIcon(12)/><CommandIcon(13)/>选择分类  <CommandIcon(10)/>次级指令  <CommandIcon(11)/>开始制作"
+156,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>开始制作"
+157,"<CommandIcon(9)/>选择关闭按钮"
+158,"<CommandIcon(9)/>选择关闭按钮"
+159,"<CommandIcon(10)/>次级指令"
+160,"<CommandIcon(10)/>次级指令"
+161,"<CommandIcon(10)/>次级指令"
+162,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+<CommandIcon(24)/>缩放"
+163,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
+164,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(13)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
+165,"<CommandIcon(11)/>随机选择号码"
+166,"<CommandIcon(10)/>次级指令"
+167,"<CommandIcon(10)/>次级指令"
+168,"<CommandIcon(11)/>随机选词"
+169,"<CommandIcon(10)/>次级指令"
+170,"<CommandIcon(11)/>规则"
+171,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>选择道具"
+172,"<CommandIcon(9)/>选择关闭按钮"
+173,"lua 5.1.4 / MIT License
+
+Copyright (C) 1994-2008 Lua.org, PUC-Rio.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+rsa-md5 / RSA Data Security License
+
+Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+
+License to copy and use this software is granted provided that it is identified as the “RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing this software or this function.
+
+License is also granted to make and use derivative works provided that such works are identified as “derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing the derived work.
+
+RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided “as is” without express or implied warranty of any kind.
+
+These notices must be retained in any copies of any part of this documentation and/or software. 
+
+
+SHA-1 (Internet Society)
+------------------------
+Copyright (C) The Internet Society (2001). All Rights Reserved.
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.
+
+This document and the information contained herein is provided on an “AS IS” basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Acknowledgement
+
+Funding for the RFC Editor function is currently provided by the Internet Society.
+
+
+zstream.h (zlib)
+----------------
+Copyright (c) 1997
+Christian Michelsen Research AS
+Advanced Computing
+Fantoftvegen 38, 5036 BERGEN, Norway
+http://www.cmr.no
+
+Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.
+-------------------------------------------------------------------------------"
+174,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
+175,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
+176,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
+177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出发"
+178,"<CommandIcon(10)/>次级指令"
+179,"<CommandIcon(10)/>选择  <CommandIcon(11)/>确定并关闭"
+180,"<CommandIcon(5)/>履历  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+181,"<CommandIcon(10)/>次级指令"
+182,"<CommandIcon(9)/>保存更改并关闭"
+183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
+184,"<CommandIcon(8)/>召唤"
+185,"<CommandIcon(24)/>滚动查看帮助信息"
+186,"<CommandIcon(10)/>设置热键  <CommandIcon(11)/>编辑宠物热键栏  <CommandIcon(8)/>召唤"
+187,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>掌握住各种设施的功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜奥秘核石＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　我方与敌方分别设有三个核石，
+　　将敌方的核石全部破坏便可以取得胜利。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜萌宠之门＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　召唤宠物时可以选择使用哪个门来召唤。
+　　我方的宠物进入我方的萌宠之门时会恢复体力。
+　　即使门被破坏了也能召唤宠物，不过这样一来宠物就无法移动到门外了。
+　　而且门外的宠物也无法移动到门内了。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜探索眼＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　可以显示出敌方宠物情况的设施。
+　　如果遭到破坏，便无法观察到远离我方的敌方宠物。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜防御盾＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　保护奥秘核石的设施。
+　　遭到破坏之后，核石所受到的伤害会增加。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>关于设施的破坏与重启<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　奥秘核石之外的设施在遭到攻击时会暂时停止功能的运行。
+　经过一段时间之后会通过重启来恢复原本的功能。
+　※重启过程中将我方的宠物放到设施附近能够缩短重启的时间。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵活运用设施特效<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在对设施发起攻击时，有特定的宠物会对特定的设施有更好的效果。
+　为了应对各种设施，准备好相应的宠物才是上策。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>使用特殊技来瞬间逆转<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　满足下列两个条件时可以发动特殊技。
+　　·附近聚集了4只或更多的同一种宠物
+　　·聚集的4只宠物都积攒了特殊技点数
+　　（“特殊技点数”会随时间经过而增加）
+　满足条件之后选中某一只宠物，
+　可以在菜单里选择“发动特殊技”来发动。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵活使用陷阱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　有部分宠物的特殊技是在场地上设下“陷阱”。
+　设好的陷阱在10秒后会开始起效。
+　此时在菜单中选择“发动陷阱”来发动。
+　※每次只能设置一个陷阱。
+
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　·选择单个宠物
+　　　<CommandIcon(12)/>＋<CommandIcon(7)/>　：选择宠物小队列表中的宠物
+　　·选择多个宠物
+　　　<CommandIcon(11)/>　　　：打开选择圈并选中圈内的宠物
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　·整体操作
+　　　<Gui(17)/>　　　：切换萌宠之门
+　　　<CommandIcon(15)/>　　　：切换显示宠物小队列表
+　　　<Gui(16)/>　　　：选择召唤预约列表
+　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
+　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(18)/>　：显示游戏内帮助
+　　·选择宠物的操作
+　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
+　　　<CommandIcon(12)/>＋<Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
+　　　<CommandIcon(12)/>＋<Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
+　　·小地图操作
+　　　按住<CommandIcon(14)/>　：记忆地图跳跃点（松开后会移动到该地点）
+　　　<CommandIcon(14)/>＋<CommandIcon(23)/>　：移动地图跳跃点
+　　　<CommandIcon(14)/>＋<Gui(17)/>　：重置地图跳跃点
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鼠标操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　左键单击：选择单个宠物
+　　　　　　　　 ※左键单击已选中的宠物时
+　　　　　　　　　 会选中附近的同种类宠物。
+　　左键拖拽：选择范围内的所有宠物
+<Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鼠标操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　左键单击：选择单个宠物
+　　　　　　　　 ※左键单击已选中的宠物时
+　　　　　　　　　 会选中附近的同种类宠物。
+　　左键拖拽：选择范围内的所有宠物
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　·选择单个宠物
+　　　<CommandIcon(12)/>＋<CommandIcon(7)/>　：选择宠物小队列表中的宠物
+　　·选择多个宠物
+　　　<CommandIcon(11)/>　　　：打开选择圈并选中圈内的宠物
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　　·整体操作
+　　　<Gui(17)/>　　　：切换萌宠之门
+　　　<CommandIcon(15)/>　　　：切换显示宠物小队列表
+　　　<Gui(16)/>　　　：选择召唤预约列表
+　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
+　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(18)/>　：显示游戏内帮助
+　　·选择宠物的操作
+　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
+　　　<CommandIcon(12)/>＋<Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
+　　　<CommandIcon(12)/>＋<Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
+　　·小地图操作
+　　　按住<CommandIcon(14)/>　：记忆地图跳跃点（松开后会移动到该地点）
+　　　<CommandIcon(14)/>＋<CommandIcon(23)/>　：移动地图跳跃点
+　　　<CommandIcon(14)/>＋<Gui(17)/>　：重置地图跳跃点
+</If>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>键盘快捷键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在萌宠之王中可以对以下功能进行键位设置。
+<If(Equal(PlayerParameter(75),1))><Else/>　　宠物热键栏上行：热键栏2的技能栏1～12
+　　宠物热键栏下行：热键栏1的技能栏1～12
+　　发动特殊技　　：热键栏3的技能栏1
+　　发动陷阱　　　：热键栏3的技能栏2
+　　返回　　　　　：热键栏3的技能栏3
+</If>　　打开选择圈　　：跳跃
+　　切换萌宠之门　：拔出/收回武器
+　　萌宠之王列表　：宠物一览"
+188,"<CommandIcon(8)/>选择  <CommandIcon(11)/>出港探索  <CommandIcon(24)/>滚动查看详细情报"
+189,"<CommandIcon(8)/>改变指令排列顺序或层级 <CommandIcon(10)/>显示/不显示 <CommandIcon(11)/>应用"
+190,"<CommandIcon(10)/>次级指令"
+191,"<CommandIcon(5)/>改变排列顺序 <CommandIcon(6)/>改变层级 <CommandIcon(8)/><CommandIcon(9)/>确定 <CommandIcon(10)/>显示/不显示 <CommandIcon(11)/>应用"
+192,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>试听 <CommandIcon(11)/>设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
+193,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>设为房屋背景乐曲 <CommandIcon(11)/>停止试听 <CommandIcon(10)/>次级指令"
+194,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>不再设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
+195,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
+196,"<CommandIcon(8)/>回购"
+197,"<CommandIcon(10)/>装备栏次级指令"
+198,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+199,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+200,"<CommandIcon(8)/>选择 <CommandIcon(11)/>开始 <CommandIcon(24)/>滚动查看详细情报"
+201,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
+202,"<CommandIcon(8)/><CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>切换选择列表"
+203,"<CommandIcon(8)/>改变职能排列顺序  <CommandIcon(11)/>应用"
+204,"<CommandIcon(5)/>顺序移动 <CommandIcon(8)/><CommandIcon(9)/>确定 <CommandIcon(11)/>应用"
+205,"<CommandIcon(10)/>选择 <CommandIcon(11)/>确定参加并关闭窗口 <CommandIcon(24)/>滚动查看详细情报"
+206,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>查看内容"
+207,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动"
+208,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动查看详细情报"
+209,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
+210,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
+211,"<CommandIcon(8)/>试听 <CommandIcon(11)/>设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
+212,"<CommandIcon(8)/>设为房屋背景乐曲 <CommandIcon(11)/>停止试听 <CommandIcon(10)/>次级指令"
+213,"<CommandIcon(8)/>不再设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
+214,"<CommandIcon(11)/>组编分队"
+215,"<CommandIcon(8)/>确定  <CommandIcon(9)/>关闭"
+216,"<CommandIcon(10)/>次级指令"
+217,"<CommandIcon(10)/>次级指令"
+218,"<CommandIcon(10)/>次级指令"
+219,"<CommandIcon(14)/><CommandIcon(15)/>定点カメラの切り替え <CommandIcon(18)/>メニュー表示"
+220,"<CommandIcon(8)/>移动到公寓房间  <CommandIcon(10)/>查看公寓房间资料"
+221,"<CommandIcon(10)/>次级指令"
+222,"<CommandIcon(10)/>次级指令"
+223,"<CommandIcon(23)/>滚动  <CommandIcon(12)/>＋<CommandIcon(23)/>缩放  <CommandIcon(13)/>切换固定视角"
+224,"<CommandIcon(10)/>次级指令"
+225,"<CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>选择水环境"
+226,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动"
+227,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>添加 <CommandIcon(10)/>次级指令"
+228,"<CommandIcon(10)/>次级指令"
+229,"<CommandIcon(10)/>次级指令"
+230,"<CommandIcon(10)/>装备栏次级指令"
+231,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+232,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+233,"<CommandIcon(10)/>次级指令"
+234,"<CommandIcon(10)/>次级指令"
+235,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>发动"
+236,"<CommandIcon(8)/>设置对战额外技能"
+237,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>选择"
+238,"<CommandIcon(3)/><CommandIcon(4)/>移动 <CommandIcon(8)/>确定"
+239,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(13)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放"
+240,"<CommandIcon(8)/>设置对战特性"
+241,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+242,"<CommandIcon(9)/>选择放弃按钮"
+243,"<CommandIcon(9)/>选择关闭按钮"
+244,"<CommandIcon(5)/>滚动 <CommandIcon(9)/>关闭"
+245,"<CommandIcon(11)/>组编分队"
+246,"<CommandIcon(8)/>获取在线状态  <CommandIcon(10)/>次级指令  <CommandIcon(11)/>发送好友申请"
+247,"禁止通过乐器演奏功能侵犯第三方的权利。
+
+玩家可在«最终幻想14»版权与用户协议的允许范围内上传自己的演奏作品，
+但无权阻止他人散播或使用自己的作品。
+
+"
+248,"<CommandIcon(10)/>次级指令"
+249,"<CommandIcon(11)/>开始游戏/结束游戏"
+250,"<CommandIcon(11)/>开始游戏/再次挑战 <CommandIcon(10)/>关闭"
+251,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>选择要放入的道具"
+252,"<CommandIcon(7)/>移动  <CommandIcon(8)/>決定  <CommandIcon(9)/>取消"
+253,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+254,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
+255,"<CommandIcon(10)/>次级指令  <CommandIcon(12)/><CommandIcon(13)/>切换部位  <CommandIcon(9)/>返回"
+256,"<CommandIcon(11)/>应用"
+257,"<CommandIcon(8)/>增加该属性的魔素石　<CommandIcon(10)/>减少该属性的魔素石"
+258,"<CommandIcon(11)/> 切换焦点  <CommandIcon(10)/> 次级指令"
+259,"<CommandIcon(11)/> 切换焦点  <CommandIcon(10)/> 次级指令"
+260,"<CommandIcon(10)/> 次级指令"
+261,"<CommandIcon(9)/> 返回投影模板"
+262,"<CommandIcon(10)/>次级指令　<CommandIcon(9)/>返回投影模板"
+263,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+264,"<CommandIcon(10)/> 次级指令"
+265,"<CommandIcon(10)/>次级指令"
+266,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+267,"<CommandIcon(9)/>关闭"
+268,"<CommandIcon(10)/>次级指令"
+269,"<CommandIcon(11)/>全部勾选/全部解除"
+270,"<CommandIcon(10)/>次级指令"
+271,"<CommandIcon(8)/>取消　<CommandIcon(11)/>选择道具"
+272,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+273,""
+274,"<CommandIcon(10)/><CommandIcon(8)/>次级指令"
+275,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中情感动作的位置"
+276,"<CommandIcon(11)/>选择出让的道具"
+277,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>编辑宠物热键栏"
+278,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中宠物的位置"
+279,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
+280,"<CommandIcon(5)/>履历 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+281,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
+282,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
+283,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中坐骑的位置"
+284,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
+285,"<CommandIcon(5)/>履历 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+286,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
+287,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>确定 <CommandIcon(9)/>取消"
+288,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
+289,"<CommandIcon(11)/>写新邮件"
+290,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>领取"
+291,""
+292,""
+293,""
+294,"<CommandIcon(9)/>关闭"
+295,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>放入  <CommandIcon(9)/>融合器  <CommandIcon(11)/>文理技能"
+296,"<CommandIcon(8)/>使用  <CommandIcon(11)/>关闭"
+297,"<CommandIcon(11)/>选择文理碎晶  <CommandIcon(10)/>次级指令"
+298,"<CommandIcon(10)/><CommandIcon(8)/>次级指令"
+299,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/><CommandIcon(11)/>融合器"
+300,"<CommandIcon(11)/>选择文理碎晶  <CommandIcon(9)/>关闭"
+301,"<CommandIcon(10)/>次级指令"
+302,"<CommandIcon(10)/>次级指令"
+303,"<CommandIcon(8)/><CommandIcon(10)/>查看个人房间资料"
+304,"<CommandIcon(8)/><CommandIcon(10)/>查看公寓房间资料"
+305,"<CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+306,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
+307,""
+308,""
+309,""
+310,""
+311,""
+312,""
+313,""
+314,""
+315,""
+316,""
+317,""
+318,""
+319,""
+320,""
+321,""
+322,""
+323,""
+324,""
+325,""
+326,""
+327,""
+328,""
+329,""
+330,""
+331,""
+332,""
+333,""
+334,""
+335,""
+336,""
+337,""
+338,""
+339,""
+340,""
+341,""
+342,""
+343,""
+344,""
+345,""
+346,""
+347,""
+348,""
+349,""
+350,""
+351,""
+352,""
+353,""
+354,""
+355,""
+356,""
+357,""
+358,""
+359,""
+360,""
+361,""
+362,""
+363,""
+364,""
+365,""
+366,""
+367,""
+368,""
+369,""
+370,""
+371,""
+372,""
+373,""
+374,""
+375,""
+376,""
+377,""
+378,""
+379,""
+380,""
+381,""
+382,""
+383,""
+384,""
+385,""
+386,""
+387,""
+388,""
+389,""
+390,""
+391,""
+392,""
+393,""
+394,""
+395,""
+396,""
+397,""
+398,""
+399,""
+400,""
+1000,"报告发送失败。
+请重新发送。"
+1001,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>
+※键位设置中可更改对应键盘鼠标的按键。
+<If(Equal(PlayerParameter(78),99))>·调整视角
+　<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+·重置视角
+　<Gui(16)/>键／[Z]键（拔出/收回武器）
+·切换注视目标
+　<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+·暂停／继续
+　<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
+·开启关闭操作菜单
+　<CommandIcon(10)/>键／[R]键、键（自动前进）<Else/>·调整视角
+　[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
+·重置视角
+　[Z]键（拔出/收回武器）／ <Gui(16)/>键
+·切换注视目标
+　[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
+·暂停／继续
+　[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
+·开启关闭操作菜单
+　[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>
+
+--------------------------------------------------------------------
+<UIForeground>F20202</UIForeground>任务记录方法<UIForeground>01</UIForeground>
+想要将攻略任务的过程记录下来，需要满足以下条件。
+　1.任务记录设置设为开启
+　2.进入的任务适用任务回顾功能
+　3.以规定人数进入任务
+　4.进行记录准备确认
+
+<UIForeground>F20202</UIForeground>1.任务记录设置设为开启<UIForeground>01</UIForeground>
+设定是否对任务过程进行记录。
+将本设置设为开启后，满足其他条件时即会对任务过程进行记录。
+将本设置设为关闭后，满足其他条件时自身角色不会对任务过程进行记录。
+
+<UIForeground>F20202</UIForeground>2.进入的任务适用任务回顾功能<UIForeground>01</UIForeground>
+任务回顾功能仅对部分任务适用。
+因此需要进入适用的任务才可进行记录。
+
+<UIForeground>F20202</UIForeground>3.以规定人数进入任务<UIForeground>01</UIForeground>
+只有以规定人数进入任务时才能对任务进行记录。
+※规定人数以下组队匹配进任务时无法进行记录。
+
+<UIForeground>F20202</UIForeground>4.进行记录准备确认<UIForeground>01</UIForeground>
+开始记录任务前需要通过记录准备确认来确认队友们是否同意进行记录。
+只有全员同意时才能开始记录。
+※记录准备确认需要在进入任务后5分钟内发起。
+
+满足上述条件后即会对任务过程进行记录。
+记录已满时，新的记录会覆盖最老的记录。
+※可锁定最多2条记录禁止覆盖。
+
+--------------------------------------------------------------------
+<UIForeground>F20202</UIForeground>回顾记录的方法<UIForeground>01</UIForeground>
+回顾记录需要满足以下条件。
+　1.在旅馆中
+　2.任务记录为最新版本
+
+<UIForeground>F20202</UIForeground>1.在旅馆中<UIForeground>01</UIForeground>
+只有在旅馆中能回顾记录好的任务。
+
+<UIForeground>F20202</UIForeground>2.任务记录为最新版本<UIForeground>01</UIForeground>
+任务回顾仅能回顾最新版本的记录。
+不只大版本更新，小版本或补丁也会导致从前的记录失效，敬请注意。"
+1002,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>
+※键位设置中可更改对应键盘鼠标的按键。
+<If(Equal(PlayerParameter(78),99))>·调整视角
+　<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+·重置视角
+　<Gui(16)/>键／[Z]键（拔出/收回武器）
+·切换注视目标
+　<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+·暂停／继续
+　<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
+·开启关闭操作菜单
+　<CommandIcon(10)/>键／[R]键、键（自动前进）<Else/>·调整视角
+　[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
+·重置视角
+　[Z]键（拔出/收回武器）／ <Gui(16)/>键
+·切换注视目标
+　[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
+·暂停／继续
+　[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
+·开启关闭操作菜单
+　[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>
+
+-------------------------------------------------------------------
+<UIForeground>F20202</UIForeground>【操作菜单上的机能】<UIForeground>01</UIForeground>
+
+<UIForeground>F20202</UIForeground>暂停／继续<UIForeground>01</UIForeground>
+暂停或继续进行回顾。
+
+<UIForeground>F20202</UIForeground>章节选择<UIForeground>01</UIForeground>
+显示记录时设定的章节列表，选择其中任意章节后可跳至该章节进行回顾。
+※跳转所需时间根据所选章节不同会有所差距。
+
+<UIForeground>F20202</UIForeground>上一个章节<UIForeground>01</UIForeground>
+跳到先前的章节。
+
+<UIForeground>F20202</UIForeground>下一个章节<UIForeground>01</UIForeground>
+跳到之后的章节。
+
+<UIForeground>F20202</UIForeground>显示／隐藏界面<UIForeground>01</UIForeground>
+将各种界面在显示与隐藏间切换。
+※选为隐藏后在下次回顾时会自动隐藏界面开始回顾。
+
+<UIForeground>F20202</UIForeground>设定／解除焦点目标<UIForeground>01</UIForeground>
+将注视目标设为焦点目标。
+
+<UIForeground>F20202</UIForeground>结束回顾<UIForeground>01</UIForeground>
+结束回顾退出。"
+1003,""
+1004,""
+1005,""
+1006,""
+1007,""
+1008,""
+1009,""
+1010,""
+2000,""

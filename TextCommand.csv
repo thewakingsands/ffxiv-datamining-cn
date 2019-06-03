@@ -1,0 +1,2920 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,,,,,,Command,ShortCommand,Description,Alias,ShortAlias,,
+int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,byte,uint32
+1,1,0,0,0,0,"/record","","/任务回顾
+/replay、/record
+打开任务回顾窗口。","/任务回顾","/replay",32,0
+2,2,1,0,0,0,"/recordready","","/记录准备确认 子命令
+/replayready、/recordready
+发起记录准备确认。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>秒数(5-30)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+发起记录准备确认，全员通过后开启战斗开始倒计时。记录准备确认完毕后再次使用时功能将变为普通的准备确认加战斗开始倒计时。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+打开记录准备确认窗口。","/记录准备确认","/replayready",0,0
+3,1,0,0,0,0,"/pvpteamcmd","","/战队命令
+/pvpteamcmd
+打开战队窗口。","/战队命令","",0,0
+4,1,0,0,0,0,"/saddlebag","","/陆行鸟鞍囊
+/chocobobag、/saddlebag
+打开陆行鸟鞍囊。","/陆行鸟鞍囊","/chocobobag",0,0
+5,1,0,0,0,0,"/magiaright","","/魔素板顺时旋转
+/magiaright
+顺时针转动魔素板。","/魔素板顺时旋转","/magiaright",0,0
+6,1,0,0,0,0,"/magialeft","","/魔素板逆时旋转
+/magialeft
+逆时针转动魔素板。","/魔素板逆时旋转","/magialeft",0,0
+7,1,0,0,0,0,"/cwlinkshellcmd","/cwlcmd","/跨服贝命令(/跨服贝)
+/cwlinkshellcmd、/cwlcmd
+打开跨服通讯贝窗口。","/跨服贝命令","/跨服贝",0,0
+8,3,1,17,0,0,"/quickchat","/qchat","/快捷发言 快捷发言名 角色名
+/quickchat、/qchat
+进行快捷发言。
+※只能在群狼盛宴中使用。
+>>示例
+
+/快捷发言 全力攻击
+发送快捷发言“全力攻击”。
+/快捷发言 攻击目标 <t>
+发送快捷发言“攻击目标”加当前所选目标的角色名。","/快捷发言","/qchat",253,0
+91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
+/pvpteam、/pt
+向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
+只输入“/战队频道(/战)”可将默认聊天频道变更为战队频道。
+>>示例
+
+/战 我来啦！
+在战队频道中发送消息“我来啦！”。
+/战
+将默认聊天频道变更为战队频道。","/战队频道","/战",253,0
+92,1,0,0,0,0,"/cwlinkshell","/cwl","/跨服贝频道(/跨) 发言内容
+/cwlinkshell、/cwl
+向当前的跨服通讯贝内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
+只输入“/跨服贝频道(/跨)”可将默认聊天频道变更为跨服通讯贝频道。
+>>示例
+
+/跨 大家好！
+在跨服通讯贝频道中发送消息“大家好！”。
+/跨
+将默认聊天频道变更为跨服通讯贝频道。","/跨服贝频道","/跨",253,0
+101,1,0,0,0,0,"/beginner","/b","/新人频道(/新) 发言内容
+/beginner、/b
+向参加新人频道的所有玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
+只输入“/新人频道(/新)”可将默认聊天频道变更为新人频道。
+>>示例
+/新人频道 你好。
+在新人频道发送“你好。”的聊天消息。
+/新人频道
+将默认聊天频道变更为新人频道。","/新人频道","/新",253,0
+102,1,0,0,0,0,"/say","/s","/说话频道(/说) 发言内容
+/say、/s
+让身边小范围内的玩家看到自己的发言。
+只输入“/说话频道(/说)”可将默认聊天频道变更为说话频道。","/说话频道","/说",255,0
+103,1,0,0,0,0,"/shout","/sh","/喊话频道(/喊) 发言内容
+/shout、/sh
+让当前所在区域的所有玩家看到自己的发言。","/喊话频道","/喊",253,0
+104,3,0,0,0,0,"/tell","/t","/悄悄话频道(/悄) 玩家名 发言内容
+/tell、/t
+向和自己属于同一服务器的指定玩家发送聊天消息。
+向其他服务器的好友发送悄悄话时，需要在玩家名后加上@服务器名。
+只输入“/悄悄话频道(/悄) 对方玩家名字”可将默认聊天频道变更为对该玩家的悄悄话频道。
+>>示例
+/悄 阿鲁玛 你好。
+对同一服务器的玩家阿鲁玛发送“你好。”的聊天消息。
+/悄 阿鲁玛@萌芽池 你好。
+对萌芽池服务器的好友阿鲁玛发送“你好。”的聊天消息。","/悄悄话频道","/悄",253,0
+105,1,0,0,0,0,"/party","/p","/小队频道(/队) 发言内容
+/party、/p
+向同一小队内的全体成员发送聊天消息，无论离多远、是不是在同一地图都可以看到。
+只输入“/小队频道(/队)”可将默认聊天频道变更为小队频道。","/小队频道","/队",253,0
+106,1,0,0,0,0,"/linkshell","/l","/通讯贝频道(/讯) 发言内容
+/linkshell、/l
+向当前的活动通讯贝内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
+只输入“/通讯贝频道(/讯)”可将默认聊天频道变更为通讯贝频道。","/通讯贝频道","/讯",253,0
+107,1,0,0,0,0,"/linkshell1","/l1","/通讯贝频道1(/讯1) 发言内容
+/linkshell1、/l1
+向１号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道1","/讯1",253,0
+108,1,0,0,0,0,"/linkshell2","/l2","/通讯贝频道2(/讯2) 发言内容
+/linkshell2、/l2
+向２号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道2","/讯2",253,0
+109,1,0,0,0,0,"/linkshell3","/l3","/通讯贝频道3(/讯3) 发言内容
+/linkshell3、/l3
+向３号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道3","/讯3",253,0
+110,1,0,0,0,0,"/linkshell4","/l4","/通讯贝频道4(/讯4) 发言内容
+/linkshell4、/l4
+向４号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道4","/讯4",253,0
+111,1,0,0,0,0,"/linkshell5","/l5","/通讯贝频道5(/讯5) 发言内容
+/linkshell5、/l5
+向５号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道5","/讯5",253,0
+112,1,0,0,0,0,"/linkshell6","/l6","/通讯贝频道6(/讯6) 发言内容
+/linkshell6、/l6
+向６号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道6","/讯6",253,0
+113,1,0,0,0,0,"/linkshell7","/l7","/通讯贝频道7(/讯7) 发言内容
+/linkshell7、/l7
+向７号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道7","/讯7",253,0
+114,1,0,0,0,0,"/linkshell8","/l8","/通讯贝频道8(/讯8) 发言内容
+/linkshell8、/l8
+向８号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道8","/讯8",253,0
+115,1,0,0,0,0,"/freecompany","/fc","/部队频道(/部) 发言内容
+/freecompany、/fc
+向同一部队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
+只输入“/部队频道(/部)”可将默认聊天频道变更为部队频道。","/部队频道","/部",253,0
+116,1,0,0,0,0,"/echo","/e","/默语(/默) 发言内容
+/echo、/e
+显示只有自己能看到的发言内容。","/默语","/默",253,0
+117,1,0,0,0,0,"/yell","/y","/呼喊频道(/呼) 发言内容
+/yell、/y
+让身边大范围内的玩家看到自己的发言。
+只输入“/呼喊频道(/呼)”可将默认聊天频道变更为呼喊频道。","/呼喊频道","/呼",253,0
+118,1,0,0,0,0,"/reply","/r","/回答(/回) 发言内容
+/reply、/r
+向最后一次收到悄悄话的玩家发送聊天消息。","/回答","/回",253,0
+119,1,0,0,0,0,"/alliance","/a","/团队频道(/团) 发言内容
+/alliance、/a
+向同一团队的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
+只输入“/团队频道(/团)”可将默认聊天频道变更为团队频道。","/团队频道","/团",253,0
+121,1,0,0,0,0,"/join","","/参加
+/join
+接受组队邀请。","/参加","",4,0
+122,1,0,0,0,0,"/decline","","/拒绝
+/decline
+拒绝组队邀请。","/拒绝","",4,0
+123,2,0,0,0,0,"/invite","","/邀请 玩家名
+/invite
+邀请指定玩家加入小队。省略玩家名可以把当前所选中的玩家作为对象。","/邀请","",4,0
+124,2,0,0,0,0,"/kick","","/移除 玩家名
+/kick
+将指定玩家移除小队。省略玩家名可以把当前所选中的玩家作为对象。","/移除","",4,0
+125,2,0,0,0,0,"/leader","","/队长 玩家名
+/leader
+将队长转让给指定玩家。省略玩家名可以把当前所选中的玩家作为对象。","/队长","",4,0
+126,2,0,0,0,0,"/leave","","/退队
+/leave
+退出小队。","/退队","",4,0
+131,2,0,0,0,0,"/check","/c","/查看 玩家名
+/check、/c
+查看目标玩家情报。省略玩家名可以查看当前选中的目标。","/查看","",160,0
+132,2,0,0,0,0,"/trade","","/交易
+/trade
+向目标玩家申请交易。","/交易","",32,0
+133,2,1,2,0,0,"/automove","","/自动前进(/前进) 子命令
+/automove
+向当前面对的方向自动前进。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启自动前进。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭自动前进。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与关闭之间切换。","/自动前进","/前进",36,0
+134,2,0,0,0,0,"/follow","","/跟随
+/follow
+自动跟随所选玩家。","/跟随","",36,0
+136,2,0,0,0,0,"/meldrequest","","/委托镶嵌 玩家名
+/meldrequest
+向目标玩家发送魔晶石镶嵌委托。省略玩家名可以向当前选中的玩家发送魔晶石镶嵌委托。","/委托镶嵌","",32,0
+141,1,0,0,0,0,"/character","/gear","/角色(/装备)
+/character、/gear
+打开角色窗口。","/角色","/装备",32,0
+142,1,0,0,0,0,"/journal","","/日志
+/journal
+打开日志。","/日志","",32,0
+143,1,0,0,0,0,"/dutyfinder","/dfinder","/任务搜索器(/任务)
+/dutyfinder、/dfinder
+打开任务搜索器。","/任务搜索器","/任务",32,0
+144,1,0,0,0,0,"/armourychest","/armoury","/兵装库(/兵装)
+/armourychest、/armoury
+打开兵装库。","/兵装库","/兵装",32,0
+145,1,0,0,0,0,"/huntinglog","/hlog","/讨伐笔记(/讨伐)
+/huntinglog、/hlog
+打开讨伐笔记。","/讨伐笔记","/讨伐",32,0
+146,1,0,0,0,0,"/craftinglog","/clog","/制作笔记(/制作)
+/craftinglog、/clog
+打开制作笔记。","/制作笔记","/制作",0,0
+147,1,0,0,0,0,"/gatheringlog","/glog","/采集笔记(/采集)
+/gatheringlog、/glog
+打开采集笔记。","/采集笔记","/采集",0,0
+148,1,0,0,0,0,"/fishinglog","/flog","/钓鱼笔记(/钓鱼)
+/fishinglog、/flog
+打开钓鱼笔记。","/钓鱼笔记","/钓鱼",32,0
+149,1,0,0,0,0,"/achievements","","/成就
+/achievements
+打开成就列表。","/成就","",32,0
+150,3,1,2,0,0,"/partycmd","/pcmd","/小队命令(/小队) 子命令
+/partycmd、/pcmd
+运行各种组队指令。
+※跨服组队时仅会打开小队队员窗口以及使用“加入”指令。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加入(add) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　邀请目标玩家加入小队。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>接受(accept)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　接受小队发来的邀请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拒绝(deny)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　拒绝小队发来的邀请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>队长(leader) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将小队队长转让给目标玩家。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>退队(leave)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　退出已加入的小队。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>移除(kick) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定队员移除出小队。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>解散(breakup)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解散小队。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开小队队员窗口。","/小队命令","/小队",32,0
+151,3,1,2,0,0,"/friendlist","/flist","/好友命令(/好友) 子命令
+/friendlist、/flist
+运行各种好友名单相关指令。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加入(add) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　向目标玩家发送好友申请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>接受(accept) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　接受目标玩家发来的好友申请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拒绝(deny) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　拒绝目标玩家发来的好友申请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将目标玩家移出好友名单。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开好友名单。","/好友命令","/好友",128,0
+152,3,1,2,0,0,"/blacklist","/blist","/黑名单命令(/黑名单) 子命令
+/blacklist、/blist
+运行各种黑名单相关指令。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加入(add) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将目标玩家添加到黑名单中。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将目标玩家移出黑名单。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开黑名单。","/黑名单命令","/黑名单",0,0
+153,20,0,0,0,0,"/search","/sea","/搜索命令(/搜索) 条件
+/search、/sea
+以指定条件搜索玩家，并将结果显示在玩家搜索窗口中。
+>>条件(※可以指定多种条件，顺序不限。)
+【指定玩家姓名】
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>名字(name) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定的部分作为玩家的名字进行搜索。
+【指定在线状态】
+队长(leader)　离开(away)　忙碌(busy)　任务中(contents)　剧情中(event)　希望组队(lookingforparty)　接受镶嵌魔晶石请求(lookingformeld)　队员招募中(recruit)　新人(beginner)　指导者(mentor)　战斗指导者(pvementor)　制作采集指导者(tradementor)　对战指导者(pvpmentor)　角色扮演中(roleplay)　回归者(returner)
+【指定职业】
+剑术师(GLA)　格斗家(PGL)　斧术师(MRD)　枪术师(LNC)　弓箭手(ARC)　幻术师(CNJ)　双剑师(ROG)　咒术师(THM)　秘术师(ACN)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)　骑士(PLD)　武僧(MNK)　战士(WAR)　龙骑士(DRG)　吟游诗人(BRD)　忍者(NIN)　白魔法师(WHM)　黑魔法师(BLM)　召唤师(SMN)　学者(SCH)　暗黑骑士(DRK)　占星术士(AST)　机工士(MCH)　武士(SAM)　赤魔法师(RDM)
+　※省略该条件会默认为以所有职业为对象进行搜索。
+【指定等级】
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数字<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以指定数字等级作为条件进行搜索。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数字-数字<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将两个数字以半角横线进行连接，会以两个数字之间的等级范围内进行搜索。
+　※省略该条件会默认为以1-70的范围为对象进行搜索。
+【指定所属军队】
+黑涡团(Maelstrom)　双蛇党(Order of the Twin Adder)　恒辉队(Immortal Flames)
+　※指令中使用英文名字时需要用半角双引号将带有空格的军队名引用起来。
+【指定地点】
+全世界(world)　利姆萨·罗敏萨(Limsa Lominsa)　格里达尼亚(Gridania)　乌尔达哈(Ul‘dah)　伊修加德(Ishgard)　拉诺西亚(La Noscea)　黑衣森林(The Black Shroud)　萨纳兰(Thanalan)　库尔札斯(Coerthas)　摩杜纳(Mor Dhona)　阿巴拉提亚(Abalathia)　龙堡(Dravania)　基拉巴尼亚(Gyr Abania)　奥萨德(Othard)
+　※省略该条件会默认为以全世界为对象进行搜索，使用英文名字时需要用半角双引号将带有空格的地名引用起来。
+>>示例
+/搜索命令 剑术师 20-30 拉诺西亚
+搜索当前位于拉诺西亚，剑术师等级在20～30范围内的玩家。","/搜索命令","/搜索",0,0
+154,1,0,0,0,0,"/map","","/地图
+/map
+打开地图窗口。","/地图","",104,0
+155,1,0,0,0,0,"/teleport","","/传送
+/teleport
+打开传送窗口。","/传送","",0,0
+156,3,1,2,0,0,"/marking","/mk","/标记 标记种类 玩家名
+/marking、/mk
+给指定的玩家加上指定的标记。省略玩家名可以将标记加到当前选中的目标上。
+>>标记种类
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击(attack)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击1～5(attack1～5)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置攻击1～5的标记。不指定数值则会标记当前未使用的最小数值攻击标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>止步(bind)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>止步1～3(bind1～3)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置止步1～3的标记。不指定数值则会标记当前未使用的最小数值止步标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>禁止(stop)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>禁止1～2(stop1～2)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置禁止1～2的标记。不指定数值则会标记当前未使用的最小数值禁止标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>方块(square)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置泛用方块标志。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>圆圈(circle)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置泛用圆圈标志。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>十字(cross)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置泛用十字标志。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>三角(triangle)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置泛用三角标志。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear)或关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除标志。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开目标标记窗口。
+>>示例
+/标记 攻击3 <t> 
+给目标加上“攻击3”的标记。","/标记","",32,0
+157,1,0,0,0,0,"/actionlist","/alist","/技能菜单
+/actionlist、/alist
+打开技能菜单。","/技能菜单","",32,0
+158,1,0,0,0,0,"/timers","","/任务情报(/情报)
+/timers
+打开任务情报窗口。","/任务情报","/情报",32,0
+159,1,0,0,0,0,"/recommended","","/推荐任务(/推荐)
+/recommended
+打开推荐任务窗口。","/推荐任务","/推荐",32,0
+160,2,1,0,0,0,"/inventory","/bag","/物品(/背包)
+/inventory
+打开物品窗口。","/物品","/背包",32,0
+161,3,1,2,0,0,"/freecompanycmd","/fccmd","/部队命令(/部队)
+/freecompanycmd、/fccmd
+打开部队窗口。","/部队命令","/部队",0,0
+162,4,2,0,2,0,"/linkshellcmd","/lcmd","/通讯贝命令(/通讯贝)
+/linkshellcmd、/lcmd
+打开通讯贝窗口。","/通讯贝命令","/通讯贝",128,0
+163,1,0,0,0,0,"/return","","/返回
+/return
+实行返回操作。","/返回","",32,0
+164,1,0,0,0,0,"/emotelist","/elist","/情感动作
+/emotelist、/elist
+打开情感动作窗口。","/情感动作","",32,0
+165,1,0,0,0,0,"/activehelp","","/新手指南(/指南)
+/activehelp
+打开新手指南。","/新手指南","/指南",32,0
+166,1,0,0,0,0,"/supportdesk","/support","/服务台
+/supportdesk、/support
+打开服务台。","/服务台","",32,0
+167,1,0,0,0,0,"/characterconfig","/cconfig","/角色设置
+/characterconfig、/cconfig
+打开角色设置窗口。","/角色设置","",32,0
+168,1,0,0,0,0,"/systemconfig","/sconfig","/系统设置
+/systemconfig、/sconfig
+打开系统设置窗口。","/系统设置","",32,0
+169,1,0,0,0,0,"/keybind","/keyconfig","/键位设置
+/keybind、/keyconfig
+打开键位设置窗口。","/键位设置","",32,0
+170,1,0,0,0,0,"/macros","","/用户宏(/宏)
+/macros
+打开用户宏窗口。","/用户宏","/宏",32,0
+171,2,0,0,0,0,"/hudlayout","","/界面设置 子命令
+/hudlayout
+进行界面设置相关的操作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>界面编号(1-4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换为指定编号的界面。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开界面设置窗口。
+
+>>示例
+/界面设置 3
+切换为界面3。","/界面设置","",32,0
+172,1,0,0,0,0,"/logout","","/标题画面
+/logout
+退出游戏，回到标题画面。","/标题画面","",32,0
+173,1,0,0,0,0,"/shutdown","","/关闭游戏
+/shutdown
+退出并结束游戏。","/关闭游戏","",32,0
+174,1,0,0,0,0,"/partysort","/psort","/小队排序
+/partysort、/psort
+将小队列表按一定顺序排列。","/小队排序","",36,0
+175,1,0,0,0,0,"/readycheck","/rcheck","/准备确认
+/readycheck、/rcheck
+发起准备确认。","/准备确认","",32,0
+176,1,0,0,0,0,"/ready","/rd","/准备完毕
+/ready、/rd
+有人发起准备确认时以确认准备完毕进行回应。","/准备完毕","/rd",36,0
+177,1,0,0,0,0,"/notready","/nr","/没有准备好
+/notready、/nr
+有人发起准备确认时以没有准备完毕进行回应。","/没有准备好","/rng",36,0
+178,3,1,2,0,0,"/waymark","/wmark","/场景标记 子命令 玩家名
+/waymark、/wmark
+设置场景标记。
+指定目标时会在目标脚下设置标记。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记名(A、B、C、D、1、2)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置标记。已设置的情况下则会撤除，如果指定玩家名则会进行覆盖。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear)或关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　撤除所有设置中的标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略标记名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　从A开始顺次设置尚未使用的标记。所有标记都设置完毕的状态下无法使用。指定目标时无法省略标记名。
+>>示例
+/场景标记 A
+进入用于设置标记A的场景标记模式。
+/场景标记 A <t>
+将标记A设置在所选目标的位置。","/场景标记","/wmark",32,0
+179,1,0,0,0,0,"/fishguide","/fg","/鱼类图鉴
+/fishguide、/fg
+打开鱼类图鉴。","/鱼类图鉴","",32,0
+180,1,0,0,0,0,"/housing","/hou","/房屋
+/housing、/hou
+打开房屋窗口。","/房屋","",32,0
+181,1,0,0,0,0,"/minionguide","","/宠物一览
+/minionguide
+打开宠物一览。在萌宠之王的对战中打开萌宠之王列表。","/宠物一览","",48,0
+182,1,0,0,0,0,"/mountguide","","/坐骑一览
+/mountlist、/mountguide
+打开坐骑一览。","/坐骑一览","",32,0
+183,1,0,0,0,0,"/partyfinder","/pfinder","/队员招募(/招募)
+/partyfinder、/pfinder
+打开队员招募窗口。","/队员招募","/招募",0,0
+184,1,0,0,0,0,"/pvpprofile","/pvppro","/对战资料
+/pvpprofile、/pvppro
+打开对战资料窗口。","/对战资料","",0,0
+185,1,0,0,0,0,"/companion","/comp","/搭档
+/companion、/comp
+打开搭档窗口。","/搭档","/comp",32,0
+186,1,0,0,0,0,"/keyitem","/kitem","/任务道具(/关键道具)
+/keyitem、/kitem
+打开任务道具窗口。","/任务道具","/关键道具",32,0
+187,1,0,0,0,0,"/challengelog","","/挑战笔记(/挑战)
+/challengelog
+打开挑战笔记。","/挑战笔记","/挑战",32,0
+188,1,0,0,0,0,"/sightseeinglog","","/探索笔记(/探索)
+/sightseeinglog
+打开探索笔记。","/探索笔记","/探索",32,0
+189,1,0,0,0,0,"/goldsaucer","/saucer","/金碟游乐场(/金碟)
+/goldsaucer、/saucer
+打开金碟游乐场窗口。","/金碟游乐场","/金碟",32,0
+190,1,0,0,0,0,"/currency","","/货币一览(/货币)
+/currency
+打开货币一览窗口。","/货币一览","/货币",32,0
+191,1,0,0,0,0,"/aethercurrent","/acurrent","/风脉泉(/风脉)
+/aethercurrent、/acurrent
+打开风脉泉窗口。","/风脉泉","/风脉",32,0
+192,1,0,0,0,0,"/logcolor","/lcolor","/信息颜色
+/logcolor、/lcolor
+打开信息颜色设置窗口。","/信息颜色","",32,0
+193,1,0,0,0,0,"/playguide","/pguide","/资讯中心(/资讯)
+/playguide、/pguide
+打开资讯中心窗口。","/资讯中心","/资讯",32,0
+194,1,0,0,0,0,"/generaldutykey","/gdutykey","/任务通用键
+/generaldutykey、/gdutykey
+执行任务通用键。
+
+>>示例
+危命任务范围内
+切换等级同步。","/任务通用键","",40,0
+195,1,0,0,0,0,"/raidfinder","/rfinder","/大型任务搜索器
+/raidfinder、/rfinder
+打开大型任务搜索器。","/大型任务搜索器","",0,0
+196,1,0,0,0,0,"/orchestrion","","/管弦乐琴
+/orchestrion
+打开管弦乐琴乐谱集窗口。","/管弦乐琴","",32,0
+197,2,1,0,0,0,"/countdown","/cd","/倒计时 子命令
+/countdown、/cd
+设置战斗开始倒计时时间。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>秒数(5-30)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　实行指定时间的战斗开始倒计时。以文本指令实行此操作时将不会保存指定秒数，同时也不会在消息窗口中显示每5秒一次的通知信息。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开战斗开始倒计时窗口。
+>>示例
+/倒计时 10
+执行10秒的战斗开始倒计时。","/倒计时","",32,0
+198,1,0,0,0,0,"/contactlist","","/战友列表
+/contactlist
+打开战友列表。","/战友列表","",32,0
+199,1,0,0,0,0,"/mountspeed","","/坐骑速度
+/mountspeed
+打开坐骑速度窗口。","/坐骑速度","",32,0
+201,2,1,1,0,0,"/?","","/? 指令名
+显示指定指令的说明。","","",189,0
+202,2,1,0,0,0,"/wait","","/等待 等待时间
+/wait
+在宏指令中用来调整时间的命令。
+等待时间设为“1”相当于1秒。
+等待时间最多可以设置为60，超过60会按不等待处理。","/等待","",181,0
+204,2,1,2,0,0,"/legacymark","/lmark","/十二神印记(/神印) 子命令
+/legacymark、/lmark
+设置是否显示自己角色的十二神印记。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示十二神印记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　不显示十二神印记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示与不显示之间切换。","/十二神印记","/神印",60,0
+206,2,1,2,0,0,"/gcsalute","","/军礼 子命令
+/gcsalute
+以所属大国防联军的标准行军礼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/军礼","",36,0
+207,3,3,0,2,7,"/macroicon","/micon","/宏图标 图标名 分类名
+/macroicon、/micon
+用户宏专用。在热键栏上显示指定图标名的图标，在同一个用户宏命令内只能生效一次。
+>>分类名
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将技能名指定到图标名上，可以显示出该技能的图标及技能的复唱时间、所需魔力或技力等情报。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>对战技能(pvpaction)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将对战技能名指定到图标名上，可以显示出该技能的图标及技能的复唱时间、所需魔力或技力等情报。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将共通技能名指定到图标名上，可以显示出该技能的图标及技能的复唱时间。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感动作(emote)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将情感动作名指定到图标名上，可以显示出该情感动作的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将搭档技能名指定到图标名上，可以显示出该技能的图标。搭档名可以省略。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将召唤兽技能名指定到图标名上，可以显示出该技能的图标及技能的复唱时间。召唤兽名可以省略。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将宠物名指定到图标名上，可以显示出该宠物的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐骑(mount)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将坐骑名指定到图标名上，可以显示出该坐骑的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将道具名指定到图标名上，可以显示出该道具的图标和持有数量。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记(marking)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将标记名指定到图标名上，可以显示出该标记的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景标记(waymark)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将场景标记名指定到图标名上，可以显示出该场景标记的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>套装(gearset)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将套装编号指定到图标名上，可以显示出该套装的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职业(classjob)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将职业名指定到图标名上，可以显示出该职业的图标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷发言(quickchat)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　…将快捷发言名指定到图标名上，可以显示出该快捷发言的图标。
+※省略分类
+　…会按照技能名来处理。","/宏图标","",36,0
+208,2,1,3,0,0,"/recast","","/复唱时间(/复唱) 技能名
+/recast
+在对话框内显示技能的复唱时间，即还有多久可以再次使用。
+>>示例
+/复唱时间 以太超流
+显示距离可再次使用“以太超流”技能还有多少时间。","/复唱时间","/复唱",36,0
+209,4,1,2,0,0,"/gearset","/gs","/套装 子命令
+/gearset、/gs
+进行套装相关的操作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 套装编号 投影模板编号(1-10)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　装备指定编号的套装，如果输入了投影模板编号，则同时对套装进行投影。投影模板编号可省略。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>查看(view) 套装编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　查看指定编号套装的内容。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存(save) 套装编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将当前穿着的装备保存到指定编号的位置中；省略编号的情况下会自动登录到最小空位编号中；指定编号已有内容时会直接覆盖保存。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 套装编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　删除指定编号的套装，装备本身不会被删除。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开套装列表。
+>>示例
+/套装 更换 1 2
+装备编号1的套装并将其投影成投影模板编号2的外观。","/套装","",32,0
+210,4,2,2,2,0,"/itemsort","/isort","/道具整理(整理) 子命令
+/itemsort、/isort
+可以以比“自动整理”更加详细的设置来整理物品的排列顺序。该命令中设置的条件与原有的“自动整理”条件不会发生冲突，只会对该命令有影响。
+
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>条件(condition) 对象 顺序<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在指定的对象范围内将指定的顺序设置为排列条件。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>实行(execute) 对象<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在指定的对象范围内以设置的条件进行排列。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear) 对象<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　撤除指定对象范围内设置的排列条件，该状态下由于排列条件已经撤除，通过命令进行排列时不会有任何效果。
+
+>>对象指定
+物品(Inventory) 雇员物品(Retainer) 兵装库(ArmouryChest) 主手(main) 副手(sub) 头部(head) 身体(body) 手臂(hands) 腰带(waist) 腿部(legs) 脚部(feet) 颈部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 灵魂水晶(soul)
+
+>>条件指定
+道具编号(id) 精炼度(spiritbond) 道具种类(category) 装备等级(level) 物品品级(itemlevel) 打包数量(stack) 优质道具(hq) 魔晶石数(materia) 物理基本性能(physicaldamage) 魔法基本性能(magicdamage) 攻击间隔(delay) 物理自动攻击(physicalautoattack) 格挡发动力(blockrate) 格挡性能(blockstrength) 物理防御力(defense) 魔法防御力(magicdefense) 力量(str) 灵巧(dex) 耐力(vit) 智力(int) 精神(mnd) 作业精度(craftsmanship) 加工精度(control) 获得力(gathering) 鉴别力(perception) 分栏(tab)
+
+>>顺序指定
+升序(asc) 降序(des)
+※顺序省略时会按照升序进行处理。
+※条件指定设为“分栏(tab)”时不需要设置。
+
+>>示例
+/道具整理 条件 主手 精炼度 升序
+/道具整理 条件 主手 物品品级 降序
+/道具整理 实行 主手
+将兵装库内主手栏下的排列条件设为精炼度升序及道具品级降序，并开始进行整理。","/道具整理","/整理",36,0
+211,2,1,2,0,0,"/random","","/随机数
+/random
+在0～999的数字中随机抽选出一个并显示在消息窗口中。在说话范围内的玩家都能够看到结果。","/随机数","",36,0
+212,1,0,0,0,0,"/instance","","/副本区检查
+/instance
+检查当前所在地区是否为副本区域，并在消息窗口中显示结果。","/副本区检查","",60,0
+213,1,0,0,0,0,"/cleartellhistory","/cth","/清除悄悄话记录
+/cleartellhistory、/cth
+将悄悄话的历史记录全部清除。","/清除悄悄话记录","",60,0
+214,1,0,0,0,0,"/macrolock","/mlock","/锁定宏指令(/锁宏)
+/macrolock、/mlock
+宏指令专用，使用该命令之后，在同一个宏内的所有指令完成之前不允许执行其他宏指令。","/锁定宏指令","/锁宏",36,0
+215,2,1,2,0,0,"/macroerror","/merror","/宏错误提示 子命令
+/macroerror、/merror
+宏命令专用。设置是否显示在运行宏命令的过程中出现的错误提示。宏命令运行前默认为显示状态。宏命令结束后，即使之前设置成了不显示状态，也会自动回到默认的显示状态。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　不显示错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示与不显示之间切换。","/宏错误提示","",36,0
+216,1,0,0,0,0,"/clearlog","/cl","/清除消息记录
+/clearlog、/cl
+将消息栏的历史记录全部清除。","/清除消息记录","",252,0
+217,0,0,0,0,0,"/macrocancel","/mcancel","/取消宏
+/macrocancel、/mcancel
+只能在对话栏中输入。停止正在执行的宏指令。","/取消宏","",165,0
+218,1,0,0,0,0,"/playtime","/ptime","/游戏时间
+/playtime、/ptime
+显示当前角色的累计游戏时间。","/游戏时间","",60,0
+219,1,0,0,0,0,"/grouppose","/gpose","/集体动作
+/grouppose、/gpose
+执行集体动作。
+>>功能内操作
+显示镜头设置窗口
+<CommandIcon(10)/>/R键、小键盘*/鼠标滚轮
+角色面朝镜头方向(开/关)
+<CommandIcon(11)/>/空格键
+镜头位置打光
+<CommandIcon(13)/>/X键
+全体动作暂停
+<CommandIcon(14)/>/1键
+目标动作暂停
+<CommandIcon(15)/>/2键
+切换注视目标
+<CommandIcon(6)/>/Tab、Shift+Tab键
+调整构图
+<CommandIcon(20)/>/W、A、S、D、Q、E键
+重置构图
+<Gui(16)/>/Z键","/集体动作","",32,0
+220,2,0,0,0,0,"/itemsearch","/isearch","/道具检索 关键词
+/itemsearch、/isearch
+只能在对话栏中输入。可以通过输入关键词对所持物品进行检索。
+检索对象为装备中的物品、背包、陆行鸟鞍囊、兵装库、雇员物品栏、收藏柜。
+>>示例
+/道具检索 恢复药
+检索所持品中名称包含了关键词“恢复药”的道具。","/道具检索","",32,3000
+221,2,0,0,0,0,"/idlingcamera","/icam","/观景视角 目标名
+/idlingcamera、/icam
+切换为景观视角。
+目标名可以省略。在指定了目标名的情况下，摄像机镜头将会锁定该目标进行观景。如果指定的目标无法作为锁定目标进行观景，则会随机进行观景。
+>>功能内操作
+显示镜头设置窗口
+<CommandIcon(10)/>/R键、小键盘*/鼠标滚轮
+暂时停止或继续进行观景视角的切换
+<CommandIcon(8)/>/小键盘0/左键单击
+切换场景
+<CommandIcon(6)/>/Tab、Shift+Tab键
+调整构图
+<CommandIcon(20)/>/W、A、S、D、Q、E键
+重置构图
+<Gui(16)/>/Z键
+>>示例
+/观景视角
+随机选择对象执行观景。
+/观景视角 <t>
+选择指定目标作为对象来执行观景。","/观景视角","",40,0
+222,2,1,2,0,0,"/gaussbarrel","/gbarrel","/高斯枪管 子命令
+/gaussbarrel、/gbarrel
+设置是否显示高斯枪管。
+本设置只对自己有效，无法影响到其他玩家。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示高斯枪管。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　不显示高斯枪管。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示与不显示之间切换。
+
+>>示例
+/高斯枪管 开
+显示高斯枪管。","/高斯枪管","",32,0
+223,2,1,2,0,0,"/duelswitch","","/决斗申请拦截 子命令
+/duelswitch
+更改是否接受决斗申请的设置。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+强制拒绝决斗申请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+接受决斗申请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+在拒绝和接受之间切换。
+>>示例
+/决斗申请拦截 开
+强制拒绝决斗申请。","/决斗申请拦截","",4,0
+224,2,1,2,0,0,"/beginnerchannelinvitation","/bchannelinvitation","/接受新人频道的邀请（/新人邀请） 子命令
+/beginnerchannelinvitation、/bchannelinvitation
+更改是否接受新人频道的邀请。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　接受邀请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　自动拒绝邀请。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在接受和拒绝之间切换。
+
+>>示例
+/接受新人频道的邀请 开
+　接受邀请。","/接受新人频道的邀请","/新人邀请",189,1000
+225,1,0,0,0,0,"/beginnerchannelleave","/bchannelleave","/退出新人频道（/退新）
+/beginnerchannelleave、/bchannelleave
+从新人频道中退出。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>新人及回归者专用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","/退出新人频道","/退新",189,1000
+226,3,2,7,15,0,"/egiglamour","","/召唤兽投影 召唤兽的名字 外貌
+/egiglamour、/egimirage
+可以改变接下来召唤的召唤兽外貌。
+但在对战任务中无效。
+>>召唤兽的名字
+迦楼罗之灵
+泰坦之灵
+伊弗利特之灵
+>>外貌
+绿宝石兽
+黄宝石兽
+红宝石兽
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌处输入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+召唤兽会恢复原状。
+>>示例
+/召唤兽投影 泰坦之灵 红宝石兽
+将泰坦之灵的外貌变成红宝石兽。","/召唤兽投影","/egimirage",36,0
+227,3,1,2,0,0,"/title","","/称号 子命令
+/title
+改变称号。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置 称号名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将称号设置为称号名对应的称号。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将称号撤除。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将称号变为随机一个已获得的称号。
+>>示例
+/称号 设置 银剑
+　将称号设为“银剑”。","/称号","/title",36,1000
+228,2,1,2,0,0,"/bahamutsize","","/巴哈姆特尺寸 子命令
+/bahamutsize
+变更亚灵神巴哈姆特的尺寸。
+本设定在对战区域内无效。
+另外，本设定只对自身生效，无法改变他人的巴哈姆特尺寸。
+
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>大<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将亚灵神巴哈姆特的尺寸变为“大”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>中<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将亚灵神巴哈姆特的尺寸变为“中”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将亚灵神巴哈姆特的尺寸变为“小”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　按“小→中→大”的顺序切换设置。
+>>示例
+/巴哈姆特尺寸 中
+　将亚灵神巴哈姆特的尺寸变为“中”。","/巴哈姆特尺寸","/bahamutsize",36,0
+229,6,3,2,2,2,"/alarm","","/闹钟 子命令
+/alarm
+设置闹钟。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>""闹钟名"" 时间类型(本、服、艾) 重复通知(重复) 时间(0000-2400) 提前(0-60)分钟提醒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设定在指定时间进行通知提醒的闹钟。
+　加上重复(rp)子命令时闹钟会每小时提醒一次。
+　重复与提前多少分钟提醒的子命令可以省略。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将设定的闹钟全部删除。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　打开闹钟窗口。
+
+>>时间类型
+本（lt） 本地时间
+服（st） 服务器时间
+艾（et） 艾欧泽亚时间
+
+>>示例
+/闹钟 ""集合时间"" 本 2000 10
+　设定一个名为集合时间的闹钟，在本地时间20点前提前10分钟提醒。
+/闹钟 ""休息"" 本 重复 30
+　设定一个名为休息的闹钟，在本地时间每个小时的30分时提醒。","/闹钟","",32,0
+231,2,1,2,0,0,"/busy","","/忙碌 子命令
+/busy
+将在线状态设置为“忙碌”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改成“忙碌”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改回“在线”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“忙碌”与“在线”之间切换。","/忙碌","",36,0
+232,2,1,2,0,0,"/away","/afk","/离开(/离) 子命令
+/away、/afk
+将在线状态设置为“离开”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改成“离开”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改回“在线”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“离开”与“在线”之间切换。","/离开","/离",36,0
+233,1,0,0,0,0,"/lookingforparty","/lfp","/希望组队 子命令 职业
+/lookingforparty、/lfp
+将在线状态设置为“希望组队”，并附加能够组队的职业。
+>>职业(※可以指定多个职业，顺序不限)
+剑术师(GLA)　格斗家(PGL)　斧术师(MRD)　枪术师(LNC)　弓箭手(ARC)　双剑师(ROG)　幻术师(CNJ)　咒术师(THM)　秘术师(ACN)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)　骑士(PLD)　武僧(MNK)　战士(WAR)　龙骑士(DRG)　吟游诗人(BRD)　忍者(NIN)　白魔法师(WHM)　黑魔法师(BLM)　召唤师(SMN)　学者(SCH)　暗黑骑士(DRK)　机工士(MCH)　占星术士(AST)　武士(SAM)　赤魔法师(RDM)
+※省略该条件会默认为指定当前职业。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改成“希望组队”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改回“在线”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“希望组队”与“在线”之间切换。","/希望组队","",36,0
+234,2,1,2,0,0,"/lookingformeld","/lfm","/接受镶嵌魔晶石请求(/镶嵌魔晶石) 子命令
+/lookingformeld、/lfm
+将在线状态设置为“接受镶嵌魔晶石请求”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改成“接受镶嵌魔晶石请求”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改回“在线”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“接受镶嵌魔晶石请求”与“在线”之间切换。","/接受镶嵌魔晶石请求","/镶嵌魔晶石",36,0
+235,1,0,0,0,0,"/searchcomment","/scomment","/个人签名(/签名) 文字内容
+/searchcomment、/scomment
+将指定文字内容设置成搜索玩家时的签名。","/个人签名","/签名",36,0
+236,2,1,2,0,0,"/beginnerstatus","/bstatus","/新人状态 子命令
+/beginnerstatus、/bstatus
+更改自己的新人在线状态。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启新人状态。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除新人状态。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与解除之间切换。
+>>示例
+/新人状态 开
+开启新人状态。","/新人状态","",36,1000
+237,2,1,2,0,0,"/beginnerchannel","/bchannel","/加入新人频道 子命令
+/beginnerchannel、/bchannel
+设置指导者是否自动加入新人频道。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启自动加入新人频道的设置，并加入新人频道。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除自动加入新人频道的设置，如果已经加入了新人频道则会退出。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与解除之间切换。
+>>示例
+/加入新人频道 开
+开启自动加入新人频道的设置。
+","/加入新人频道","/bchannel",36,1000
+238,1,0,0,0,0,"/returnerstatusoff","","/解除回归者状态
+/returnerstatusoff
+解除回归者状态。","/解除回归者状态","",36,1000
+239,2,1,2,0,0,"/roleplaying","","/角色扮演中 子命令
+/roleplaying
+将在线状态设置为“角色扮演中”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改成“角色扮演中”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将状态改回“在线”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“角色扮演中”与“在线”之间切换。","/角色扮演中","/roleplaying",36,0
+251,3,1,3,0,0,"/action","/ac","/技能 技能名 玩家名
+/action、/ac
+对指定目标使用指定技能。以自己为目标的技能可以省略输入玩家名。
+如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
+在技能会使用到地面目标的情况下，会对指定目标使用指定技能。省略目标名时则会启动地面目标模式。
+>>示例
+/技能 重劈 <t>
+对当前所选择的对象执行技能“重劈”。","/技能","",36,0
+252,2,1,2,0,0,"/battlemode","/bm","/武器状态 子命令
+/battlemode、/bm
+切换拔出和收回武器状态。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换到拔出武器状态
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换到收回武器状态
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在拔出和收回武器状态之间切换。","/武器状态","",36,0
+253,2,0,0,0,0,"/target","/ta","/选中  玩家名
+/target、/ta
+选中指定的玩家。
+离自己过远的玩家无法选中。","/选中","",36,0
+254,1,0,0,0,0,"/targetpc","/tpc","/选中最近玩家(/最近玩家)
+/targetpc、/tpc
+选中可选范围内离自己距离最近的玩家。","/选中最近玩家","/最近玩家",36,0
+255,1,0,0,0,0,"/targetnpc","/tnpc","/选中最近非玩家(/最近非玩家)
+/targetnpc、/tnpc
+选中可选范围内离自己最近的非玩家角色。","/选中最近非玩家","/最近非玩家",36,0
+256,1,0,0,0,0,"/targetenemy","/tenemy","/选中最近敌人(/最近敌人)
+/targetenemy、/tenemy
+选中可选范围内离自己距离最近的敌人。","/选中最近敌人","/最近敌人",36,0
+257,1,0,0,0,0,"/battletarget","/bt","/战斗目标
+/battletarget、/bt
+选中敌视自己的距离最近的敌人。","/战斗目标","",36,0
+258,2,0,0,0,0,"/assist","/as","/目标的目标 玩家名
+/assist、/as
+将指定玩家的当前选中的目标作为自己的目标选中。","/目标的目标","",36,0
+259,1,0,0,0,0,"/facetarget","/ft","/转向目标
+/facetarget、/ft
+转身面向当前所选目标的方向。","/转向目标","",36,0
+260,1,0,0,0,0,"/nexttarget","/nt","/右侧选择
+/nexttarget、/nt
+从屏幕右侧开始按顺时针方向顺次选中敌人。","/右侧选择","",36,0
+261,1,0,0,0,0,"/previoustarget","","/左侧选择
+/previoustarget
+从屏幕左侧开始按逆时针方向顺次选中敌人。","/左侧选择","",36,0
+262,1,0,0,0,0,"/targetlasttarget","/tlt","/上次目标
+/targetlasttarget、/tlt
+选中上次选中的目标。","/上次目标","",36,0
+263,1,0,0,0,0,"/targetlastenemy","/tle","/前次敌人
+/targetlastenemy、/tle
+重新选中前一次选中的敌人。","/前次敌人","",36,0
+264,2,1,2,0,0,"/lockon","/lo","/锁定 子命令
+/lockon、/lo
+锁定或解除锁定当前选中的目标。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　锁定目标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除锁定。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在锁定与解除锁定之间切换。","/锁定","",36,0
+265,2,0,0,0,0,"/focustarget","","/焦点目标(/焦点) 玩家名
+/focustarget
+将指定玩家设置为焦点目标。省略玩家名会指定当前所选目标为焦点目标。
+>>示例
+/焦点目标 <t>
+将当前所选择的目标设置为焦点目标。","/焦点目标","/焦点",36,0
+267,3,1,5,0,0,"/petaction","/pac","/召唤兽技能 召唤兽技能名 玩家名
+/petaction、/pac
+命令召唤兽对指定目标使用指定召唤兽技能。以自己或召唤兽为目标的技能可省略输入目标名。如果身处无法使用技能的环境，或者指定召唤兽技能以外的技能，或者还没有学会指定召唤兽技能，则命令无效。
+>>示例
+/召唤兽技能 等待指示
+让召唤兽执行“等待指示”的命令。","/召唤兽技能","",36,0
+268,2,1,6,0,0,"/companionaction","/cac","/搭档技能 搭档技能名
+/companionaction、/cac
+命令搭档使用指定搭档技能。无需指定目标。如果身处无法使用技能的环境，或者命令搭档技能以外的技能，或者还没有学会命令的搭档技能，则命令无效。
+>>示例
+/搭档技能 自由战术
+让搭档执行“自由战术”的命令。","/搭档技能","/cac",36,0
+269,1,0,0,0,0,"/facecamera","/fcam","/面向镜头
+/facecamera、/fcam
+将角色视线转向镜头视角，再次发动时会解除。","/面向镜头","",36,0
+270,2,1,2,0,0,"/levelsync","/lsync","/等级同步 子命令
+/levelsync、/lsync
+在危命任务等有等级限制的情况时使用这个命令可以进行等级同步。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启等级同步。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除等级同步。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启或解除状态中切换。","/等级同步","",36,0
+271,2,1,9,0,0,"/mount","","/坐骑 坐骑名
+/mount
+乘上指定的坐骑。在骑乘状态下会跳下坐骑。省略坐骑名时也会跳下坐骑。在飞行状态时会迅速下降。
+>>示例
+/坐骑 专属陆行鸟
+骑上坐骑“专属陆行鸟”。","/坐骑","",36,0
+272,3,2,3,2,0,"/additionalaction","/aaction","/额外技能 技能名 子命令
+/additionalaction、/aaction
+将指定的技能作为“职能技能”及“额外技能（大地使者、能工巧匠）”设置到当前职业上。技能名使用“撤除(clear)”时会解除当前设定的所有已选技能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置指定技能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除指定技能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在设置或解除技能中切换。
+>>示例
+/额外技能 怒斥 开
+将“怒斥”设置为当前职业的职能技能。
+/额外技能 撤除
+解除当前职业所设置的职能技能或额外技能。","/额外技能","",36,1000
+273,3,1,10,0,0,"/generalaction","/gaction","/共通技能 共通技能名 玩家名
+/generalaction、/gaction
+对指定的玩家发动指定的共通技能。对于可以以自身为目标的共通技能可以省略玩家名。处于无法发动共通技能的环境中指令无效，没有学会的共通技能也无法发动。
+>>示例
+/共通技能 随机坐骑
+发动共通技能“随机坐骑”。","/共通技能","",36,0
+274,2,1,8,0,0,"/minion","","/宠物 宠物名
+/minion
+召唤出指定的宠物。在已经召唤出宠物的情况下，指定该宠物的名字或省略宠物名会让宠物离开。
+>>示例
+/宠物 巧儿陆行鸟
+召唤出宠物“巧儿陆行鸟”。","/宠物","",36,0
+275,2,0,0,0,0,"/statusoff","","/解除状态 强化状态名
+/statusoff
+解除指定的强化状态效果。
+>>示例
+/解除状态 舍身
+解除强化效果“舍身”。","/解除状态","",36,0
+276,3,0,0,0,0,"/addpvpaction","/apa","/对战额外技能 对战额外技能1 对战额外技能2
+/addpvpaction、/apa
+在对战技能中设置要追加的额外技能。需要同时设置两个技能。
+>>示例
+/对战额外技能 净化 坚守
+　…设置“净化”和“坚守”这两个技能。","/对战额外技能","",36,1000
+277,3,1,16,0,0,"/pvpaction","/pvpac","/对战技能 对战技能名 玩家名
+/pvpaction、/pvpac
+对指定目标使用指定技能。以自己为目标的技能可以省略输入玩家名。如果技能为攻击性质，则只能使用目标代词。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
+在技能会使用到地面目标的情况下，会对指定目标使用指定技能。省略目标名时则会启动地面目标模式。
+>>示例
+/对战技能 寒风斧连击 <t>
+　…对当前所选择的对象执行技能“连击”。","/对战技能","",4,0
+278,4,0,0,0,0,"/addpvptrait","/apt","/对战特性 对战特性1 对战特性2 对战特性3
+/addpvptrait、/apt
+设置对战特性。需要同时设置三个特性。
+>>示例
+/对战特性 最大体力提高 行动速度提高 受伤减轻
+　…设置“最大体力提高”“行动速度提高”“受伤减轻”这三个特性。","/对战特性","",36,1000
+301,2,1,2,0,0,"/autolockon","","/自动锁定 子命令
+/autolockon
+开启“开始自动攻击时自动锁定”功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启自动锁定。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭自动锁定。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/自动锁定","",36,0
+302,2,1,2,0,0,"/autofacetarget","","/自动转向目标 子命令
+/autofacetarget
+开启发动技能时转身面向目标的功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启自动转向目标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭自动转向目标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/自动转向目标","",36,0
+303,2,1,2,0,0,"/targetring","","/目标环 子命令
+/targetring
+显示目标环。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启目标环显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭目标环显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/目标环","",36,0
+304,2,1,2,0,0,"/targetline","","/目标线 子命令
+/targetline
+显示目标线。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启目标线显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭目标线显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/目标线","",36,0
+305,2,1,2,0,0,"/linkline","","/联系线 子命令
+/linkline
+显示联系线。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启联系线显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭联系线显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/联系线","",36,0
+306,2,1,2,0,0,"/autotarget","","/自动选中 子命令
+/autotarget
+开启“未选中目标时自动选中”的功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启自动选中功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭自动选中功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/自动选中","",36,0
+307,2,1,2,0,0,"/displayhead","","/显示头部装备 子命令
+/displayhead
+显示自己的头部装备。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启头部装备显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭头部装备显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/显示头部装备","",36,0
+308,2,1,2,0,0,"/displayarms","","/显示武器 子命令
+/displayarms
+收回武器时显示自己的主手装备及副手装备。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启武器显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭武器显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/显示武器","",36,0
+309,2,1,2,0,0,"/autosheathe","/ashathe","/自动收回武器 子命令
+/autosheathe、/ashathe
+开启自动收回武器的功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启武器自动收回功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭武器自动收回功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/自动收回武器","",36,0
+310,2,1,2,0,0,"/targetself","","/选中自己 子命令
+/targetself
+开启可以选中自己作为目标的功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启选中自己功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭选中自己功能。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/选中自己","",36,0
+311,2,1,2,0,0,"/groundclick","","/场景点击 子命令
+/groundclick
+开启点击场景取消选中目标的功能。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换","/场景点击","",36,0
+312,4,3,2,2,2,"/chatlog","","/消息窗口 子命令
+/chatlog
+对消息窗口进行设置。
+>>子命令
+<If(Equal(PlayerParameter(75),1))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>字体(fontsize) 数值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　调整字体大小。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在消息栏中开启时间显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在消息栏中关闭时间显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在消息栏中切换是否显示时间。
+<Else/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>字体(fontsize) 消息栏编号 数值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　调整指定编号消息栏中的字体大小。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 消息栏编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在指定编号消息栏中开启时间显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 消息栏编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在指定编号消息栏中关闭时间显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 消息栏编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在指定编号消息栏中切换是否显示时间。
+</If><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 12<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以12小时制显示时间。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 24<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以24小时制显示时间。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 本地(local)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将显示时间切换到本地系统基准。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时间(time) 服务器(server)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将显示时间切换到服务器系统基准。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提示音(call) 聊天频道名 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　收到指定聊天频道的消息时开启音效提示，省略聊天频道名会默认为悄悄话频道。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提示音(call) 聊天频道名 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　收到指定聊天频道的消息时关闭音效提示，省略聊天频道名会默认为悄悄话频道。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提示音(call) 聊天频道名 音效编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　收到指定聊天频道的消息时响起指定编号的音效，省略聊天频道名会默认为悄悄话频道。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提示音(call) 聊天频道名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换收到指定聊天频道的消息时是否开启音效，省略聊天频道名会默认为悄悄话频道。
+【指定聊天频道名】
+悄悄话(tell)　小队(party)　部队(freecompany)　团队(alliance)　通讯贝1～8(linkshell1～8) 新人(beginner)　战队(pvpteam)　跨服贝(cwlinkshell)","/消息窗口","",36,0
+313,3,2,2,2,0,"/battleeffect","","/战斗特效 目标 类型
+/battleeffect
+对角色设置中的“战斗特效”进行设置。
+>>目标
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自己(self)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以“自己”为目标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队(party)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以“小队”为目标。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>他人(other)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　以“他人”为目标。
+>>类型
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>全部(all)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置为“完全显示”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>简单(simple)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置为“简单显示”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置为“不显示”。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在“完全显示”和“不显示”之间切换。","/战斗特效","",228,0
+314,3,2,4,2,0,"/hud","","/指定窗口 窗口名 子命令
+/hud
+设置是否显示指定的界面窗口。
+>>窗口名
+目标情报(TargetInfo,target)
+目标情报：体力栏(TargetInfo:HP)
+目标情报：咏唱栏(TargetInfo:CastBar)
+目标情报：状态效果(TargetInfo:Status)
+焦点目标情报(FocusTarget,focus)
+小队列表(PartyList,party)
+敌对列表(EnemyList,enemy)
+角色参数(MyParam,param)
+导向地图(NaviMap,navi)
+快捷指令(MainCommand,main)
+基本情报(GeneralInfo,dtr)
+所持金币(CurrencyStatus,gil)
+背包缩略图(ItemSign,bag)
+任务情报(ToDoList,todo)
+道具帮助(ItemHelp,item)
+技能帮助(ActionHelp,action)
+极限槽(LimitGauge,limit)
+经验值栏(ExpBar,exp)
+状态效果(BuffDebuffStatus,buff)
+状态效果：强化状态(Status:Buff)
+状态效果：弱化状态(Status:Debuff)
+状态效果：其他状态(Status:Other)
+团队列表1(AllianceList1,alist1)
+团队列表2(AllianceList2,alist2)
+热键栏1～10(Hotbar1～10)
+特殊热键栏(HotbarEx)
+十字热键栏(Crosshotbar)
+主线向导(ScenarioGuide)
+烈羽争锋：团队列表(RivalWings:Alliance)
+群狼盛宴：我方情报(TheFeast:AllyInfo)
+群狼盛宴：敌方情报(TheFeast:EnemyInfo)
+
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启指定窗口显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭指定窗口显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换。
+>>示例
+/指定窗口 基本情报
+令基本情报窗口在开启和关闭之间切换。","/指定窗口","",32,0
+315,6,3,2,3,7,"/hotbar","","/热键栏 子命令
+/hotbar
+对热键栏进行操作及设置。只能在非对战区域内使用。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定技能设置到编号1热键栏的编号2位置上。编号1可以用“当前(current)”来表示当前热键栏1位置的热键栏。省略编号2会默认为设置到编号最小的空位上。两个编号都省略则会默认设置到编号最小热键栏的编号最小空位上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定共通技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定道具设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感动作(emote) 情感动作名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定情感动作设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定搭档技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定召唤兽技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion) 宠物名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定宠物设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐骑(mount) 坐骑名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定坐骑设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记(marking) 标记名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定标记设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景标记(waymark) 场景标记名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定场景标记设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏切换到默认热键栏1的位置。编号用“下一个(next)”或“上一个(prev)”可以将当前热键栏1位置所表示的技能切换到上一组或者下一组热键。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复制(copy) 职业名1 编号1 职业名2 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将职业名1的编号1热键栏的内容复制到职业名2的编号2热键栏上。职业名设置为“当前(current)”时会指定当前的职业。职业名设置为“共通(share)”时会指定共通热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示指定编号的热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭显示指定编号的热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示和不显示之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏设置成全职业共通。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏从全职业共通改为当前职业专用。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置指定编号的热键栏在当前职业专用和全职业共通之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除编号1热键栏编号2位置上的技能或用户宏指令。编号2设置为“全部(all)”的时候会将该热键栏上的所有指令都解除。
+>>示例
+/热键栏 设置 随机坐骑 1 1
+将“随机坐骑”放入热键栏1的位置1中。
+/热键栏 更换 2
+将热键栏2的内容切换到默认热键栏1的位置。","/热键栏","",36,0
+316,6,3,2,3,7,"/crosshotbar","/chotbar","/十字热键栏 子命令
+/crosshotbar、/chotbar
+对十字热键栏进行操作及设置。只能在非对战区域内使用。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定技能设置到指定编号十字热键栏的指定位置上。编号可以用“当前(current)”来表示当前的十字热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定共通技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定道具设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感动作(emote) 情感动作名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定情感动作设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定搭档技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定召唤兽技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion) 宠物名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定宠物设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐骑(mount) 坐骑名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定坐骑设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记(marking) 标记名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定标记设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景标记(waymark) 场景标记名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定场景标记设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换到指定编号的十字热键栏。编号用“下一个(next)”或“上一个(prev)”可以将当前十字热键栏位置所表示的技能切换到上一组或者下一组热键。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复制(copy) 职业名1 编号1 职业名2 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将职业名1的编号1十字热键栏的内容复制到职业名2的编号2十字热键栏上。职业名设置为“当前(current)”时会指定当前的职业。职业名设置为“共通(share)”时会指定共通热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的十字热键栏设置成全职业共通。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的十字热键栏从全职业共通改为当前职业专用。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置指定编号的十字热键栏在当前职业专用和全职业共通之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除指定编号十字热键栏指定位置上的技能或用户宏指令。指定位置设置为“全部(all)”的时候会将该十字热键栏上的所有指令都解除。
+>>指定位置
+<Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
+<Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
+<Gui(14)/>＋<Gui(4)/> … LDR(LD3)　<Gui(15)/>＋<Gui(4)/> … RDR(RD3)
+<Gui(14)/>＋<Gui(2)/> … LDD(LD4)　<Gui(15)/>＋<Gui(2)/> … RDD(RD4)
+<Gui(14)/>＋<Gui(10)/> … LAL(LA1)　<Gui(15)/>＋<Gui(10)/> … RAL(RA1)
+<Gui(14)/>＋<Gui(11)/> … LAU(LA2)　<Gui(15)/>＋<Gui(11)/> … RAU(RA2)
+<Gui(14)/>＋<Gui(8)/> … LAR(LA3)　<Gui(15)/>＋<Gui(8)/> … RAR(RA3)
+<Gui(14)/>＋<Gui(9)/> … LAD(LA4)　<Gui(15)/>＋<Gui(9)/> … RAD(RA4)","/十字热键栏","/chotbar",36,0
+317,1,0,0,0,0,"/hudreset","","/重置界面
+/hudreset
+将当前的界面位置以及缩放率重置回初始状态。","/重置界面","",32,0
+318,1,0,0,0,0,"/uireset","","/重置界面窗口
+/uireset
+将全部界面设置(1-4)和窗口的位置以及缩放率重置回初始状态。","/重置界面窗口","",32,0
+319,2,1,0,0,0,"/uiscale","","/界面缩放
+/uiscale
+更改当前界面窗口的缩放倍率。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  以指定数值为百分比更改界面窗口的缩放倍率。可以指定的数值为60/80/90/100/110/120/140。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置(reset)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+  将界面窗口的缩放倍率重置回初始状态。
+>>示例
+/界面缩放 140
+将界面窗口的缩放倍率变更为140%。
+/界面缩放 重置
+将界面窗口的缩放倍率重置为初始状态。","/界面缩放","",32,0
+320,2,1,2,0,0,"/actionerror","/aerror","/技能错误 子命令
+/actionerror、/aerror
+开启显示发动技能时屏幕中的错误提示。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示和关闭之间切换","/技能错误","",36,0
+321,2,1,2,0,0,"/recasterror","/rerror","/复唱错误 子命令
+/recasterror、/rerror
+开启显示复唱中无法使用技能的错误提示。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭错误提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示和关闭之间切换","/复唱错误","",36,0
+322,1,0,0,0,0,"//eventReset","","//eventReset
+リアルイベント用コマンド。
+ゲーム内の設定をリアルイベント用に初期化する。","","",32,0
+323,2,1,2,0,0,"/crosshotbartype","/chotbartype","/操作类型 子命令
+/crosshotbartype、/chotbartype
+变更角色设置中“十字热键栏的操作类型”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按住(hold)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将操作类型设置为按住。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>单击(toggle)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将操作类型设置为单击。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>混合(mix)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将操作类型设置为混合。","/操作类型","",36,0
+324,2,1,2,0,0,"/crosshotbardisplay","/chotbardisplay","/一直显示十字热键栏 子命令
+/crosshotbardisplay、/chotbardisplay
+对角色设置中的“一直显示十字热键栏”项进行设置。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启一直显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭一直显示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在显示和关闭之间切换。","/一直显示十字热键栏","",36,0
+325,6,3,2,16,7,"/pvphotbar","","/对战热键栏 子命令
+/pvphotbar
+对用于对战的热键栏进行操作及设置。只能在对战区域内使用。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 对战技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定的对战技能设置到编号1热键栏的编号2位置上。编号1可以用“当前(current)”来表示当前的热键栏1。省略编号2会默认为设置到编号最小的空位上。两个编号都省略则会默认设置到编号最小热键栏的编号最小空位上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定共通技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定道具设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感动作(emote) 情感动作名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定情感动作设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定搭档技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽技能名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定召唤兽技能设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion) 宠物名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定宠物设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐骑(mount) 坐骑名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定坐骑设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记(marking) 标记名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定标记设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景标记(waymark) 场景标记名 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定场景标记设置到编号1热键栏的编号2位置上。设置规则与“设置(set)”相同。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏切换到默认热键栏1的位置。编号用“下一个(next)”或“上一个(prev)”可以将当前热键栏1位置所表示的技能切换到上一组或者下一组热键。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复制(copy) 特职名1 编号1 特职名2 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将特职名1的编号1热键栏的内容复制到特职名2的编号2热键栏上。特职名设置为“当前(current)”时会指定当前的特职。特职名设置为“共通(share)”时会指定共通热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启显示指定编号的热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭显示指定编号的热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示(display) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏设置成全职业共通。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的热键栏从全职业共通改为当前专用。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置指定编号的热键栏在当前专用和全职业共通之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除编号1热键栏编号2位置上的技能或用户宏指令。编号2设置为“全部(all)”的时候会将该热键栏上的所有指令都解除。
+>>示例
+/对战热键栏 技能 净化 1 1
+将“净化”放入热键栏1的位置1中。
+/对战热键栏 更换 2
+将热键栏2的内容切换到默认热键栏1的位置。","/对战热键栏","",36,0
+326,6,3,2,16,7,"/pvpcrosshotbar","/pvpchotbar","/对战十字热键栏 子命令
+/pvpcrosshotbar、/pvpchotbar
+对用于对战的十字热键栏进行操作及设置。只能在对战区域内使用。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 对战技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定的对战技能设置到指定编号十字热键栏的指定位置上。编号可以用“当前(current)”来表示当前的十字热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定共通技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定道具设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感动作(emote) 情感动作名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定情感动作设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定搭档技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽技能名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定召唤兽技能设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion) 宠物名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定宠物设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐骑(mount) 坐骑名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定坐骑设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记(marking) 标记名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定标记设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景标记(waymark) 场景标记名 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定场景标记设置到指定编号十字热键栏的指定位置上。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换到指定编号的十字热键栏。编号用“下一个(next)”或“上一个(prev)”可以将当前十字热键栏位置所表示的技能切换到上一组或者下一组热键。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复制(copy) 特职名1 编号1 特职名2 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将特职名1的编号1十字热键栏的内容复制到特职名2的编号2十字热键栏上。特职名设置为“当前(current)”时会指定当前的特职。特职名设置为“共通(share)”时会指定共通热键栏。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的十字热键栏设置成全职业共通。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将指定编号的十字热键栏从全职业共通改为当前职业专用。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置指定编号的十字热键栏在当前职业专用和全职业共通之间切换。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　解除指定编号十字热键栏指定位置上的技能或用户宏指令。指定位置设置为“全部(all)”的时候会将该十字热键栏上的所有指令都解除。
+>>指定位置
+<Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
+<Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
+<Gui(14)/>＋<Gui(4)/> … LDR(LD3)　<Gui(15)/>＋<Gui(4)/> … RDR(RD3)
+<Gui(14)/>＋<Gui(2)/> … LDD(LD4)　<Gui(15)/>＋<Gui(2)/> … RDD(RD4)
+<Gui(14)/>＋<Gui(10)/> … LAL(LA1)　<Gui(15)/>＋<Gui(10)/> … RAL(RA1)
+<Gui(14)/>＋<Gui(11)/> … LAU(LA2)　<Gui(15)/>＋<Gui(11)/> … RAU(RA2)
+<Gui(14)/>＋<Gui(8)/> … LAR(LA3)　<Gui(15)/>＋<Gui(8)/> … RAR(RA3)
+<Gui(14)/>＋<Gui(9)/> … LAD(LA4)　<Gui(15)/>＋<Gui(9)/> … RAD(RA4)","/对战十字热键栏","/pvpchotbar",36,0
+327,2,1,2,0,0,"/emotelog","","/情感动作文字提示 子命令
+/emotelog
+设定在发动情感动作时是否于消息栏显示文字提示。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　开启文字提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭文字提示。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与关闭之间切换。","/情感动作文字提示","",36,0
+328,2,0,0,0,0,"/jobhudmode","","/职业量谱模式 子命令
+/jobhudmode
+将当前职业的职业量谱显示模式改为“普通”或“简洁”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换当前职业第1个职业量谱的显示模式。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　切换当前职业第2个职业量谱的显示模式。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将当前职业的所有职业量谱统一成同一模式，或统一进行切换。
+>>示例
+/职业量谱模式 1
+　切换当前职业第1个职业量谱的显示模式。","/职业量谱模式","",36,0
+329,2,0,0,0,0,"/mastervolume","","/整体音量 子命令
+/mastervolume
+改变整体音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/整体音量 50
+　将音量设为50。","/整体音量","",228,0
+330,2,0,0,0,0,"/bgm","","/背景音乐 子命令
+/bgm
+改变背景音乐的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/背景音乐 50
+　将音量设为50。","/背景音乐","",228,0
+331,2,0,0,0,0,"/soundeffects","","/音效 子命令
+/soundeffects
+改变音效的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/音效 50
+　将音量设为50。","/音效","",228,0
+332,2,0,0,0,0,"/voice","","/语音 子命令
+/voice
+改变语音的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/语音 50
+　将音量设为50。","/语音","",228,0
+333,2,0,0,0,0,"/systemsounds","","/系统音 子命令
+/systemsounds
+改变系统音的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/系统音 50
+　将音量设为50。","/系统音","",228,0
+334,2,0,0,0,0,"/ambientsounds","","/环境音 子命令
+/ambientsounds
+改变环境音的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/环境音 50
+　将音量设为50。","/环境音","",228,0
+335,2,0,0,0,0,"/soundeffectsself","","/自身音效 子命令
+/soundeffectsself
+改变自身音效的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+>>示例
+/自身音效 50
+　将音量设为50。","/自身音效","",228,0
+336,2,0,0,0,0,"/soundeffectsparty","","/小队成员音效 子命令
+/soundeffectsparty
+改变小队成员音效的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+>>示例
+/小队成员音效 50
+　将音量设为50。","/小队成员音效","",228,0
+337,2,0,0,0,0,"/soundeffectsother","","/他人音效 子命令
+/soundeffectsother
+改变他人音效的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+>>示例
+/他人音效 50
+　将音量设为50。","/他人音效","",228,0
+338,2,0,0,0,0,"/systemsoundsspeaker","","/扬声器系统音 子命令
+/systemsoundsspeaker
+改变扬声器系统音的音量。
+※PlayStation®4版专用。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将音量设为指定的数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在静音与静音解除之间切换。
+>>示例
+/扬声器系统音 50
+　将音量设为50。","/扬声器系统音","",228,0
+339,2,0,0,0,0,"/tiltcamera","","/第三人称视角俯视角度 子命令
+/tiltcamera
+改变角色设置中第三人称视角俯视角度的数值。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　将第三人称视角俯视角度设为指定的数值。
+>>示例
+/第三人称视角俯视角度 50
+　将第三人称视角俯视角度设为50。","/第三人称视角俯视角度","",36,0
+340,2,1,2,0,0,"/mountbgm","","/坐骑音乐 子命令
+/mountbgm
+设置系统设置中的“骑乘状态下播放音乐”。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+播放坐骑自带的背景音乐。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+不播放坐骑自带的背景音乐。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+在开启与关闭之间切换。","/坐骑音乐","",100,0
+341,2,0,0,0,0,"/performsounds","","/演奏音量 子命令
+/performsounds
+设置乐器演奏的音量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+将音量设为指定数值。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+在静音与静音解除之间切换。","/演奏音量","",228,0
+401,1,0,0,0,0,"/emote","/em","/感情表现 发言内容
+/emote、/em
+在本人名字后面连接发言内容作为感情表现，并发送给说话范围内的玩家。","/感情表现","",36,0
+402,2,1,2,0,0,"/surprised","","/惊讶 子命令
+/surprised
+做出惊讶的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/惊讶","",36,0
+403,2,1,2,0,0,"/angry","","/不满 子命令
+/angry
+做出不满的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/不满","",36,0
+404,2,1,2,0,0,"/furious","","/愤怒 子命令
+/furious
+做出愤怒的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/愤怒","",36,0
+405,2,1,2,0,0,"/blush","","/害羞 子命令
+/blush
+做出害羞的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/害羞","",36,0
+406,2,1,2,0,0,"/bow","","/行礼 子命令
+/bow
+做出行礼的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/行礼","",36,0
+407,2,1,2,0,0,"/cheer","","/加油 子命令
+/cheer
+做出加油的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/加油","",36,0
+408,2,1,2,0,0,"/clap","","/拍手 子命令
+/clap
+做出拍手的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/拍手","",36,0
+409,2,1,2,0,0,"/beckon","","/招手 子命令
+/beckon
+做出招手的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/招手","",36,0
+410,2,1,2,0,0,"/comfort","","/安慰 子命令
+/comfort
+做出安慰的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/安慰","",36,0
+411,2,1,2,0,0,"/cry","","/哭泣 子命令
+/cry
+做出哭泣的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/哭泣","",36,0
+412,2,1,2,0,0,"/dance","","/跳舞 子命令
+/dance
+做出跳舞的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/跳舞","",36,0
+413,2,1,2,0,0,"/doubt","","/质疑 子命令
+/doubt
+做出质疑的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/质疑","",36,0
+414,2,1,2,0,0,"/doze","","/打盹 子命令
+/doze
+做出打盹的动作。在靠近睡床的时候会躺在床上。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/打盹","",36,0
+415,2,1,2,0,0,"/fume","","/后悔 子命令
+/fume
+做出后悔的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/后悔","",36,0
+416,2,1,2,0,0,"/goodbye","","/道别 子命令
+/goodbye
+做出道别的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/道别","",36,0
+417,2,1,2,0,0,"/wave","","/挥手 子命令
+/wave
+做出挥手的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/挥手","",36,0
+418,2,1,2,0,0,"/huh","","/莫名 子命令
+/huh
+做出莫名的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/莫名","",36,0
+419,2,1,2,0,0,"/joy","","/高兴 子命令
+/joy
+做出高兴的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/高兴","",36,0
+420,2,1,2,0,0,"/kneel","","/下跪 子命令
+/kneel
+做出下跪的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/下跪","",36,0
+421,2,1,2,0,0,"/chuckle","","/轻笑 子命令
+/chuckle
+做出轻笑的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/轻笑","",36,0
+422,2,1,2,0,0,"/laugh","","/大笑 子命令
+/laugh
+做出大笑的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/大笑","",36,0
+423,2,1,2,0,0,"/lookout","","/张望 子命令
+/lookout
+做出张望的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/张望","",36,0
+424,2,1,2,0,0,"/me","","/展示 子命令
+/me
+做出展示的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/展示","",36,0
+425,2,1,2,0,0,"/no","","/摇头 子命令
+/no
+做出摇头的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/摇头","",36,0
+426,2,1,2,0,0,"/deny","","/否定 子命令
+/deny
+做出否定的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/否定","",36,0
+427,2,1,2,0,0,"/panic","","/慌乱 子命令
+/panic
+做出慌乱的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/慌乱","",36,0
+428,2,1,2,0,0,"/point","","/指向 子命令
+/point
+做出指向的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/指向","",36,0
+429,2,1,2,0,0,"/poke","","/戳指 子命令
+/poke
+做出戳指的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/戳指","",36,0
+430,2,1,2,0,0,"/congratulate","","/称赞 子命令
+/congratulate
+做出称赞的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/称赞","",36,0
+431,2,1,2,0,0,"/psych","","/激励 子命令
+/psych
+做出激励的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/激励","",36,0
+432,2,1,2,0,0,"/salute","","/敬礼 子命令
+/salute
+做出敬礼的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/敬礼","",36,0
+433,2,1,2,0,0,"/shocked","","/震惊 子命令
+/shocked
+做出震惊的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/震惊","",36,0
+434,2,1,2,0,0,"/shrug","","/耸肩 子命令
+/shrug
+做出耸肩的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/耸肩","",36,0
+435,2,1,2,0,0,"/rally","","/鼓励 子命令
+/rally
+做出鼓励的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/鼓励","",36,0
+436,2,1,2,0,0,"/soothe","","/安抚 子命令
+/soothe
+做出安慰的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/安抚","",36,0
+437,2,1,2,0,0,"/stagger","","/迷糊 子命令
+/stagger
+做出迷糊的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/迷糊","",36,0
+438,2,1,2,0,0,"/stretch","","/伸展 子命令
+/stretch
+做出伸展的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/伸展","",36,0
+439,2,1,2,0,0,"/sulk","","/愠怒 子命令
+/sulk
+做出愠怒的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/愠怒","",36,0
+440,2,1,2,0,0,"/think","","/思考 子命令
+/think
+做出思考的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/思考","",36,0
+441,2,1,2,0,0,"/upset","","/失望 子命令
+/upset
+做出失望的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/失望","",36,0
+442,2,1,2,0,0,"/welcome","","/欢迎 子命令
+/welcome
+做出欢迎的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欢迎","",36,0
+443,2,1,2,0,0,"/yes","","/点头 子命令
+/yes
+做出点头的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/点头","",36,0
+444,2,1,2,0,0,"/thumbsup","","/肯定 子命令
+/thumbsup
+做出肯定的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/肯定","",36,0
+445,2,1,2,0,0,"/examineself","","/自视 子命令
+/examineself
+做出自视的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/自视","",36,0
+446,2,1,2,0,0,"/pose","","/摆造型 子命令
+/pose
+做出摆造型的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/摆造型","",36,0
+447,2,1,2,0,0,"/blowkiss","","/飞吻 子命令
+/blowkiss
+做出飞吻的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/飞吻","",36,0
+448,2,1,2,0,0,"/grovel","","/下跪认错 子命令
+/grovel
+做出下跪认错的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/下跪认错","",36,0
+449,2,1,2,0,0,"/happy","","/欣喜若狂 子命令
+/happy
+做出欣喜若狂的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欣喜若狂","",36,0
+450,2,1,2,0,0,"/disappointed","","/大失所望 子命令
+/disappointed
+做出大失所望的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/大失所望","",36,0
+451,1,0,0,0,0,"/lounge","/sit","/坐下
+/sit、/lounge
+坐到地面上或身边其他可以坐在上面的场所上。处于坐下状态时输入该指令会站起身。
+在坐下状态中可以使用部分情感动作。","/坐下","/坐下",36,0
+453,1,0,0,0,0,"/groundsit","","/坐下到地上
+/groundsit
+坐到地面上。
+处于坐下状态时输入该指令会站起身。
+在坐下状态中可以使用部分情感动作。","/坐下到地上","",36,0
+455,2,1,2,0,0,"/airquotes","","/引用
+/airquotes
+做出引用的动作。用两只手表示出引号，一般指当前发言内容为引用自其他人，不过多数情况下有讽刺的意思。
+※该情感动作只有动作，没有文字提示。","/引用","",36,0
+456,2,1,2,0,0,"/gcsalute","","/军礼 子命令
+/gcsalute
+以黑涡团的标准行军礼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/军礼","",37,0
+457,2,1,2,0,0,"/gcsalute","","/军礼 子命令
+/gcsalute
+以双蛇党的标准行军礼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/军礼","",37,0
+458,2,1,2,0,0,"/gcsalute","","/军礼 子命令
+/gcsalute
+以恒辉队的标准行军礼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/军礼","",37,0
+459,2,1,2,0,0,"/pray","","/祈祷 子命令
+/pray
+做出祈祷的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/祈祷","",36,0
+460,2,1,2,0,0,"/imperialsalute","","/帝国式军礼 子命令
+/imperialsalute
+以帝国的标准行军礼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/帝国式军礼","",36,0
+461,2,1,2,0,0,"/visor","","/头部装备
+/visor
+对头部装备进行操作。
+※针对可以开合以及有明暗表现等功能的装备。","/头部装备","",44,0
+463,2,1,2,0,0,"/megaflare","","/百万核爆 子命令
+/megaflare
+放出百万核爆般的光芒。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/百万核爆","",36,0
+464,2,1,2,0,0,"/crimsonlotus","","/练武 子命令
+/crimsonlotus
+开始练武。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/练武","",36,0
+465,2,1,2,0,0,"/charmed","","/魅惑拥抱 子命令
+/charmed
+被魅惑拥抱魅惑。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/魅惑拥抱","",36,0
+466,2,1,2,0,0,"/cheeron","","/声援小蓝 子命令
+/cheeron
+做出声援小蓝的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小蓝","",36,0
+467,2,1,2,0,0,"/cheerwave","","/声援小黄 子命令
+/cheerwave
+做出声援小黄的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小黄","",36,0
+468,2,1,2,0,0,"/cheerjump","","/声援小红 子命令
+/cheerjump
+做出声援小红的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小红","",36,0
+469,2,1,2,0,0,"/straightface","/straight","/平常 子命令
+/straightface
+表现出面无表情的样子。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/平常","",36,0
+470,2,1,2,0,0,"/smile","","/微笑 子命令
+/smile
+脸上浮出微笑。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/微笑","",36,0
+471,2,1,2,0,0,"/grin","","/笑颜 子命令
+/grin
+脸上露出笑颜。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/笑颜","",36,0
+472,2,1,2,0,0,"/smirk","","/自信 子命令
+/smirk
+做出自信的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/自信","",36,0
+473,2,1,2,0,0,"/taunt","","/无畏 子命令
+/taunt
+做出无所畏惧的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/无畏","",36,0
+474,2,1,2,0,0,"/shuteyes","/shut","/闭目 子命令
+/shuteyes
+闭上眼睛。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/闭目","",36,0
+475,2,1,2,0,0,"/sad","","/悲伤 子命令
+/sad
+做出悲伤的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/悲伤","",36,0
+476,2,1,2,0,0,"/scared","/fear","/恐怖 子命令
+/scared
+做出感到害怕的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/恐怖","",36,0
+477,2,1,2,0,0,"/amazed","/awe","/意外 子命令
+/amazed
+做出意外的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/意外","",36,0
+478,2,1,2,0,0,"/ouch","/ow","/痛苦 子命令
+/ouch
+做出痛苦的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/痛苦","",36,0
+479,2,1,2,0,0,"/annoyed","/annoy","/反感 子命令
+/annoyed
+做出不耐烦的反感表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/反感","",36,0
+480,2,1,2,0,0,"/alert","","/吃惊 子命令
+/alert
+做出突然发现什么情况的吃惊表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃惊","",36,0
+481,2,1,2,0,0,"/worried","/worry","/担心 子命令
+/worried
+做出很担心的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/担心","",36,0
+482,2,1,2,0,0,"/biggrin","","/咧嘴 子命令
+/biggrin
+做出咧嘴的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/咧嘴","",36,0
+483,2,1,2,0,0,"/reflect","","/沉思 子命令
+/reflect
+做出沉思的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/沉思","",36,0
+484,2,1,2,0,0,"/furrow","","/皱眉 子命令
+/furrow
+做出皱眉的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/皱眉","",36,0
+485,2,1,2,0,0,"/scoff","","/苦笑 子命令
+/scoff
+做出苦笑的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/苦笑","",36,0
+486,2,1,2,0,0,"/throw","","/投掷 子命令
+/throw
+做出投掷的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/投掷","",36,0
+491,2,1,2,0,0,"/changepose","/cpose","/改变姿势
+/changepose、/cpose
+改变当前的姿势。
+※该指令只会做出动作，不会显示文字提示。","/改变姿势","",36,0
+502,2,1,2,0,0,"/stepdance","/sdance","/踢踏舞 子命令
+/stepdance、/sdance
+跳起踢踏舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/踢踏舞","",36,0
+503,2,1,2,0,0,"/harvestdance","/hdance","/丰饶之舞 子命令
+/harvestdance、/hdance
+跳起丰饶之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/丰饶之舞","",36,0
+504,2,1,2,0,0,"/balldance","/bdance","/宫廷之舞 子命令
+/balldance、/bdance
+跳起宫廷之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/宫廷之舞","",36,0
+505,2,1,2,0,0,"/mandervilledance","/mdance","/绅士之舞 子命令
+/mandervilledance、/mdance
+跳起绅士之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/绅士之舞","",36,0
+506,2,1,2,0,0,"/stroke","","/抚摸 子命令
+/stroke
+做出抚摸的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/抚摸","",36,0
+507,2,1,2,0,0,"/handover","","/递交 子命令
+/handover
+做出递交的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/递交","",36,0
+510,2,1,2,0,0,"/bombdance","","/火盆舞 子命令
+/bombdance
+跳起火盆舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/火盆舞","",36,0
+511,2,1,2,0,0,"/hurray","","/胜利欢呼(欢呼) 子命令
+/hurray
+做出胜利的欢呼动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/胜利欢呼","/欢呼",36,0
+512,2,1,2,0,0,"/slap","","/甩巴掌 子命令
+/slap
+做出甩巴掌的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/甩巴掌","",36,0
+513,2,1,2,0,0,"/hug","","/拥抱 子命令
+/hug
+做出拥抱对方的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/拥抱","",36,0
+514,2,1,2,0,0,"/embrace","","/深情拥抱 子命令
+/embrace
+做出深情拥抱对方的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/深情拥抱","",36,0
+515,2,1,2,0,0,"/hildibrand","/hildy","/绅士风度(/绅士) 子命令
+/hildibrand、/hildy
+做出最具有绅士风度的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/绅士风度","/绅士",36,0
+516,2,1,2,0,0,"/fistbump","/fist","/对拳 子命令
+/fistbump、/fist
+做出对拳的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/对拳","",36,0
+519,2,1,2,0,0,"/thavdance","/tdance","/萨维奈舞 子命令
+/thavdance、/tdance
+跳起萨维奈舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/萨维奈舞","",36,0
+520,2,1,2,0,0,"/golddance","/gdance","/黄金之舞 子命令
+/golddance、/gdance
+跳起黄金之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/黄金之舞","",36,0
+521,2,1,2,0,0,"/sundance","","/太阳之舞 子命令
+/sundance
+跳起太阳之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/太阳之舞","",36,0
+522,2,1,2,0,0,"/battlestance","/bstance","/准备战斗(/备战) 子命令
+/battlestance、/bstance
+做出战斗前的准备动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/准备战斗","/备战",36,0
+523,2,1,2,0,0,"/victorypose","/vpose","/欢呼胜利 子命令
+/victorypose、/vpose
+做出胜利时欢呼的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欢呼胜利","",36,0
+524,2,1,2,0,0,"/backflip","/bflip","/后空翻 子命令
+/backflip、/bflip
+做出后空翻的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/后空翻","",36,0
+525,2,1,2,0,0,"/easterngreeting","/egreeting","/抱拳礼(/抱拳) 子命令
+/easterngreeting、/egreeting
+做出行抱拳礼的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/抱拳礼","/抱拳",36,0
+526,2,1,2,0,0,"/eureka","","/灵光一现(/灵光) 子命令
+/eureka
+做出灵光一现的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/灵光一现","/灵光",36,0
+527,2,1,2,0,0,"/mogdance","","/莫古莫古舞(/莫古舞) 子命令
+/mogdance
+跳起莫古莫古舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/莫古莫古舞","/莫古舞",36,0
+528,2,1,2,0,0,"/haurchefant","/hknight","/太棒了 子命令
+/haurchefant、/hknight
+做出“太棒了！”的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/太棒了","",36,0
+529,2,1,2,0,0,"/easternstretch","/estretch","/热身 子命令
+/easternstretch、/estretch
+做出热身的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/热身","",36,0
+530,2,1,2,0,0,"/easterndance","/edance","/东方传统舞蹈 子命令
+/easterndance、/edance
+跳起东方传统舞蹈。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/东方传统舞蹈","",36,0
+531,2,1,2,0,0,"/rangerpose1r","/rpose1r","/战队演武正红一式(/正红一式) 子命令
+/rangerpose1r、/rpose1r
+摆出战队演武正红一式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武正红一式","/正红一式",36,0
+532,2,1,2,0,0,"/rangerpose2r","/rpose2r","/战队演武正黑二式(/正黑二式) 子命令
+/rangerpose2r、/rpose2r
+摆出战队演武正黑二式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武正黑二式","/正黑二式",36,0
+533,2,1,2,0,0,"/rangerpose3r","/rpose3r","/战队演武正黄三式(/正黄三式) 子命令
+/rangerpose3r、/rpose3r
+摆出战队演武正黄三式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武正黄三式","/正黄三式",36,0
+534,2,1,2,0,0,"/wink","/rightwink","/右飞眼(/飞眼) 子命令
+/rightwink、/wink
+抛出飞眼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/右飞眼","/飞眼",36,0
+535,2,1,2,0,0,"/rangerpose1l","/rpose1l","/战队演武逆红一式(/逆红一式) 子命令
+/rangerpose1l、/rpose1l
+摆出战队演武逆红一式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武逆红一式","/逆红一式",36,0
+536,2,1,2,0,0,"/rangerpose2l","/rpose2l","/战队演武逆黑二式(/逆黑二式) 子命令
+/rangerpose2l、/rpose2l
+摆出战队演武逆黑二式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武逆黑二式","/逆黑二式",36,0
+537,2,1,2,0,0,"/rangerpose3l","/rpose3l","/战队演武逆黄三式(/逆黄三式) 子命令
+/rangerpose3l、/rpose3l
+摆出战队演武逆黄三式造型。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/战队演武逆黄三式","/逆黄三式",36,0
+538,2,1,2,0,0,"/facepalm","","/捂脸 子命令
+/facepalm
+做出捂脸的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/捂脸","",36,0
+539,2,1,2,0,0,"/zantetsuken","/ztk","/斩铁剑 子命令
+/zantetsuken、/ztk
+劈斩空间。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/斩铁剑","",36,0
+540,2,1,2,0,0,"/flex","","/肉体之美 子命令
+/flex
+展现肉体之美。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/肉体之美","",36,0
+541,2,1,2,0,0,"/respect","","/默哀 子命令
+/respect
+做出默哀的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/默哀","",36,0
+542,2,1,2,0,0,"/sneer","","/阴险 子命令
+/sneer
+做出阴险的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/阴险","",36,0
+543,2,1,2,0,0,"/prettyplease","/pplease","/撒娇 子命令
+/prettyplease、/pplease
+做出撒娇的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/撒娇","",36,0
+544,2,1,2,0,0,"/playdead","/pdead","/装死 子命令
+/playdead、/pdead
+在地上装死。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/装死","",36,0
+545,2,1,2,0,0,"/iceheart","","/寒冰的幻想 子命令
+/iceheart
+与冰共舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/寒冰的幻想","",36,0
+546,2,1,2,0,0,"/moonlift","","/日月之舞 子命令
+/moonlift
+跳起日月之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/日月之舞","",36,0
+547,2,1,2,0,0,"/dote","","/表达爱意 子命令
+/dote
+表达自己的爱意。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/表达爱意","",36,0
+549,2,1,2,0,0,"/spectacles","","/托眼镜 子命令
+/spectacles
+调整自己的眼镜。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/托眼镜","",36,0
+550,2,1,2,0,0,"/songbird","","/小黄莺之舞 子命令
+/songbird
+模仿小黄莺跳舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/小黄莺之舞","",36,0
+551,2,1,2,0,0,"/waterfloat","","/浮水
+/waterfloat
+浮在水面上。
+※该指令只会做出动作，不会显示文字提示。","/浮水","",36,0
+552,2,1,2,0,0,"/waterflip","","/水中翻跟头
+/waterflip
+在水里翻跟头。
+※该指令只会做出动作，不会显示文字提示。","/水中翻跟头","",36,0
+553,2,1,2,0,0,"/puckerup","","/嘟嘴 子命令
+/puckerup
+把嘴噘起来。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/嘟嘴","",36,0
+554,2,1,2,0,0,"/powerup","","/蓄力迸发 子命令
+/powerup
+迸发出真正的力量。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/蓄力迸发","",36,0
+555,2,1,2,0,0,"/easternbow","/ebow","/行东方礼 子命令
+/easternbow、/ebow
+做出行东方礼的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/行东方礼","",36,0
+556,2,1,2,0,0,"/squats","","/深蹲 子命令
+/squats
+进行深蹲运动。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/深蹲","",36,0
+557,2,1,2,0,0,"/pushups","","/俯卧撑 子命令
+/pushups
+进行俯卧撑运动。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/俯卧撑","",36,0
+558,2,1,2,0,0,"/situps","","/仰卧起坐 子命令
+/situps
+进行仰卧起坐运动。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/仰卧起坐","",36,0
+559,2,1,2,0,0,"/breathcontrol","","/深呼吸 子命令
+/breathcontrol
+进行深呼吸。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/深呼吸","",36,0
+560,2,1,2,0,0,"/converse","","/说话 子命令
+/converse
+假装自己在说着什么。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/说话","",36,0
+561,2,1,2,0,0,"/concentrate","","/认真 子命令
+/concentrate
+做出认真的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/认真","",36,0
+562,2,1,2,0,0,"/disturbed","","/困惑 子命令
+/disturbed
+做出困惑的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/困惑","",36,0
+563,2,1,2,0,0,"/simper","","/柔和 子命令
+/simper
+露出柔和的微笑。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/柔和","",36,0
+564,2,1,2,0,0,"/beam","","/满足 子命令
+/beam
+做出满足的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/满足","",36,0
+565,2,1,2,0,0,"/attention","","/立正 子命令
+/attention
+立正站好。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/立正","",36,0
+566,2,1,2,0,0,"/atease","","/稍息 子命令
+/atease
+做出稍息动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/稍息","",36,0
+567,2,1,2,0,0,"/box","","/练拳 子命令
+/box
+开始进行格斗训练。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/练拳","",36,0
+568,2,1,2,0,0,"/ritualprayer","","/祝祷 子命令
+/ritualprayer
+开始进行祝祷。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　做出动作并显示文字提示。","/祝祷","",36,0
+570,2,1,2,0,0,"/tremble","","/害怕 子命令
+/tremble
+瑟瑟发抖。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/害怕","",36,0
+571,2,1,2,0,0,"/winded","","/单膝跪地 子命令
+/winded
+做出单膝跪地的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/单膝跪地","",36,0
+572,2,1,2,0,0,"/aback","","/大吃一惊 子命令
+/aback
+做出大吃一惊的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/大吃一惊","",36,0
+573,2,1,2,0,0,"/greet","","/打招呼 子命令
+/greet
+打个招呼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/打招呼","",36,0
+574,2,1,2,0,0,"/boxstep","","/方形步 子命令
+/boxstep
+踏起方形步，今夜我是主角。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/方形步","",36,0
+575,2,1,2,0,0,"/sidestep","","/侧步 子命令
+/sidestep
+踩着侧步起舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/侧步","",36,0
+577,2,1,2,0,0,"/yoldance","","/胡鹰之舞 子命令
+/yoldance
+踏起胡鹰之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/胡鹰之舞","",36,0
+579,2,1,2,0,0,"/splash","","/撩水 子命令
+/splash
+撩起水花。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/撩水","",36,0
+581,2,1,2,0,0,"/sweat","","/好热 子命令
+/sweat
+假装自己很热。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/好热","",36,0
+582,2,1,2,0,0,"/shiver","","/好冷 子命令
+/shiver
+模仿很冷的样子。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/好冷","",36,0
+583,2,1,2,0,0,"/elucidate","","/说明 子命令
+/elucidate
+进行说明。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/说明","",36,0
+584,2,1,2,0,0,"/ponder","","/思索 子命令
+/ponder
+做出思索的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/思索","",36,0
+585,2,1,2,0,0,"/leftwink","","/左飞眼 子命令
+/leftwink
+抛出飞眼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/左飞眼","",36,0
+586,2,1,2,0,0,"/getfantasy","","/幻想舞步 子命令
+/getfantasy
+跳起幻想舞步。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/幻想舞步","",36,0
+587,2,1,2,0,0,"/popotostep","","/波波托步 子命令
+/popotostep
+跳起波波托步。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/波波托步","",36,0
+588,2,1,2,0,0,"/hum","","/哼歌 子命令
+/hum
+静静哼一首歌。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/哼歌","",36,0
+589,2,1,2,0,0,"/confirm","","/确认 子命令
+/confirm
+仔细进行确认。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/确认","",36,0
+590,2,1,2,0,0,"/scheme","","/说明计划 子命令
+/scheme
+说明自己的计划。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/说明计划","",36,0
+591,2,1,2,0,0,"/endure","","/忍耐 子命令
+/endure
+做出忍耐的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/忍耐","",36,0
+592,2,1,2,0,0,"/tomestone","","/欣赏神典石 子命令
+/tomestone
+掏出神典石赏玩一番。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欣赏神典石","",36,0

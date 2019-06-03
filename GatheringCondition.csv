@@ -1,0 +1,23 @@
+﻿key,0
+#,Text
+int32,str
+0,""
+1,"连锁 <Value>IntegerParameter(1)</Value>以上"
+2,"力量 <Value>IntegerParameter(1)</Value>以上"
+3,"灵巧 <Value>IntegerParameter(1)</Value>以上"
+4,"耐力 <Value>IntegerParameter(1)</Value>以上"
+5,"智力 <Value>IntegerParameter(1)</Value>以上"
+6,"精神 <Value>IntegerParameter(1)</Value>以上"
+7,"信仰 <Value>IntegerParameter(1)</Value>以上"
+8,"<Gui(56)/>火 <Value>IntegerParameter(1)</Value>以上"
+9,"<Gui(57)/>冰 <Value>IntegerParameter(1)</Value>以上"
+10,"<Gui(58)/>风 <Value>IntegerParameter(1)</Value>以上"
+11,"<Gui(59)/>土 <Value>IntegerParameter(1)</Value>以上"
+12,"<Gui(60)/>雷 <Value>IntegerParameter(1)</Value>以上"
+13,"<Gui(61)/>水 <Value>IntegerParameter(1)</Value>以上"
+14,"获得力 <Value>IntegerParameter(1)</Value>以上"
+15,"鉴别力 <Value>IntegerParameter(1)</Value>以上"
+16,"获得力 <Value>IntegerParameter(1)</Value>以下"
+17,"鉴别力 <Value>IntegerParameter(1)</Value>以下"
+18,"<Sheet(Status,IntegerParameter(1),0)/>状态"
+19,"采集力上限 <Value>IntegerParameter(1)</Value>以上"

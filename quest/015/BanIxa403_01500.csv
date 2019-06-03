@@ -1,0 +1,94 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANIXA403_01500_SEQ_00","※本任务推荐等级为：
+　制作职业10级以上、战斗职业47级以上。
+
+长风实验场的学者塔泽尔·梅耶安有个离经叛道的委托要交给冒险者。"
+1,"TEXT_BANIXA403_01500_SEQ_01","学者塔泽尔·梅耶安委托冒险者制作<Sheet(ItemHQ,　8107,0)/>。首先去鸟人军采伐所，从<Sheet(EObj,2004472,0)/>里得到3份材料。"
+2,"TEXT_BANIXA403_01500_SEQ_02","获得了<Sheet(EventItem,2001393,0)/>。将<Sheet(EventItem,2001393,0)/>交给秋瓜浮村浮栓亭的休德耶德，获取制作设施的使用许可。"
+3,"TEXT_BANIXA403_01500_SEQ_03","可以使用制作设施了。用<Sheet(Item,　8068,0)/>制作<Sheet(ItemHQ,　8107,0)/>，并将其交给长风实验场的学者塔泽尔·梅耶安。
+
+※如果“制作设施：复杂工作”的状态效果消失了，或者<Sheet(Item,　8068,0)/>不足的话，就和休德耶德对话，即可重获状态效果和材料，并再次进行挑战。"
+4,"TEXT_BANIXA403_01500_SEQ_04","将<Sheet(ItemHQ,　8107,0)/>交给了学者塔泽尔·梅耶安。总算是顺利完成了这个包含去敌阵抢夺材料等危险要素的任务。今后为他提供帮助的同时，也要小心不要变成技术发展过程中的牺牲品。"
+5,"TEXT_BANIXA403_01500_SEQ_05","空"
+6,"TEXT_BANIXA403_01500_SEQ_06","空"
+7,"TEXT_BANIXA403_01500_SEQ_07","空"
+8,"TEXT_BANIXA403_01500_SEQ_08","空"
+9,"TEXT_BANIXA403_01500_SEQ_09","空"
+10,"TEXT_BANIXA403_01500_SEQ_10","空"
+11,"TEXT_BANIXA403_01500_SEQ_11","空"
+12,"TEXT_BANIXA403_01500_SEQ_12","空"
+13,"TEXT_BANIXA403_01500_SEQ_13","空"
+14,"TEXT_BANIXA403_01500_SEQ_14","空"
+15,"TEXT_BANIXA403_01500_SEQ_15","空"
+16,"TEXT_BANIXA403_01500_SEQ_16","空"
+17,"TEXT_BANIXA403_01500_SEQ_17","空"
+18,"TEXT_BANIXA403_01500_SEQ_18","空"
+19,"TEXT_BANIXA403_01500_SEQ_19","空"
+20,"TEXT_BANIXA403_01500_SEQ_20","空"
+21,"TEXT_BANIXA403_01500_SEQ_21","空"
+22,"TEXT_BANIXA403_01500_SEQ_22","空"
+23,"TEXT_BANIXA403_01500_SEQ_23","空"
+24,"TEXT_BANIXA403_01500_TODO_00","从鸟人军采伐所的<Sheet(EObj,2004472,0)/>中获取<Sheet(EventItem,2001393,0)/>"
+25,"TEXT_BANIXA403_01500_TODO_01","将<Sheet(EventItem,2001393,0)/>交给秋瓜浮村的休德耶德"
+26,"TEXT_BANIXA403_01500_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务4级：制作<Sheet(ItemHQ,　8107,0)/><Else/>将<Sheet(ItemHQ,　8107,0)/>交给学者塔泽尔·梅耶安</If>"
+27,"TEXT_BANIXA403_01500_TODO_03","空"
+28,"TEXT_BANIXA403_01500_TODO_04","空"
+29,"TEXT_BANIXA403_01500_TODO_05","空"
+30,"TEXT_BANIXA403_01500_TODO_06","空"
+31,"TEXT_BANIXA403_01500_TODO_07","空"
+32,"TEXT_BANIXA403_01500_TODO_08","空"
+33,"TEXT_BANIXA403_01500_TODO_09","空"
+34,"TEXT_BANIXA403_01500_TODO_10","空"
+35,"TEXT_BANIXA403_01500_TODO_11","空"
+36,"TEXT_BANIXA403_01500_TODO_12","空"
+37,"TEXT_BANIXA403_01500_TODO_13","空"
+38,"TEXT_BANIXA403_01500_TODO_14","空"
+39,"TEXT_BANIXA403_01500_TODO_15","空"
+40,"TEXT_BANIXA403_01500_TODO_16","空"
+41,"TEXT_BANIXA403_01500_TODO_17","空"
+42,"TEXT_BANIXA403_01500_TODO_18","空"
+43,"TEXT_BANIXA403_01500_TODO_19","空"
+44,"TEXT_BANIXA403_01500_TODO_20","空"
+45,"TEXT_BANIXA403_01500_TODO_21","空"
+46,"TEXT_BANIXA403_01500_TODO_22","空"
+47,"TEXT_BANIXA403_01500_TODO_23","空"
+48,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_000","天才的老子又想出了划时代的新式机关！
+接下来只差<Sheet(ItemHQ,　8107,0)/>了！"
+49,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_010","没错，只要再有高精度齿轮的话，就能试制新式机关了！
+你去秋瓜浮村的制作设施做点过来吧！
+就是那个叫休德什么什么的女人管理的地方！"
+50,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_020","没错，只要再有高纯度润滑油的话，就能试制新式机关了！
+你去秋瓜浮村的制作设施做点过来吧！
+就是那个叫休德什么什么的女人管理的地方！"
+51,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_030","没错，只要再有接合部位的部件，就能试制新式机关了！
+你去秋瓜浮村的制作设施做点过来吧！
+就是那个叫休德什么什么的女人管理的地方！"
+52,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_040","材料的话鸟人军采伐所的那帮家伙贮备了很多！
+你去打开<Sheet(EObj,2004472,0)/>偷3个过来！"
+53,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_041","谁敢碍事你就抽谁！
+但死了可别怪老子不给你收尸！
+技术的发展过程中牺牲是必不可少的！"
+54,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_050","<Sheet(ItemHQ,　8107,0)/>就交给你了！
+材料去鸟人军采伐所偷就行！
+谁敢碍事你就大耳刮子招呼他！"
+55,"TEXT_BANIXA403_01500_HILDEYERD_000_060","你好呀！
+<If(PlayerParameter(4))>小妹妹<Else/>小弟弟</If>，你又来找姐姐玩了！
+想借用这里的话，要把你拿来的材料都先交给姐姐哦！"
+56,"TEXT_BANIXA403_01500_HILDEYERD_000_061","嗯嗯，拿来了这么多，真是厉害！
+给，这是你需要的分量。万一失败了的话，
+记得不要一个人哭鼻子，可以再来找姐姐要哦！"
+57,"TEXT_BANIXA403_01500_HILDEYERD_000_100","失败了的话也不要哭，站着……不对，
+是再来找姐姐要就行了哟！"
+58,"TEXT_BANIXA403_01500_HILDEYERD_100_100","干完活的好孩子要记得去交货才行哟！
+如果不小心在路上把东西弄丢了，可以来姐姐这里重新做哦！"
+59,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_130","哦哦，你这家伙还活着呐！
+老子还以为之前送你去采伐所会是见你的最后一面了！
+那么，<Sheet(ItemHQ,　8107,0)/>你做好了没！"
+60,"TEXT_BANIXA403_01500_TAZELMEYEAN_000_131","哦哦，完全符合要求！
+终于能试制老子设计的划时代新机关了！
+噶哈哈哈！"
+61,"TEXT_BANIXA403_01500_POPMESSAGE_000_200","制作设施已经准备就绪。"
+62,"TEXT_BANIXA403_01500_SYSTEM_200_200","背包中留有在本次任务中制作出的普通品质道具。
+这种道具无法使用也无法出售给商店，尽早扔掉吧。"

@@ -1,0 +1,99 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CLSFSH101_01110_SEQ_00","捕鱼人行会的希希蒲想要给冒险者新的试炼课题。"
+1,"TEXT_CLSFSH101_01110_SEQ_01","接受了希希蒲的委托。将1条<Sheet(ItemHQ,　4930,0)/>交给利姆萨·罗敏萨捕鱼人行会的希希蒲。在中拉诺西亚的无赖川钓场里用<Sheet(Item,　2588,0)/>作鱼饵可以钓到<Sheet(ItemHQ,　4930,0)/>。"
+2,"TEXT_CLSFSH101_01110_SEQ_02","将<Sheet(ItemHQ,　4930,0)/>交给了希希蒲。<Sheet(ItemHQ,　4930,0)/>交货后，希希蒲告诉冒险者，想要钓到大鱼，关键在于准备好钓竿和适合钓鱼的装束。各种要素都要齐备，不可松懈。以更大的鱼为目标，继续努力。
+
+※捕鱼人的等级达到15级以上时，可以从希希蒲那里领取下一个捕鱼人任务。"
+3,"TEXT_CLSFSH101_01110_SEQ_03",""
+4,"TEXT_CLSFSH101_01110_SEQ_04",""
+5,"TEXT_CLSFSH101_01110_SEQ_05",""
+6,"TEXT_CLSFSH101_01110_SEQ_06",""
+7,"TEXT_CLSFSH101_01110_SEQ_07",""
+8,"TEXT_CLSFSH101_01110_SEQ_08",""
+9,"TEXT_CLSFSH101_01110_SEQ_09",""
+10,"TEXT_CLSFSH101_01110_SEQ_10",""
+11,"TEXT_CLSFSH101_01110_SEQ_11",""
+12,"TEXT_CLSFSH101_01110_SEQ_12",""
+13,"TEXT_CLSFSH101_01110_SEQ_13",""
+14,"TEXT_CLSFSH101_01110_SEQ_14",""
+15,"TEXT_CLSFSH101_01110_SEQ_15",""
+16,"TEXT_CLSFSH101_01110_SEQ_16",""
+17,"TEXT_CLSFSH101_01110_SEQ_17",""
+18,"TEXT_CLSFSH101_01110_SEQ_18",""
+19,"TEXT_CLSFSH101_01110_SEQ_19",""
+20,"TEXT_CLSFSH101_01110_SEQ_20",""
+21,"TEXT_CLSFSH101_01110_SEQ_21",""
+22,"TEXT_CLSFSH101_01110_SEQ_22",""
+23,"TEXT_CLSFSH101_01110_SEQ_23",""
+24,"TEXT_CLSFSH101_01110_TODO_00","将<Sheet(ItemHQ,　4930,0)/>交给希希蒲"
+25,"TEXT_CLSFSH101_01110_TODO_01",""
+26,"TEXT_CLSFSH101_01110_TODO_02",""
+27,"TEXT_CLSFSH101_01110_TODO_03",""
+28,"TEXT_CLSFSH101_01110_TODO_04",""
+29,"TEXT_CLSFSH101_01110_TODO_05",""
+30,"TEXT_CLSFSH101_01110_TODO_06",""
+31,"TEXT_CLSFSH101_01110_TODO_07",""
+32,"TEXT_CLSFSH101_01110_TODO_08",""
+33,"TEXT_CLSFSH101_01110_TODO_09",""
+34,"TEXT_CLSFSH101_01110_TODO_10",""
+35,"TEXT_CLSFSH101_01110_TODO_11",""
+36,"TEXT_CLSFSH101_01110_TODO_12",""
+37,"TEXT_CLSFSH101_01110_TODO_13",""
+38,"TEXT_CLSFSH101_01110_TODO_14",""
+39,"TEXT_CLSFSH101_01110_TODO_15",""
+40,"TEXT_CLSFSH101_01110_TODO_16",""
+41,"TEXT_CLSFSH101_01110_TODO_17",""
+42,"TEXT_CLSFSH101_01110_TODO_18",""
+43,"TEXT_CLSFSH101_01110_TODO_19",""
+44,"TEXT_CLSFSH101_01110_TODO_20",""
+45,"TEXT_CLSFSH101_01110_TODO_21",""
+46,"TEXT_CLSFSH101_01110_TODO_22",""
+47,"TEXT_CLSFSH101_01110_TODO_23",""
+48,"TEXT_CLSFSH101_01110_SISIPU_000_000","啊，<Highlight>ObjectParameter(1)</Highlight>！
+如何，适应捕鱼人的修行了吗？
+有没有和鱼好好较量一番？"
+49,"TEXT_CLSFSH101_01110_SISIPU_000_001","你现在正是打基础的时候，
+可不能像瓦瓦拉哥老大那样偷懒哦。
+一旦松懈下来，技术马上会退步的。"
+50,"TEXT_CLSFSH101_01110_SISIPU_000_002","不过，虽说是基础，但总是钓小鱼，
+我想你也差不多快腻了吧。
+你会想要确认一下自己成长了多少吧？"
+51,"TEXT_CLSFSH101_01110_SISIPU_000_003","你的捕鱼技术比以前大有长进，
+以更大的鱼为目标应该也没问题了。
+作为尝试，你来挑战一下吧。"
+52,"TEXT_CLSFSH101_01110_SISIPU_000_004","……对了，“<Sheet(ItemHQ,　4930,0)/>”不错。
+钓一条“<Sheet(ItemHQ,　4930,0)/>”来！
+在中拉诺西亚的无赖川里可以钓到这种鱼。"
+53,"TEXT_CLSFSH101_01110_SISIPU_000_005","它喜欢的鱼饵应该是“<Sheet(Item,　2588,0)/>”。
+好好做准备，钓个大猎物回来！"
+54,"TEXT_CLSFSH101_01110_SYSTEM_000_006","提高“鉴别力”的话，
+就更容易钓到大尺寸的鱼。"
+55,"TEXT_CLSFSH101_01110_SYSTEM_000_007","尺寸足够大的情况下，
+鱼会成为“优质道具”。"
+56,"TEXT_CLSFSH101_01110_SISIPU_000_010","钓1条“<Sheet(ItemHQ,　4930,0)/>”来。
+用“<Sheet(Item,　2588,0)/>”作鱼饵，
+在中拉诺西亚的无赖川里就能钓到了。"
+57,"TEXT_CLSFSH101_01110_SISIPU_000_011","嗯嗯，这条“<Sheet(ItemHQ,　4930,0)/>”很不错。
+尺寸也令我很满意。"
+58,"TEXT_CLSFSH101_01110_WAWALAGO_000_012","哦呀，这鱼真棒！肉厚膘肥。
+烤成“<Sheet(Item,　4660,0)/>”的话肯定很好吃！"
+59,"TEXT_CLSFSH101_01110_SISIPU_000_013","啊，老大你也这么认为？
+撒上盐巴，架在火上烤熟……
+你怎么尽想着吃的啊？！"
+60,"TEXT_CLSFSH101_01110_WAWALAGO_000_014","希希蒲，别那么小气嘛。"
+61,"TEXT_CLSFSH101_01110_SISIPU_000_015","不会给你的，这是我自己要吃，
+才叫<Highlight>ObjectParameter(1)</Highlight>钓来的。"
+62,"TEXT_CLSFSH101_01110_SISIPU_000_016","……当然，也有修行的意义。
+看，钓这么大的鱼可是很讲究技术的，
+你已经明白了吧？"
+63,"TEXT_CLSFSH101_01110_SISIPU_000_017","适合钓该种鱼的道具、相应的技术水平，
+以及适合在钓场内穿着的方便钓鱼的装束……
+这些东西缺一不可，否则钓不到大猎物。"
+64,"TEXT_CLSFSH101_01110_SISIPU_000_018","没错，这条“<Sheet(ItemHQ,　4930,0)/>”的尺寸，
+证明钓竿的性能、你的技术水平，
+还有穿着的装束都达到了要求，没有哪项有欠缺。"
+65,"TEXT_CLSFSH101_01110_SISIPU_000_019","嗯，以你现在的技术，已经不能再叫你新手了。
+今后我也会继续教你钓鱼的各种知识，
+要好好学习哦，<Highlight>ObjectParameter(1)</Highlight>。"

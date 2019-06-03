@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_HOUFURVASE_00336_Q1_000_000","【插花：<Sheet(Item,IntegerParameter(1),0)/>】"
+1,"TEXT_HOUFURVASE_00336_Q1_000_001","【插花：空】"
+2,"TEXT_HOUFURVASE_00336_A1_000_002","往花瓶中插花"
+3,"TEXT_HOUFURVASE_00336_A1_000_003","从花瓶中移除花"
+4,"TEXT_HOUFURVASE_00336_A1_000_004","取消"
+5,"TEXT_HOUFURVASE_00336_Q2_000_000","确定要移除<Sheet(Item,IntegerParameter(1),0)/>，
+将花瓶清空吗？
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※下列道具将会被废弃。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+6,"TEXT_HOUFURVASE_00336_Q2_000_001","是"
+7,"TEXT_HOUFURVASE_00336_Q2_000_002","否"

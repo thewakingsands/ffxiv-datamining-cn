@@ -1,0 +1,58 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_TALK_ACTOR","0"
+1,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE_0","请登记潜水艇。"
+2,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE","请选择潜水艇。
+　探索机体数：<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>
+　所持燃料数：桶装青磷水　<Value>IntegerParameter(1)</Value>桶"
+3,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_ADD_NEW_SUBMARINE","登记新的潜水艇（潜水艇登记票×<Value>IntegerParameter(1)</Value>张）"
+4,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME","<Highlight>StringParameter(1)</Highlight>  [<Value>IntegerParameter(5)</Value>级]  <Switch(IntegerParameter(2))><Case(1)></Case><Case(2)></Case><Case(3)> [正在探索：剩余时间 <If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value>天<Else/></If><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小时<Else/><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(3)</Value>小时<Else/></If></If><Value>IntegerParameter(4)</Value>分钟]</Case></Switch>"
+5,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_FINISH","<Highlight>StringParameter(1)</Highlight>  [<Value>IntegerParameter(5)</Value>级]  [探索完成]"
+6,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_EXIT","取消"
+7,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_TITLE","<Highlight>StringParameter(1)</Highlight> [<Value>IntegerParameter(3)</Value>级]
+　探索机体数：<Value>IntegerParameter(4)</Value>/<Value>IntegerParameter(5)</Value>
+　所持燃料数：桶装青磷水　<Value>IntegerParameter(2)</Value>桶"
+8,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_EXPEDITION","出发"
+9,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_RESULT","上次的远航报告"
+10,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_PARTS","更换配件"
+11,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_REPAIR_PARTS","修理配件"
+12,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_SETTING","设置"
+13,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_COLOR","对配件染色"
+14,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_NAME","更改名字"
+15,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_REMOVE","解体"
+16,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_TITLE","<Highlight>StringParameter(1)</Highlight> [<Value>IntegerParameter(2)</Value>级]
+　探索机体数：<Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(4)</Value>
+　正在探索：剩余时间 <If(GreaterThan(IntegerParameter(5),0))><Value>IntegerParameter(5)</Value>天<Else/></If><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value>小时<Else/><If(GreaterThan(IntegerParameter(5),0))><Value>IntegerParameter(6)</Value>小时<Else/></If></If><Value>IntegerParameter(7)</Value>分钟"
+17,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_COND","中止探索"
+18,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_MAP","确认海底图"
+19,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS","确认潜水艇"
+20,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE","请输入潜水艇的名字。"
+21,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION","潜水艇的名字"
+22,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0","名称中可以使用汉字、字母、数字、空格以及下列符号。
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>‘. , : ; ! ? & - _<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+·空格与下划线无法连续使用。
+·空格无法用在开头和结尾。
+·无法创建只使用符号的名称。"
+23,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE","确定要对潜水艇<Highlight>StringParameter(1)</Highlight>进行解体吗？
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>正在装备的道具将会被返还，
+但不会返还潜水艇登记票。
+潜水艇等级等情报也会被全部清空。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+24,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK","对潜水艇进行解体"
+25,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1","要对潜水艇进行登记，
+需要潜水艇登记票和潜水艇配件。"
+26,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_2","可以使用部队战绩和住宅区管理人交换潜水艇登记票。"
+27,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_3","需要4种潜水艇配件，分别是：
+船体、船尾、船首、舰桥。
+可以使用部队合建设备来制作。"
+28,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_ENERGY","潜水艇出港需要桶装青磷水。
+可以使用部队战绩和住宅区管理人交换桶装青磷水。"
+29,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_1","潜水艇探索结束后会发放远航报告。
+可以以此确认各目的地的探索详情。"
+30,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_2","远航报告中也记载着作为探索线索的情报。
+试着提升潜水艇的装备，
+立志完成更好的探索。"
+31,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_3","另外，远航报告会保存最近一次的远航记录，
+部队成员们一起来确认内容，
+考虑接下来要制作的潜水艇配件吧。"
+32,"TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REPAIR_ITEM","修理潜水艇配件需要魔导机械修理材料。"

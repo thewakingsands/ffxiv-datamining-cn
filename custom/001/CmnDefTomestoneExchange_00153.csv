@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP","<Sheet(Item,IntegerParameter(1),0)/>？
+罗薇娜说那石头卖不出去，所以停止交易了。
+……因为收藏家总是会立刻找到下一个“猎物”。"
+1,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE","如果你需要的话，我可以用<Sheet(Item,IntegerParameter(2),0)/>和你交换……
+不过前提是你如果有<Sheet(Item,IntegerParameter(1),0)/>的话。"
+2,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q","如果你需要的话，
+我可以用<Sheet(Item,IntegerParameter(3),0)/>换你的<Sheet(Item,IntegerParameter(1),0)/>。
+我至少能赚点零花钱。"
+3,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q","要用“<Sheet(Item,IntegerParameter(1),0)/>”×<Value>IntegerParameter(2)</Value>
+换取“<Sheet(Item,IntegerParameter(3),0)/>”×<Value>IntegerParameter(4)</Value>吗？"
+4,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES","交换"
+5,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO","取消"

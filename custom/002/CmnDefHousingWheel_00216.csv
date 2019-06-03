@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFHOUSINGWHEEL_00216_NULL","（★未使用／削除予定★）"
+1,"TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE","要做什么？　[闲置中:<Value>IntegerParameter(1)</Value>　充能中:<Value>IntegerParameter(2)</Value>　充能完毕:<Value>IntegerParameter(3)</Value>]"
+2,"TEXT_CMNDEFHOUSINGWHEEL_00216_SETUP_WHEEL","转轮管理"
+3,"TEXT_CMNDEFHOUSINGWHEEL_00216_CONVERT_ENERGY","转换充能转轮"
+4,"TEXT_CMNDEFHOUSINGWHEEL_00216_CANCEL","取消"

@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01","仙人微彩是谁都可以参加的轻松抽选！
+如果您感觉今天手气还不错，
+请一定要来试一试！"
+1,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02","每天可以有3次机会参加仙人微彩有奖竞猜。"
+2,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03","参加次数将在每天<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）被重置。
+在重置参加次数后便可再次参加仙人微彩的有奖竞猜。"
+3,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_ACTOR","（未使用/预计删除）"

@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_000","在这云冠群岛上，
+古代野兽们的活动范围会随着天气的变化而变化。
+因此，我们创造出了一套独特的天气观测法。"
+1,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_010","目前的天气是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(2),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>……
+<If(Equal(IntegerParameter(2),IntegerParameter(3)))><If(Equal(IntegerParameter(3),IntegerParameter(4)))>并且将会持续一段时间。<Else/>持续一段时间后，将会转为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。</If><Else/><If(Equal(IntegerParameter(3),IntegerParameter(4)))>不过之后将会持续<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。<Else/>之后将会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>相继而至。</If></If>"
+2,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_020","<If(NotEqual(IntegerParameter(2),IntegerParameter(6)))>但是，因为漂流遗迹的影响，
+我也不知道什么时候有雷波……<Else/>目前的天气是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(2),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>……
+<If(Equal(IntegerParameter(2),IntegerParameter(3)))><If(Equal(IntegerParameter(3),IntegerParameter(4)))>并且将会持续一段时间。<Else/>持续一段时间后，将会转为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。</If><Else/><If(Equal(IntegerParameter(3),IntegerParameter(4)))>不过之后将会持续<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。<Else/>之后将会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>相继而至。</If></If></If>"
+3,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_030","优雷卡的某些魔物只会在特定的天气中才出来活动。
+在出发前去冒险前，请多加利用我发布的天气预报！"
+4,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_040","目前的天气是<Sheet(Weather,IntegerParameter(2),1)/>……
+<If(Equal(IntegerParameter(2),IntegerParameter(3)))><If(Equal(IntegerParameter(3),IntegerParameter(4)))>并且将会持续一段时间。<Else/>持续一段时间后，将会转为<Sheet(Weather,IntegerParameter(4),1)/>。</If><Else/><If(Equal(IntegerParameter(3),IntegerParameter(4)))>不过之后将会持续<Sheet(Weather,IntegerParameter(3),1)/>。<Else/>之后将会有<Sheet(Weather,IntegerParameter(3),1)/>与<Sheet(Weather,IntegerParameter(4),1)/>相继而至。</If></If>"
+5,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_000_000","（未使用/预计删除）"
+6,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_000_010","（未使用/预计删除）"

@@ -1,0 +1,96 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANIXA606_01567_SEQ_00","※本任务推荐等级为：
+　制作职业16级以上、战斗职业49级以上。
+
+长风实验场的二把手杰兹尔·阿华坦有个险恶的委托要交给冒险者。"
+1,"TEXT_BANIXA606_01567_SEQ_01","二把手杰兹尔·阿华坦委托冒险者制作<Sheet(ItemHQ,　8126,0)/>。首先，前往库尔札斯中央高地的风扬殖民地，从<Sheet(EObj,2004490,0)/>中取得3个<Sheet(EventItem,2001431,0)/>。"
+2,"TEXT_BANIXA606_01567_SEQ_02","获得了<Sheet(EventItem,2001431,0)/>。将<Sheet(EventItem,2001431,0)/>交给巨龙首营地的诺贝托，获取制作设施的使用许可。"
+3,"TEXT_BANIXA606_01567_SEQ_03","可以使用制作设施了。用<Sheet(Item,　8083,0)/>制作<Sheet(ItemHQ,　8126,0)/>，并将其交给长风实验场的二把手杰兹尔·阿华坦。
+
+※如果“制作设施：精密工作II”的状态效果消失了，或者<Sheet(Item,　8083,0)/>不足的话，就和诺贝托对话，即可重获状态效果和材料，并再次进行挑战。"
+4,"TEXT_BANIXA606_01567_SEQ_04","将<Sheet(ItemHQ,　8126,0)/>交给了二把手杰兹尔·阿华坦。从毫不犹豫地下令侵入敌阵抢夺材料这点上来看，他是个不择手段的武斗派。执行了特攻任务的冒险者，不仅工匠能力，在战斗力上也得到了很高评价。"
+5,"TEXT_BANIXA606_01567_SEQ_05","空"
+6,"TEXT_BANIXA606_01567_SEQ_06","空"
+7,"TEXT_BANIXA606_01567_SEQ_07","空"
+8,"TEXT_BANIXA606_01567_SEQ_08","空"
+9,"TEXT_BANIXA606_01567_SEQ_09","空"
+10,"TEXT_BANIXA606_01567_SEQ_10","空"
+11,"TEXT_BANIXA606_01567_SEQ_11","空"
+12,"TEXT_BANIXA606_01567_SEQ_12","空"
+13,"TEXT_BANIXA606_01567_SEQ_13","空"
+14,"TEXT_BANIXA606_01567_SEQ_14","空"
+15,"TEXT_BANIXA606_01567_SEQ_15","空"
+16,"TEXT_BANIXA606_01567_SEQ_16","空"
+17,"TEXT_BANIXA606_01567_SEQ_17","空"
+18,"TEXT_BANIXA606_01567_SEQ_18","空"
+19,"TEXT_BANIXA606_01567_SEQ_19","空"
+20,"TEXT_BANIXA606_01567_SEQ_20","空"
+21,"TEXT_BANIXA606_01567_SEQ_21","空"
+22,"TEXT_BANIXA606_01567_SEQ_22","空"
+23,"TEXT_BANIXA606_01567_SEQ_23","空"
+24,"TEXT_BANIXA606_01567_TODO_00","从风扬殖民地<Sheet(EObj,2004490,0)/>中获取<Sheet(EventItem,2001431,0)/>"
+25,"TEXT_BANIXA606_01567_TODO_01","将<Sheet(EventItem,2001431,0)/>交给巨龙首营地的诺贝托"
+26,"TEXT_BANIXA606_01567_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务6级：制作<Sheet(ItemHQ,　8126,0)/><Else/>将<Sheet(ItemHQ,　8126,0)/>交给二把手杰兹尔·阿华坦</If>"
+27,"TEXT_BANIXA606_01567_TODO_03","空"
+28,"TEXT_BANIXA606_01567_TODO_04","空"
+29,"TEXT_BANIXA606_01567_TODO_05","空"
+30,"TEXT_BANIXA606_01567_TODO_06","空"
+31,"TEXT_BANIXA606_01567_TODO_07","空"
+32,"TEXT_BANIXA606_01567_TODO_08","空"
+33,"TEXT_BANIXA606_01567_TODO_09","空"
+34,"TEXT_BANIXA606_01567_TODO_10","空"
+35,"TEXT_BANIXA606_01567_TODO_11","空"
+36,"TEXT_BANIXA606_01567_TODO_12","空"
+37,"TEXT_BANIXA606_01567_TODO_13","空"
+38,"TEXT_BANIXA606_01567_TODO_14","空"
+39,"TEXT_BANIXA606_01567_TODO_15","空"
+40,"TEXT_BANIXA606_01567_TODO_16","空"
+41,"TEXT_BANIXA606_01567_TODO_17","空"
+42,"TEXT_BANIXA606_01567_TODO_18","空"
+43,"TEXT_BANIXA606_01567_TODO_19","空"
+44,"TEXT_BANIXA606_01567_TODO_20","空"
+45,"TEXT_BANIXA606_01567_TODO_21","空"
+46,"TEXT_BANIXA606_01567_TODO_22","空"
+47,"TEXT_BANIXA606_01567_TODO_23","空"
+48,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_000","……有件事想专门委托给你！
+我需要飞空艇上要用到的<Sheet(ItemHQ,　8126,0)/>！"
+49,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_010","用其将飞空艇的空气动力特性再度提高！
+虽然大部分都已经完成了，
+但外装板还不够！"
+50,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_020","用其将飞空艇的空气动力特性再度提高！
+虽然大部分都已经完成了，
+但填补空隙的油灰不够了！"
+51,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_030","用其将飞空艇的空气动力特性再度提高！
+虽然大部分都已经完成了，
+但外装零件还不够！"
+52,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_040","加上连制作这些的材料都没有的话……那就只能来硬的了！
+你直接去库尔札斯中央高地的风扬殖民地，
+从<Sheet(EObj,2004490,0)/>里偷吧！"
+53,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_041","材料到手后，就去趟巨龙首营地进行制作！
+制作设施可以管那个叫诺贝托的借！"
+54,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_050","加上连制作这些的材料都没有的话……那就只能来硬的了！
+你直接去库尔札斯中央高地的风扬殖民地，
+从<Sheet(EObj,2004490,0)/>里偷吧！"
+55,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_051","材料到手后，就去趟巨龙首营地进行制作！
+制作设施可以管那个叫诺贝托的借！"
+56,"TEXT_BANIXA606_01567_NORBETTAUX_000_090","欢迎来到巨龙首营地的制作设施！
+这边请，先烘暖你冻僵的手指，再加油工作吧！"
+57,"TEXT_BANIXA606_01567_NORBETTAUX_000_091","谢谢，材料袋我收下了。
+……制作时大概是需要这么多吧？
+请自由使用本设施。"
+58,"TEXT_BANIXA606_01567_NORBETTAUX_000_100","材料不足或想再利用本设施时，请跟我说。"
+59,"TEXT_BANIXA606_01567_NORBETTAUX_100_100","看来你制作完成可以去交货了！
+如果作品不小心弄丢了或者想再利用本设施的话，请跟我说。"
+60,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_130","哦哦！你回来啦！
+我以为你会被揍得只剩下半条命！
+如何？事情办好了？"
+61,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_131","这不就是我要的<Sheet(ItemHQ,　8126,0)/>吗！
+有了这个，我们设计的装置就能完成、进行测试了！"
+62,"TEXT_BANIXA606_01567_JEZULAHUATAN_000_132","我们的目标非常非常高！
+所以只要有一点尝试的价值，
+我们都会不择手段地将其实现！"
+63,"TEXT_BANIXA606_01567_POPMESSAGE_000_200","制作设施已经准备就绪。"
+64,"TEXT_BANIXA606_01567_SYSTEM_200_200","背包中留有在本次任务中制作出的普通品质道具。
+这种道具无法使用也无法出售给商店，尽早扔掉吧。"
