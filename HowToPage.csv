@@ -4200,8 +4200,15 @@ int32,byte,byte,Image,byte,str,str,str
 有效技能的上限为青魔法24种。","",""
 2505,1,0,152774,0,"在青魔法书中可以确认到青魔法的攻击类型、攻击属性、解说等信息。
 关于青魔法主要学习地点的信息也记录在上面，可以根据提示多多学习新的青魔法。","",""
-2506,0,0,0,0,"","",""
-2507,0,0,0,0,"","",""
+2506,1,0,152761,0,"在最终幻想14的世界中，除了你创建角色时选择的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>原始服务器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，还有着很多其他的服务器。
+通过某些城市的以太之光，可以传送到其他的世界中旅行！
+
+想要跨服找朋友玩耍时，记得利用此功能。","",""
+2507,1,0,152762,0,"想要从其他服务器返回原始服务器时，也是和去时一样使用城内的以太之光即可。
+
+在造访其他服务器时会有一部分机能受到限制。
+
+详情请通过可进行跨界传送的以太之光进行确认。","",""
 2508,1,0,152775,0,"青魔法师的武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔杖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与通常的装备不同，不会为角色提供状态参数。
 
 不过青魔法师的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以提供高于其他职业的攻击伤害加成，请通过防具和饰品提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，让青魔法师变得更强吧！","",""

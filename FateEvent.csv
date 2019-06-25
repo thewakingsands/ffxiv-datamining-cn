@@ -1957,5 +1957,8 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 谢谢你回收回来啊！","","……怎么了？不想把降神糕交给俺吗？",""
 447,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,"已经回收了不少的降神糕，
 这样一来降神节也肯定会顺利举办的！","","","","","","",""
-448,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,"","","","","","","",""
+448,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,3,0,0,0,0,0,0,"据说有人在这附近见过机械士兵，
+你也很感兴趣吧？","对机械士兵感兴趣吗？
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※此危命任务的推荐等级为<Value>IntegerParameter(1)</Value>级。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","","","","","什么啊，居然不感兴趣吗……",""
 449,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,"","","","","","","",""

@@ -196,7 +196,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 192,"趾踵步",6299,6298,0,0,0,0,0,False,False,False,2,49,False,True,False,False,10030,593,64376,8140,8141,232
 193,"古菩步",6301,6300,0,0,0,0,0,False,False,False,2,50,False,True,False,False,10031,594,64377,8142,8143,233
 194,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
-195,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0
+195,"振作精神",6278,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,57,596,64379,8146,8147,234
 196,"提醒",6277,6276,0,0,0,0,0,False,False,False,2,51,False,True,False,False,11015,597,64380,8148,8149,235
 197,"优雅仙人刺",6250,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,58,598,64381,8150,8151,236
 198,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0

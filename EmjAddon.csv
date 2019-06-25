@@ -59,7 +59,7 @@ int32,str
 54,"倍满"
 55,"三倍满"
 56,"役满"
-57,"累计倍满"
+57,"累计役满"
 58,"双倍役满"
 59,"三倍役满"
 60,"距离下次对战还有<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"

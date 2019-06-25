@@ -319,8 +319,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 315,"小长颈驼",0,"",0,0,1,0,0,1388,100,10,0,0,0,2,0,8,358,True,False,True,False,True,0,False,True,4815,1073,True,0,10,400,26,120,20,1,622,1
 316,"水豚幼崽",0,"",0,0,1,0,0,2342,100,10,0,0,0,2,0,8,373,True,False,False,True,True,0,False,True,4816,3018,True,0,15,500,31,0,30,2,620,1
 317,"格雷姆林宝宝",0,"",0,0,1,0,0,2411,71,10,0,0,0,2,0,8,374,True,False,False,True,True,0,False,True,4817,1076,False,0,15,440,13,30,20,1,604,1
-318,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-319,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+318,"有限的美德",0,"",0,0,1,0,0,2418,100,10,0,0,0,2,0,8,358,True,False,False,True,True,0,False,True,4818,1073,False,0,30,490,15,0,40,1,620,2
+319,"小雪童子",0,"",0,0,1,0,0,2417,100,10,0,0,0,2,0,8,376,True,False,True,False,False,0,False,True,4819,1077,False,0,10,400,6,360,40,1,600,1
 320,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
 321,"迷你武装重甲",0,"",0,0,1,0,0,2416,100,10,0,0,0,1,0,8,378,False,True,False,True,False,0,False,True,4821,11007,False,0,20,500,35,360,30,1,634,2
 322,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

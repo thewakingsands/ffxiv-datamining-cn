@@ -9460,6 +9460,7 @@ A：Assist，协助他人打倒敌人的次数"
 观战小队：1～8人用（若有人观战）"
 10828,"已登记能参赛的竞赛陆行鸟"
 10829,"※设限特职只有在以规定人数组队或解除人数限制的状态下才能进入副本任务。"
+10830,"来自原始服务器的申请"
 10831,"段位初段以上"
 10832,"此任务暂时封锁中。"
 10850,"申请决斗"
@@ -9838,6 +9839,10 @@ A：Assist，协助他人打倒敌人的次数"
 11313,"决定"
 11314,"取消"
 11315,"已失效的乐器演奏技能"
+11316,"支援物资：哥布式豪华套组"
+11317,"支援物资：哥布林坦克认证钥匙"
+11318,"支援物资：大容量青磷水罐"
+11319,"支援物资：哥布式兴奋剂"
 11320,"A"
 11321,"B"
 11322,"C"
@@ -9878,14 +9883,21 @@ A：Assist，协助他人打倒敌人的次数"
 11356,"<Highlight>StringParameter(1)</Highlight>胜利！"
 11357,"团队"
 11358,"青磷水量"
+11359,"正准备前往<If(Equal(IntegerParameter(1),0))>战场北部<Else/>战场南部</If>！"
 11360,"K：Knockout，打倒敌人的次数"
 11361,"D：Down，被敌人打倒的次数"
 11362,"A：Assist，协助他人打倒敌人的次数"
+11363,"正在<If(Equal(IntegerParameter(1),0))>战场北部<Else/>战场南部</If>待机！"
 11364,"防御塔1"
 11365,"防御塔2"
 11366,"核心"
+11367,"青磷引擎车行驶中"
 11368,"可以挑战升格战"
 11369,"<If(Equal(IntegerParameter(1),0))>升格所需积分<Else/>挑战升格战所需积分</If>"
+11370,"“哥布林坦克”从核心开始出击。
+阵营内各小队“奋战槽”提升。
+阵营内各小队“青磷水”增加。
+阵营内各小队“气势”提升。"
 11371,"阵营"
 11372,"<Switch(IntegerParameter(1))><Case(1)>猎隼塔</Case><Case(2)>渡鸦塔</Case></Switch><Value>IntegerParameter(3)</Value>
 剩余耐久度：<Value>IntegerParameter(2)</Value>%"
@@ -9893,12 +9905,25 @@ A：Assist，协助他人打倒敌人的次数"
 剩余耐度：<Value>IntegerParameter(2)</Value>%"
 11374,"动力发生器
 <Switch(IntegerParameter(1))><Case(1)>猎隼占领中</Case><Case(2)>渡鸦占领中</Case><Case(3)>未占领状态</Case></Switch>"
+11375,"哥布林佣兵<Switch(IntegerParameter(1))><Case(1)>
+待机中</Case><Case(2)>
+战斗中</Case><Case(3)>
+出击准备中：<Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
+11376,"载货车站
+<Switch(IntegerParameter(1))><Case(1)>猎隼占领中</Case><Case(2)>渡鸦占领中</Case><Case(3)>未占领状态</Case><Case(4)>青磷引擎车出现还有：<Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
+11377,"渡鸦阵营佣兵契约中"
 11378,"请选择要搭乘的机动兵器。
 ※每支小队只能有1人搭乘。"
 11379,"青磷水"
 11380,"可搭乘数：<Value>IntegerParameter(1)</Value>"
 11381,"※可搭乘数为阵营内共享。"
 11382,"搭乘机动兵器"
+11383,"“哥布林坦克”从核心开始出击。
+阵营内各小队“气势”提升。"
+11384,"阵营内各小队“青磷水”增加。
+阵营内各小队“气势”提升。"
+11385,"阵营内各小队“奋战槽”提升。
+阵营内各小队“气势”提升。"
 11386,"无法搭乘，原因如下。"
 11387,"已有队员搭乘了机动兵器"
 11388,"青磷水不足"
@@ -9912,6 +9937,8 @@ A：Assist，协助他人打倒敌人的次数"
 11395,"胜利次数："
 11396,"对战次数："
 11397,"胜利次数："
+11398,"猎隼阵营佣兵契约中"
+11399,"<If(Equal(IntegerParameter(1),0))>北部区域<Else/>南部区域</If>战斗中！"
 11400,"强欲陷阱"
 11401,""
 11402,"当前财宝获得数量"
@@ -10173,6 +10200,7 @@ A：Assist，协助他人打倒敌人的次数"
 11683,"确定要舍弃文理技能“<Sheet(Action,IntegerParameter(1),0)/>”<If(GreaterThan(IntegerParameter(2),0))>和“<Sheet(Action,IntegerParameter(2),0)/>”<Else/></If>吗？"
 11684,"迷宫攻略中"
 11685,"优先显示"
+11686,"+<Value>IntegerParameter(1)</Value>"
 11687,"魔素板转为攻击属性"
 11688,"魔素板转为防御属性"
 11689,"连锁"
@@ -10378,6 +10406,8 @@ A：Assist，协助他人打倒敌人的次数"
 11888,"可申请参加时间"
 11889,"可申请参加时间"
 11890,"<Highlight>StringParameter(1)</Highlight> , <If(GreaterThanOrEqualTo(IntegerParameter(2),25))>～<Value>IntegerParameter(3)</Value>:<ZeroPaddedValue(2)>IntegerParameter(5)</ZeroPaddedValue><Else/><If(GreaterThanOrEqualTo(IntegerParameter(3),25))><Value>IntegerParameter(2)</Value>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue>～<Else/><Value>IntegerParameter(2)</Value>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue>～<Value>IntegerParameter(3)</Value>:<ZeroPaddedValue(2)>IntegerParameter(5)</ZeroPaddedValue></If></If>"
+11892,"哥布林佣兵
+出击准备中……"
 11900,"投影到当前装备上"
 11901,"投影到右指装备上"
 11902,"投影到左指装备上"
@@ -10945,6 +10975,81 @@ A：Assist，协助他人打倒敌人的次数"
 12507,"斩击"
 12508,"突刺"
 12509,"打击"
+12510,"跨界传送"
+12511,""
+12512,"原始服务器"
+12513,"其他服务器"
+12514,"　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《关于跨界传送》<UIForeground>01</UIForeground>
+您可以离开自己所在的服务器去往同一大区内的其他服务器游玩。在其他服务器可以照常进行和好友组队、购物、挑战副本任务等行动。
+
+　　　　　　　　　<UIForeground>F20202</UIForeground>《申请跨界传送时的注意事项》<UIForeground>01</UIForeground>
+申请跨界传送时，根据目标服务器的拥挤程度可能会需要一定的等待时间。等待结束后传送会自动进行，届时您正在执行的所有操作都将被强制取消。
+
+　　　　　　　　　　　<UIForeground>F20202</UIForeground>《身处其他服务器时的限制》<UIForeground>01</UIForeground>
+在其他服务器游玩时存在以下限制需要注意。
+
+<UIForeground>F20202</UIForeground>雇员<UIForeground>01</UIForeground>将受到如下限制：
+　·无法传唤、雇佣、解雇雇员。
+　·无法将道具在市场布告板出售。（但可以从市场布告板购买道具）
+
+<UIForeground>F20202</UIForeground>部队<UIForeground>01</UIForeground>将受到如下限制：
+　·无法创建或加入部队。
+　·无法确认自身所在部队的情报。
+　·无法获得部队战绩。
+
+<UIForeground>F20202</UIForeground>通讯贝<UIForeground>01</UIForeground>将受到如下限制：
+　·无法使用通讯贝。
+　·无法确认通讯贝情报。
+　·无法创建或加入通讯贝。
+
+<UIForeground>F20202</UIForeground>房屋<UIForeground>01</UIForeground>将受到如下限制：
+　·无法购买土地或公寓房间。
+　·无法房屋共享。
+
+<UIForeground>F20202</UIForeground>永结同心<UIForeground>01</UIForeground>将受到如下限制：
+　·永结同心典礼只能在原始服务器举行。
+　·永结同心的任务只能在原始服务器领取。
+　·典礼请柬无法交给其他服务器的玩家。
+
+<UIForeground>F20202</UIForeground>任务与机能<UIForeground>01</UIForeground>将受到如下限制：
+　·无法参加萌宠之王大赛。
+　·无法参加九宫幻卡大赛。
+　·无法购买或兑奖仙人仙彩。
+　·无法使用莫古邮件。
+　·深层迷宫的积分不进排名。
+　·传送到恋人或好友身边的机能只有在两人同在一个服务器时才能使用。
+　·采矿工与园艺工无法发现未知、传说等采集点。
+"
+12515,"原始服务器"
+12516,"当前服务器"
+12517,"无法选择此服务器"
+12518,"正在获得服务器信息"
+12519,"确定要移动到“<Highlight>StringParameter(1)</Highlight>”吗？"
+12520,"正在预约申请跨界传送"
+12521,"传送目的地：<Highlight>StringParameter(1)</Highlight>"
+12522,"传送预约等待顺序："
+12523,"已经过时间：<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>/平均等待时间："
+12524,"传送预约状态"
+12525,""
+12526,"<Highlight>StringParameter(1)</Highlight>"
+12527,"<Highlight>StringParameter(1)</Highlight>"
+12528,"传送预约等待顺序"
+12529,"已经过时间"
+12530,"平均等待时间"
+12531,"取消"
+12532,"第<Value>IntegerParameter(1)</Value>"
+12533,"<Value>IntegerParameter(1)</Value>以后"
+12534,"<Value>IntegerParameter(1)</Value>分钟"
+12535,"<Value>IntegerParameter(1)</Value>分钟以上"
+12536,"<Value>IntegerParameter(1)</Value>分钟以内"
+12537,"跨界传送"
+12538,"传送准备完毕！"
+12539,"<Highlight>StringParameter(1)</Highlight>"
+12540,"<Highlight>StringParameter(1)</Highlight>"
+12541,"放浪神加护"
+12542,"当前服务器"
+12543,"服务器信息"
+12544,"服务器列表"
 101000,"<CommandIcon(10)/>次级指令"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/> 选择"
@@ -11321,6 +11426,7 @@ A：Assist，协助他人打倒敌人的次数"
 102335,"确定要将免费点中的<Sheet(PlaceName,<Sheet(Aetheryte,IntegerParameter(1),8)/>,0)/>替换掉吗？"
 102336,"当前地点已经添加到免费点中，确定要更换到普通的收藏夹中吗？"
 102337,"当前地点已经添加到收藏夹中，确定要更换到免费点中吗？"
+102338,"<Gui(69)/> 跨界传送"
 102339,"切换区域后参赛申请将被取消。
 确定要离开当前区域吗？"
 102341,"完成数量"

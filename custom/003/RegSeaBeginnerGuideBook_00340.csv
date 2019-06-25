@@ -81,8 +81,8 @@ int32,str,str
 【ADD】指敌人的增援出现。
 【PULL】指将远处的敌人拉到小队身边来，俗称拉怪。"
 35,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_053","【仇恨】指敌人的敌意，仇恨越高越容易被攻击，也称为HATE。
-【BUFF】指能够使能力变强的积极效果。
-【DEBUFF】与BUFF相反，指会使能力变弱的消极效果。"
+【强化效果】指能够使能力变强的积极效果。
+【弱化效果】与强化效果相反，指会使能力变弱的消极效果。"
 36,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_054","【DoT】Damage Over Time的简写，指对目标造成持续伤害。
 【AE／AoE】Area (of) Effect的简写，指范围攻击。"
 37,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_055","除了举例的这些，简语还有很多，

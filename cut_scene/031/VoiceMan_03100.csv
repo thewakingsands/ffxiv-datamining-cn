@@ -180,7 +180,7 @@ int32,str,str
 83,"TEXT_VOICEMAN_03100_000840_WARRIOROFDARKNESS","(-？？？？-)呀！"
 84,"TEXT_VOICEMAN_03100_000850_WARRIOROFDARKNESS","(-？？？？-)今天我们将打倒你们这群无影，
 我们将用自己的力量纠正歪曲的历史！"
-85,"TEXT_VOICEMAN_03100_000860_ASCIAN","<UIForeground>F20223</UIForeground>愚蠢！你们是不是感觉自己就是英雄了！
+85,"TEXT_VOICEMAN_03100_000860_ASCIAN","(-黑衣无影-)<UIForeground>F20223</UIForeground>愚蠢！你们是不是感觉自己就是英雄了！
 你们真的相信这么做能够拯救世界？！<UIForeground>01</UIForeground>"
 86,"TEXT_VOICEMAN_03100_000870_WARRIOROFDARKNESS","(-？？？？-)事在人为！
 我们一定会拯救这个世界！"

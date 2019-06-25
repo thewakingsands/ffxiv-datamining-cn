@@ -71,7 +71,7 @@ int32,str,str
 不好意思，就拜托你了。"
 54,"TEXT_CLSARM601_02594_HNAANZA_000_006","能不能帮我问问
 布兰修提尔为什么要离开铸甲匠行会？"
-55,"TEXT_CLSARM601_02594_BLANSTYR_000_010","这不是我的我的盟友<Highlight>ObjectParameter(1)</Highlight>吗？
+55,"TEXT_CLSARM601_02594_BLANSTYR_000_010","这不是我的盟友<Highlight>ObjectParameter(1)</Highlight>吗？
 你表情这么严肃，到底怎么了？"
 56,"TEXT_CLSARM601_02594_BLANSTYR_000_011","没错。
 我是打算离开铸甲匠行会。"

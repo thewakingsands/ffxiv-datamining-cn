@@ -546,6 +546,7 @@ int32,uint16,HousingItemCategory,byte,uint32,HousingLayoutLimit,byte,CustomTalk,
 197173,542,12,0,0,0,0,0,23857,False,False,5,0,0,False
 197175,544,14,0,0,0,0,721037,20771,False,False,3,0,0,False
 197176,545,14,0,0,0,0,721037,21813,False,False,0,0,0,False
+197179,548,14,0,0,0,0,721037,24488,False,False,0,0,0,False
 197180,549,12,0,0,0,0,0,22536,False,False,0,0,0,False
 197181,550,14,0,0,0,0,0,22537,False,False,0,0,0,False
 197182,461,15,0,0,0,0,0,20623,False,False,3,0,0,False

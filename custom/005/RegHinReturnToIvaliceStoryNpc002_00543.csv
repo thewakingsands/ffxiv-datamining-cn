@@ -47,7 +47,7 @@ int32,str,str
 我们的才能和努力，认同我们的剧团了吧……"
 20,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_124","我可真是个小孩子……
 自从离开帝国后，我的心中一直充满着不安……
-为了逃避不安，我才在对大家摆出了一副臭架子。"
+为了逃避不安，我才对大家摆出了一副臭架子。"
 21,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_RAMZA_000_125","后来我听别人说，我在触到母亲的项链……
 触到勇者拉姆萨先生灌注在室女座圣石中的灵魂时，
 缠绕在身上的名为恐惧与愤怒的装甲如雪一般融化了……"
@@ -104,8 +104,7 @@ int32,str,str
 46,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_083","（★未使用／削除予定★）"
 47,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_090","什么……以太干扰器竟然没能派上用场！
 我竟然……犯下了……这么大的……失误……"
-48,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_100","从前的黄道勇士——光之战士都
-没能击败圣天使圣天使阿尔蒂玛……
+48,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_100","从前的黄道勇士——光之战士都没能击败圣天使阿尔蒂玛……
 请千万小心，我们无法预测对方究竟有多么强大！"
 49,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_110","（★未使用／削除予定★）"
 50,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_MIKOTO_000_120","（★未使用／削除予定★）"

@@ -71,3 +71,5 @@ int32,str,str,str
 73,"群狼盛宴：战章","TheFeast:Score",""
 74,"群狼盛宴：我方情报","TheFeast:AllyInfo",""
 75,"群狼盛宴：敌方情报","TheFeast:EnemyInfo",""
+76,"烈羽争锋：车站情报","RivalWings:Station",""
+77,"烈羽争锋：哥布林佣兵情报","RivalWings:Mercenary",""
