@@ -43,4 +43,6 @@ int32,str,str
 16,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_070","最近格里达尼亚的居民都非常关注阿拉米格的动向，
 甚至都有些神经质了……
 大家担心战火会蔓延到黑衣森林。"
-17,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_080",""
+17,"TEXT_REGFSTCARLINECANOPY_00156_MIOUNNE_000_080","<Highlight>ObjectParameter(1)</Highlight>，
+听说在基姆利特爆发了战争，直到现在也还未平息。
+为了不安的民众们，冒险者行会也需要更加卖力才行。"

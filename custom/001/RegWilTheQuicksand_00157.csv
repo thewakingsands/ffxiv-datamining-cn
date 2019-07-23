@@ -41,4 +41,6 @@ int32,str,str
 15,"TEXT_REGWILTHEQUICKSAND_00157_MOMODI_000_070","最近，阿拉米格的流民都有些闹闹哄哄的，
 看上去坐立不安……
 但越是这种时候，越需要镇定自若才对……"
-16,"TEXT_REGWILTHEQUICKSAND_00157_MOMODI_000_080",""
+16,"TEXT_REGWILTHEQUICKSAND_00157_MOMODI_000_080","<Highlight>ObjectParameter(1)</Highlight>……呼——你没事真是太好了。
+我听说你在和帝国军战斗时倒下了，一直担心得不得了。
+虽然战况胶着你可能难以抽身，但偶尔也过来报个平安吧。"

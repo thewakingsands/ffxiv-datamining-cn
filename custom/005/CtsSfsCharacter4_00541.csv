@@ -289,7 +289,7 @@ int32,str,str
 不光是饭菜，店里本身也获得了好评！"
 126,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_001","对了<Highlight>ObjectParameter(1)</Highlight>，
 还有件重要的事要告诉你。"
-127,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_002","……本店的终于消除赤字了！
+127,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_002","……本店的赤字终于消除了！
 在你的帮助下崖畔亭挺过来了！
 不愧是我看上的<If(PlayerParameter(4))>女<Else/>男</If>人！"
 128,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_003","亚德基拉先生！

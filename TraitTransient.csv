@@ -221,7 +221,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态持续30秒
 另外，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高到10%"
 175,"毒菌变为猛毒菌"
-176,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毁坏精通<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
+176,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毁坏强化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 毁坏变为毁绝
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>同行召唤兽发动攻击时（发动几率15%）"

@@ -17466,9 +17466,11 @@ int32,str
 14837,""
 14838,""
 14839,""
-14840,""
-14841,""
-14842,""
+14840,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
+14841,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续伤害
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+14842,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100"
 14843,""
 14844,""
 14845,""
@@ -18001,7 +18003,8 @@ int32,str
 15372,""
 15373,""
 15374,""
-15375,""
+15375,"恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),32))><If(Equal(PlayerParameter(68),2))>650<Else/><If(Equal(PlayerParameter(68),20))>650<Else/>450</If></If><Else/>450</If>
+恢复力与当前物理攻击力相关"
 15376,""
 15377,""
 15378,""

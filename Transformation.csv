@@ -283,7 +283,7 @@ int32,byte,ModelChara,uint16,int32,BNpcCustomize,Action,Action,Action,Action,Act
 279,1,1577,0,0,0,0,0,0,0,0,0,False,0,0,1.5,False,False,True,76,76,0,0,0,0
 280,1,1342,0,0,1122,0,0,0,0,0,0,False,0,0,1.75,False,False,True,76,76,0,0,0,0
 281,1,862,0,0,903,0,0,0,0,0,0,False,0,0,2,False,False,True,76,76,0,0,0,0
-282,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,False,False,False,0,0,0,0,0,0
+282,3,0,0,691,1320,14840,14841,14842,15375,0,0,False,0,0,1,False,False,True,0,0,14690,0,7649,3
 283,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,False,False,False,0,0,0,0,0,0
 284,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,False,False,False,0,0,0,0,0,0
 285,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,False,False,False,0,0,0,0,0,0

@@ -636,4 +636,4 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 642,"music/ffxiv/BGM_RideShooting_Win.scd",1,False,False,True,90,0
 643,"music/ffxiv/BGM_RideShooting_Lose.scd",1,False,False,True,90,0
 644,"music/ffxiv/BGM_RideShooting.scd",1,False,False,True,90,0
-645,"",0,False,False,False,0,0
+645,"music/ex2/BGM_EX2_EndCredit02.scd",1,False,False,True,90,0
