@@ -1,6 +1,6 @@
 ﻿key,0,1,2
-#,,,
-int32,int32,single,single
+#,Location,,
+int32,Level,single,single
 0.0,0,0,0
 1.0,4512071,0,0
 1.1,4520393,0,0

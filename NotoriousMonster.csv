@@ -1,6 +1,6 @@
 ﻿key,0,1
-#,,
-int32,int32,uint16
+#,BNpcBase,Rank
+int32,BNpcBase,uint16
 0,0,0
 1,3175,0
 2,3192,0

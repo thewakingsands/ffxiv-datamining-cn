@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Destination,Location,,,,RankReq,CeruleumTankReq,Duration<min>,DistanceForSurvey,ExpReward
+#,Destination,Location,,,,,,,RankReq,CeruleumTankReq
 int32,str,str,int16,int16,int16,byte,byte,uint16,byte,uint32
 0,"","",483,927,0,0,0,0,0,0
 1,"A　洁白浅滩","A",640,880,100,1,1,180,10,10610

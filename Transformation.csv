@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
-#,,Model,,,BNpcCustomize,Action[0],Action[1],Action[2],Action[3],Action[4],Action[5],,,Speed,Scale,IsPvP,IsEvent,PlayerCamera,,,,,,
-int32,byte,ModelChara,uint16,int32,BNpcCustomize,Action,Action,Action,Action,Action,Action,bit&01,byte,single,single,bit&02,bit&04,bit&08,uint16,uint16,uint32,sbyte,uint16,byte
+#,,Model,BNpcName,BNpcCustomize,NpcEquip,,Action[0],,Action[1],,Action[2],,Action[3],,Action[4],Action[5],,,RPParameter,Speed,Scale,IsPvP,IsEvent,PlayerCamera
+int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,uint16,Action,uint16,Action,uint16,Action,bit&01,Action,single,Action,Action,bit&04,bit&08,RPParameter,uint16,uint32,sbyte,uint16,byte
 0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,1,False,False,True,0,0,0,0,0,0
 1,1,639,0,0,0,0,0,0,0,0,0,False,0,0,1,False,False,True,76,76,0,0,0,0
 2,1,738,0,0,0,2443,0,0,0,0,0,False,0,0,1,False,False,True,76,76,0,0,0,0

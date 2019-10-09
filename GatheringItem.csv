@@ -1,5 +1,5 @@
 ﻿key,0,1,2
-#,Item,GatheringItemLevel,IsHidden
+#,Item,GatheringItemLevel,
 int32,Row,GatheringItemLevelConvertTable,bit&01
 0,0,0,False
 1,2,1,False

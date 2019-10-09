@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Name,Icon,Quest{Required}[0],Quest{Required}[1],Quest{Required}[2],Quest{Required}[3],AcceptTalk,FailTalk,
-int32,str,Image,Quest,Quest,Quest,Quest,DefaultTalk,DefaultTalk,bit&01
+#,Name,Icon,,AcceptTalk,FailTalk,,,,
+int32,str,Image,uint32,DefaultTalk,DefaultTalk,int32,int32,int32,bit&01
 262144,"",0,0,0,0,0,0,0,False
 262145,"",0,0,0,0,0,0,0,False
 262151,"道具交易",0,0,0,0,0,0,0,True

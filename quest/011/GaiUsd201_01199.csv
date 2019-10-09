@@ -31,16 +31,13 @@ int32,str,str
 前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSD201_01199_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
 前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-27,"TEXT_GAIUSD201_01199_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
-前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSD201_01199_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>重新领取任务后可不参加危命任务直接推进剧情<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_GAIUSD201_01199_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
 前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSD201_01199_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
 前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-30,"TEXT_GAIUSD201_01199_TODO_06","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
-前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-31,"TEXT_GAIUSD201_01199_TODO_07","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
-前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+30,"TEXT_GAIUSD201_01199_TODO_06","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>重新领取任务后可不参加危命任务直接推进剧情<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+31,"TEXT_GAIUSD201_01199_TODO_07","将超高纯度水晶交给圣寇伊纳克调查地的拉姆布鲁斯"
 32,"TEXT_GAIUSD201_01199_TODO_08","空栏"
 33,"TEXT_GAIUSD201_01199_TODO_09","空栏"
 34,"TEXT_GAIUSD201_01199_TODO_10","空栏"

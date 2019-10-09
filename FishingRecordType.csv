@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,Addon,,,,,,
+#,Addon,RankBRequirement,RankARequirement,RankAARequirement,RankAAARequirement,,
 int32,Addon,uint16,uint16,uint16,uint16,uint16,byte
 0,3835,346,744,820,1028,65535,0
 1,3836,566,1377,2805,5300,65535,0
