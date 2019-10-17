@@ -24,7 +24,7 @@ int32,str,str
 如果你想要成为其他职业的专家，
 那就得再还回来一个。"
 14,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_041","专家之证每周只能返还3次。
-返还次数会在<Time(460802)/>每周星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）刷新。"
+返还次数会在<ResetTime>1203</ResetTime>每周星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）刷新。"
 15,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_TITLE","要返还哪个职业的专家之证？"
 16,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/>"
 17,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CANCEL","取消"
@@ -45,7 +45,7 @@ int32,str,str
 自己决定的道路就不要轻易放弃！
 继续在现在这条路上走走看吧！"
 24,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_091","专家之证每周只能返还3次。
-返还次数会在<Time(460802)/>每周星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）刷新。"
+返还次数会在<ResetTime>1203</ResetTime>每周星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）刷新。"
 25,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_Q1_01","想要问些什么？"
 26,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A1_01","什么是专家制作？"
 27,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A2_01","什么是专家之证？"

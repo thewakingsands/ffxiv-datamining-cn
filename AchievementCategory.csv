@@ -50,7 +50,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 46,"龙堡",11,True,False,8
 47,"基拉巴尼亚",11,True,False,9
 48,"奥萨德",11,True,False,10
-49,"副本任务",11,True,False,11
+49,"副本任务",11,True,False,100
 50,"整体",12,True,False,1
 51,"黑涡团",12,True,False,2
 52,"双蛇党",12,True,False,3
@@ -63,8 +63,9 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 59,"迷宫",13,True,False,6
 60,"探索",13,True,False,7
 61,"大国防联军",13,True,False,8
-62,"",0,False,False,0
-63,"",0,False,False,0
-64,"",0,False,False,0
-65,"",0,False,False,0
-66,"",0,False,False,0
+62,"上古武器",4,True,False,6
+63,"黄道武器",4,True,False,7
+64,"元灵武器",4,True,False,8
+65,"深层迷宫聚魔装备",4,True,False,9
+66,"禁地兵装",4,True,False,10
+67,"诺弗兰特",11,True,False,11

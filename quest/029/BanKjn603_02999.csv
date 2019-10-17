@@ -52,7 +52,7 @@ int32,str,str
 45,"TEXT_BANKJN603_02999_TODO_21",""
 46,"TEXT_BANKJN603_02999_TODO_22",""
 47,"TEXT_BANKJN603_02999_TODO_23",""
-48,"TEXT_BANKJN603_02999_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，红甲族的的动向很奇怪——
+48,"TEXT_BANKJN603_02999_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，红甲族的动向很奇怪——
 他们窝在绝鬼岛内部，还搬出了帝国的武器，
 有种马上要去袭击哪里的感觉——"
 49,"TEXT_BANKJN603_02999_ZUKIN_000_001","说不定这里会成为他们的目标——

@@ -46,9 +46,7 @@ int32,str,str
 26,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_003","在持有室内建材的状态下，
 在购入的房间内打开“房屋”菜单，
 选择“更改内部装潢配件”，即可对内部装潢进行变更。"
-27,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004","安装上的建材将无法卸除。
-物品中的室内建材会被消耗，
-所以在更改内部装潢时请好好考虑。"
+27,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_004_004","安装上的室内建材可在安装新室内建材时替换回背包。"
 28,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_005_001","你可以在房间内布置“家具”。
 根据自己的喜好试着装饰自己的房间吧。"
 29,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_005_002","在持有家具的状态下，

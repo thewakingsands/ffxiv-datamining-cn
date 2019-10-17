@@ -32,3 +32,4 @@ int32,str
 28,"所有目的地都探索完成！　即将返航！［探索完成］"
 29,"<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>在航行中发现了“<Sheet(SubmarineExploration,IntegerParameter(1),0)/>”！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>探索的成果得到了认可，可以登记新的潜水艇了！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+31,""

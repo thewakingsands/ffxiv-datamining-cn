@@ -229,7 +229,7 @@ int32,str,str
 146,"TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_02","可恶的弓箭手……不要太猖狂了！"
 147,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_02","敌方竟然有可以使用治疗魔法的人……
 搞不好的话这场战斗可能会拖延很久。"
-148,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_03","<Highlight>ObjectParameter(1)</Highlight>，使用恶终箭收拾掉幻术师！"
+148,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_03","<Highlight>ObjectParameter(1)</Highlight>，快收拾掉幻术师！"
 149,"TEXT_CLSARC004_00070_UNNOWN_BATTLETALK_03","混蛋……别给我太得意！"
 150,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_04","竟然会用连珠箭……哼，敌方也有些有本事的人啊。"
 151,"TEXT_CLSARC004_00070_SILVAIRRE_BATTLETALK_05","<Highlight>ObjectParameter(1)</Highlight>，正面受击可是会死的，注意自己的站位！"

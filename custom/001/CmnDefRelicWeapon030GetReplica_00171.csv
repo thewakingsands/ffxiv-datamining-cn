@@ -13,7 +13,7 @@ int32,str,str
 7,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_Q2_000_000","请选择要交换的«天球书卷»
 ※需要的高位附魔墨水数量
 圣剑:2个　圣盾:1个　其他:3个"
-8,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_010","<Sheet(Item,IntegerParameter(1),0)/>（强化<Sheet(Item,IntegerParameter(2),0)/>用）"
+8,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_010","<Sheet(Item,IntegerParameter(1),0)/>（<Sheet(Item,IntegerParameter(2),0)/>用）"
 9,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_A2_000_110","取消"
 10,"TEXT_CMNDEFRELICWEAPON030GETREPLICA_00171_HUBAIRTIN_000_020","如果要换<Sheet(Item,IntegerParameter(1),0)/>的话，
 那么需要<Value>IntegerParameter(2)</Value>个高位附魔墨水，

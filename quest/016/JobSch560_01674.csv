@@ -94,7 +94,7 @@ int32,str,str
 就你这样的“逗乐小四眼”也敢说自己是海兵？
 哈哈哈哈……我腹肌都笑疼了！"
 62,"TEXT_JOBSCH560_01674_HALGATOLGA_000_021","然后，这边这个就是继承了军事学的“新时代的学者”？
-就凭你这个<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case></Switch>？
+就凭你这个<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>？
 哎哟你们两个，是想笑死我吗？！"
 63,"TEXT_JOBSCH560_01674_HALGATOLGA_000_022","不过，只要经过我的调教，
 哪怕是你们这样的搞笑文工团，也能成为不错的战力！
@@ -119,7 +119,7 @@ int32,str,str
 71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","海兵之魂嗯嗯嗯嗯！！！"
 72,"TEXT_JOBSCH560_01674_HALGATOLGA_000_028","很好，就是这样，一定要时刻牢记“海兵之魂”！
 行了，接下来分别给你们出点课题来做做！"
-73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","喂，那个<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case></Switch>！这附近有个自以为是的辉鳞人队长，
+73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","喂，那个<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>！这附近有个自以为是的辉鳞人队长，
 去找到他，然后狠狠地嘲笑他一番！"
 74,"TEXT_JOBSCH560_01674_HALGATOLGA_000_030","那帮四脚蛇袭击过古神殿，都是一群人渣！
 要是他们恼羞成怒地攻击你，就给我往死里揍！
@@ -134,7 +134,7 @@ int32,str,str
 竟敢、跟我、搭话？
 知不知道、我们是、光鳞战斗团、的？"
 78,"TEXT_JOBSCH560_01674_HALGATOLGA_000_040","噢，你们两个的课题看来是完成了嘛！
-区区逗乐小四眼和<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case></Switch>，
+区区逗乐小四眼和<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>，
 能做到这一步也算不错了，给你们点个赞……"
 79,"TEXT_JOBSCH560_01674_HALGATOLGA_000_041","……以为我会这么说吗！
 这么简单的课题， 居然花了这么久！
@@ -148,7 +148,7 @@ int32,str,str
 最强军团不需要拖后腿的人！不需要拖累同伴的累赘！
 需要的是，你们个人最基本的强大！"
 83,"TEXT_JOBSCH560_01674_HALGATOLGA_000_045","逗乐小四眼，你看到大叔那副肉体，难道没有任何感觉吗？
-<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case></Switch>，你在以一敌多的战斗中，
+<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>，你在以一敌多的战斗中，
 难道就没有任何收获吗？！"
 84,"TEXT_JOBSCH560_01674_HALGATOLGA_000_046","你们各自都好好想想今天训练的意义，然后砍掉重练！
 如果不能强大起来，你们凭什么消灭妖异，

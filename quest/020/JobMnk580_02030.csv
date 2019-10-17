@@ -94,7 +94,7 @@ int32,str,str
 为师命令你杀了维达盖尔特，将太阴第七脉轮打开。"
 68,"TEXT_JOBMNK580_02030_HRAHATIA_000_107","然后你再回到我们太阴流。
 这样我就留杰恩茶一条命。"
-69,"TEXT_JOBMNK580_02030_HRAHATIA_000_108","那个打开了太阳第七脉轮的<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch>冒险者……
+69,"TEXT_JOBMNK580_02030_HRAHATIA_000_108","那个打开了太阳第七脉轮的<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch>冒险者……
 如果你能加入太阴流为我所用，我便放过她们两个。
 ……怎么样，这条件不错吧？"
 70,"TEXT_JOBMNK580_02030_HRAHATIA_000_109","我会在小阿拉米格南边的遗迹等待。

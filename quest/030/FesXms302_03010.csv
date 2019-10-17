@@ -10,9 +10,9 @@ int32,str,str
 
 偷走星芒节装饰物的犯人就是树精。听流浪的圣人说，可能是犯人的树精们向南移动了。和先行一步到中央林区加尔梵斯哨塔收集情报的贝恩费尔德汇合。"
 2,"TEXT_FESXMS302_03010_SEQ_02","和贝恩费尔德汇合了。偷走装饰物的罪犯树精聚集在镜池栈桥附近。和中央林区镜池栈桥的喜欢熊的星芒节执行委员谈谈。"
-3,"TEXT_FESXMS302_03010_SEQ_03","和喜欢熊的星芒节执行委员对话，骑上了<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>。用它们的礼花筒，应该可以打倒罪犯树精。前往镜池栈桥，参加危命任务“星芒节——森林的小偷”，为打倒罪犯树精做出贡献。
+3,"TEXT_FESXMS302_03010_SEQ_03","和喜欢熊的星芒节执行委员对话，骑上了<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。用它们的礼花筒，应该可以打倒罪犯树精。前往镜池栈桥，参加危命任务“星芒节——森林的小偷”，为打倒罪犯树精做出贡献。
 
-※和镜池栈桥附近的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>。"
+※和镜池栈桥附近的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。"
 4,"TEXT_FESXMS302_03010_SEQ_04","为打倒罪犯树精做出了贡献。和弯枝牧场的塔夫谈谈。"
 5,"TEXT_FESXMS302_03010_SEQ_05","和塔夫进行了交谈。听赶过来的贝恩费尔德说，罪犯树精大半已经被抓住了，被偷走的装饰物也已经取回了。虽然星芒节的偷盗事件到此告一段落，但还是有罪犯树精没有落网。如果有时间的话，可以再次为打倒罪犯树精做出贡献。"
 6,"TEXT_FESXMS302_03010_SEQ_06",""
@@ -59,7 +59,7 @@ int32,str,str
 47,"TEXT_FESXMS302_03010_TODO_23",""
 48,"TEXT_FESXMS302_03010_TAFF_000_000","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>，你愿意去取回星芒节的装饰物？！
 哇，谢谢你！"
-49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>跑回来之后一直在催着我跟过来，
+49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>跑回来之后一直在催着我跟过来，
 我只好先放下搜查的工作赶过来了……
 发生什么事了吗？"
 50,"TEXT_FESXMS302_03010_BAENFAELD_000_002","你说什么？！
@@ -113,7 +113,7 @@ int32,str,str
 74,"TEXT_FESXMS302_03010_BAENFAELD_000_048","之后就差罪犯树精的所在地点了……
 如果它们向南移动的话，
 加尔梵斯哨塔的人说不定看到了。"
-75,"TEXT_FESXMS302_03010_BAENFAELD_000_049","我和<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>先去收集情报。
+75,"TEXT_FESXMS302_03010_BAENFAELD_000_049","我和<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>先去收集情报。
 你随后到加尔梵斯哨塔来汇合。"
 76,"TEXT_FESXMS302_03010_GODBERT_000_050","嚯嚯嚯，看来事态已经开始朝着解决迈出了一步。
 为了孩子们，冒险者，就拜托你了！"
@@ -122,20 +122,20 @@ int32,str,str
 78,"TEXT_FESXMS302_03010_BAENFAELD_000_060","哟，我得到情报了。
 偷走装饰物的罪犯树精们，
 好像就聚集在镜池栈桥附近。"
-79,"TEXT_FESXMS302_03010_BAENFAELD_000_061","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>已经先走一步赶往那边。
+79,"TEXT_FESXMS302_03010_BAENFAELD_000_061","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>已经先走一步赶往那边。
 你发现了罪犯树精就和喜欢熊的星芒节执行委员说一声，
-骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>投掷礼花筒！"
+骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>投掷礼花筒！"
 80,"TEXT_FESXMS302_03010_BAENFAELD_000_062","被打倒的罪犯树精由我们执行委员负责抓住。
 我去请别的冒险者也过来帮忙。
 无论如何都要取回装饰物还有孩子们的笑脸！"
 81,"TEXT_FESXMS302_03010_TAFF_000_063","我跟着你去也只会碍事，就在这等你啦！
 <If(PlayerParameter(4))>姐姐<Else/>哥哥</If>加油啊！"
-82,"TEXT_FESXMS302_03010_COMMITTEE00439_100_065","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>已经准备周全。
+82,"TEXT_FESXMS302_03010_COMMITTEE00439_100_065","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>已经准备周全。
 请你骑着它去打倒罪犯树精吧！"
 83,"TEXT_FESXMS302_03010_SYSTEM_110_065","F.A.T.E.『星芒祭「森の盗人」』は、
 「熊好きの星芒祭実行委員」に話しかけて騎乗する、
-「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case></Switch>」でのみ貢献することができます。"
-84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>已经回来了！
+「<Switch(PlayerParameter(71))><Case(1)>コカブ</Case><Case(2)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(3)>フェルカド</Case><Case(4)>コカブ</Case><Case(5)>ポラリス</Case><Case(6)><If(PlayerParameter(4))>コカブ<Else/>ポラリス</If></Case><Case(7)>ポラリス</Case><Case(8)>コカブ</Case></Switch>」でのみ貢献することができます。"
+84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>已经回来了！
 我这就叫它过来，
 请你去打倒罪犯树精吧！"
 85,"TEXT_FESXMS302_03010_TAFF_000_070","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>，你回来啦！

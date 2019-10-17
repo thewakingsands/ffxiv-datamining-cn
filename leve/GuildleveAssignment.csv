@@ -55,7 +55,7 @@ int32,str,str
 同时执行理符任务。"
 42,"TEXT_GUILDLEVEASSIGNMENT_TALK_BATTLE_LEVE_00","可以在“日志”里开始执行佣兵任务。
 执行任务所需的信息也可以在“日志”或“目的列表”中确认。"
-43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","园艺工、采矿工的任务和佣兵任务的流程相同，
+43,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_00","可以在“日志”里开始执行园艺工、采矿工的任务，
 捕鱼人的任务和制作任务的流程相同。"
 44,"TEXT_GUILDLEVEASSIGNMENT_TALK_GATHERING_LEVE_01","此外，园艺工、采矿工的任务，
 如果没有装备采集工具，或者在组队状态下，

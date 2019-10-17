@@ -73,7 +73,7 @@ int32,str,str
 47,"TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_302_002","在特殊规则中，有一种随着地区与时间每日变化，
 大家都约定成俗默默遵守的规则。
 这种规则被称为流行规则。"
-48,"TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_302_003","流行规则会在每日<Time(1285081200)/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）更新，
+48,"TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_302_003","流行规则会在每日<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）更新，
 最多会有两条规则包含其中。
 不同的地区会有不同的流行规则倾向。"
 49,"TEXT_CMNGSCTRIPLETRIADGUIDE_00238_TTGUIDE_303_002","在特殊规则中，可以由对局者自行选择决定的规则被称为对局规则。"

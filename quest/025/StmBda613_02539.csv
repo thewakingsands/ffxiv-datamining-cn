@@ -95,7 +95,7 @@ int32,str,str
 67,"TEXT_STMBDA613_02539_PIPIN_100_059","虽然有很多种可能性，
 但他们没有再次开炮，一定是有什么原因。"
 68,"TEXT_STMBDA613_02539_LYSE_000_060","那我去调查一下……
-一个人侦查的话也比较隐蔽吧。"
+一个人侦察的话也比较隐蔽吧。"
 69,"TEXT_STMBDA613_02539_MNAAGO_000_061","等、等一下！
 康拉德队长说要莉瑟来领导……"
 70,"TEXT_STMBDA613_02539_LYSE_000_062","我知道的，娜格……"
@@ -114,12 +114,12 @@ int32,str,str
 76,"TEXT_STMBDA613_02539_MNAAGO_000_065","（★未使用／削除予定★）"
 77,"TEXT_STMBDA613_02539_RAUBAHN_000_066","关于阿拉米格解放军今后的情况，我已经了解了。
 但也不能连续失去两位领导者……
-<Highlight>ObjectParameter(1)</Highlight>，能拜托你一同前去侦查吗？"
+<Highlight>ObjectParameter(1)</Highlight>，能拜托你一同前去侦察吗？"
 78,"TEXT_STMBDA613_02539_Q1_000_120","要对他说些什么？"
 79,"TEXT_STMBDA613_02539_A1_000_121","莉瑟的事就交给我吧！"
 80,"TEXT_STMBDA613_02539_A1_000_122","真是没办法……"
 81,"TEXT_STMBDA613_02539_RAUBAHN_000_067","麻烦你了。
-那么，等莉瑟和<Highlight>ObjectParameter(1)</Highlight>带回侦查结果之后，
+那么，等莉瑟和<Highlight>ObjectParameter(1)</Highlight>带回侦察结果之后，
 我们再制定今后的战术！"
 82,"TEXT_STMBDA613_02539_MNAAGO_000_070","同伴们都相信康拉德队长的判断。
 其实，他从以前就说过，想要让莉瑟接任。

@@ -188,10 +188,10 @@ int32,str,str
 那么请和该大国防联军的部队管理负责人对话。"
 100,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96","看上去部队才刚刚转籍不久啊，
 请过段时间再来吧。"
-101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","必须要经过7天（地球时间）后才可再次办理转籍。"
+101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","必须要经过24小时（地球时间）后才可再次办理转籍。"
 102,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_98","转籍后与原大国防联军的友好度就会下降，
 不过其他参数、资产、权利和状态保持不变。"
-103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","转籍后经过7天（地球时间）才可再次进行转籍。"
+103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","转籍后经过24小时（地球时间）才可再次进行转籍。"
 104,"TEXT_COMDEFFREECOMPANY_00076_Q5_01","要支付15000金币的转籍费用，
 转到<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>吗？"
 105,"TEXT_COMDEFFREECOMPANY_00076_A5_01","是"

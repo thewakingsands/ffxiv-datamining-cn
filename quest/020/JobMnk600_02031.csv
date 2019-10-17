@@ -132,7 +132,7 @@ int32,str,str
 在消灭所有妨碍我实现理想的人之前，我是不会停下来的……
 杀了杰恩茶和夏可哈……还有维达盖尔特！"
 82,"TEXT_JOBMNK600_02031_HRAHATIA_000_113","为了确保我们太阴流的食粮，
-给我活捉那个打开了太阳第七脉轮的<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch>冒险者！"
+给我活捉那个打开了太阳第七脉轮的<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch>冒险者！"
 83,"TEXT_JOBMNK600_02031_OTCHAKHA_000_500","杰恩茶、杰恩茶！你没事吧？！"
 84,"TEXT_JOBMNK600_02031_DZENTSA_000_501","夏可哈……维达盖尔特……
 谢谢、谢谢你们……"

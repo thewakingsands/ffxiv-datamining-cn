@@ -282,13 +282,13 @@ int32,str,str
 125,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_410","你们俩就好像命运共同体一样，简直是天造地设的一对啊。
 在你的同伴看来，<Switch(PlayerParameter(79))><Case(1)>你是个值得信赖的好人</Case><Case(2)>你是个可以尽情撒娇的对象</Case><Case(3)>你是个足以托付后背的可靠之人</Case><Case(4)>你简直可爱得不得了</Case><Case(5)>你简直令人陶醉得难以自拔</Case><Case(6)>哪怕被你看到睡脸也无所谓</Case><Case(7)>你是个可以放松警惕的对象</Case><Case(8)>你是个可以以拳交心的好对手</Case><Case(9)>你是个值得倾诉真心的好听众</Case><Case(10)>你们就像亲兄弟姐妹一样亲密无间</Case><Case(11)>你们就像搭档一样互相信赖</Case><Case(12)>你是那么秀色可餐，真想把你一口吃掉</Case></Switch>。
 不过可别因为这样就飘飘然，忽视对方的感受哦？"
-126,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_411","作为一个<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch><If(PlayerParameter(4))>女性<Else/>男性</If>，就应该穿上合身的衣装让对方开心。
+126,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_411","作为一个<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch><If(PlayerParameter(4))>女性<Else/>男性</If>，就应该穿上合身的衣装让对方开心。
 如果连这点程度的关心和体贴都做不到，
 重要的伴侣可是会离你而去的！"
 127,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_420","你们俩就好像命运共同体一样，简直是天造地设的一对啊。
 在你的同伴看来，<Switch(PlayerParameter(79))><Case(1)>你简直可爱得不得了</Case><Case(2)>你简直令人陶醉得难以自拔</Case><Case(3)>哪怕被你看到睡脸也无所谓</Case><Case(4)>你是个可以放松警惕的对象</Case><Case(5)>你是个可以以拳交心的好对手</Case><Case(6)>你是个值得倾诉真心的好听众</Case><Case(7)>你们就像亲兄弟姐妹一样亲密无间</Case><Case(8)>你们就像搭档一样互相信赖</Case><Case(9)>你是那么秀色可餐，真想把你一口吃掉</Case><Case(10)>你是个值得信赖的好人</Case><Case(11)>你是个可以尽情撒娇的对象</Case><Case(12)>你是个足以托付后背的可靠之人</Case></Switch>。
 不过可别因为这样就飘飘然，忽视对方的感受哦？"
-128,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_421","你们<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch>的特色菜<Switch(PlayerParameter(71))><Case(1)>蜂蜜松饼</Case><Case(2)>番茄派</Case><Case(3)>心形卷饼</Case><Case(4)>猫魅风味山珍烤串</Case><Case(5)>包心甘蓝</Case><Case(6)>渡渡鸟烤肉</Case></Switch>，
+128,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_421","你们<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch>的特色菜<Switch(PlayerParameter(71))><Case(1)>蜂蜜松饼</Case><Case(2)>番茄派</Case><Case(3)>心形卷饼</Case><Case(4)>猫魅风味山珍烤串</Case><Case(5)>包心甘蓝</Case><Case(6)>渡渡鸟烤肉</Case><Case(7)>山羊肉排</Case><Case(8)>煎鸡油菌</Case></Switch>，
 偶尔也要拿给对方尝尝才是啊！
 那可是你重要的伴侣，可不能轻易放跑了！"
 129,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_430","你们俩就好像命运共同体一样，简直是天造地设的一对啊。
@@ -312,7 +312,7 @@ int32,str,str
 135,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_460","你们之间的缘分一般般吧，不好也不坏。
 在你的同伴看来，<Switch(PlayerParameter(79))><Case(1)>你们只能算得上是同事关系</Case><Case(2)>你多少会让对方有所顾虑</Case><Case(3)>你并不是个好的交流对象</Case><Case(4)>你们之间还没有敞开心扉</Case><Case(5)>你只是一个来者不拒的对象</Case><Case(6)>你们就像邻居一样</Case><Case(7)>你总会令人畏惧，使人感到拘谨</Case><Case(8)>总是需要对你察言观色</Case><Case(9)>你们的关系只是一般般</Case><Case(10)>你并没有什么特别吸引人的魅力</Case><Case(11)>你只是一个普通的熟人</Case><Case(12)>你只是一个路人甲</Case></Switch>。
 不过不要着急，从力所能及的地方慢慢开始改善关系吧！"
-136,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_461","作为一个<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch><If(PlayerParameter(4))>女性<Else/>男性</If>，
+136,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_461","作为一个<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch><If(PlayerParameter(4))>女性<Else/>男性</If>，
 如果想要和对方建立起更深的关系，
 就努力加油让自己成为配得上对方的人吧！"
 137,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_470","你们之间的缘分一般般吧，不好也不坏。
@@ -343,7 +343,7 @@ int32,str,str
 在你的同伴看来，<Switch(PlayerParameter(79))><Case(1)>你们之间的关系简直是水火不容</Case><Case(2)>和你相处时容不得一丝马虎</Case><Case(3)>你就是一个威胁</Case><Case(4)>你是一个相处时决不能放松警惕的角色</Case><Case(5)>你是一个惹人厌的家伙</Case><Case(6)>跟你在一起简直如坐针毡</Case><Case(7)>你是个连多看一眼脸都会觉得厌烦的角色</Case><Case(8)>和你在一起会让人感觉很累</Case><Case(9)>你浑身上下毫无魅力可言</Case><Case(10)>你们的脾气一点都合不来</Case><Case(11)>你们正处在互相疏远的冷战阶段</Case><Case(12)>你们已经是反目成仇的冤家了</Case></Switch>。
 不过，改善缘分的方法也不是没有。"
 146,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_511","你需要重新审视一下你们的关系。
-是不是把自己身为<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case></Switch>的人生观强加在对方身上了？
+是不是把自己身为<Switch(PlayerParameter(71))><Case(1)>人族</Case><Case(2)>精灵族</Case><Case(3)>拉拉菲尔族</Case><Case(4)>猫魅族</Case><Case(5)>鲁加族</Case><Case(6)>敖龙族</Case><Case(7)>硌狮族</Case><Case(8)>维埃拉族</Case></Switch>的人生观强加在对方身上了？
 尊重对方的立场和意见也是非常重要的啊。"
 147,"TEXT_FESVLT402_03083_COMPATIBILITYLUCKTELLER03083_000_520","像你们俩这样糟糕的缘分还真是罕见……
 在你的同伴看来，<Switch(PlayerParameter(79))><Case(1)>你们之间的关系简直是水火不容</Case><Case(2)>和你相处时容不得一丝马虎</Case><Case(3)>你就是一个威胁</Case><Case(4)>你是一个相处时决不能放松警惕的角色</Case><Case(5)>你是一个惹人厌的家伙</Case><Case(6)>跟你在一起简直如坐针毡</Case><Case(7)>你是个连多看一眼脸都会觉得厌烦的角色</Case><Case(8)>和你在一起会让人感觉很累</Case><Case(9)>你浑身上下毫无魅力可言</Case><Case(10)>你们的脾气一点都合不来</Case><Case(11)>你们正处在互相疏远的冷战阶段</Case><Case(12)>你们已经是反目成仇的冤家了</Case></Switch>。

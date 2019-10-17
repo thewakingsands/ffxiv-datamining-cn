@@ -182,7 +182,7 @@ int32,str,str
 什么样的工作能给阿拉米格带来财富。
 所以就叫上弟弟哈尔一起来学雕金。"
 100,"TEXT_CLSGLD601_02599_HAL_000_170","咦？
-我听大哥说老师是<Switch(PlayerParameter(71))><Case(1)>耳朵长长的精灵族</Case><Case(2)>尾巴华丽丽的敖龙族</Case><Case(3)>像一座小山那么高的鲁加族</Case><Case(4)>肌肉发达的人族</Case><Case(5)>身材娇小的拉拉菲尔族</Case><Case(6)>尾巴毛茸茸的猫魅族</Case></Switch><If(PlayerParameter(4))>大哥<Else/>大姐</If>？"
+我听大哥说老师是<Switch(PlayerParameter(71))><Case(1)>耳朵长长的精灵族</Case><Case(2)>尾巴华丽丽的敖龙族</Case><Case(3)>像一座小山那么高的鲁加族</Case><Case(4)>肌肉发达的人族</Case><Case(5)>身材娇小的拉拉菲尔族</Case><Case(6)>尾巴毛茸茸的猫魅族</Case><Case(7)>耳朵比脸还大的维埃拉族</Case><Case(8)>全身毛绒绒的硌狮族</Case></Switch><If(PlayerParameter(4))>大哥<Else/>大姐</If>？"
 101,"TEXT_CLSGLD601_02599_HAL_000_171","原来如此，我又被大哥骗了！
 可恶，我总是这么轻易就相信别人……"
 102,"TEXT_CLSGLD601_02599_HAL_000_172","……啊，还是先自我介绍一下。

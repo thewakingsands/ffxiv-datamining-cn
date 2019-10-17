@@ -37,7 +37,7 @@ int32,str,str
 17,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_30","传送魔法分为返回和传送两种。
 其中最简单的是返回。"
 18,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_31","返回造成的精神负担较小，
-可以在紧急时刻使用。"
+需要的时候放心用就好了。"
 19,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_32","但这种魔法与以太之光的联系会更加紧密，
 所以只能传送到既定的返回点。"
 20,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_33","传送则不同，只要是共鸣过的以太之光，

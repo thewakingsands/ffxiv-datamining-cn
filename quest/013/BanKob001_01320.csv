@@ -114,7 +114,7 @@ int32,str,str
 开什么国际玩笑啊！"
 73,"TEXT_BANKOB001_01320_SKAETSWYS_000_036","你有没有过脑子啊！
 都说了犯人不是人类了！
-<Switch(PlayerParameter(71))><Case(1)>别看我长这样，也是个正经八百的人类啊！</Case><Case(2)>别看我长这样，也是个正经八百的人类啊！</Case><Case(3)>别看我长这样，也是个正经八百的人类啊！</Case><Case(4)>别看我长这样，也是个正经八百的人类啊！</Case><Case(5)>难道你认为鲁加族不是人类么？太自虐了吧？！</Case><Case(6)>别看我长这样，也是个正经八百的人类啊！</Case></Switch>"
+<Switch(PlayerParameter(71))><Case(1)>别看我长这样，也是个正经八百的人类啊！</Case><Case(2)>别看我长这样，也是个正经八百的人类啊！</Case><Case(3)>别看我长这样，也是个正经八百的人类啊！</Case><Case(4)>别看我长这样，也是个正经八百的人类啊！</Case><Case(5)>难道你认为鲁加族不是人类么？太自虐了吧？！</Case><Case(6)>别看我长这样，也是个正经八百的人类啊！</Case><Case(7)>别看我长这样，也是个正经八百的人类啊！</Case><Case(8)>别看我长这样，也是个正经八百的人类啊！</Case></Switch>"
 74,"TEXT_BANKOB001_01320_SKAETSWYS_000_037","……<Highlight>ObjectParameter(1)</Highlight>也是这么想的吧？
 我也和你想法一样。"
 75,"TEXT_BANKOB001_01320_SKAETSWYS_000_038","也就是说，犯人是地灵族！

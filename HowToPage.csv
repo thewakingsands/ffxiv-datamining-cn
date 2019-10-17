@@ -385,7 +385,7 @@ int32,byte,byte,Image,byte,str,str,str
 150,1,0,150931,0,"
 用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>右键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>点击攻击目标可以发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动攻击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-发动自动攻击时，只要面对敌人并且保持在一定距离，就会自动进行攻击。
+发动自动攻击时，只要与敌人的距离保持在攻击范围内，就会自动进行攻击。
 
 同时在目标的头上还会出现相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动攻击图标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 151,1,0,150082,0,"
@@ -393,7 +393,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>单击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>各个技能栏上设置的指令，或者直接按下键盘上对应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，便可以发动对应的技能。　　","",""
 152,1,0,150083,0,"
-发动技能需要消耗相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，并且发动之后还需要经过一段时间（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复唱时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次发动。
+发动技能需要消耗相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，并且发动之后还需要经过一段时间（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复唱时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次发动。
 
 选中设置好的技能时可以看到该技能的详细效果。","",""
 153,1,0,150084,0,"
@@ -479,7 +479,7 @@ int32,byte,byte,Image,byte,str,str,str
 190,1,0,150931,0,"
 在选中敌人的状态下按下确定键可以发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动攻击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-发动自动攻击时，只要面对敌人并且保持在一定距离，就会自动进行攻击。
+发动自动攻击时，只要与敌人的距离保持在攻击范围内，就会自动进行攻击。
 
 同时在目标的头上还会出现相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动攻击图标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 191,1,0,150932,0,"
@@ -490,9 +490,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※新学会的技能会自动添加到技能栏中。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 193,1,0,150934,0,"
-发动技能需要消耗相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，并且发动之后还需要经过一段时间（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复唱时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次发动。
+发动技能需要消耗相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，并且发动之后还需要经过一段时间（<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复唱时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>）才可以再次发动。
 
-战斗时一定要时刻注意自己当前的魔力与技力，以免出现紧急关头不足的情况。","",""
+战斗时一定要时刻注意自己当前的魔力，以免出现紧急关头不足的情况。","",""
 194,0,0,0,0,"","",""
 195,0,0,0,0,"","",""
 196,0,0,0,0,"","",""
@@ -1404,12 +1404,8 @@ int32,byte,byte,Image,byte,str,str,str
 737,0,0,0,0,"","",""
 738,0,0,0,0,"","",""
 739,0,0,0,0,"","",""
-740,1,0,150591,0,"
-在配方中还有一些带有火、水、雷、风、土、冰等属性之力的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>属性配方<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-
-属性配方由于有属性之力加护，会导致制作作业不会很顺利。","",""
-741,1,0,150592,0,"
-使用“风之印记”和“土之印记”等技能可以有效抑制属性配方的影响，令作业变得更加顺利。","",""
+740,0,0,0,0,"","",""
+741,0,0,0,0,"","",""
 742,0,0,0,0,"","",""
 743,0,0,0,0,"","",""
 744,0,0,0,0,"","",""
@@ -2189,7 +2185,7 @@ int32,byte,byte,Image,byte,str,str,str
 1208,0,0,0,0,"","",""
 1209,0,0,0,0,"","",""
 1210,1,0,151401,0,"
-近战系物理职业存在一种名为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“连击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的系统，这套系统将特定战技联系起来，并且能够大幅提高技能的威力。
+部分职业与特职存在一种名为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“连击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的系统，这套系统将特定战技联系起来，并且能够大幅提高技能的威力。
 
 ※格斗家为例外，有着不同于连击的另一套特有系统。","",""
 1211,1,0,151402,0,"
@@ -2199,7 +2195,7 @@ int32,byte,byte,Image,byte,str,str,str
 1212,1,0,151403,0,"
 还有一些战技会随攻击的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>方向<UIGlow>01</UIGlow><UIForeground>01</UIForeground>引发额外的效果。
 
-这种战技只有按照指定的方向进行攻击才会令连击条件成立。","",""
+这种战技只有按照指定的方向进行攻击才会令威力上升。","",""
 1213,1,0,151404,0,"
 连击条件成立的时候，热键栏上会出现一闪一闪的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“强调提示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -2219,7 +2215,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，这种状态下冰属性魔法的威力与消耗魔力会降低。","",""
 1222,1,0,151413,0,"
-使用冰属性魔法时，玩家会自动附加上灵极冰的状态。这种状态下魔力的自然恢复速度会大幅提高。
+使用冰属性魔法时，玩家会自动附加上灵极冰的状态。这种状态下冰属性魔法的消耗魔力降低，魔力的自然恢复速度会大幅提高。
 
 另外，这种状态下火属性魔法的威力与消耗魔力会降低。","",""
 1223,1,0,151414,0,"
@@ -2271,14 +2267,9 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会立刻进入战斗状态。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等待指示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会令召唤兽在召唤者手动下达具体命令之前不会采取任何行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>则会收回已经召唤出的召唤兽。","",""
-1243,1,0,151434,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“自主战斗”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的命令可以令召唤兽自动发出所有的技能来行动。
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“协助战斗”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的命令则是由召唤者来下达部分行动的指示。","",""
+1243,0,0,0,0,"","",""
 1244,1,0,151435,0,"
-召唤兽的技能还可以通过技能列表的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“召唤指令”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>直接设置到通常的热键栏中。
-
-掌握召唤兽的各种技能和特性才能更好地下达指令。","",""
+召唤兽的技能还可以通过技能列表的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“召唤指令”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>直接设置到通常的热键栏中。","",""
 1245,1,0,151436,0,"
 召唤兽出现之后，通过<CommandIcon(13)/>键可以切换到专用的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊十字热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -3420,50 +3411,14 @@ int32,byte,byte,Image,byte,str,str,str
 急降：
 　在飞行状态下按<CommandIcon(12)/>+<CommandIcon(13)/>可以急速下降。","",""
 1983,0,0,0,0,"","",""
-1990,1,0,152181,0,"
-占星术士是使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>奥秘卡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>边支援同伴边战斗的特职。
-
-奥秘卡分为以下六种：
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“太阳神之衡”“世界树之干”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“放浪神之箭”“战争神之枪”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“河流神之瓶”“建筑神之塔”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-与奥秘卡相关的技能分为以下四种：
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“抽卡”“暂留”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“重抽”“神圣路”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1991,1,0,152182,0,"
-使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>抽卡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以抽取奥秘卡，再次使用抽卡的话，可以发动之前抽到的奥秘卡的卡片效果。
-
-使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂留<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以暂时保留1张奥秘卡，再次使用暂留的话，可以发动暂留的奥秘卡的卡片效果。
-
-使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重抽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以重新抽取奥秘卡。","",""
-1992,1,0,152183,0,"
-通过抽卡取得奥秘卡后使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>神圣路<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以改变下次发动卡片时的卡片效果。
-
-发动神圣路时会根据现持奥秘卡的不同分为以下三种效果：
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果量增加<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果时间延长<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果范围化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1993,1,0,152184,0,"
-卡片的效果在技能帮助说明中有着详细记载。
-
-记住所有卡片的效果，成为一流的占星术士吧！","",""
-2000,1,0,152191,0,"
-机工士是操纵一种名为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>浮空炮塔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的兵器进行战斗的特职。
-
-浮空炮塔分为以下两种：
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>车式浮空炮塔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>象式浮空炮塔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-
-浮空炮塔可以通过相关的技能进行设置。","",""
-2001,1,0,152192,0,"
-在设置好浮空炮塔的状态下对敌人使用战技，浮空炮塔便会开始攻击相同目标。
-
-设置好的浮空炮塔是不会动的，可以通过使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>回收浮空炮塔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来进行回收。","",""
+1990,0,0,0,0,"","",""
+1991,0,0,0,0,"","",""
+1992,0,0,0,0,"","",""
+1993,0,0,0,0,"","",""
+2000,0,0,0,0,"","",""
+2001,0,0,0,0,"","",""
 2002,0,0,0,0,"","",""
-2003,1,0,152194,0,"
-浮空炮塔的攻击效果在技能帮助说明中有着详细记载。
-
-活用浮空炮塔，成为一流的机工士吧！","",""
+2003,0,0,0,0,"","",""
 2010,1,0,152391,0,"
 当你积累了足够的经验，就可以选择成为一名<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“指导者”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
 
@@ -3698,11 +3653,11 @@ int32,byte,byte,Image,byte,str,str,str
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※“奥秘核石”不会重启。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2200,1,0,152371,0,"
-一些特定的任务带有<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground>标记，意为任务设有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等级调整”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，任务难度会随领取任务时角色的等级进行调整。
+一些特定的任务带有<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground>标记，意为任务设有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等级调整”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，任务难度会随角色的等级进行调整。
 
 另外，在任务结束时，得到的经验值则会根据交任务时角色的等级进行调整。","",""
 2201,1,0,152372,0,"
-但是，这类任务只能以领取任务时的职业、特职来完成。
+部分任务只能以领取任务时的职业、特职来完成。
 
 任务途中若变更职业、特职，将导致任务无法继续进行下去，敬请注意。","",""
 2210,1,0,152381,0,"
@@ -3942,27 +3897,12 @@ int32,byte,byte,Image,byte,str,str,str
 
 职能技能是符合各职业<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的技能。等级达到一定级别之后可以习得职能技能。职能相同的职业习得的职能技能相同。","",""
 2371,1,0,152552,0,"
-可以在技能菜单中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目中查看已经习得的职能技能。
+可以从快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-可以从快捷指令的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
-2372,1,0,152553,0,"
-职能技能的装备数量受到角色当前职业等级的限制。随着等级的提升，可装备数量也会增加。
-
-一开始只能够装备一个，8级之后每达到特定等级后会增加一个，最多可增加到十个。
-
-在菜单中勾选相应的技能之后，该技能便可以作为职能技能设置到热键栏中。","",""
-2373,1,0,152554,0,"
-选中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职能技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会在技能菜单的下面显示出来。
-
-将技能对应的图标<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到热键栏上之后就可以随时使用了。
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※在发动职能技能、技能进入复唱时间时，无法取消勾选，敬请注意。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-2374,1,0,152555,0,"
-选中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职能技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后会进入到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的模式。
-
-此时按下对应的按键可以将技能设置到对应的位置上，与发动技能时的操作基本相同。
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※在发动职能技能、技能进入复唱时间时，无法取消勾选，敬请注意。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+可以在技能菜单中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职能技能”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目中查看已经习得的职能技能。","",""
+2372,0,0,0,0,"","",""
+2373,0,0,0,0,"","",""
+2374,0,0,0,0,"","",""
 2380,1,0,152571,0,"
 使用乐器演奏音乐的
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“乐器演奏”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放！
@@ -4216,3 +4156,19 @@ int32,byte,byte,Image,byte,str,str,str
 
 想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
+2510,1,0,152781,0,"
+“双色宝石”是完成特定区域的临危受命任务时获得的宝石。
+
+这种值钱的宝石可以作为通用货币，与被称为广域交易商的人们进行交易。","",""
+2511,1,0,152782,0,"
+在各地区的“广域交易商”处，可使用双色宝石交换多种道具。
+
+此外，在有广域交易商的地区以最高评价完成危命任务可提升危命任务完成度，从而解锁更多商品。","",""
+2512,1,0,152783,0,"
+当前的危命任务完成度可在快捷指令的“危命任务完成度”里进行确认。
+
+部分稀有道具只能通过与广域交易商进行交易获取，请积极参与遇到的危命任务吧！","",""
+2513,1,0,152784,0,"
+当前的危命任务完成度可在快捷指令的“危命任务完成度”里进行确认。
+
+部分稀有道具只能通过与广域交易商进行交易获取，请积极参与遇到的危命任务吧！","",""

@@ -2,15 +2,15 @@
 #,,
 int32,str,str
 0,"TEXT_JOBREL006_01141_SEQ_00","丧灵钟的布兰格维茵愿意将神秘地图交换给冒险者。"
-1,"TEXT_JOBREL006_01141_SEQ_01","布兰格维茵想用神秘地图交换冒险者的遗物。完成“50级/60级”的随机任务，获取冒险者的遗物。
+1,"TEXT_JOBREL006_01141_SEQ_01","布兰格维茵想用神秘地图交换冒险者的遗物。完成“50级/60级/70级”的随机任务，获取冒险者的遗物。
 
-※只有在接受任务的状态下完成“50级/60级”的随机任务，才能获得冒险者的遗物。"
+※只有在接受任务的状态下完成“50级/60级/70级”的随机任务，才能获得冒险者的遗物。"
 2,"TEXT_JOBREL006_01141_SEQ_02","获得了冒险者的遗物。将其交给丧灵钟的布兰格维茵。"
 3,"TEXT_JOBREL006_01141_SEQ_03","将冒险者的遗物交给了布兰格维茵。这笔不义之财成了布兰格维茵家晚餐的伙食费……下次有机会再去和她做交易。
 
 ※本任务可重复进行。本任务每天最多可完成1次。完成后，当日无法再次接受。如接受任务后拖延到翌日完成，则会消耗掉完成日的任务受理限额。
 
-※每天<Time(1285081200)/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）之后可以再次进行挑战。请在重置前耐心等待。"
+※每天<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）之后可以再次进行挑战。请在重置前耐心等待。"
 4,"TEXT_JOBREL006_01141_SEQ_04","无"
 5,"TEXT_JOBREL006_01141_SEQ_05","无"
 6,"TEXT_JOBREL006_01141_SEQ_06","无"
@@ -31,7 +31,7 @@ int32,str,str
 21,"TEXT_JOBREL006_01141_SEQ_21","无"
 22,"TEXT_JOBREL006_01141_SEQ_22","无"
 23,"TEXT_JOBREL006_01141_SEQ_23","无"
-24,"TEXT_JOBREL006_01141_TODO_00","完成“50级/60级”的随机任务
+24,"TEXT_JOBREL006_01141_TODO_00","完成“50级/60级/70级”的随机任务
 获取冒险者的遗物"
 25,"TEXT_JOBREL006_01141_TODO_01","将冒险者的遗物交给布兰格维茵"
 26,"TEXT_JOBREL006_01141_TODO_02","无"

@@ -10,12 +10,12 @@ int32,str,str
 
 阿姆·加兰基委托冒险者协助举办星芒节。向中央林区弯枝牧场的贝恩费尔德询问详情。"
 2,"TEXT_FESXMS301_03009_SEQ_02","与贝恩费尔德进行了交谈。因为星芒节的装饰物被偷了，为了哄失落的小孩子们开心，他希望冒险者骑着熊去表演节目。为了方便骑乘，选择一头合适体型的熊进行交谈。"
-3,"TEXT_FESXMS301_03009_SEQ_03","骑上了<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>。为了给孩子们表演节目，骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>，对弯枝牧场的<Sheet(EObj,2008623,0)/>使用礼花筒。
+3,"TEXT_FESXMS301_03009_SEQ_03","骑上了<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。为了给孩子们表演节目，骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>，对弯枝牧场的<Sheet(EObj,2008623,0)/>使用礼花筒。
 
-※和弯枝牧场的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>。"
-4,"TEXT_FESXMS301_03009_SEQ_04","给孩子们表演了节目。为了给塔夫表演节目，骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>，对弯枝牧场的第2个<Sheet(EObj,2008624,0)/>使用礼花筒。
+※和弯枝牧场的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。"
+4,"TEXT_FESXMS301_03009_SEQ_04","给孩子们表演了节目。为了给塔夫表演节目，骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>，对弯枝牧场的第2个<Sheet(EObj,2008624,0)/>使用礼花筒。
 
-※和弯枝牧场的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>。"
+※和弯枝牧场的喜欢熊的星芒节执行委员对话即可骑乘<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>。"
 5,"TEXT_FESXMS301_03009_SEQ_05","给塔夫表演了节目。他好像有话要对冒险者说。和弯枝牧场的塔夫谈谈。"
 6,"TEXT_FESXMS301_03009_SEQ_06","原来塔夫居然目击到了偷走星芒节装饰物的犯人。从他那里了解详细情况，抓住犯人并取回被偷走的装饰物。"
 7,"TEXT_FESXMS301_03009_SEQ_07",""
@@ -37,8 +37,8 @@ int32,str,str
 23,"TEXT_FESXMS301_03009_SEQ_23",""
 24,"TEXT_FESXMS301_03009_TODO_00","和弯枝牧场的贝恩费尔德对话"
 25,"TEXT_FESXMS301_03009_TODO_01","和体型合适的熊对话"
-26,"TEXT_FESXMS301_03009_TODO_02","骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>对<Sheet(EObj,2008623,0)/>使用礼花筒"
-27,"TEXT_FESXMS301_03009_TODO_03","骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>对第2个<Sheet(EObj,2008624,0)/>使用礼花筒"
+26,"TEXT_FESXMS301_03009_TODO_02","骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>对<Sheet(EObj,2008623,0)/>使用礼花筒"
+27,"TEXT_FESXMS301_03009_TODO_03","骑着<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>对第2个<Sheet(EObj,2008624,0)/>使用礼花筒"
 28,"TEXT_FESXMS301_03009_TODO_04","和塔夫对话"
 29,"TEXT_FESXMS301_03009_TODO_05",""
 30,"TEXT_FESXMS301_03009_TODO_06",""
@@ -135,7 +135,7 @@ int32,str,str
 把礼花筒扔到孩子们的前面，
 让他们露出高兴的笑脸来吧！"
 83,"TEXT_FESXMS301_03009_COMMITTEE03009_000_145","我已经从贝恩费尔德那里听说了。
-走散的<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case></Switch>已经回来了，
+走散的<Switch(PlayerParameter(71))><Case(1)>帝星</Case><Case(2)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(3)>太子</Case><Case(4)>帝星</Case><Case(5)>北极星</Case><Case(6)><If(PlayerParameter(4))>帝星<Else/>北极星</If></Case><Case(7)>北极星</Case><Case(8)>帝星</Case></Switch>已经回来了，
 这就给你叫过来。"
 84,"TEXT_FESXMS301_03009_SYSTEM_000_146","对这个地点投掷礼花筒的话，
 孩子们一定会看的很清楚。"

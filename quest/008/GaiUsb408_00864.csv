@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB408_00864_SEQ_00","瞭望阵营地的布鲁艾丁，想要借助冒险者的力量。"
-1,"TEXT_GAIUSB408_00864_SEQ_01","有3名地灵族突袭侦查部队的士兵登上了高台。搜索瞭望阵营地附近的<Sheet(EObj,2002090,0)/>，打倒<Sheet(BNpcName,373,0)/>、<Sheet(BNpcName,379,0)/>和<Sheet(BNpcName,369,0)/>共计3个。"
+1,"TEXT_GAIUSB408_00864_SEQ_01","有3名地灵族突袭侦察部队的士兵登上了高台。搜索瞭望阵营地附近的<Sheet(EObj,2002090,0)/>，打倒<Sheet(BNpcName,373,0)/>、<Sheet(BNpcName,379,0)/>和<Sheet(BNpcName,369,0)/>共计3个。"
 2,"TEXT_GAIUSB408_00864_SEQ_02","打倒了<Sheet(BNpcName,373,0)/>、<Sheet(BNpcName,379,0)/>和<Sheet(BNpcName,369,0)/>。向瞭望阵营地的布鲁艾丁报告。"
-3,"TEXT_GAIUSB408_00864_SEQ_03","布鲁艾丁对冒险者的力量十分满意。他对地灵族突袭侦查部队的动作，似乎有些印象……"
+3,"TEXT_GAIUSB408_00864_SEQ_03","布鲁艾丁对冒险者的力量十分满意。他对地灵族突袭侦察部队的动作，似乎有些印象……"
 4,"TEXT_GAIUSB408_00864_SEQ_04","无"
 5,"TEXT_GAIUSB408_00864_SEQ_05","无"
 6,"TEXT_GAIUSB408_00864_SEQ_06","无"
@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_GAIUSB408_00864_TODO_22","无"
 47,"TEXT_GAIUSB408_00864_TODO_23","无"
 48,"TEXT_GAIUSB408_00864_BLOEIDINL_000_000","你还真有两下子啊！再来做一件工作吧。
-帮我搜索地灵族的突袭侦查部队。"
+帮我搜索地灵族的突袭侦察部队。"
 49,"TEXT_GAIUSB408_00864_BLOEIDINL_000_001","我的部下看到有3个地灵族登上了高台。
 要是你去的话，即使碰上了敌方部队也能收拾掉吧？"
 50,"TEXT_GAIUSB408_00864_DUMMY_000_010","在3处进行搜索，打倒分别出现的各1只地灵族"
