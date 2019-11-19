@@ -87,7 +87,7 @@ int32,str,str
 63,"TEXT_LUCKMB105_03306_SYSTEM_000_070","没有找到像是<Sheet(EventItem,2002533,0)/>的草。
 隐约可以听到不知道哪里传来的声音……"
 64,"TEXT_LUCKMB105_03306_PIXIEVOICEA03306_000_071","(-可爱的小孩子的声音-)呵呵呵呵……
-呐呐，你叫什么名字呀？"
+喂，你叫什么名字呀？"
 65,"TEXT_LUCKMB105_03306_Q1_000_000","如何作答？"
 66,"TEXT_LUCKMB105_03306_A1_000_001","<Highlight>ObjectParameter(1)</Highlight>"
 67,"TEXT_LUCKMB105_03306_A1_000_002","……"
@@ -113,7 +113,7 @@ int32,str,str
 太无聊了……"
 79,"TEXT_LUCKMB105_03306_SYSTEM_000_079","找到<Sheet(EventItem,2002533,0)/>了！
 隐约可以听到不知道哪里传来的声音……"
-80,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_080","(-开心的小孩子的声音-)呐呐，告诉我！
+80,"TEXT_LUCKMB105_03306_PIXIEVOICEC03306_000_080","(-开心的小孩子的声音-)喂，告诉我！
 你是从哪里来的？"
 81,"TEXT_LUCKMB105_03306_Q3_000_000","如何作答？"
 82,"TEXT_LUCKMB105_03306_A3_000_001","水晶都"

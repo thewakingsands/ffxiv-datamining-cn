@@ -159,8 +159,7 @@ int32,str,str
 键盘：点击键盘上alt等特殊键之外的正常英文字母等标准按键
 此外，在音乐会途中将无法使用直接聊天模式。<Else/><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>：按下除<CommandIcon(18)/>以外的所有按键皆可　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>等</If>"
 91,"TEXT_FESXMS402_03174_SYSTEM_000_045","通过按下<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>键或者<CommandIcon(18)/>键，
-可以在中途结束圣夜的音乐会。
-"
+可以在中途结束圣夜的音乐会。"
 92,"TEXT_FESXMS402_03174_SYSTEM_000_046","如果没有准确地配合音符按下按键，
 观众的满足度就会减少。"
 93,"TEXT_FESXMS402_03174_SYSTEM_000_047","当观众的满足度减少到0时，虽然可以继续完成演奏，

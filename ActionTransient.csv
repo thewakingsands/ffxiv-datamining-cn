@@ -1324,7 +1324,7 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 805,"一定时间内周围队员发动治疗魔法的治疗量提高10%，受到的魔法伤害减轻5%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-无法与炽天使的炽天之幻光效果叠加
+无法与炽天使的炽天的幻光效果叠加
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 806,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250"
@@ -10834,7 +10834,7 @@ int32,str
 8832,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20点"
 8833,"将连击技能替换为最终段，且无需连击条件即可连击成功
-持续时间结束或发动居合术和燕返之外的1次战技后取消该状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
+持续时间结束或发动居合术和燕回返之外的1次战技后取消该状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3"
 8834,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“放浪神的小步舞曲”与“军神的赞美歌”状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -18709,7 +18709,7 @@ int32,str
 发动之后会停止自动攻击"
 16015,"恢复自身及周围队员的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>带有<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员也会产生同样的范围恢复效果"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员也会产生同样的范围恢复效果"
 16016,""
 16017,""
 16018,""
@@ -18863,7 +18863,7 @@ int32,str
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>满足连击条件"
 16148,"一定时间内，将自身所受的伤害减轻30%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
-16149,"对自身周围的敌人发动范围物理攻击<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
+16149,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恶魔切　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16150,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
@@ -19509,7 +19509,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身处于战斗状态且召唤兽处于同行状态"
 16513,"一定时间内，自身的魔法咏唱时间缩短2.5秒
-同时，毁荡和迸发会分别变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵泉之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炼狱之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+同时，毁荡和迸裂会分别变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵泉之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炼狱之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动时重置三重灾祸的复唱时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>亚灵神巴哈姆特显现结束
@@ -19606,7 +19606,7 @@ int32,str
 <If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>炽天使同行时，命令炽天使发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天使的低语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>小仙女或炽天使<Else/>小仙女</If><Else/>小仙女</If>处于同行状态"
 16538,"命令小仙女发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想的幻光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>炽天使同行时，命令炽天使发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天之幻光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>炽天使同行时，命令炽天使发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天的幻光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>小仙女或炽天使<Else/>小仙女</If><Else/>小仙女</If>处于同行状态"
 16539,"对周围的敌人发动无属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>160<Else/>150</If><Else/>150</If>"
 16540,"对目标附加无属性持续伤害状态
@@ -19639,7 +19639,7 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16549,"一定时间内，自身的魔法咏唱时间缩短2.5秒
-同时，毁荡和迸发会分别变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵泉之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炼狱之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+同时，毁荡和迸裂会分别变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵泉之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炼狱之炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 令亚灵神不死鸟显现　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>显现时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 亚灵神不死鸟显现时会发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不死鸟之翼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 当召唤者使用魔法攻击目标时，亚灵神不死鸟会发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤焰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -20998,15 +20998,15 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17709,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血引·近中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“血引·近”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并令目标加重50%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>抽取融合·近中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“抽取融合·近”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并令目标加重50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血引·远中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“血引·远”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并对目标造成止步效果
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>抽取融合·远中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“抽取融合·远”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并对目标造成止步效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17710,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血引·近中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“血引·近”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并令目标加重50%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>抽取融合·近中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“抽取融合·近”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并令目标加重50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血引·远中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“血引·远”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并对目标造成止步效果
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>抽取融合·远中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“抽取融合·远”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，并对目标造成止步效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17711,"对目标发动追击
@@ -21115,7 +21115,7 @@ int32,str
 17741,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>给予目标持续伤害，令其受到的恢复效果降低10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-效果时间内目标被打倒时，自身获得50点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气
+效果时间内目标被打倒时，自身获得50点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>若自身对目标附加了<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>彼岸花<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，则持续时间延长30秒，最多可延长至60秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>彼岸花<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用完毕
 该战技有单独计算的复唱时间
@@ -21200,7 +21200,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※跳舞模式中该技能变为“蔷薇曲脚步”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17760,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员发动攻击造成的伤害提高10%。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员发动攻击造成的伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点
 
@@ -21218,7 +21218,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※跳舞模式中该技能变为“金冠趾尖转”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17763,"恢复自身及周围队员的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>带有<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员也会产生同样的范围恢复效果"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员也会产生同样的范围恢复效果"
 17764,"迅速移动到自身前方10米处
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>前冲步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
@@ -21564,10 +21564,10 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 17890,"削弱目标，对自身附加强化效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-若目标是以近身攻击为主的职业，则目标攻击伤害降低10%，并对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血引·近<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-若目标是以远程攻击为主的职业，则目标受到的伤害提高10%，并对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血引·远<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“血引·近”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“血引·远”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>所受伤害减轻10%"
+若目标是以近身攻击为主的职业，则目标攻击伤害降低10%，并对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·近<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
+若目标是以远程攻击为主的职业，则目标受到的伤害提高10%，并对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·远<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“抽取融合·近”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“抽取融合·远”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>所受伤害减轻10%"
 17891,"令目标体力持续恢复
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以队员为目标时，若自身附加了<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>残暴弹<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，则目标也会附加该状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"

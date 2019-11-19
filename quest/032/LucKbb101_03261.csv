@@ -127,7 +127,7 @@ int32,str,str
 希望你能协助我开展保镖事业！"
 79,"TEXT_LUCKBB101_03261_SOPHIE_000_062","喂，你认真的吗？
 这也太突然了吧，
-<If(PlayerParameter(4))>小姐姐<Else/>小哥哥</If>很为难呐。"
+<If(PlayerParameter(4))>小姐姐<Else/>小哥哥</If>很为难啊。"
 80,"TEXT_LUCKBB101_03261_RADOVAN_000_063","当然是认真的。
 我觉得<If(PlayerParameter(4))>她<Else/>他</If>很有天分，
 适合当绝枪战士。"

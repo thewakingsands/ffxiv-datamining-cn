@@ -147,7 +147,7 @@ int32,str,str
 看看那座通红的巨大鲶鱼精人偶的雄姿……是不是很有灵气噗？"
 90,"TEXT_BANNAM006_03102_GYOREI_000_092","看上去给人感觉那么安心温暖噗。"
 91,"TEXT_BANNAM006_03102_KOFUINSEIGETSU_000_093","对啊。巨大建筑物才算得上是文明的极致嘛。"
-92,"TEXT_BANNAM006_03102_GYOSHIN_000_094","呐，<If(PlayerParameter(4))>小姐<Else/>小哥</If>……
+92,"TEXT_BANNAM006_03102_GYOSHIN_000_094","<If(PlayerParameter(4))>小姐<Else/>小哥</If>……
 你觉得咱们举办过的祭礼，真的有什么意义吗噗？
 俺们一族能摆脱灭亡的命运吗噗？"
 93,"TEXT_BANNAM006_03102_Q1_000_000","如何作答？"

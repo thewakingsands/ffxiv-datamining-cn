@@ -49,7 +49,7 @@ int32,str,str
 45,"TEXT_STMBDZ322_02718_TODO_21",""
 46,"TEXT_STMBDZ322_02718_TODO_22",""
 47,"TEXT_STMBDZ322_02718_TODO_23",""
-48,"TEXT_STMBDZ322_02718_FISHERSON02718_000_000","呐，<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>擅长游泳吗？
+48,"TEXT_STMBDZ322_02718_FISHERSON02718_000_000","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>擅长游泳吗？
 那我有件事想请你帮帮我。"
 49,"TEXT_STMBDZ322_02718_FISHERSON02718_000_001","我以前游泳很厉害，也最喜欢游泳了。
 但有一次我太兴奋了，一下子冲到海里，差点溺水，

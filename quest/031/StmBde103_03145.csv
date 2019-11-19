@@ -88,7 +88,7 @@ int32,str,str
 虽说现在进退维谷，不过能看到你这么精神我也很欣慰。"
 67,"TEXT_STMBDE103_03145_LYSE_000_074","我也看到一点点重建起来的多玛飞地受到了鼓舞。
 那我就……"
-68,"TEXT_STMBDE103_03145_LYSE_000_075","呐，<Highlight>ObjectParameter(1)</Highlight>……
+68,"TEXT_STMBDE103_03145_LYSE_000_075","<Highlight>ObjectParameter(1)</Highlight>……
 回去之前能出来一下吗？
 我有点事想和你单独谈谈。"
 69,"TEXT_STMBDE103_03145_HIEN_000_076","哦哦……请便。
