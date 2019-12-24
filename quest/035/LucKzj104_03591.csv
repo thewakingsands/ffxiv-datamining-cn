@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_LUCKZJ104_03591_SEQ_22",""
 23,"TEXT_LUCKZJ104_03591_SEQ_23",""
 24,"TEXT_LUCKZJ104_03591_TODO_00","在鳍人潮池北边的<Sheet(EObj,2010468,0)/>张望
-从<Sheet(BNpcName,9010,0)/>身上获取<Sheet(EventItem,2002748,0)/>。"
+从<Sheet(BNpcName,9010,0)/>身上获取<Sheet(EventItem,2002748,0)/>"
 25,"TEXT_LUCKZJ104_03591_TODO_01","将<Sheet(EventItem,2002748,0)/>交给纳洛嘶·涳尔"
 26,"TEXT_LUCKZJ104_03591_TODO_02","将<Sheet(EventItem,2002749,0)/>交给泽洛嘶·澳恩"
 27,"TEXT_LUCKZJ104_03591_TODO_03","和纳洛嘶·澳恩对话"

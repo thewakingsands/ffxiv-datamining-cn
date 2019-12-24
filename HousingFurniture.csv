@@ -703,6 +703,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197349,448,14,12,1,0,0,721232,21871,False,False,3,5,12,False,False
 197350,490,15,0,0,0,0,0,21872,False,False,3,0,0,False,False
 197351,514,15,0,0,0,0,0,22405,False,False,3,0,0,False,False
+197352,586,12,0,0,0,0,721037,22406,False,False,3,0,0,False,False
 197353,610,15,0,0,0,0,0,22407,False,False,3,0,0,False,False
 197354,611,14,0,0,0,0,0,22408,False,False,3,0,0,False,False
 197355,663,13,0,0,0,0,0,22409,False,False,3,0,0,False,False
@@ -735,6 +736,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197387,713,15,0,0,80,0,0,23863,False,False,0,0,0,False,False
 197388,714,12,0,0,0,0,0,23864,False,False,5,0,0,False,False
 197389,715,15,0,0,0,0,0,23865,False,False,5,0,0,False,False
+197390,716,14,0,0,0,0,0,23866,False,False,5,0,0,False,False
 197391,717,15,0,0,0,0,0,23867,False,False,5,0,0,False,False
 197392,718,14,7,42,0,0,721109,23868,True,False,8,4,11,False,False
 197393,719,15,0,0,0,0,0,23869,False,False,5,0,0,False,False
@@ -828,10 +830,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197487,814,13,0,0,0,0,0,27284,False,False,0,0,0,False,False
 197488,815,15,0,0,0,0,0,27285,False,False,0,0,0,False,False
 197489,816,14,0,0,0,0,0,27286,False,False,0,0,0,False,False
+197492,819,14,0,0,0,0,0,27287,False,False,0,0,0,False,False
 197493,820,15,0,0,0,0,0,27288,False,False,0,0,0,False,False
 197494,821,15,0,0,0,0,0,27289,False,False,5,0,0,False,False
 197495,822,15,0,0,0,0,0,27290,False,False,5,0,0,False,False
 197496,823,14,0,0,0,0,721037,27291,False,False,0,0,0,False,False
+197497,824,14,0,0,0,0,0,27292,False,False,0,0,0,False,False
+197498,825,14,0,0,0,0,0,27293,False,False,0,0,0,False,False
 197500,827,14,7,52,0,0,721109,27294,True,False,9,4,11,False,False
 197501,828,14,7,53,0,0,721109,27295,True,False,9,4,11,False,False
 197502,829,14,0,0,0,0,0,27296,False,False,0,0,0,False,False
@@ -844,6 +849,12 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,HousingPlacement,
 197510,837,14,0,0,0,0,0,27303,False,False,5,0,0,False,False
 197511,838,14,0,0,0,0,0,27304,False,False,5,0,0,False,False
 197512,839,14,0,0,0,0,0,27305,False,False,5,0,0,False,False
+197513,840,15,0,0,0,0,0,27306,False,False,5,0,0,False,False
+197514,841,15,0,0,0,0,0,27307,False,False,5,0,0,False,False
+197515,842,15,0,0,0,0,0,27308,False,False,5,0,0,False,False
+197516,843,15,0,0,0,0,0,27309,False,False,5,0,0,False,False
+197517,844,15,0,0,0,0,0,27310,False,False,5,0,0,False,False
+197518,845,15,0,0,0,0,0,27311,False,False,5,0,0,False,False
 197519,846,14,0,0,0,0,0,27312,False,False,0,0,0,False,False
 197523,850,14,0,0,0,0,0,27313,False,False,0,0,0,False,False
 197524,697,14,0,0,0,0,0,27979,False,False,3,0,0,False,False

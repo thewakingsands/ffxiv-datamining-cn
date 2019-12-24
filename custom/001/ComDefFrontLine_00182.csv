@@ -2,9 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_000","向<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>敬礼！"
-1,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000","三城邦的大国防联军围绕亚拉戈遗迹保有权
-展开激烈的争夺战……
-对于纷争前线“法外战区”，你有什么要问的吗？"
+1,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000","对于三城邦大国防联军的纷争前线“法外战区”，
+你有什么要问的吗？"
 2,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_001","（未使用/预计删除）"
 3,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_002","（未使用/预计删除）"
 4,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_100_003","（未使用/预计删除）"
@@ -20,8 +19,7 @@ int32,str,str
 14,"TEXT_COMDEFFRONTLINE_00182_A2_110_002","荣誉野（碎冰战）"
 15,"TEXT_COMDEFFRONTLINE_00182_A2_000_003","取消"
 16,"TEXT_COMDEFFRONTLINE_00182_A2_000_002","（★未使用／削除予定★）"
-17,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_010","“法外战区”是三城邦的大国防联军
-为争夺亚拉戈遗迹而展开对立的纷争要地。
+17,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_010","“法外战区”是三城邦大国防联军三足鼎立的纷争要地。
 一经进入就无法避免战斗。"
 18,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_011","在“法外战区”，冒险者之间可以组成小队，
 以各国的大国防联军为阵营进行参战，

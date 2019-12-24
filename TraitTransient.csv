@@ -336,7 +336,7 @@ int32,str
 259,"危险领域变为爆破领域"
 260,"战女神之怒变为王权剑"
 261,"日珥斩可恢复魔力"
-262,"盾阵的持续时间延长6秒"
+262,"盾阵的持续时间延长到6秒"
 263,"一定时间内，咏唱魔法不需要咏唱时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>安魂祈祷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 264,"对自身附加3档的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忠义之剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
@@ -346,7 +346,7 @@ int32,str
 267,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>原初的混沌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>原初的混沌效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>地毁人亡变为混沌旋风
-并且，当学会狂魂后，裂石飞环可获得狂魂量值
+当学会狂魂后，裂石飞环变为狂魂
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>战嚎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 268,"可获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>秘银暴风连击成功时"

@@ -2514,7 +2514,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，有的任务有时会在宝箱之外获得每周只能获得1次的特殊道具。","",""
 1382,1,0,151583,0,"
-这些权利会在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地球时间每周周二18点<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。
+这些权利会在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地球时间每周周二16点<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※有着每周限制的任务都会在任务搜索器的信息中显示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“领取报酬：1周1次”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，也可以从这里确认每周的取得状况。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1383,0,0,0,0,"","",""

@@ -2028,9 +2028,9 @@ int32,str
 2057,"<If(IntegerParameter(3))><Emphasis><Gui(62)/><Value>IntegerParameter(1)</Value>.<Value>IntegerParameter(2)</Value>%</Emphasis><Else/><Value>IntegerParameter(1)</Value>.<Value>IntegerParameter(2)</Value>%</If>"
 2060,"完成<Value>IntegerParameter(1)</Value>级笔记的内容"
 2061,"军衔达到<If(IntegerParameter(4))><Switch(IntegerParameter(2))><Case(1)><Sheet(GCRankLimsaFemaleText,IntegerParameter(3),0)/></Case><Case(2)><Sheet(GCRankGridaniaFemaleText,IntegerParameter(3),0)/></Case><Case(3)><Sheet(GCRankUldahFemaleText,IntegerParameter(3),0)/></Case></Switch><Else/><Switch(IntegerParameter(2))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(3),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(3),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(3),0)/></Case></Switch></If>以上"
-2070,"期望列表"
+2070,"显示期望列表"
 2071,"期望列表"
-2072,"列表中可以记入自己想要的道具。
+2072,"列表中可以记入10种自己想要的道具。
 虽然其他人无法看到自己的列表，
 不过可以统计当前市场的需求情况。
 
@@ -7649,6 +7649,11 @@ A：Assist，协助他人打倒敌人的次数"
 机遇任务的时间安排已经发成了改变。
 
 详细情况请前往入口广场找“来宾接待员”确认。"
+8479,"潜水艇探索能够发现新的航海图了！
+
+探索特定的目的地时有机会发现该航海图。
+
+快去发现新的航海图，挑战新的探索舞台吧！"
 8480,"全部"
 8484,"其他"
 8485,"收藏夹"
@@ -10782,7 +10787,7 @@ A：Assist，协助他人打倒敌人的次数"
 12157,"“是的，我是管理员，但我要退出跨服贝。”"
 12158,"打开跨服贝操作指令。"
 12159,"设为常用跨服贝"
-12160,"このCWLSのチャンネルログ設定"
+12160,"此跨服贝的消息设置"
 12161,"更改此跨服贝的频道号"
 12162,"请指定跨服通讯贝<Value>IntegerParameter(1)</Value>的新频道号。
 如果指定的频道号有其他跨服贝占用，两者将会互换。"
@@ -11029,8 +11034,8 @@ A：Assist，协助他人打倒敌人的次数"
 12414,"九段"
 12415,"十段"
 12416,"多玛方城战设置"
-12417,"麻将牌的种类"
-12418,"多玛式麻将牌"
+12417,"方城牌的种类"
+12418,"多玛式方城牌"
 12419,"●002 クガネ式麻雀牌"
 12420,"古式麻将牌"
 12421,"参加"

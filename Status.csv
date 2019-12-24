@@ -1881,7 +1881,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 倒计时结束时，地狱之风发动",15985,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 1812,"延迟咏唱：暗影之眼","成为了将延迟发动的暗影之眼的目标
 倒计时结束时，暗影之眼发动",15986,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
-1813,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1813,"切伤","斩击属性持续伤害，体力逐渐流失",15521,0,0,2,17,0,False,False,False,False,False,False,False,False,False,10,False,False,10,0,False,0,False,False,0,0,False
 1814,"逆瀑泻预备","可以发动逆瀑泻",13701,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1815,"坠喷泉预备","可以发动坠喷泉",13702,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1816,"升风车预备","可以发动升风车",13703,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
@@ -1922,8 +1922,8 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1851,"强风之兆","被水属性以太侵蚀，倒计时结束时会发生强风大海啸",15965,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1852,"涡动之兆","被水属性以太侵蚀，倒计时结束时会发生涡动大海啸",15968,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1853,"溺没之兆","被水属性以太侵蚀，倒计时结束时会发生溺没大海啸",15969,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
-1854,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1855,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1854,"断绝之兆","被水属性以太侵蚀，倒计时结束时会发生断绝大海啸",15966,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
+1855,"扩散之兆","被水属性以太侵蚀，倒计时结束时会发生扩散大海啸",15967,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1856,"盾阵","受到攻击时必定发动格挡",12510,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,100,0,False,0,False,False,0,0,False
 1857,"原初的勇猛","自身的物理攻击命中时会吸收体力",12558,0,22,1,16,110,False,False,False,False,False,False,False,False,False,100,False,False,100,0,True,0,False,False,0,0,False
 1858,"原初的武猛","附加此效果的战士受到原初的勇猛的吸收体力的效果时，会获得相当于其50％的恢复效果。
@@ -1962,7 +1962,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1890,"天宫图","可以受到天宫图带来的治疗效果",13251,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,0,0,True,0,False,False,0,0,False
 1891,"阳星天宫图","可以受到天宫图带来的治疗效果",13252,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,0,0,True,0,False,False,0,0,False
 1892,"中间学派","发动治疗魔法的治疗量提高",13253,0,99,1,16,114,False,False,False,False,False,False,False,False,False,0,False,False,10,0,False,0,False,False,0,0,False
-1893,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1893,"暴风之兆","被水属性以太侵蚀，倒计时结束时会发生暴风大海啸",15996,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1894,"暗黑布道","减轻所受到的魔法伤害",13122,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-10,0,False,0,False,False,0,0,False
 1895,"蛊毒法","体力逐渐减少",12812,0,29,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,5,0,False,0,False,False,0,0,False
 1896,"秘策","下一次发动的鼓舞激励之策、士气高扬之策、不屈不挠之策、深谋远虑之策，无需消耗魔力和以太超流，并且必定暴击",12813,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
@@ -1977,7 +1977,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1905,"身着魔装","将羽蛇作为魔装穿着，战斗能力得到大幅强化",15992,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,False,False,0,0,True,0,False,False,0,0,False
 1906,"完美隐形","绞锁自身命脉，完全切断气息。对自身附加“命脉负荷”状态",15112,0,1,1,16,116,False,False,False,False,False,False,False,True,False,0,False,False,0,19,True,0,False,True,0,24,False
 1907,"身体高负荷","身体陷入高负荷状态，暂时无法做出任何行动",15114,0,1,2,17,0,True,False,True,False,False,False,False,False,False,100,False,False,0,4,False,0,False,False,0,0,False
-1908,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1908,"拘束","无法做出任何行动",15534,0,1,2,3,0,True,False,True,True,False,False,False,False,True,100,False,False,0,0,False,0,False,False,2,0,False
 1909,"扩大技能效果范围","发动的技能效果范围比以往要大",17981,16,1,1,16,0,False,False,False,False,False,False,False,False,False,50,False,False,0,0,False,0,False,False,0,33,False
 1910,"巨龙右眼","攻击所造成的伤害提高",12581,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,False,False,10,0,True,0,False,False,0,0,False
 1911,"庇护所","产生能够令范围内队员恢复体力的区域",12629,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,50,0,True,0,False,False,0,0,False
@@ -2044,7 +2044,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1971,"倍增","魔法攻击所造成的伤害提高",13407,0,112,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,10,0,False,0,False,False,0,0,False
 1972,"血乱","不需要消耗暗血就可以发动血溅和寂灭",13121,0,98,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1973,"雷属性耐性大幅降低","对抗雷属性的耐性有显著降低",15597,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,-12,0,False,0,False,False,0,0,False
-1974,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1974,"复乐园","自身魔力上升",15997,0,1,1,16,129,False,False,False,False,False,False,False,True,True,200,False,False,0,0,False,0,False,False,0,0,False
 1975,"巨大化","身体巨大化",19541,3,1,1,16,0,False,False,False,False,True,False,False,False,False,199,False,False,20,26,False,0,False,False,0,0,False
 1976,"最大化","身体最大化",15971,0,1,1,16,0,False,False,False,False,True,False,False,False,False,200,False,False,100,26,False,0,False,False,0,0,False
 1977,"全力挥打","受到攻击的伤害增加",14866,0,121,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,20,0,True,0,False,False,0,0,False
@@ -2176,13 +2176,14 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2103,"打伤","打击属性持续伤害，体力逐渐流失",15523,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,10,0,False,0,False,False,0,0,False
 2104,"中毒","毒素会导致体力逐渐减少",15007,0,1,2,1,0,False,False,False,False,False,False,True,False,False,10,False,False,10,0,False,0,False,False,0,0,False
 2105,"标准舞步结束","攻击所造成的伤害提高",13708,0,150,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,10,0,False,0,False,False,0,5,False
-2106,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2107,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2106,"延迟咏唱：核爆","成为了将延迟发动的核爆的目标
+倒计时结束时，核爆发动",15970,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+2107,"","",0,0,1,2,0,123,False,False,False,False,False,False,False,False,False,0,False,True,0,0,False,0,False,False,0,0,False
 2108,"","",18921,4,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,27,False,0,False,False,0,0,False
 2109,"无法发动技能","无法发出任何技能",15045,0,1,2,3,0,False,False,True,False,False,False,False,True,True,100,False,False,0,0,False,0,False,False,0,0,False
 2110,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2111,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2112,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2111,"猎物","作为猎物被盯上了，靠近其他玩家时可以将目标转移过去",15026,0,1,2,17,130,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+2112,"猎物","作为猎物被盯上了，靠近其他玩家时可以将目标转移过去",15026,0,1,2,17,130,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 2113,"标准舞步结束","战技与魔法的咏唱及复唱时间缩短",13708,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-10,0,True,0,False,False,0,5,False
 2114,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 2115,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False

@@ -1,0 +1,3 @@
+gameVersion='2019.12.12.0000.0000'
+gamePatch='5.05'
+generateAt='2019-12-24 08:51:00 UTC'

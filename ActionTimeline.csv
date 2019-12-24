@@ -6858,8 +6858,8 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,byte,byte,byte,byte,uint16,bit&02
 6854,0,3,False,0,0,0,"mon_sp/gimmick/z3r3_boss2_gimmick02",0,0,0,0,0,0,False,False,0,False,False,True
 6855,0,3,False,0,0,0,"mon_sp/gimmick/z3r3_boss2_gimmick03",0,0,0,0,0,0,False,False,0,False,False,True
 6856,0,3,False,0,0,1,"human_sp/c0101/human_sp076",0,1,1,1,0,0,False,False,0,False,False,True
-6857,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False
-6858,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False
+6857,0,3,False,0,0,0,"mon_sp/gimmick/s1f1_boss_gimmick01",0,0,0,0,0,0,False,False,0,False,False,True
+6858,0,1,False,0,0,0,"mon_sp/gimmick/s1f1_boss_gimmick01_hit",0,0,0,0,0,0,False,False,0,False,False,True
 6859,0,3,False,0,0,1,"human_sp/c0601/human_sp020",0,1,1,1,0,0,False,False,0,False,False,True
 6860,0,3,False,0,0,0,"mon_sp/gimmick/z3r3_boss3_gimmick01",0,0,0,0,0,0,False,False,0,False,False,True
 6861,0,3,False,0,0,0,"mon_sp/gimmick/z3r3_boss3_gimmick02",0,0,0,0,0,0,False,False,0,False,False,True
