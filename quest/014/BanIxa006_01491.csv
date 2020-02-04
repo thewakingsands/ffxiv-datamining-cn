@@ -1,11 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA006_01491_SEQ_00","※本任务的推荐等级为：
+0,"TEXT_BANIXA006_01491_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※本任务的推荐等级为：
 　制作职业15级以上、战斗职业47级以上。
 
 长风实验场的塔塔拉姆有事想要委托冒险者。"
-1,"TEXT_BANIXA006_01491_SEQ_01","前情回顾：
+1,"TEXT_BANIXA006_01491_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+前情回顾：
 为了制作迪兹尔·库瓦兰号的核心部分——变速器具的精密元件，赛兹尔·托托罗克委托冒险者去寻找旋床的齿轮。循着身为高风飞行社社长的儿子——塔塔拉姆的记忆，在他祖父塔塔诺拉的工房旧址秋瓜浮村找到了齿轮。在齿轮表面刻有塔塔诺拉与赛兹尔·托托罗克的师父迪兹尔·库瓦兰的友谊誓言……将这份跨世代的梦想牢记于心，一起开发迪兹尔·库瓦兰号。
 　　　　　　　　　　　　*　*　*
 塔塔拉姆想要委托盖罗尔特对元件进行加工。前往北部林区的林场水车，和盖罗尔特谈谈。"

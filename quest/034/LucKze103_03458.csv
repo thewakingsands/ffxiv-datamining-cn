@@ -5,7 +5,6 @@ int32,str,str
 乔布要塞的卡蕾雅在困扰着。"
 1,"TEXT_LUCKZE103_03458_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 冒险者需要为受到食罪灵的袭击而受伤的士兵制作血清。为了收集材料，和雷克兰德迷途羊倌之森的卡蕾雅谈谈。"
 2,"TEXT_LUCKZE103_03458_SEQ_02","卡蕾雅委托冒险者去采取作为血清原料的毒液。讨伐迷途羊倌之森的<Sheet(BNpcName,8502,0)/>有几率获得获得<Sheet(EventItem,2002667,0)/>。"
 3,"TEXT_LUCKZE103_03458_SEQ_03","获得了<Sheet(EventItem,2002667,0)/>。将<Sheet(EventItem,2002667,0)/>交给迷途羊倌之森的卡蕾雅。"

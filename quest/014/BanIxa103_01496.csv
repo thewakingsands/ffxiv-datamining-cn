@@ -1,11 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA103_01496_SEQ_00","※本任务的推荐等级为：
+0,"TEXT_BANIXA103_01496_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※本任务的推荐等级为：
 　制作职业1级以上、战斗职业41级以上。
 
 长风实验场的劳动者雅泽尔·阿华坦，想委托冒险者处理紧急的工作。"
-1,"TEXT_BANIXA103_01496_SEQ_01","接受了劳动者雅泽尔·阿华坦的委托，去制作<Sheet(Item,　8093,0)/>。首先前往私语巨木，击退<Sheet(BNpcName,2985,0)/>，并从被夺走的<Sheet(EObj,2004456,0)/>中获取<Sheet(EventItem,2001379,0)/>。"
+1,"TEXT_BANIXA103_01496_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+接受了劳动者雅泽尔·阿华坦的委托，去制作<Sheet(Item,　8093,0)/>。首先前往私语巨木，击退<Sheet(BNpcName,2985,0)/>，并从被夺走的<Sheet(EObj,2004456,0)/>中获取<Sheet(EventItem,2001379,0)/>。"
 2,"TEXT_BANIXA103_01496_SEQ_02","成功夺回了<Sheet(EventItem,2001379,0)/>。前往私语巨木鸟栏，将<Sheet(EventItem,2001379,0)/>交给内勒蒙，并获取制作设施的使用权。"
 3,"TEXT_BANIXA103_01496_SEQ_03","可以使用制作设施了。用<Sheet(Item,　8054,0)/>制作2个<Sheet(Item,　8093,0)/>，并将其交给长风实验场的劳动者雅泽尔·阿华坦。
 

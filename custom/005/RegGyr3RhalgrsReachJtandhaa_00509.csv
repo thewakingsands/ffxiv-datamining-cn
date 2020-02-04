@@ -8,3 +8,9 @@ int32,str,str
 可以获得相应数量的票据。"
 2,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_003","将一定数量的票据和特定道具交给嘉·谭妲
 可以换取装备等级更高的装备。"
+3,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_HINOSEN_000_100","欢迎，<Highlight>ObjectParameter(1)</Highlight>阁下。
+我这里可以将一些你不用的装备换成其他装备。"
+4,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_102","将能通过制作职业制作获得的特定装备交给希莉森
+可以获得相应数量的票据。"
+5,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_103","将一定数量的票据和特定道具交给希莉森
+可以换取装备等级更高的装备。"

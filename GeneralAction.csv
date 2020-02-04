@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Name,Description,,Action,UnlockLink,,,Icon,
+#,Name,Description,,Action,UnlockLink,Recast,UIPriority,Icon,
 int32,str,str,byte,Action,uint16,byte,byte,Image,bit&01
 0,"","",0,0,0,0,0,0,False
 1,"自动攻击","以一定时间为间隔自动进行普通攻击。",1,0,0,0,7,101,False

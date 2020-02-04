@@ -1,8 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG002_02321_SEQ_00","忆念广场的团长莫古京希望冒险者和他一起听听塔雷松说的话。"
-1,"TEXT_BANMOG002_02321_SEQ_01","前情回顾：
+0,"TEXT_BANMOG002_02321_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+忆念广场的团长莫古京希望冒险者和他一起听听塔雷松说的话。"
+1,"TEXT_BANMOG002_02321_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+前情回顾：
 冒险者从莫古库尔那里听说，前来做技术指导的伊修加德的石匠，因为莫古力族的恶作剧都生气回去了。带莫古库尔去道歉时遇到石匠们的师父塔雷松，冒险者一不小心被他牵着鼻子走，只好帮忙给莫古力族做技术指导了。冒险者按塔雷松的指示做出了应对恶作剧用的假果实，并用这个对莫古力修复团的团长莫古京实施了恶作剧。被恶作剧了的莫古京等人也听了塔雷松的花言巧语，充满干劲地决定开始修复天极白垩宫。
 　　　　　　　　　　　　*　*　*
 莫古京拜托冒险者和他一起听听塔雷松说的话。和忆念广场的塔雷松谈谈。"

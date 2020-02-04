@@ -1,11 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA002_01487_SEQ_00","※本任务的推荐等级为：
+0,"TEXT_BANIXA002_01487_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※本任务的推荐等级为：
 　制作职业1级以上、战斗职业41级以上。
 
 长风实验场的赛兹尔·托托罗克有事想要委托给冒险者。"
-1,"TEXT_BANIXA002_01487_SEQ_01","赛兹尔·托托罗克委托冒险者制作<Sheet(Item,　8129,0)/>。首先去北部林区的秋瓜浮村，从卢恩族的商人那里获取<Sheet(EventItem,2001364,0)/>。"
+1,"TEXT_BANIXA002_01487_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+赛兹尔·托托罗克委托冒险者制作<Sheet(Item,　8129,0)/>。首先去北部林区的秋瓜浮村，从卢恩族的商人那里获取<Sheet(EventItem,2001364,0)/>。"
 2,"TEXT_BANIXA002_01487_SEQ_02","从卢恩族的商人那里得到了<Sheet(EventItem,2001364,0)/>。能将<Sheet(EventItem,2001364,0)/>加工成<Sheet(Item,　8129,0)/>的设施好像在秋瓜浮村的浮栓亭。将<Sheet(EventItem,2001364,0)/>交给设施的管理员休德耶德，并听取详细说明。"
 3,"TEXT_BANIXA002_01487_SEQ_03","在听取说明时，一名叫塔塔拉姆的少年跑了过来，说要评判冒险者制作的成果。从休德耶德那里拿到了<Sheet(Item,　8085,0)/>，用<Sheet(Item,　8085,0)/>制作<Sheet(Item,　8129,0)/>，并将其拿给秋瓜浮村的塔塔拉姆查看。
 

@@ -6,7 +6,7 @@ int32,str,str
 2,"TEXT_CLSMIN500_00646_SEQ_02","和韦德·格利进行了交谈。和乌尔达哈采矿工行会的迪普·卡尼恩谈谈。"
 3,"TEXT_CLSMIN500_00646_SEQ_03","和迪普·卡尼恩进行了交谈。和乌尔达哈采矿工行会的阿达尔博塔谈谈。"
 4,"TEXT_CLSMIN500_00646_SEQ_04","和阿达尔博塔进行了交谈。和乌尔达哈采矿工行会的韦德·格利谈谈。"
-5,"TEXT_CLSMIN500_00646_SEQ_05","和韦德·格利进行了交谈。挖掘3个<Sheet(Item,　5121,0)/>，交给乌尔达哈采矿工行会的阿达尔博塔。可以在库尔札斯中央高地未知的矿脉，利用技能“山岳之相”找到<Sheet(Item,　5121,0)/>。"
+5,"TEXT_CLSMIN500_00646_SEQ_05","和韦德·格利进行了交谈。挖掘3个<Sheet(Item,　5121,0)/>，交给乌尔达哈采矿工行会的阿达尔博塔。<Sheet(Item,　5121,0)/>可以在库尔札斯中央高地巨龙首营地的未知的矿脉上采集。未知的矿脉会在艾欧泽亚时间夜里1点短时间出现。技能“山岳之相”可以在未知的矿脉出现时将位置显示在导向地图上。"
 6,"TEXT_CLSMIN500_00646_SEQ_06","将<Sheet(Item,　5121,0)/>交给了阿达尔博塔。向乌尔达哈采矿工行会的阿达尔博塔报告。"
 7,"TEXT_CLSMIN500_00646_SEQ_07","向阿达尔博塔报告完毕。冒险者为了迪普·卡尼恩进行了困难的挖掘工作，阿达尔博塔对此表示感谢，并称赞了冒险者的成长。阿达尔博塔期待能有一天，冒险者作为一名采矿工，扬名艾欧泽亚。为了早日让那一天到来，作为采矿工继续努力工作。
 
@@ -121,97 +121,99 @@ int32,str,str
 74,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_048","这种事也只有你那种程度的人能够做到了。
 我去把情况告诉阿达尔博塔，
 你就去挖掘<Sheet(Item,　5121,0)/>，然后交给她。"
-75,"TEXT_CLSMIN500_00646_ADALBERTA_000_050","我听说了，<Highlight>ObjectParameter(1)</Highlight>。
+75,"TEXT_CLSMIN500_00646_SYSTEM_000_049","<Sheet(Item,　5121,0)/>可以在未知的矿脉上采集。未知的矿脉会在艾欧泽亚时间夜里1点短时间出现在
+库尔札斯中央高地的巨龙首营地。"
+76,"TEXT_CLSMIN500_00646_ADALBERTA_000_050","我听说了，<Highlight>ObjectParameter(1)</Highlight>。
 是需要3个<Sheet(Item,　5121,0)/>吧？请你抓紧时间！"
-76,"TEXT_CLSMIN500_00646_ADALBERTA_000_051","听好了，好好回想一下韦德·格利的话！
+77,"TEXT_CLSMIN500_00646_ADALBERTA_000_051","听好了，好好回想一下韦德·格利的话！
 <Sheet(Item,　5121,0)/>可以在未知的矿脉挖掘到！"
-77,"TEXT_CLSMIN500_00646_ADALBERTA_000_052","要想得到它，就必须拥有可以从日落等到日出般的耐心……
+78,"TEXT_CLSMIN500_00646_ADALBERTA_000_052","要想得到它，就必须拥有可以从日落等到日出般的耐心……
 并且还需要运用技能“山岳之相”！"
-78,"TEXT_CLSMIN500_00646_ADALBERTA_000_053","总算赶上了！
+79,"TEXT_CLSMIN500_00646_ADALBERTA_000_053","总算赶上了！
 韦德·格利已经前往审问会了。
 我们也尽快赶过去吧！"
-79,"TEXT_CLSMIN500_00646_POPOKKULI_000_60","你成功命令行会挖掘到<Sheet(Item,　5121,0)/>了吗？
+80,"TEXT_CLSMIN500_00646_POPOKKULI_000_60","你成功命令行会挖掘到<Sheet(Item,　5121,0)/>了吗？
 因为你的一己私怨，波及到了我们与行会之间的关系。
 如果不能修复这层信赖关系，那你就完了。"
-80,"TEXT_CLSMIN500_00646_DEEPCANYON_000_61","关、关于这件事……"
-81,"TEXT_CLSMIN500_00646_ADALBERTA_000_62","这是<Sheet(Item,　5121,0)/>！是由行会的<Highlight>ObjectParameter(1)</Highlight>挖掘到的！"
-82,"TEXT_CLSMIN500_00646_SESERUKKA_000_63","这、这散发着如同黑洞般吸引力的色泽……
+81,"TEXT_CLSMIN500_00646_DEEPCANYON_000_61","关、关于这件事……"
+82,"TEXT_CLSMIN500_00646_ADALBERTA_000_62","这是<Sheet(Item,　5121,0)/>！是由行会的<Highlight>ObjectParameter(1)</Highlight>挖掘到的！"
+83,"TEXT_CLSMIN500_00646_SESERUKKA_000_63","这、这散发着如同黑洞般吸引力的色泽……
 哥哥，这<Sheet(Item,　5121,0)/>是真的！
 这是货真价实的“虚无魔铁”！"
-83,"TEXT_CLSMIN500_00646_POPOKKULI_000_64","啊……真是优质的<Sheet(Item,　5121,0)/>。
+84,"TEXT_CLSMIN500_00646_POPOKKULI_000_64","啊……真是优质的<Sheet(Item,　5121,0)/>。
 真不愧是传说中的<Highlight>ObjectParameter(1)</Highlight>，
 难怪都说你是年轻有为、首屈一指的采矿工。"
-84,"TEXT_CLSMIN500_00646_POPOKKULI_000_65","可是我不太明白。
+85,"TEXT_CLSMIN500_00646_POPOKKULI_000_65","可是我不太明白。
 为什么你要将<Sheet(Item,　5121,0)/>拿到这里来呢？"
-85,"TEXT_CLSMIN500_00646_SESERUKKA_000_66","就是啊，为什么行会会长会来帮迪普·卡尼恩？！
+86,"TEXT_CLSMIN500_00646_SESERUKKA_000_66","就是啊，为什么行会会长会来帮迪普·卡尼恩？！
 这个人不是很恨你吗？！"
-86,"TEXT_CLSMIN500_00646_DEEPCANYON_000_67","……你到底想要干什么，阿达尔博塔！
+87,"TEXT_CLSMIN500_00646_DEEPCANYON_000_67","……你到底想要干什么，阿达尔博塔！
 难道说你这是在可怜我吗？！"
-87,"TEXT_CLSMIN500_00646_ADALBERTA_000_68","不是可怜！
+88,"TEXT_CLSMIN500_00646_ADALBERTA_000_68","不是可怜！
 我只是……想要解开这个误会！"
-88,"TEXT_CLSMIN500_00646_DEEPCANYON_000_69","误会？"
-89,"TEXT_CLSMIN500_00646_ADALBERTA_000_70","……我原本是想要放弃那场决斗的……
+89,"TEXT_CLSMIN500_00646_DEEPCANYON_000_69","误会？"
+90,"TEXT_CLSMIN500_00646_ADALBERTA_000_70","……我原本是想要放弃那场决斗的……
 那场与你争夺行会会长继承权的决斗！"
-90,"TEXT_CLSMIN500_00646_ADALBERTA_000_71","那一天……我是想要告诉上任会长我决定退出的事情，
+91,"TEXT_CLSMIN500_00646_ADALBERTA_000_71","那一天……我是想要告诉上任会长我决定退出的事情，
 才拜访了会长。这就是你所目击到的真相。"
-91,"TEXT_CLSMIN500_00646_DEEPCANYON_000_72","我……我才不信！"
-92,"TEXT_CLSMIN500_00646_ADALBERTA_000_73","如果我真的背叛了你，
+92,"TEXT_CLSMIN500_00646_DEEPCANYON_000_72","我……我才不信！"
+93,"TEXT_CLSMIN500_00646_ADALBERTA_000_73","如果我真的背叛了你，
 怎么还会让<Highlight>ObjectParameter(1)</Highlight>去挖掘<Sheet(Item,　5121,0)/>！"
-93,"TEXT_CLSMIN500_00646_DEEPCANYON_000_74","可是……可是！
+94,"TEXT_CLSMIN500_00646_DEEPCANYON_000_74","可是……可是！
 如果是真的，为什么现在才……
 我至今为止到底是为了什么才……"
-94,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_75","你到最后都不承认自己输了……
+95,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_75","你到最后都不承认自己输了……
 所以才会认为看到的那一幕，是会长作弊的证据，
 并认为这才是你输掉的原因。"
-95,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_76","父亲，你输给行会会长的原因是……
+96,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_76","父亲，你输给行会会长的原因是……
 不能坦率地承认自己的失败，没有勇于接受失败的器量。"
-96,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_77","承认自己的失败吧，父亲……
+97,"TEXT_CLSMIN500_00646_WIDEGULLEY_000_77","承认自己的失败吧，父亲……
 然后一切再重新开始。"
-97,"TEXT_CLSMIN500_00646_ADALBERTA_000_78","迪普·卡尼恩，你可以的。
+98,"TEXT_CLSMIN500_00646_ADALBERTA_000_78","迪普·卡尼恩，你可以的。
 你所拥有的才智，我是最了解的。"
-98,"TEXT_CLSMIN500_00646_ADALBERTA_000_79","如果你想要从头再来的话……
+99,"TEXT_CLSMIN500_00646_ADALBERTA_000_79","如果你想要从头再来的话……
 我会代表采矿工行会和你约定，
 今后将全面协助你。"
-99,"TEXT_CLSMIN500_00646_SESERUKKA_000_80","……全面协助？
+100,"TEXT_CLSMIN500_00646_SESERUKKA_000_80","……全面协助？
 这样合适吗？阿达尔博塔！"
-100,"TEXT_CLSMIN500_00646_ADALBERTA_000_81","这样一来，才能将一切化干戈为玉帛。
+101,"TEXT_CLSMIN500_00646_ADALBERTA_000_81","这样一来，才能将一切化干戈为玉帛。
 采矿工行会今后也会一如既往，
 和艾玛吉娜矿山公司保持合作关系。"
-101,"TEXT_CLSMIN500_00646_ADALBERTA_000_82","毕竟这次最大的受害者是<Highlight>ObjectParameter(1)</Highlight>，
+102,"TEXT_CLSMIN500_00646_ADALBERTA_000_82","毕竟这次最大的受害者是<Highlight>ObjectParameter(1)</Highlight>，
 但<If(PlayerParameter(4))>她<Else/>他</If>却依然去挖掘了<Sheet(Item,　5121,0)/>。
 所以我们其他人就更没有资格去翻旧账了。"
-102,"TEXT_CLSMIN500_00646_POPOKKULI_000_83","原来如此，那你本人又是怎么想的呢？
+103,"TEXT_CLSMIN500_00646_POPOKKULI_000_83","原来如此，那你本人又是怎么想的呢？
 你能够不计前嫌，既往不咎吗？"
-103,"TEXT_CLSMIN500_00646_ADALBERTA_000_84","当然可以了。
+104,"TEXT_CLSMIN500_00646_ADALBERTA_000_84","当然可以了。
 因为我压根就没有纠结过这些事。"
-104,"TEXT_CLSMIN500_00646_DEEPCANYON_000_85","阿达尔博塔，你！"
-105,"TEXT_CLSMIN500_00646_POPOKKULI_000_86","我明白了，既然你都这么说了，
+105,"TEXT_CLSMIN500_00646_DEEPCANYON_000_85","阿达尔博塔，你！"
+106,"TEXT_CLSMIN500_00646_POPOKKULI_000_86","我明白了，既然你都这么说了，
 那么这件事就这么算了。
 这样可以吗，塞塞鲁卡？"
-106,"TEXT_CLSMIN500_00646_SESERUKKA_000_87","……哥哥决定的事情，我没有意见。"
-107,"TEXT_CLSMIN500_00646_FYRGEISS_000_88","那就这么定了，迪普·卡尼恩……
+107,"TEXT_CLSMIN500_00646_SESERUKKA_000_87","……哥哥决定的事情，我没有意见。"
+108,"TEXT_CLSMIN500_00646_FYRGEISS_000_88","那就这么定了，迪普·卡尼恩……
 你这次犯下的过错，就在日后的工作中弥补吧！
 那么审问会到此结束！"
-108,"TEXT_CLSMIN500_00646_ADALBERTA_000_89","终于结束了……辛苦你了，<Highlight>ObjectParameter(1)</Highlight>。
+109,"TEXT_CLSMIN500_00646_ADALBERTA_000_89","终于结束了……辛苦你了，<Highlight>ObjectParameter(1)</Highlight>。
 关于这次的事，我还有话想对你说。
 你出去后可以到行会来一趟吗？"
-109,"TEXT_CLSMIN500_00646_ADALBERTA_000_090","……再次向你表示感谢，
+110,"TEXT_CLSMIN500_00646_ADALBERTA_000_090","……再次向你表示感谢，
 多亏有你，事情才得以顺利解决。"
-110,"TEXT_CLSMIN500_00646_ADALBERTA_000_091","虽然让他欠了次人情，
+111,"TEXT_CLSMIN500_00646_ADALBERTA_000_091","虽然让他欠了次人情，
 不过说实话，我并没想让他偿还。"
-111,"TEXT_CLSMIN500_00646_ADALBERTA_000_092","我只是……想要再叫他一声“前辈”。
+112,"TEXT_CLSMIN500_00646_ADALBERTA_000_092","我只是……想要再叫他一声“前辈”。
 看来这个愿望马上可以实现了……真的很谢谢你。"
-112,"TEXT_CLSMIN500_00646_ADALBERTA_000_093","不过话说回来，你竟然连<Sheet(Item,　5121,0)/>都能挖掘到啊。
+113,"TEXT_CLSMIN500_00646_ADALBERTA_000_093","不过话说回来，你竟然连<Sheet(Item,　5121,0)/>都能挖掘到啊。
 看来我没有什么能教你的了。"
-113,"TEXT_CLSMIN500_00646_ADALBERTA_000_094","今后，你在作为冒险者环游世界的同时，
+114,"TEXT_CLSMIN500_00646_ADALBERTA_000_094","今后，你在作为冒险者环游世界的同时，
 也请将学到的采矿知识和技术活用在到访之地。
 我希望你可以将采矿工这份工作展现给世界。"
-114,"TEXT_CLSMIN500_00646_ADALBERTA_000_095","真是令人期待啊……
+115,"TEXT_CLSMIN500_00646_ADALBERTA_000_095","真是令人期待啊……
 期待着来自世界各地的人，在造访采矿工行会时，
 嘴里都称赞着你。"
-115,"TEXT_CLSMIN500_00646_SYSTEM_000_500","“采矿工”的故事到此告一段落！
+116,"TEXT_CLSMIN500_00646_SYSTEM_000_500","“采矿工”的故事到此告一段落！
 要开始接下来的“采矿工”职业任务，
 需要满足以下条件。"
-116,"TEXT_CLSMIN500_00646_SYSTEM_000_501","完成“第七星历主线任务”中“希望的灯火”。"
-117,"TEXT_CLSMIN500_00646_SYSTEM_000_502","满足条件后，和采矿工行会的阿达尔博塔对话，
+117,"TEXT_CLSMIN500_00646_SYSTEM_000_501","完成“第七星历主线任务”中“希望的灯火”。"
+118,"TEXT_CLSMIN500_00646_SYSTEM_000_502","满足条件后，和采矿工行会的阿达尔博塔对话，
 即可开始新的职业任务！"

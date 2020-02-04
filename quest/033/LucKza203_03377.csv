@@ -5,7 +5,6 @@ int32,str,str
 鼹灵集市的古恩衮打算按照约定休息一下。"
 1,"TEXT_LUCKZA203_03377_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 和古恩衮进行了交谈。在休息期间，古恩衮接到加米艾尔的委托去捡拾拿巴示艾兰的遗物，便结束了休息。和安穆·艾兰上路客店东边的加米艾尔谈谈。"
 2,"TEXT_LUCKZA203_03377_SEQ_02","和加米艾尔进行了交谈。据说在这附近沉睡着遗物。调查上路客店东边的<Sheet(EObj,2010013,0)/>。"
 3,"TEXT_LUCKZA203_03377_SEQ_03","调查<Sheet(EObj,2010013,0)/>，发现了遗物。将<Sheet(EventItem,2002585,0)/>交给上路客店东边的古恩衮。"

@@ -5,7 +5,6 @@ int32,str,str
 鳍人潮池入口的纳洛嘶·涳尔有事情想跟冒险者谈谈。"
 1,"TEXT_LUCKZJ102_03589_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 纳洛嘶·涳尔想要给身怀有孕的鳍人族母王吃些有营养的东西。从鳍人潮池北边的<Sheet(BNpcName,8633,0)/>身上获取<Sheet(EventItem,2002746,0)/>。"
 2,"TEXT_LUCKZJ102_03589_SEQ_02","获得了<Sheet(EventItem,2002746,0)/>。回到鳍人潮池入口的纳洛嘶·涳尔身边。"
 3,"TEXT_LUCKZJ102_03589_SEQ_03","纳洛嘶·涳尔提议说让冒险者去送上贡品。只不过鳍人族的母王不会亲自收下贡品。将<Sheet(EventItem,2002746,0)/>交给鳍人潮池的侧近泽洛嘶·澳恩。"

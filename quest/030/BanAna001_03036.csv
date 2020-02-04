@@ -1,9 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANANA001_03036_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANANA001_03036_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 对等石的梅·拉兹·努恩有事想要告诉冒险者。"
-1,"TEXT_BANANA001_03036_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务，
+1,"TEXT_BANANA001_03036_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
 　进行时需要与接受任务时的职业相同才可继续进行任务。
 
 从梅·拉兹·努恩处得知了萨利夏正在寻找冒险者。前往基拉巴尼亚边区的勇巢，和萨利夏谈谈。"
@@ -229,7 +229,7 @@ int32,str,str
 也请你来助我一臂之力吧！"
 131,"TEXT_BANANA001_03036_SYSTEM_000_083","威罗迪纳基地现在设立了国境警备队。"
 132,"TEXT_BANANA001_03036_SYSTEM_000_084","由于冒险者的努力，
-与阿难陀族“阿露帕国境警备队”的关系程度达到了“友好”。
+与阿难陀族“阿露帕国境警备队”的关系程度到达了“友好”。
 开启了阿难陀族的蛮族任务。"
 133,"TEXT_BANANA001_03036_SYSTEM_000_085","今后可以在威罗迪纳基地的耶夏娜处，
 接受可重复进行的蛮族日常任务。"

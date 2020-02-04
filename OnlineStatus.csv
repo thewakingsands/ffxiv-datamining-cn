@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,,,Priority,Name,Icon
+#,List,,Priority,Name,Icon
 int32,bit&01,bit&02,byte,str,Image
 0,False,False,0,"",0
 1,False,False,0,"游戏制作人",61531
@@ -12,7 +12,7 @@ int32,bit&01,bit&02,byte,str,Image
 8,True,False,3,"临时加入",61501
 9,True,False,4,"不存在",61502
 10,True,False,5,"离线",61504
-11,True,False,6,"指导者",61540
+11,True,False,6,"战斗指导者",61542
 12,True,False,7,"忙碌中",61509
 13,True,False,8,"对战任务中",61510
 14,True,False,9,"幻卡对局中",61539

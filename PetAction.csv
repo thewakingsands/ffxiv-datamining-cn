@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Name,Description,Icon,Action,Pet,,,
+#,Name,Description,Icon,Action,Pet,MasterOrder,DisableOrder,
 int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 0,"","",405,0,0,False,True,False
 1,"回收","收回已经招出的召唤兽",530,0,0,False,True,False

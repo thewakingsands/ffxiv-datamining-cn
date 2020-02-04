@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,Name,Icon,,AcceptTalk,FailTalk,
-int32,str,Image,uint32,DefaultTalk,DefaultTalk,bit&01
+#,Name,Icon,Quest,AcceptTalk,FailTalk,
+int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01
 262144,"",0,0,0,0,False
 262145,"",0,0,0,0,False
 262151,"道具交易",0,0,0,0,True
@@ -830,3 +830,5 @@ int32,str,Image,uint32,DefaultTalk,DefaultTalk,bit&01
 263010,"道具交易",0,0,0,0,True
 263011,"道具交易",0,0,0,0,True
 263012,"道具交易",0,0,0,0,True
+263013,"绘画作品（第一世界）",0,69140,0,0,True
+263014,"",0,0,0,0,False

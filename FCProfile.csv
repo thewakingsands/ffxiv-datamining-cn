@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,,Name
+#,Priority,Name
 int32,byte,str
 0,1,"角色扮演"
 1,2,"升级"

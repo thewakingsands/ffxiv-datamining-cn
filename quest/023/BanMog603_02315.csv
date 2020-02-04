@@ -1,8 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG603_02315_SEQ_00","忆念广场的机灵的莫古艾克郁积的思绪就快要爆发了。"
-1,"TEXT_BANMOG603_02315_SEQ_01","莫古艾克委托冒险者前去给正在收集素材的莫古力们制定能激发他们干劲的要求。和天极白垩宫的懒惰的莫古力族们谈谈。"
+0,"TEXT_BANMOG603_02315_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+忆念广场的机灵的莫古艾克郁积的思绪就快要爆发了。"
+1,"TEXT_BANMOG603_02315_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+莫古艾克委托冒险者前去给正在收集素材的莫古力们制定能激发他们干劲的要求。和天极白垩宫的懒惰的莫古力族们谈谈。"
 2,"TEXT_BANMOG603_02315_SEQ_02","和懒惰的莫古力族们进行了交谈。和赎罪天廊的采购员莫古珀谈谈。"
 3,"TEXT_BANMOG603_02315_SEQ_03","和莫古珀进行了交谈。懒惰的莫古力族们没有出现。在翻云雾海寻找懒惰的莫古力族们。"
 4,"TEXT_BANMOG603_02315_SEQ_04","找到了懒惰的莫古力族们，获得了他们收集的材料。将<Sheet(EventItem,2001997,0)/>、<Sheet(EventItem,2001998,0)/>、<Sheet(EventItem,2001999,0)/>交给赎罪天廊的采购员莫古珀。"

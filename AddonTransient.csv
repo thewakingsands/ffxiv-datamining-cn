@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"
-2,"<CommandIcon(18)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+<CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
 3,"<CommandIcon(8)/>改变队员排列顺序  <CommandIcon(10)/>次级指令"
 4,"<CommandIcon(11)/>开始搜索"
 5,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>购买 <CommandIcon(11)/>选择要出售的道具"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)>  <CommandIcon(2)/>切换所选分栏</Case></Switch><Else/>  <CommandIcon(2)/>切换所选分栏</If>  <CommandIcon(11)/>放大消息窗口"
 73,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
 74,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
-75,"<CommandIcon(5)/>履历  <CommandIcon(18)/>粘贴  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(GreaterThan(PlayerParameter(75),0))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If> "
+75,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+<CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(GreaterThan(PlayerParameter(75),0))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If> "
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前进  <CommandIcon(13)/>定型文"
 77,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
 78,"<CommandIcon(11)/>应用  <CommandIcon(10)/>删除设置　"
@@ -228,8 +228,8 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 176,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
 177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出发"
 178,"<CommandIcon(10)/>次级指令"
-179,"<CommandIcon(10)/>选择  <CommandIcon(11)/>确定并关闭"
-180,"<CommandIcon(5)/>履历  <CommandIcon(18)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+179,"<CommandIcon(10)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭"
+180,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
 181,"<CommandIcon(10)/>次级指令"
 182,"<CommandIcon(9)/>保存更改并关闭"
 183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
@@ -288,6 +288,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 　　　<Gui(16)/>　　　：选择召唤预约列表
 　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
 　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(13)/>＋<Gui(16)/>  ：重置光标指针的位置
 　　　<CommandIcon(18)/>　：显示游戏内帮助
 　　·选择宠物的操作
 　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
@@ -324,6 +325,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 　　　<Gui(16)/>　　　：选择召唤预约列表
 　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
 　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(13)/>＋<Gui(16)/>  ：重置光标指针的位置
 　　　<CommandIcon(18)/>　：显示游戏内帮助
 　　·选择宠物的操作
 　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
@@ -441,12 +443,12 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 277,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>编辑宠物热键栏"
 278,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中宠物的位置"
 279,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-280,"<CommandIcon(5)/>履历 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+280,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+<CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
 281,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
 282,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 283,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中坐骑的位置"
 284,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-285,"<CommandIcon(5)/>履历 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+285,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+<CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
 286,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 287,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>确定 <CommandIcon(9)/>取消"
 288,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
@@ -476,27 +478,27 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 312,"<CommandIcon(8)/>确定"
 313,"<CommandIcon(10)/>鸣牌设置切换 <CommandIcon(11)/>辅助功能"
 314,"<CommandIcon(8)/>获取在线状态  <CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
-315,"<CommandIcon(12)/><CommandIcon(13)/>切换关卡信息　<CommandIcon(8)/>确认无效的异常状态"
+315,"<CommandIcon(12)/><CommandIcon(13)/>切换关卡信息　<CommandIcon(8)/>确认有效的异常状态"
 316,"<CommandIcon(8)/>选择  <CommandIcon(10)/>次级指令"
 317,"<CommandIcon(8)/>选择 <CommandIcon(10)/>次级指令"
 318,"<CommandIcon(5)/>滚动"
 319,"<CommandIcon(8)/>选择交易道具"
 320,"<CommandIcon(8)/>队员选定或解除"
 321,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>队员选定或解除"
-322,""
-323,""
-324,""
+322,"<CommandIcon(8)/>选中/解除  <CommandIcon(10)/>选中/解除组内其他项  <CommandIcon(11)/>确定"
+323,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动查看详细情报"
+324,"<CommandIcon(8)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭 <CommandIcon(24)/>滚动查看详细情报"
 325,""
-326,""
-327,""
+326,"<CommandIcon(10)/>次级指令"
+327,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>简易采集 开启/关闭"
 328,""
-329,""
-330,""
-331,""
-332,""
-333,""
-334,""
-335,""
+329,"<CommandIcon(10)/>次级指令"
+330,"<CommandIcon(10)/>次级指令"
+331,"<CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>换页"
+332,"<CommandIcon(10)/>次级指令"
+333,"<CommandIcon(10)/>设置热键 <CommandIcon(8)/>执行"
+334,"<CommandIcon(24)/>滚动查看详细情报"
+335,"<CommandIcon(10)/>次级指令"
 336,""
 337,""
 338,""
@@ -675,12 +677,118 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 
 <UIForeground>F20202</UIForeground>结束回顾<UIForeground>01</UIForeground>
 结束回顾退出。"
-1003,""
-1004,""
-1005,""
-1006,""
-1007,""
-1008,""
-1009,""
-1010,""
+1003,"关于同好会"
+1004,"同好会是拥有相同兴趣的玩家组建的团体。
+每个同好会最多可容纳1000名成员。
+
+玩家可选择自己创建同好会，
+也可通过邀请或同好招募召集同好或加入别人创建的同好会。
+同好会可跨服，每个角色最多可同时隶属于10个同好会。
+在快捷指令的社交中可以看到同好招募选项。
+
+同好会成员分为会长（创建同好会的玩家或被移交了会长权限的玩家），
+会长任命的管理员，
+还有除此之外的一般成员。
+
+加入同好会后，即可使用同好会相关的各项机能。"
+1005,"关于“一览”"
+1006,"■公告板
+会长或管理员可将想要通知同好会成员的内容写在此处。
+
+■投票问卷
+会长或管理员可以设置投票问卷。
+同好会内所有成员均可对问卷进行投票。
+每人对每份问卷仅有一次投票权利。
+
+■备忘
+会长或管理员可以编辑备忘信息。
+备忘最多同时能记录5条。"
+1007,"关于“留言板”"
+1008,"隶属于同好会的所有成员皆可在留言板上留言。
+留言会保留最新的100条，超过后老的留言会被自动删除。
+会长和管理员拥有删除留言的权限。
+
+※免费试用期的玩家加入同好会14天以上才可进行留言。"
+1009,"关于“成员”"
+1010,"此为加入了当前同好会的成员一览。
+
+通过次级指令可以对成员进行各种设置。
+会长可以任命管理员，也可以移交会长权限。
+
+遭遇骚扰时会长可以将玩家加入同好会黑名单。
+被加入同好会黑名单后，该玩家将会被踢出对应同好会，并无法重新加入。"
+1011,"其他补充"
+1012,"■同好会设置修改
+只有会长能进行操作。
+可以修改同好会名称、设置同好会的主要活动、
+查看同好会黑名单、解散同好会。
+解散后同好会会完全消失。
+
+■同好招募
+可以募集同好加入自己的同好会。
+募集开启后，会在招到指定人数或经过1周时间后自动关闭。
+
+■其他
+会长可以将成员任命为管理员协助自己管理同好会。
+
+会长无法退出同好会，只有将会长权限转移给管理员后才可退出。"
+1013,"关于同好招募"
+1014,"在同好招募中可以看到当前正在招募成员的各同好会信息。
+
+可以通过搜索功能对同好会的主要活动等条件进行筛选查看。"
+1015,"乐器演奏的注意事项"
+1016,"<UIForeground>F20202</UIForeground>■乐器演奏的注意事项<UIForeground>01</UIForeground>
+禁止通过乐器演奏功能侵犯第三方的权利。
+玩家可在«最终幻想14»版权与用户协议的允许范围内上传自己的演奏作品，但无权阻止他人散播或使用自己的作品。"
+1017,"合奏助手"
+1018,"<UIForeground>F20202</UIForeground>■什么是合奏助手？<UIForeground>01</UIForeground>
+合奏助手是将队内的演奏音整合起来播放给周围玩家的功能。
+
+<UIForeground>F20202</UIForeground>■合奏助手与通常演奏的不同<UIForeground>01</UIForeground>
+由于合奏助手启动中会将队内的演奏音在服务器上经过整合后再播放给周围的玩家，所以声音相比于通常演奏会有一定的延迟。
+因此，玩家可选择收听自己演奏音的模式。
+※该选项不会影响周围玩家的收听模式。
+
+只听自己：
+　屏蔽队员的演奏音，只能听见自己的演奏音。
+
+队伍整体：
+　将队内的演奏音在服务器上同步后再进行播放，
+　听到自己的演奏音时会有延迟。
+
+<UIForeground>F20202</UIForeground>■合奏助手的使用方法<UIForeground>01</UIForeground>
+合奏助手的使用方法如下：
+ 1.点击节拍器的“合奏准备确认”，打开设置界面
+ 2.勾选“使用合奏助手”后开始合奏准备确认
+ 3.合奏准备确认结束时合奏模式即会开启
+
+<UIForeground>F20202</UIForeground>■合奏助手的使用条件<UIForeground>01</UIForeground>
+使用合奏助手时有以下限制：
+ 1.小队队长处于演奏模式
+ 2.处于可演奏区域（不包括旅馆、军营）
+ 3.当前区域内使用合奏的队伍数未达到上限
+    ※每个区域都设有一个上限"
+1019,"演奏助手"
+1020,"<UIForeground>F20202</UIForeground>■什么是演奏助手？<UIForeground>01</UIForeground>
+演奏助手是根据提示操作即可完成演奏的辅助机能。
+
+<UIForeground>F20202</UIForeground>■演奏助手的使用方法<UIForeground>01</UIForeground>
+演奏助手的使用方法如下：
+ 1.点击琴键边的“演奏助手”
+ 2.选择演奏的乐曲
+ 3.设置乐曲倍速与是否使用节拍器
+
+<UIForeground>F20202</UIForeground>■演奏助手中的注意事项<UIForeground>01</UIForeground>
+使用演奏助手时会自动拒绝合奏准备确认。
+队内准备进行合奏时需要注意。"
+1021,""
+1022,""
+1023,""
+1024,""
+1025,""
+1026,""
+1027,""
+1028,""
+1029,""
+1030,""
 2000,""

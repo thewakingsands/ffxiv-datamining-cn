@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,,
+#,Text,DefineValue
 int32,str,uint32
 0,"EMOTE_AMAZED",1
 1,"EMOTE_ANGRY",2
@@ -497,3 +497,4 @@ int32,str,uint32
 493,"VER_WKT_ENABLE",1
 494,"VER45RW2_ENABLE",1
 495,"VER50AFTER2_ENABLE",1
+496,"",0

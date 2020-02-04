@@ -5,7 +5,6 @@ int32,str,str
 图姆拉村的罗尼图迫不及待地盼着冒险者的来访。"
 1,"TEXT_LUCKZI102_03557_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 和罗尼图进行了交谈。喜欢上冒险者的罗尼图披露了自制的自走人偶，罗尼图很在意自己没法正常地打招呼。为了帮助心情不好的罗尼图，向图姆拉村的杰姆图传达事情缘由。"
 2,"TEXT_LUCKZI102_03557_SEQ_02","和杰姆图进行了交谈。调查图姆拉村的<Sheet(EObj,2010336,0)/>，将罗尼图给的<Sheet(EventItem,2002690,0)/>放入。"
 3,"TEXT_LUCKZI102_03557_SEQ_03","将<Sheet(EventItem,2002690,0)/>放入了劳动幽灵。向图姆拉村的杰姆图报告。"

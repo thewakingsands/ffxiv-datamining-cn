@@ -164,6 +164,32 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 在跨服通讯贝频道8中发送消息“大家好！”。
 /跨8
 将默认聊天频道变更为跨服通讯贝频道8。","/跨服贝频道8","/跨8",509,0
+21,2,0,0,0,0,"/graphicpresets","/gpresets","/图像设置预设 预设组编号
+/graphicpresets、/gpreset
+将图像设置切换为预设设置。
+
+>>预设组编号（1-5）
+1：标准品质（笔记本电脑）
+2：标准品质（台式电脑）
+3：高品质（笔记本电脑）
+4：高品质（台式电脑）
+5：最高品质
+
+示例
+/图像设置预设 1
+将图像设置切换为“标准品质（笔记本电脑）”。","/图像设置预设","",481,0
+22,1,0,0,0,0,"/fellowship","/fs","/同好会
+/fellowship、/fs
+打开同好会窗口。","/同好会","",32,0
+23,1,0,0,0,0,"/fellowshipfinder","/fsfinder","/同好招募
+/fellowshipfinder、/fsfinder
+打开同好招募窗口。","/同好招募","",32,0
+24,1,0,0,0,0,"/collection","/coll","/重要物品
+/collection、/coll
+打开重要物品窗口。","/重要物品","",32,0
+25,1,0,0,0,0,"/newgame+","/ng+","/昔日重现模式
+/newgame+、/ng+
+打开昔日重现模式窗口。","/昔日重现模式","",32,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -552,9 +578,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 191,1,0,0,0,0,"/aethercurrent","/acurrent","/风脉泉(/风脉)
 /aethercurrent、/acurrent
 打开风脉泉窗口。","/风脉泉","/风脉",32,0
-192,1,0,0,0,0,"/logcolor","/lcolor","/信息颜色
+192,1,0,0,0,0,"/logcolor","/lcolor","/消息颜色
 /logcolor、/lcolor
-打开信息颜色设置窗口。","/信息颜色","",32,0
+打开消息颜色设置窗口。","/消息颜色","",32,0
 193,1,0,0,0,0,"/playguide","/pguide","/资讯中心(/资讯)
 /playguide、/pguide
 打开资讯中心窗口。","/资讯中心","/资讯",32,0
@@ -629,7 +655,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　…将情感动作名指定到图标名上，可以显示出该情感动作的图标。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭档(buddy) 搭档名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　…将搭档技能名指定到图标名上，可以显示出该技能的图标。搭档名可以省略。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet) 召唤兽名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召唤兽(pet)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　…将召唤兽技能名指定到图标名上，可以显示出该技能的图标。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>宠物(minion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　…将宠物名指定到图标名上，可以显示出该宠物的图标。
@@ -659,7 +685,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /gearset、/gs
 进行套装相关的操作。
 >>子命令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 套装编号 投影模板编号(1-10)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 套装编号 投影模板编号(1-15)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　装备指定编号的套装，如果输入了投影模板编号，则同时对套装进行投影。投影模板编号可省略。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>查看(view) 套装编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　查看指定编号套装的内容。
@@ -754,7 +780,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 220,2,0,0,0,0,"/itemsearch","/isearch","/道具检索 关键词
 /itemsearch、/isearch
 只能在对话栏中输入。可以通过输入关键词对所持物品进行检索。
-检索对象为装备中的物品、背包、陆行鸟鞍囊、兵装库、雇员物品栏、收藏柜。
+检索对象为装备中的物品、背包、陆行鸟鞍囊、兵装库、雇员物品栏、收藏柜、投影台。
 >>示例
 /道具检索 恢复药
 检索所持品中名称包含了关键词“恢复药”的道具。","/道具检索","",32,3000
@@ -1075,7 +1101,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 骑上坐骑“专属陆行鸟”。","/坐骑","",36,0
 272,3,2,3,2,0,"/additionalaction","/aaction","/额外技能 技能名 子命令
 /additionalaction、/aaction
-将指定的“额外技能（大地使者、能工巧匠）”设置到当前职业上。技能名使用“撤除(clear)”时会解除当前设定的所有已选技能。
+将指定的“额外技能（仅限大地使者）”设置到当前职业上。技能名使用“撤除(clear)”时会解除当前设定的所有已选技能。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置指定技能。
@@ -1084,8 +1110,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在设置或解除技能中切换。
 >>示例
-/额外技能 仓促 开
-将“仓促”设置为当前职业的额外技能。
+/额外技能 三角测量 开
+将“三角测量”设置为当前职业的额外技能。
 /额外技能 撤除
 解除当前职业所设置的额外技能。","/额外技能","",36,1000
 273,3,1,10,0,0,"/generalaction","/gaction","/共通技能 共通技能名 代名词
@@ -1112,8 +1138,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /addpvpaction、/apa
 在对战技能中设置要追加的额外技能。需要同时设置两个技能。
 >>示例
-/对战额外技能 下踢 全力挥打
-　…设置“下踢”和“全力挥打”这两个技能。","/对战额外技能","",36,1000
+/对战额外技能 武器投掷 全力挥打
+　…设置“武器投掷”和“全力挥打”这两个技能。","/对战额外技能","",36,1000
 277,3,1,16,0,0,"/pvpaction","/pvpac","/对战技能 对战技能名 代名词
 /pvpaction、/pvpac
 对指定目标使用指定技能。以自己为目标的技能可以省略输入代名词。向目标攻击类技能必须使用代名词。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
@@ -1141,7 +1167,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　在开启和关闭之间切换","/自动锁定","",36,0
 302,2,1,2,0,0,"/autofacetarget","","/自动转向目标 子命令
 /autofacetarget
-开启发动技能时转身面向目标的功能。
+开启角色设置中“发动技能时转身面向目标”的功能。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　开启自动转向目标。
@@ -1276,7 +1302,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提示音(call) 聊天频道名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　切换收到指定聊天频道的消息时是否开启音效，省略聊天频道名会默认为悄悄话频道。
 【指定聊天频道名】
-悄悄话(tell)　小队(party)　部队(freecompany)　团队(alliance)　通讯贝1～8(linkshell1～8) 新人(beginner)　战队(pvpteam)　跨服贝1～8(cwlinkshell1～8)","/消息窗口","",36,0
+他人对自己做出的情感动作(emote)　悄悄话(tell)　小队(party)　部队(freecompany)　团队(alliance)　通讯贝1～8(linkshell1～8) 新人(beginner)　战队(pvpteam)　跨服贝1～8(cwlinkshell1～8)","/消息窗口","",36,0
 313,3,2,2,2,0,"/battleeffect","","/战斗特效 目标 类型
 /battleeffect
 对角色设置中的“战斗特效”进行设置。
@@ -1328,6 +1354,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 特殊热键栏(HotbarEx)
 十字热键栏(Crosshotbar)
 主线向导(ScenarioGuide)
+纷争前线：战意槽(Frontline:BattleGauge)
 烈羽争锋：团队列表(RivalWings:Alliance)
 烈羽争锋：哥布林佣兵情报(RivalWings:Mercenary)
 群狼盛宴：我方情报(TheFeast:AllyInfo)
@@ -3044,14 +3071,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/忍耐","",293,0
-592,2,1,2,0,0,"/tomestone","","/欣赏神典石 子命令
+592,2,1,2,0,0,"/tomestone","","/神典石 子命令
 /tomestone
 掏出神典石赏玩一番。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/欣赏神典石","",293,0
+做出动作并显示文字提示。","/神典石","",293,0
 593,2,1,2,0,0,"/heeltoe","","/趾踵步 子命令
 /heeltoe
 跳起趾踵步。
@@ -3116,3 +3143,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/啦哩吼","",293,0
+603,2,1,2,0,0,"/toast","","/干杯 子命令
+/toast
+干了这杯橙汁！
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/干杯","",293,0

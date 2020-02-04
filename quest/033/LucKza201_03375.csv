@@ -5,7 +5,6 @@ int32,str,str
 鼹灵集市的戈恩艮想要冒险者帮助自己的儿子。"
 1,"TEXT_LUCKZA201_03375_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 和戈恩艮进行了交谈。戈恩艮委托冒险者告诉他的儿子希望他能休息一下。和安穆·艾兰红店野营地附近的古恩衮谈谈。"
 2,"TEXT_LUCKZA201_03375_SEQ_02","和古恩衮进行了交谈。为了能尽早让他可以休息，冒险者决定帮助他干活。调查红店野营地附近的3个<Sheet(EObj,2010010,0)/>。"
 3,"TEXT_LUCKZA201_03375_SEQ_03","调查<Sheet(EObj,2010010,0)/>后发现了遗物。将<Sheet(EventItem,2002584,0)/>交给红店野营地附近的古恩衮。"

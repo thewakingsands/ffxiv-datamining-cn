@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5
-#,Text,,,,FCActivityCategory,
+#,Text,SelfKind,TargetKind,NumParam,FCActivityCategory,IconType
 int32,str,byte,byte,byte,FCActivityCategory,sbyte
 0,"",0,0,0,0,-1
 1,"组建成了新部队！",0,0,0,1,0

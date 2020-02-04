@@ -5,7 +5,6 @@ int32,str,str
 法诺村的兰栎想要委托冒险者帮助双胞胎。"
 1,"TEXT_LUCKZF103_03480_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-
 冒险者接到兰栎的委托，开始收集仪式所需要的供品。和射手露宿地的秀楠交谈，询问要准备什么。"
 2,"TEXT_LUCKZF103_03480_SEQ_02","秀楠交代冒险者去狩猎众神喜欢的森林野兽。在射手露宿地周边打倒雄蓝鹿，获得<Sheet(EventItem,2002744,0)/>。"
 3,"TEXT_LUCKZF103_03480_SEQ_03","获得了仪式需要的<Sheet(EventItem,2002744,0)/>。将<Sheet(EventItem,2002744,0)/>交给射手露宿地的秀楠。"

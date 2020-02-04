@@ -1,8 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG303_02300_SEQ_00","忆念广场的机灵的莫古艾克正在找冒险者。"
-1,"TEXT_BANMOG303_02300_SEQ_01","莫古艾克委托冒险者指导负责采石凿石的莫古力族们。和天极白垩宫的莫古力族凿石匠谈谈。"
+0,"TEXT_BANMOG303_02300_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+忆念广场的机灵的莫古艾克正在找冒险者。"
+1,"TEXT_BANMOG303_02300_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
+
+莫古艾克委托冒险者指导负责采石凿石的莫古力族们。和天极白垩宫的莫古力族凿石匠谈谈。"
 2,"TEXT_BANMOG303_02300_SEQ_02","莫古力族凿石匠希望冒险者给学徒们做一个示范。用<Sheet(Item,15759,0)/>制作<Sheet(ItemHQ,15733,0)/>，并将其交给天极白垩宫的莫古力族凿石匠学徒。
 
 ※如果<Sheet(Item,15759,0)/>不足，可以与莫古力族凿石匠对话重新获得材料，并再次进行挑战。"
