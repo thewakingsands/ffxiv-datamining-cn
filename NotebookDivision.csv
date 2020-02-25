@@ -66,8 +66,8 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1021,"红",6,55,255,0,3,False,True,True,True,True,True,True,True,True
 1022,"亚德基拉",6,55,255,0,4,False,True,True,True,True,True,True,True,True
 1023,"凯·希尔",6,55,255,0,5,False,True,True,True,True,True,True,True,True
-1024,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
-1025,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1024,"联合重建",7,20,255,73,1,False,True,True,True,True,True,True,True,True
+1025,"其他",7,20,255,73,2,False,True,True,True,True,True,True,True,True
 1026,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"传承录·库尔札斯篇",0,255,50,0,0,False,True,True,True,True,True,True,True,True
 2001,"传承录·龙堡篇",0,255,50,0,0,False,True,True,True,True,True,True,True,True
@@ -75,5 +75,5 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 2003,"传承录·基拉巴尼亚篇",0,255,60,0,0,False,True,True,True,True,True,True,True,True
 2004,"传承录·奥萨德篇",0,255,60,0,0,False,True,True,True,True,True,True,True,True
 2005,"传承录·诺弗兰特篇",0,255,70,0,0,False,True,True,True,True,True,True,True,True
-2006,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+2006,"重建伊修加德",0,255,1,74,0,False,True,True,True,True,True,True,True,True
 2007,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True
