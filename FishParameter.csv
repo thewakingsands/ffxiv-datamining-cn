@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
 #,Text,Item,GatheringItemLevel,IsHidden,,FishingRecordType,TerritoryType,GatheringSubCategory,IsInLog,TimeRestricted,WeatherRestricted
-int32,str,Item,uint16,bit&01,bit&02,FishingRecordType,TerritoryType,GatheringSubCategory,bit&04,bit&08,bit&10
+int32,str,Row,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,TerritoryType,GatheringSubCategory,bit&04,bit&08,bit&10
 0,"",0,0,False,False,0,0,0,True,False,False
 1,"据说这种海带能够成长到1星里（约1600米）之长，在艾欧泽亚的五大海区均有分布。",4776,4,False,False,0,128,0,True,False,False
 2,"一种食欲特别旺盛的水生动物，据说钓上它甚至都不需要用钓钩。只要眼前出现了活动的东西，一律会用螯爪先抓住再说。",4925,2,False,False,2,148,0,True,False,False

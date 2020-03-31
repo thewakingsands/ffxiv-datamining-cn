@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,Description,Item,GatheringItemLevel,,TerritoryType,IsVisible
-int32,str,Item,GatheringItemLevelConvertTable,byte,TerritoryType,bit&01
+#,Description,Item,GatheringItemLevel,FishingRecordType,TerritoryType,IsVisible
+int32,str,Item,GatheringItemLevelConvertTable,FishingRecordType,TerritoryType,bit&01
 0,"",0,0,0,0,False
 20000,"这种螺的特征是拥有像旋转楼梯一样的壳。它的壳非常脆弱，所以那些形状完好的旋螺就成了收藏家们的心头好。",20144,205,26,613,True
 20001,"虽然雌性的鱼身是黑色的，不过随着成长会变成雄性，并且颜色也会变得鲜艳。为了保护自己会释放毒性粘液。",20145,205,11,613,True

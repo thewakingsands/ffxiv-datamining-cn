@@ -6687,7 +6687,9 @@ int32,str
 23628,""
 23629,""
 23630,""
-23700,""
+23700,"<Sheet(PlaceName,IntegerParameter(1),0)/>
+<Switch(IntegerParameter(2))><Case(1)>B级</Case><Case(2)>A级</Case><Case(3)>S级</Case></Switch>
+<Switch(IntegerParameter(3))><Case(1)>距离可契约状态还有：<Value>IntegerParameter(4)</Value>:<TwoDigitValue>IntegerParameter(5)</TwoDigitValue></Case><Case(2)>可契约状态</Case><Case(3)>黑涡团 契约状态</Case><Case(4)>双蛇党 契约状态</Case><Case(5)>恒辉队 契约状态</Case></Switch>"
 23701,""
 23702,""
 23703,""

@@ -1708,7 +1708,12 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 神殿骑士团的一员。
 　　　　　——马瑟兰","降频","令使用特殊技点数的宠物的防御力增加40。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒",25,35,3,False,False,True,True,False,3
-358,"","","","","",0,0,0,False,False,False,False,False,0
+358,"召唤出宠物“极合金正义号”。
+以机工兵器残暴正义号为原型制作的面向儿童的玩具。","遭到青蓝之手解雇的哥布林族技术员转职加入加隆德炼铁厂后，以机工兵器残暴正义号为原型制作的面向儿童的玩具。因大量运用了锌合金压铸工艺，所以成品非常牢固结实。","代号“残暴正义号”！
+发现预料之外的时空改变
+者……降下正义的铁锤！
+　　　　——残暴正义号","惊异机能","令使用特殊技点数的宠物的自动攻击变为范围攻击。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒",75,75,2,False,True,False,False,False,3
 359,"召唤出宠物“多玛金鱼儿”。
 雇员钓上来的金鱼，圆圆的身体特别可爱。","雇员钓上来的金鱼。这种身体圆圆的金鱼被称为多玛金鱼儿，这是由多玛的金鱼爱好者改良出来的新品种。因为吞下了白云花的种子，所以能够漂浮在空中。","你不觉得这是一个
 赚钱的好机会吗？

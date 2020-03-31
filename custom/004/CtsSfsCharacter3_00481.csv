@@ -429,7 +429,7 @@ int32,str,str
 191,"TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_KURENAI_004_103","我以前看过一本记载世界的秘境的书，
 好像有一片浮在天上的地区叫做云海。
 那里充满了浮空的岛屿……不知道沉睡着怎样的珍宝！"
-192,"TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_KURENAI_004_104","我想拜托你帮我找来云海的珍宝，
+192,"TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_KURENAI_004_104","我想拜托你帮我找来云海珍宝，
 虽然并不知道将来是否会和那么远的地方产生交流，
 但能够知晓世界的广阔的话肯定也能派上用场。"
 193,"TEXT_CTSSFSCHARACTER3_00481_LCUT_RANKUP_SANANA_004_105","……话是这么说，其实只是你想看而已吧？"
@@ -465,8 +465,9 @@ int32,str,str
 206,"TEXT_CTSSFSCHARACTER3_00481_AFTRANKUP_002_001","今后的委托将每周从至今为止的委托品中随机选择一次。"
 207,"TEXT_CTSSFSCHARACTER3_00481_AFTRANKUP_002_002","和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
 选择交纳委托品，查看交货列表。"
-208,"TEXT_CTSSFSCHARACTER3_00481_AFTRANKUP_002_003","另外，云海的珍宝、云海的羽毛、青蓝之面
-可以得到较多报酬。如果列表中有上述物品，就积极交货吧。"
+208,"TEXT_CTSSFSCHARACTER3_00481_AFTRANKUP_002_003","另外，云海珍宝、云海之羽、青蓝之面
+可以得到较多报酬。
+如果列表中有上述物品，就积极交货吧。"
 209,"TEXT_CTSSFSCHARACTER3_00481_AFTRANKUP_002_004","另外，今后可以对红进行武具投影了。"
 210,"TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_001_000","真心感谢您提供了这么多物品。"
 211,"TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_001_001","作为匠人您也有着十分高超的技术呢，
