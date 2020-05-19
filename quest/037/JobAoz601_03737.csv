@@ -57,10 +57,10 @@ int32,str,str
 50,"TEXT_JOBAOZ601_03737_MARTYN_100_001","哦，看来弟子们也赶过来了哟……"
 51,"TEXT_JOBAOZ601_03737_NUTIBABUNTIBA_000_002","恭喜你，<Highlight>ObjectParameter(1)</Highlight>！
 你真是青魔法师的榜样啊！"
-52,"TEXT_JOBAOZ601_03737_PYANDIH_000_003","<Highlight>ObjectParameter(1)</Highlight>，你表现的真帅！
+52,"TEXT_JOBAOZ601_03737_PYANDIH_000_003","<Highlight>ObjectParameter(1)</Highlight>，你表现得真帅！
 第二代蓝色假面就是我心目中的英雄！"
-53,"TEXT_JOBAOZ601_03737_ROYSE_000_004","哎呀，真是够热闹呀。
-让我一起恭贺一下英雄吧……"
+53,"TEXT_JOBAOZ601_03737_ROYSE_000_004","哎呀，真是够热闹的呀。
+让我也一起恭贺一下英雄吧……"
 54,"TEXT_JOBAOZ601_03737_ROYSE_000_005","<Highlight>ObjectParameter(1)</Highlight>，真是谢谢你。
 多亏了你，总算守住了天青斗场的经营权，
 也阻止了斗兽魔物们的兵器化利用。"
@@ -88,7 +88,7 @@ int32,str,str
 65,"TEXT_JOBAOZ601_03737_FYRGEISS_000_016","罗罗力特在泰勒吉·阿代勒吉死后增强了自己的发言权。
 戈德伯特·曼德维尔在金碟游乐场这一新事业上取得了成功。
 杜菈菈·杜菈则拥有着总主教的坚固地位。"
-66,"TEXT_JOBAOZ601_03737_FYRGEISS_000_017","在这样的沙蝎众当中，就属我最不起眼，
+66,"TEXT_JOBAOZ601_03737_FYRGEISS_000_017","在这样的沙蝎众当中，就数我最不起眼，
 发言权也越来越弱，说实在的为此我很是着急。"
 67,"TEXT_JOBAOZ601_03737_FYRGEISS_000_018","不过当我看到萝伊丝对工作的热情，
 使我想起了年轻时为了运营协会所经历的种种困难。

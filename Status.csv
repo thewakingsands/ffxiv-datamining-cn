@@ -336,7 +336,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 312,"大地之怒","产生土属性攻击区域",12702,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,30,0,False,0,False,False,0,0,False
 313,"辉煌盾","受到攻击时对攻击方附加状态，令其所受物理伤害提高",12711,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,2805,0,False,0,False,False,0,0,False
 314,"地狱之火炎","火属性持续伤害，体力逐渐流失",12712,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,10,0,False,0,False,False,0,0,False
-315,"日光的低语","体力会随时间逐渐恢复",12826,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,10,0,False,0,False,False,0,0,False
+315,"仙光的低语","体力会随时间逐渐恢复",12826,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,10,0,False,0,False,False,0,0,False
 316,"异想的盟光","魔法防御力增强",12827,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,10,0,False,0,False,False,0,0,False
 317,"异想的幻光","发动治疗魔法的治疗量提高，且受到魔法攻击的伤害减少",12828,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,20,0,False,0,False,False,0,0,False
 318,"异想的炽光","魔法的咏唱速度加快",12836,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,50,0,False,0,False,False,0,0,False

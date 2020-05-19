@@ -1016,7 +1016,7 @@ int32,uint16,uint16,str,str,str
 2942,28,150,"","晶壤量谱","jingrangliangpu"
 2943,28,160,"","舞步量谱","wubuliangpu"
 2944,28,161,"","幻扇量谱","huanshanliangpu"
-2945,28,121,"","占卜量谱","-"
+2945,28,121,"","占卜量谱","zhanbuliangpu"
 3000,25,0,"@","【金碟游乐场】","jindieyoulechang."
 3001,25,200,"","陆行鸟竞赛","luxingniaojingsai"
 3002,25,201,"","竞赛陆行鸟","jingsailuxingniao"

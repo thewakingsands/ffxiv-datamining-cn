@@ -9145,7 +9145,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 此效果每4秒降低2%"
 7521,"当前平衡量谱中积累的量值翻倍
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>短兵相接<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>转移<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>以及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>交剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>的复唱时间<If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),74))>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>短兵相接<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>移转<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>以及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>交剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>的复唱时间<If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),74))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身发动魔法攻击造成的伤害提高5%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒<Else/></If><Else/></If>
 此技能会中断连击"
