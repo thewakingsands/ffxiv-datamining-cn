@@ -145,7 +145,8 @@ int32,str
 当<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>迅连斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和40级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恶魔杀<UIGlow>01</UIGlow><UIForeground>01</UIForeground>连击成功时可以获得一档晶壤，发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>爆发击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或60级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能时需要消耗一档晶壤。"
 93,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不死鸟附体效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不死鸟附体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能便会出现<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>亚灵神不死鸟<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 在使用不死鸟附体时，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同调量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上会显示亚灵神不死鸟的剩余显现时间。"
-94,""
+94,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>照破<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现显示<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>积蓄状态的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>居合术、燕回返、默想<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以获得剑压，使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>照破<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以消耗剑压。"
 95,""
 96,""
 97,""

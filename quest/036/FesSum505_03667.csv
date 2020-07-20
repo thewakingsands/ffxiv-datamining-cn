@@ -10,7 +10,7 @@ int32,str,str
 
 听嘉·喃歌讲解钓鱼大会的规则，并提出钓来3条<Sheet(EventItem,2002869,0)/>的要求。<Sheet(EventItem,2002869,0)/>可从永夏岛北钓得。"
 2,"TEXT_FESSUM505_03667_SEQ_02","钓到<Sheet(EventItem,2002869,0)/>了。把3条<Sheet(EventItem,2002869,0)/>交给在太阳海岸的红莲节钓鱼负责人嘉·喃歌。"
-3,"TEXT_FESSUM505_03667_SEQ_03","将<Sheet(EventItem,2002869,0)/>上交给了嘉·喃歌。为了炒热红莲节的气氛，可再度参加钓鱼大会。"
+3,"TEXT_FESSUM505_03667_SEQ_03","将<Sheet(EventItem,2002869,0)/>交给了嘉·喃歌。为了炒热红莲节的气氛，可再度参加钓鱼大会。"
 4,"TEXT_FESSUM505_03667_SEQ_04",""
 5,"TEXT_FESSUM505_03667_SEQ_05",""
 6,"TEXT_FESSUM505_03667_SEQ_06",""
@@ -32,7 +32,7 @@ int32,str,str
 22,"TEXT_FESSUM505_03667_SEQ_22",""
 23,"TEXT_FESSUM505_03667_SEQ_23",""
 24,"TEXT_FESSUM505_03667_TODO_00","在永夏岛北钓上<Sheet(EventItem,2002869,0)/>"
-25,"TEXT_FESSUM505_03667_TODO_01","将<Sheet(EventItem,2002869,0)/>提交给红莲节钓鱼负责人嘉·喃歌"
+25,"TEXT_FESSUM505_03667_TODO_01","将<Sheet(EventItem,2002869,0)/>交给红莲节钓鱼负责人嘉·喃歌"
 26,"TEXT_FESSUM505_03667_TODO_02",""
 27,"TEXT_FESSUM505_03667_TODO_03",""
 28,"TEXT_FESSUM505_03667_TODO_04",""
@@ -60,7 +60,7 @@ int32,str,str
 而举办的钓鱼大会！"
 50,"TEXT_FESSUM505_03667_JNANGHO_000_002","规则很简单！
 你只要将我要求的鱼钓上来之后，
-再来再交到我这里就好了。"
+再来交到我这里就好了。"
 51,"TEXT_FESSUM505_03667_JNANGHO_000_003","接下来，我要出题了……
 这个岛附近，可以钓到一种名为<Sheet(EventItem,2002869,0)/>的鱼。
 请钓3条来交给我！"

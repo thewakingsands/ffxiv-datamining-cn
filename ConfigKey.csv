@@ -32,7 +32,7 @@ int32,str,byte,byte,bit&01,byte,uint16,byte,str
 62,"CAM_TILT_UP",255,255,False,1,28,6,"提高视角俯视角度"
 63,"CAM_TILT_DOWN",255,255,False,1,29,6,"降低视角俯视角度"
 64,"CAMERA_LOOKING",255,255,False,1,30,6,"视线面向当前镜头"
-65,"GROUP_POSE",255,255,False,1,32,1,"集体动作"
+65,"GROUP_POSE",255,255,False,1,32,1,"集体动作（拍照模式）"
 66,"IDLING_CAMERA",255,255,False,1,31,1,"观景视角"
 103,"TARGET_NEXT",255,255,False,2,1,2,"从最近的敌人开始从左至右切换所选目标"
 104,"TARGET_PREV",255,255,False,2,2,2,"从最近的敌人开始从右至左切换所选目标"

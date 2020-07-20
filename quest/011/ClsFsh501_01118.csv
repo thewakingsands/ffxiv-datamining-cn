@@ -91,143 +91,144 @@ int32,str,str
 图图卢恩，吓坏了。"
 61,"TEXT_CLSFSH501_01118_CHUCHUROON_000_021","可是，图图卢恩，想吃鱼。
 找行会会长，去谈谈。"
-62,"TEXT_CLSFSH501_01118_WAWALAGO_000_030","事情我已经听说了，冒险者。
+62,"TEXT_CLSFSH501_01118_SYBELL_000_025","想要解除禁渔令，果然只能先确保了海上的安全才行吗……"
+63,"TEXT_CLSFSH501_01118_WAWALAGO_000_030","事情我已经听说了，冒险者。
 但是……我怎么也不相信是“大海蛇”出现了。
 图图卢恩把别的鱼错看成大海蛇了吧。"
-63,"TEXT_CLSFSH501_01118_WAWALAGO_000_031","在海上要掌握距离感是很难的……
+64,"TEXT_CLSFSH501_01118_WAWALAGO_000_031","在海上要掌握距离感是很难的……
 即便是老练的捕鱼人也会看错物体的大小，
 特别是大到超过某种程度的情况下。"
-64,"TEXT_CLSFSH501_01118_WAWALAGO_000_032","而且这个时期，利姆萨·罗敏萨的近海里，
+65,"TEXT_CLSFSH501_01118_WAWALAGO_000_032","而且这个时期，利姆萨·罗敏萨的近海里，
 有时会出现非常巨大的鱼……
 他肯定是看到大鱼受了惊吓而无法冷静判断了！"
-65,"TEXT_CLSFSH501_01118_WAWALAGO_000_033","那种鱼叫做“<Sheet(Item,　4917,0)/>”。
+66,"TEXT_CLSFSH501_01118_WAWALAGO_000_033","那种鱼叫做“<Sheet(Item,　4917,0)/>”。
 出没于东拉诺西亚的北鲜血滨钓场，
 那鱼大到足以把看到它的人吓失禁。"
-66,"TEXT_CLSFSH501_01118_WAWALAGO_000_034","不过，光是口头说明这种鱼，
+67,"TEXT_CLSFSH501_01118_WAWALAGO_000_034","不过，光是口头说明这种鱼，
 斯拉菲尔辛的石头脑袋是转不过弯来的。
 ……只有把“<Sheet(Item,　4917,0)/>”钓上来了！"
-67,"TEXT_CLSFSH501_01118_WAWALAGO_000_035","但是，“<Sheet(Item,　4917,0)/>”相当难钓。
+68,"TEXT_CLSFSH501_01118_WAWALAGO_000_035","但是，“<Sheet(Item,　4917,0)/>”相当难钓。
 我以前也曾经和它较量过一次，
 被它甩断钓线逃走了。"
-68,"TEXT_CLSFSH501_01118_WAWALAGO_000_036","而且别看那家伙体型巨大，头脑却很聪明。
+69,"TEXT_CLSFSH501_01118_WAWALAGO_000_036","而且别看那家伙体型巨大，头脑却很聪明。
 ……但也不是毫无办法。钓那种鱼，
 有一种必杀钓法……对了，是“以小钓大”！！"
-69,"TEXT_CLSFSH501_01118_WAWALAGO_000_037","要利用鱼类的食物链，冒险者！
+70,"TEXT_CLSFSH501_01118_WAWALAGO_000_037","要利用鱼类的食物链，冒险者！
 你首先准备好“<Sheet(Item,　2589,0)/>”，
 钓到“<Sheet(Item,　4874,0)/>”。"
-70,"TEXT_CLSFSH501_01118_WAWALAGO_000_038","然后用钓上来的“<Sheet(Item,　4874,0)/>”作鱼饵，
+71,"TEXT_CLSFSH501_01118_WAWALAGO_000_038","然后用钓上来的“<Sheet(Item,　4874,0)/>”作鱼饵，
 钓到“<Sheet(Item,　4888,0)/>”……
 然后再用这鱼当饵钓到“<Sheet(Item,　4917,0)/>”！"
-71,"TEXT_CLSFSH501_01118_WAWALAGO_000_039","说实话，我也想再挑战试试……
+72,"TEXT_CLSFSH501_01118_WAWALAGO_000_039","说实话，我也想再挑战试试……
 但现在禁渔，行会会长不能大摇大摆地去钓鱼。
 这里就轮到冒险者你出场了！"
-72,"TEXT_CLSFSH501_01118_WAWALAGO_000_040","我们会全力装出很闲的样子掩护你的行动！
+73,"TEXT_CLSFSH501_01118_WAWALAGO_000_040","我们会全力装出很闲的样子掩护你的行动！
 这期间你把“<Sheet(Item,　4917,0)/>”钓上来，
 交给希希蒲！"
-73,"TEXT_CLSFSH501_01118_SISIPU_000_40","那我们就得钓到“<Sheet(Item,　4917,0)/>”！
+74,"TEXT_CLSFSH501_01118_SISIPU_000_40","那我们就得钓到“<Sheet(Item,　4917,0)/>”！
 既然老大说有，那就肯定有这种鱼！
 所以你一定要努力把它钓上来！"
-74,"TEXT_CLSFSH501_01118_SISIPU_000_41","来了！
+75,"TEXT_CLSFSH501_01118_SISIPU_000_41","来了！
 这就是“<Sheet(Item,　4917,0)/>”？！
 比、比想象的还大……"
-75,"TEXT_CLSFSH501_01118_SISIPU_000_42","总之，要把这鱼拿给斯拉菲尔辛正漩将看。
+76,"TEXT_CLSFSH501_01118_SISIPU_000_42","总之，要把这鱼拿给斯拉菲尔辛正漩将看。
 我拜托了西贝尔利用商会的人脉，已经做好了准备工作。"
-76,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_50","呵呵呵……
+77,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_50","呵呵呵……
 好久没因临检以外的事情登上商船了。"
-77,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_51","布鲁盖尔商会的船很不错嘛。
+78,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_51","布鲁盖尔商会的船很不错嘛。
 该不会是做坏事赚到的钱吧？"
-78,"TEXT_CLSFSH501_01118_SYBELL_000_52","绝、绝对没有！
+79,"TEXT_CLSFSH501_01118_SYBELL_000_52","绝、绝对没有！
 阁下百忙之中抽出时间来，
 对此我们万分感谢……"
-79,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_53","开玩笑的，别当真啊。
+80,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_53","开玩笑的，别当真啊。
 而且奉承话就免了，我不擅长客套。
 快办正事吧，好吗？"
-80,"TEXT_CLSFSH501_01118_SYBELL_000_54","是、是！"
-81,"TEXT_CLSFSH501_01118_SISIPU_000_55","那个，斯拉菲尔辛先生。
+81,"TEXT_CLSFSH501_01118_SYBELL_000_54","是、是！"
+82,"TEXT_CLSFSH501_01118_SISIPU_000_55","那个，斯拉菲尔辛先生。
 请看看这个“<Sheet(Item,　4917,0)/>”！"
-82,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_56","哎呀，那家伙是“<Sheet(Item,　4917,0)/>”吗？
+83,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_56","哎呀，那家伙是“<Sheet(Item,　4917,0)/>”吗？
 钓到这么大的鱼，了不起。"
-83,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_58","然后……你们想说，
+84,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_58","然后……你们想说，
 这个<Sheet(Item,　4917,0)/>
 就是在街头巷尾引起大海蛇骚动的元凶吗？"
-84,"TEXT_CLSFSH501_01118_WAWALAGO_000_59","正是如此。
+85,"TEXT_CLSFSH501_01118_WAWALAGO_000_59","正是如此。
 想不到其他理由了。
 明白的话就赶紧解除禁渔吧！"
-85,"TEXT_CLSFSH501_01118_SISIPU_000_60","喂，老大！
+86,"TEXT_CLSFSH501_01118_SISIPU_000_60","喂，老大！
 你对斯拉菲尔辛先生太失礼了！"
-86,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_61","哈哈哈，别介意，小姐。
+87,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_61","哈哈哈，别介意，小姐。
 我和瓦瓦拉哥老先生是老相识了，
 不会因为这点事就生气的。"
-87,"TEXT_CLSFSH501_01118_WAWALAGO_000_62","嗯……那你打算怎么办？
+88,"TEXT_CLSFSH501_01118_WAWALAGO_000_62","嗯……那你打算怎么办？
 是解除禁渔？还是不解除？说清楚！"
-88,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_63","我想想……"
-89,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_64","解除禁渔……"
-90,"TEXT_CLSFSH501_01118_SISIPU_000_65","解除禁渔？"
-91,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_66","那就同意解除吧。
+89,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_63","我想想……"
+90,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_64","解除禁渔……"
+91,"TEXT_CLSFSH501_01118_SISIPU_000_65","解除禁渔？"
+92,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_66","那就同意解除吧。
 还有手续……明天之前会发出公告的。"
-92,"TEXT_CLSFSH501_01118_SYBELL_000_67","咦？咦？
+93,"TEXT_CLSFSH501_01118_SYBELL_000_67","咦？咦？
 这样就行了吗，阁下？"
-93,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_68","是啊……怎么了？"
-94,"TEXT_CLSFSH501_01118_SYBELL_000_69","不……我还以为您会说
+94,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_68","是啊……怎么了？"
+95,"TEXT_CLSFSH501_01118_SYBELL_000_69","不……我还以为您会说
 这种东西无法作为证据呢。"
-95,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_70","没那回事。我们黑涡团正在寻找的东西，
+96,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_70","没那回事。我们黑涡团正在寻找的东西，
 你们替我们找出来了。
 多亏冒险者找到了这个有力的证据。"
-96,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_71","我们黑涡团怀疑“大海蛇”出没的传闻与鱼人族有关，
+97,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_71","我们黑涡团怀疑“大海蛇”出没的传闻与鱼人族有关，
 进行了秘密调查……
 看来此事是个误会。"
-97,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_72","根据黑涡团的调查，
+98,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_72","根据黑涡团的调查，
 最初只是单纯的“发现了巨大的鱼”吧？
 就是你们公会的成员说的。"
-98,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_73","传闻真的很可怕。
+99,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_73","传闻真的很可怕。
 以讹传讹，变成了“像大海蛇那么大”，
 最后又变成了“发现了大海蛇”。"
-99,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_74","真是一场闹剧。
+100,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_74","真是一场闹剧。
 传闻就是这么离谱的东西，没办法。"
-100,"TEXT_CLSFSH501_01118_SISIPU_000_75","那么……莫非什么都不用做，
+101,"TEXT_CLSFSH501_01118_SISIPU_000_75","那么……莫非什么都不用做，
 禁渔就解除了？"
-101,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_76","不，撤回已经发布的公告需要理由。
+102,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_76","不，撤回已经发布的公告需要理由。
 如果没有冒险者钓到的“<Sheet(Item,　4917,0)/>”，
 不会这么快就解除禁渔。"
-102,"TEXT_CLSFSH501_01118_SISIPU_000_77","是啊……得好好感谢<Highlight>ObjectParameter(1)</Highlight>。
+103,"TEXT_CLSFSH501_01118_SISIPU_000_77","是啊……得好好感谢<Highlight>ObjectParameter(1)</Highlight>。
 啊，话说还有一件疑惑的事。
 为什么传闻会变成那样？"
-103,"TEXT_CLSFSH501_01118_WAWALAGO_000_78","嗯……
+104,"TEXT_CLSFSH501_01118_WAWALAGO_000_78","嗯……
 没准那是我的错。"
-104,"TEXT_CLSFSH501_01118_SISIPU_000_79","怎、怎么回事，老大？"
-105,"TEXT_CLSFSH501_01118_WAWALAGO_000_80","其实不久前，
+105,"TEXT_CLSFSH501_01118_SISIPU_000_79","怎、怎么回事，老大？"
+106,"TEXT_CLSFSH501_01118_WAWALAGO_000_80","其实不久前，
 图图卢恩问我知不知道巨大的鱼，
 我好像回答了“有种鱼像大海蛇那么大”……"
-106,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_81","咳咳！
+107,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_81","咳咳！
 嘛……刚才的就当没听见吧。
 总之，多谢你帮忙，辛苦了。"
-107,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_82","我代表黑涡团感谢你。
+108,"TEXT_CLSFSH501_01118_EYNZAHRSLAFYRSYN_000_82","我代表黑涡团感谢你。
 手续办完后会马上把解除禁渔的事通知行会。
 你们回去等消息就行了。"
-108,"TEXT_CLSFSH501_01118_SISIPU_000_090","真是的……传闻真可怕。
+109,"TEXT_CLSFSH501_01118_SISIPU_000_090","真是的……传闻真可怕。
 一个传闻就差点害捕鱼人行会破产。"
-109,"TEXT_CLSFSH501_01118_SISIPU_000_091","不过，已经没事了。
+110,"TEXT_CLSFSH501_01118_SISIPU_000_091","不过，已经没事了。
 斯拉菲尔辛正漩将也向我们保证了，
 明天起一切恢复正常。"
-110,"TEXT_CLSFSH501_01118_SISIPU_000_092","话说回来，多亏了<Highlight>ObjectParameter(1)</Highlight>帮忙。
+111,"TEXT_CLSFSH501_01118_SISIPU_000_092","话说回来，多亏了<Highlight>ObjectParameter(1)</Highlight>帮忙。
 阁下也说了，你钓到的鱼，
 是决定性的证据。"
-111,"TEXT_CLSFSH501_01118_SISIPU_000_093","你加入捕鱼人行会，真是太好了。
+112,"TEXT_CLSFSH501_01118_SISIPU_000_093","你加入捕鱼人行会，真是太好了。
 这一切都是看中你的恩·恩姆莉加的功劳。"
-112,"TEXT_CLSFSH501_01118_SISIPU_000_094","不久前你还是个新手，
+113,"TEXT_CLSFSH501_01118_SISIPU_000_094","不久前你还是个新手，
 现在却把连老大都钓不到的
 <Sheet(Item,　4917,0)/>也钓上来了。"
-113,"TEXT_CLSFSH501_01118_SISIPU_000_095","你已经是名副其实的行会第一捕鱼人了。
+114,"TEXT_CLSFSH501_01118_SISIPU_000_095","你已经是名副其实的行会第一捕鱼人了。
 不过老大的心态还很年轻，一定很不甘心吧。
 别看他那样，他可不服输了。"
-114,"TEXT_CLSFSH501_01118_SISIPU_000_096","希望你和老大两人，
+115,"TEXT_CLSFSH501_01118_SISIPU_000_096","希望你和老大两人，
 继续努力，相互切磋，
 振兴捕鱼人行会。"
-115,"TEXT_CLSFSH501_01118_SISIPU_000_097","这样的话，大家肯定也会更加努力的。
+116,"TEXT_CLSFSH501_01118_SISIPU_000_097","这样的话，大家肯定也会更加努力的。
 会奋起追赶第一名的你。"
-116,"TEXT_CLSFSH501_01118_SYSTEM_000_500","“捕鱼人”的故事到此告一段落！
+117,"TEXT_CLSFSH501_01118_SYSTEM_000_500","“捕鱼人”的故事到此告一段落！
 要开始接下来的“捕鱼人”职业任务，
 需要满足以下条件。"
-117,"TEXT_CLSFSH501_01118_SYSTEM_000_501","完成“第七星历主线任务”中“希望的灯火”。"
-118,"TEXT_CLSFSH501_01118_SYSTEM_000_502","满足条件后，和捕鱼人行会的希希蒲对话，
+118,"TEXT_CLSFSH501_01118_SYSTEM_000_501","完成“第七星历主线任务”中“希望的灯火”。"
+119,"TEXT_CLSFSH501_01118_SYSTEM_000_502","满足条件后，和捕鱼人行会的希希蒲对话，
 即可开始新的职业任务！"

@@ -175,7 +175,7 @@ int32,str,str
 需要将元素等级提升到29级。"
 71,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_270","神秘男子……枯竭魔素石……
 爷爷……封印……善良的传承者……斗神……
-让流向逆转…………"
+让流向逆转……"
 72,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_271","嗯——抱歉，再给我点时间……
 现在有点晕头转向，没法很好地整理情报……"
 73,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_272","想要推进下一阶段的剧情，
@@ -278,17 +278,17 @@ int32,str,str
 112,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_EUREKAPERSON_000_437","我乃优雷卡！"
 113,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_440","已完成“禁地优雷卡 恒冰之地”的剧情！
 请期待下一个版本来临！"
-114,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_100_440","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>”的剧情！"
+114,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_100_440","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>”的剧情！"
 115,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_110_440","和黄金港的罗德尼对话，
-可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>”任务。"
+可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>”任务。"
 116,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_441","在恒冰地带能够骑乘坐骑了！"
 117,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_KRILE_000_450","抱歉，岛内传送网的重新设定还需要时间，
 目的地的状况也还没有确认完……
 请你再等些时间吧。"
 118,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_451","已完成“禁地优雷卡 恒冰之地”的剧情！
 请期待下一个版本来临！"
-119,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_460","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>”的剧情！"
+119,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_460","已完成“<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>”的剧情！"
 120,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_SYSTEM_000_461","和黄金港的罗德尼对话，
-可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>”任务。"
+可以开放“<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>”任务。"
 121,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_TALK_ACTOR",""
 122,"TEXT_CTSERKEUREKA2EVENTKRILE_00498_TALK_ACTOR_2",""

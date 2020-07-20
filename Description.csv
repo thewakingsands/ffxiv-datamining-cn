@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
-int32,uint32,str,str,str,bit&01,uint32
+#,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,Quest,str,str,str,bit&01,DescriptionSection
 3604480,0,"","","",False,0
 3604481,0,"","","",False,0
 3604482,68737,"多玛方城战解说","多玛方城战解说","",True,2
@@ -8,3 +8,4 @@ int32,uint32,str,str,str,bit&01,uint32
 3604484,0,"关于房屋","房屋解说","",True,4
 3604485,0,"昔日重现模式","昔日重现模式解说","",True,2
 3604486,0,"纷争前线","纷争前线解说","",True,7
+3604487,0,"出海垂钓","出海垂钓解说","",True,8

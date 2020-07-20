@@ -1495,7 +1495,7 @@ int32,byte,byte,Image,byte,str,str,str
 801,1,0,150472,0,"
 身处任何一座城市中都可以在市场出售物品，所有国家的市场是互通的，在任何地方都能够买到所有正在出售的道具。
 
-不过购买在别国出售的道具时需要缴纳一定的手续费。","",""
+购买道具时需要缴纳5%的手续费。","",""
 802,1,0,150473,0,"
 另外，对道具还没有掌握足够知识的玩家也没有必要一定要在市场中购买物品。
 
@@ -1534,7 +1534,7 @@ int32,byte,byte,Image,byte,str,str,str
 820,1,0,150491,0,"
 在列表中选中道具名之后，会在新窗口中以价格顺序列出当前出售的情况。","",""
 821,1,0,150492,0,"
-选中商品即可当场购买。不过购买在别国出售的物品时需要缴纳一定的手续费。","",""
+选中商品即可当场购买。不过购买时需要缴纳5%的手续费。","",""
 822,0,0,0,0,"","",""
 823,0,0,0,0,"","",""
 824,0,0,0,0,"","",""
@@ -1787,16 +1787,15 @@ int32,byte,byte,Image,byte,str,str,str
 958,0,0,0,0,"","",""
 959,0,0,0,0,"","",""
 960,1,0,151021,0,"
-装备可以转化成魔晶石了！
+可以利用装备精制魔晶石了！
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是由装备转化而成的道具，可以用来对装备进行强化。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是从装备上精制而成的道具，可以用来对装备进行强化。","",""
 961,1,0,151022,0,"
 装备在使用过程中会不断地积累<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精炼度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-当精炼度到达100%时，装备便可以进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔晶石化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+当精炼度到达100%时，便可以用装备<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精制魔晶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+获得新的魔晶石之后，装备的精炼度会变回1%。","",""
 962,1,0,151023,0,"
-魔晶石化之后原本的装备会消失。
-
 要将魔晶石镶嵌到装备上，需要成为工匠掌握一种特殊的技术，或者是委托各城邦的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石师傅”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 已镶嵌的魔晶石可以通过装备次级指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收魔晶石”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将魔晶石摘除回收。","",""
@@ -3168,9 +3167,9 @@ int32,byte,byte,Image,byte,str,str,str
 1767,1,0,152801,0,"
 通过刺鱼捕捉特定的鱼类后，生态平衡会受到影响，从而出现一种名为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“鱼影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的特殊渔场。","",""
 1768,1,0,152802,0,"
-发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“海洋之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，会在“鱼影”出现时，自动表示在导向地图上。
+发动<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“海洋之相”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，会自动将“鱼影”出现的位置表示在导向地图上。
 
-潜入“鱼影”之中，采集珍贵的鱼类吧！","",""
+捕捉潜入在“鱼影”之中的珍贵鱼类吧！","",""
 1769,0,0,0,0,"","",""
 1770,1,0,152811,0,"
 可以使用快捷指令中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“重要物品”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
@@ -3484,16 +3483,8 @@ int32,byte,byte,Image,byte,str,str,str
 通过学会新的职业特性，能够发现隐藏特殊性质了。
 
 虽然不能经常发现隐藏特殊性质，不过一旦发现了请活用技能，不要放过这个好机会！","",""
-2040,1,0,152231,0,"
-获得了护符！
-
-使用护符后，在一定时间内会受到特别的加护。
-
-护符所给予的加护会根据护符的不同而不同，获得及使用护符时请确认好护符给予加护的职业与地域，以免白白浪费！","",""
-2041,1,0,152232,0,"
-在接受了特别加护的状态下进行采集的话，有时可以发现“隐秘采集地点”。
-
-在“隐秘采集地点”采集，有时可以获得稀有物品，如果发现了的话，请优先采集！","",""
+2040,0,0,0,0,"","",""
+2041,0,0,0,0,"","",""
 2050,1,0,152241,0,"
 获得了可以“精选”的道具。
 
@@ -3839,32 +3830,11 @@ int32,byte,byte,Image,byte,str,str,str
 另外，通过任务搜索器发送高级任务的参加申请时，有时需要<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>平均品级达到一定值以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，否则将无法发送参加申请。
 
 若平均品级不足，就用亚拉戈神典石去交换装备，或在市场购买高品级装备，调整好装备后，再进行挑战吧！","",""
-2290,1,0,152481,0,"
-除了小队共通的报酬外，还有一种通过满足一定条件而出现的个人报酬。
-
-这种个人报酬是给每个人单独的报酬，发现时请注意拾取。","",""
-2300,1,0,152491,0,"
-“云冠群岛探索”是以达成探索任务为目标的副本。
-
-探索任务显示在目的列表中，请齐心协力达成任务。
-
-达成目的列表中的所有探索任务后将会获得报酬。","",""
-2301,1,0,152492,0,"
-在云冠群岛探索时，通过讨伐魔物等途径，可以令“宝箱”出现。
-
-请多做尝试，自由探索。","",""
-2302,1,0,152493,0,"
-另外，在探索云冠群岛时，有可能会遇到其他小队。
-
-当数个小队共同讨伐魔物时，只要对魔物造成一定量以上的伤害，即会被视作参加了讨伐。
-
-只要被视作参加了讨伐，就有几率令宝箱出现！","",""
-2303,1,0,152494,0,"
-限制时间过后，云冠群岛探索将会结束。距上次开始云冠群岛探索30分钟（地球时间）后，即可再次进入云冠群岛进行探索。
-
-另外，想要中途退出的话，可以打开任务搜索器点退出，或返回探索营地退出。
-
-退出后会自动脱离小队。","",""
+2290,0,0,0,0,"","",""
+2300,0,0,0,0,"","",""
+2301,0,0,0,0,"","",""
+2302,0,0,0,0,"","",""
+2303,0,0,0,0,"","",""
 2310,1,0,152501,0,"
 受到东方海洋诸神的加护，可以在水中活动了！
 
@@ -4214,3 +4184,18 @@ int32,byte,byte,Image,byte,str,str,str
 当前的危命任务完成度可在快捷指令的“危命任务完成度”里进行确认。
 
 部分稀有道具只能通过与广域交易商进行交易获取，请积极参与遇到的危命任务吧！","",""
+2520,0,0,0,0,"","",""
+2530,1,0,152831,0,"
+习得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>耐心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+
+使用捕鱼人的技能耐心后，可以更容易钓到大鱼。
+
+只是，在耐心效果中会大幅度降低<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的成功率","",""
+2531,1,0,152832,0,"
+在成功率降低的状态下使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>精准提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>强力提钩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为最佳选择。
+
+分辨出咬钩强度使用不同技能，可以打消提钩成功率降低的状态。
+
+在合适的时机使用两种不同的提钩，钓上大鱼吧！","",""
+2540,0,0,0,0,"","",""
+2541,0,0,0,0,"","",""

@@ -190,6 +190,51 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 25,1,0,0,0,0,"/newgame+","/ng+","/昔日重现模式
 /newgame+、/ng+
 打开昔日重现模式窗口。","/昔日重现模式","",32,0
+26,2,1,2,0,0,"/dice","","/掷骰 聊天频道
+/dice
+从0～999中随机抽取一个数字发送到当前或指定聊天频道。
+>>可指定频道：
+小队(party)
+团队(alliance)
+部队(freecompany)
+战队(pvpteam)
+通讯贝1-8(linkshell1-8)
+跨服贝1-8(cwlinkshell1-8)
+省略输入指定频道时，会在当前频道发言。
+※设成宏使用时必须指定聊天频道。
+
+>>示例
+/掷骰
+在当前聊天频道发送随机掷骰数字。
+/掷骰 跨服贝1
+在跨服通讯贝1发送随机掷骰数字。","/掷骰","",36,1000
+28,3,1,2,0,0,"/nameplatedisp","","/名牌显示 对象 设置代号/nameplatedisp
+进行玩家名牌显示设置。
+>>对象
+全部(all)
+所有玩家为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自己<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(self)
+自身为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(party)
+小队成员为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>团队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(alliance)
+团队成员为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>他人<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(other)
+其他人为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>好友<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(friend)
+好友为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>群狼盛宴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(feast)
+群狼盛宴中的敌人为对象
+
+>>设置代号1-4
+1:一直显示
+2:战斗时显示
+3:选为目标时显示
+4:不显示
+
+>>示例
+/名牌显示 全部 4
+将所有玩家的名牌显示设置改为不显示。","/名牌显示","",36,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -431,7 +476,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 打开传送窗口。","/传送","",0,0
 156,3,1,2,0,0,"/marking","/mk","/标记 标记种类 代名词
 /marking、/mk
-给指定的玩家加上指定的标记。省略玩家名可以将标记加到当前选中的目标上。
+给指定角色加上指定的标记。省略代名词可以将标记加到当前选中的目标上。
 >>标记种类
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击(attack)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击1～5(attack1～5)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置攻击1～5的标记。不指定数值则会标记当前未使用的最小数值攻击标记。
@@ -452,8 +497,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　打开目标标记窗口。
 >>示例
-/标记 攻击3 <目标> 
-给目标加上“攻击3”的标记。","/标记","",32,0
+/标记 攻击3 <焦点目标> 
+给焦点目标加上“攻击3”的标记。","/标记","",32,0
 157,1,0,0,0,0,"/actionlist","/alist","/技能菜单
 /actionlist、/alist
 打开技能菜单。","/技能菜单","",32,0
@@ -528,10 +573,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 设置场景标记。
 指定代名词时会在对象脚下设置标记。
 >>子命令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记名(A、B、C、D、1、2)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>标记名(A、B、C、D、1、2、3、4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置标记。已设置的情况下则会撤除，如果指定代名词则会进行覆盖。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear)或关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　撤除所有设置中的标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存(save) 存档编号1-5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　保存当前设置的场景标记配置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>预设(preset) 存档编号1-5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　读取保存好的场景标记配置。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略标记名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　从A开始顺次设置尚未使用的标记。所有标记都设置完毕的状态下无法使用。指定代名词时无法省略标记名。
 >>示例
@@ -773,9 +822,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 <CommandIcon(15)/>/2键
 切换注视目标
 <CommandIcon(6)/>/Tab、Shift+Tab键
-调整构图
+调整镜头
 <CommandIcon(20)/>/W、A、S、D、Q、E键
-重置构图
+重置镜头
 <Gui(16)/>/Z键","/集体动作","",32,0
 220,2,0,0,0,0,"/itemsearch","/isearch","/道具检索 关键词
 /itemsearch、/isearch
@@ -795,9 +844,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 <CommandIcon(8)/>/小键盘0/左键单击
 切换场景
 <CommandIcon(6)/>/Tab、Shift+Tab键
-调整构图
+调整镜头
 <CommandIcon(20)/>/W、A、S、D、Q、E键
-重置构图
+重置镜头
 <Gui(16)/>/Z键
 >>示例
 /观景视角
@@ -3163,3 +3212,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/头痛","",293,0
+606,2,1,2,0,0,"/snap","","/打响指 子命令
+/snap
+打个响指。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/打响指","",293,0

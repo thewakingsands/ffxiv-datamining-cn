@@ -3,15 +3,15 @@
 int32,str,str
 0,"TEXT_FESSUM504_03666_SEQ_00","※本任务是特定期间内的任务。
 
-太阳海岸的红莲节烹调委员希尔德拉娜正在等待着烹调大会的参加者。"
+太阳海岸的红莲节食品专员希尔德拉娜正在等待着烹调大会的参加者。"
 1,"TEXT_FESSUM504_03666_SEQ_01","※本任务只有在季节活动开放期间才能接受和进行。
 　季节活动结束后无法进行，敬请注意。
 　详情请参见官方网站。
 
-听希尔德拉娜对烹调大会进行说明，并按要求准备<Sheet(Item,10332,0)/>。获得<Sheet(Item,10332,0)/>之后上交给太阳海岸的红莲节烹调委员希尔德拉娜。
+听希尔德拉娜对烹调大会进行说明，并按要求准备<Sheet(Item,10332,0)/>。获取<Sheet(Item,10332,0)/>，交给太阳海岸的红莲节食品专员希尔德拉娜。
 
-※<Sheet(Item,10332,0)/>可由烹调师制作完成，也可从布告板处购买。"
-2,"TEXT_FESSUM504_03666_SEQ_02","将<Sheet(Item,10332,0)/>上交给了希尔德拉娜为了给红莲节炒热气氛，可再次挑战。"
+※<Sheet(Item,10332,0)/>可由烹调师制作，也可以通过市场布告板购买。"
+2,"TEXT_FESSUM504_03666_SEQ_02","将<Sheet(Item,10332,0)/>交给了希尔德拉娜。为了给红莲节炒热气氛，可再次挑战。"
 3,"TEXT_FESSUM504_03666_SEQ_03",""
 4,"TEXT_FESSUM504_03666_SEQ_04",""
 5,"TEXT_FESSUM504_03666_SEQ_05",""
@@ -33,7 +33,7 @@ int32,str,str
 21,"TEXT_FESSUM504_03666_SEQ_21",""
 22,"TEXT_FESSUM504_03666_SEQ_22",""
 23,"TEXT_FESSUM504_03666_SEQ_23",""
-24,"TEXT_FESSUM504_03666_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获得<Sheet(Item,10332,0)/>之后<Else/>把<Sheet(Item,10332,0)/>交给红莲节烹调委员希尔德拉娜</If>"
+24,"TEXT_FESSUM504_03666_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>获取<Sheet(Item,10332,0)/><Else/>将<Sheet(Item,10332,0)/>交给希尔德拉娜</If>"
 25,"TEXT_FESSUM504_03666_TODO_01",""
 26,"TEXT_FESSUM504_03666_TODO_02",""
 27,"TEXT_FESSUM504_03666_TODO_03",""
@@ -71,7 +71,7 @@ int32,str,str
 就为你省略掉冗长的说明吧！"
 53,"TEXT_FESSUM504_03666_HILDELANA_000_005","那么，就请尽快准备<Sheet(Item,10332,0)/>吧！
 作为食材的<Sheet(Item,12990,0)/>可以找开朗的捕鱼人购买！"
-54,"TEXT_FESSUM504_03666_HILDELANA_000_006","那么，就请尽快准备<Sheet(Item,10332,0)/>吧！
+54,"TEXT_FESSUM504_03666_HILDELANA_000_006","请准备<Sheet(Item,10332,0)/>吧！
 作为食材的<Sheet(Item,12990,0)/>可以找开朗的捕鱼人购买！"
 55,"TEXT_FESSUM504_03666_HILDELANA_000_010","你已经准备好<Sheet(Item,10332,0)/>了吗？
 作为食材的<Sheet(Item,12990,0)/>可以找开朗的捕鱼人购买！"

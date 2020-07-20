@@ -50,7 +50,7 @@ int32,str,str
 25,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_0","关于机遇任务的时间安排"
 26,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_1","关于“小雏鸟的营救者”"
 27,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_2","关于“从天而降的送货人”"
-28,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_7","关于“王像跳跳乐大挑战”"
+28,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_7","关于“虚景跳跳乐大挑战”"
 29,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_3","关于“火眼金睛的追踪者”"
 30,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_4","关于“舞蹈大师的特训”"
 31,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_A2_5","关于“喷风中的幸存者”"
@@ -60,13 +60,13 @@ int32,str,str
 35,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_1","机遇任务会在特定时间出现。"
 36,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_1","每小时<Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>分（地球时间）的时候，
 会出现“小雏鸟的营救者”“空军装甲驾驶员”
-“王像跳跳乐大挑战”的其中之一。"
+“虚景跳跳乐大挑战（贝拉哈迪亚遗迹风格）”的其中之一。"
 37,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_2","每小时<Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>分（地球时间）的时候，
 会出现“喷风中的幸存者”“必中一闪快刀斩魔”
-“王像跳跳乐大挑战”的其中之一。"
+“虚景跳跳乐大挑战（尼姆浮游遗迹风格）”的其中之一。"
 38,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_0_SYSYEM_3","每小时<Time(IntegerParameter(1))/><TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>分（地球时间）的时候，
-会出现“空军装甲驾驶员”“喷风中的幸存者”
-“必中一闪快刀斩魔”的其中之一。"
+会出现“空军装甲驾驶员”“必中一闪快刀斩魔”
+“虚景跳跳乐大挑战（尼姆浮游遗迹风格）”的其中之一。"
 39,"TEXT_CMNGSCESTABLISHMENTGUIDANCE_00241_GATE_1_1","活动的场地是巨人柱和科瑞尔山。
 有一只小陆行鸟不知怎么跑到了最顶端，
 却因为太高被吓傻了，没办法自己下来……"

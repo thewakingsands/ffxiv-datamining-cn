@@ -115,7 +115,7 @@ int32,str,str
 82,"TEXT_MANFST009_00449_100250_MERLWYB","左侧兵力太少了！
 让梭鱼队的人绕过去！"
 83,"TEXT_MANFST009_00449_100260_MERLWYB","黑涡团主力部队和特殊陆战队继续在原地死守！"
-84,"TEXT_MANFST009_00449_100270_KANESENNA","让双蛇党的白狼队快去援护黄蛇队。"
+84,"TEXT_MANFST009_00449_100270_KANESENNA","让双蛇党的白狼队快去支援黄蛇队。"
 85,"TEXT_MANFST009_00449_100280_KANESENNA","冒险者们身为异邦人也来协助我们艾欧泽亚与帝国进行战斗！
 绝对不能让任何人牺牲！"
 86,"TEXT_MANFST009_00449_100290_MERLWYB","怎么了？
@@ -180,7 +180,7 @@ int32,str,str
 118,"TEXT_MANFST009_00449_100610_KANESENNA","只是卫月所带来的黑暗蛮神在单方面进行屠杀……"
 119,"TEXT_MANFST009_00449_100620_KANESENNA","阴森……而又强悍的气息……
 即使是在这种情况下也能强烈感觉到……"
-120,"TEXT_MANFST009_00449_100630_KANESENNA","撤退的同时注意援护路易索瓦大师。
+120,"TEXT_MANFST009_00449_100630_KANESENNA","撤退的同时注意掩护路易索瓦大师。
 快去做好准备！"
 121,"TEXT_MANFST009_00449_100640_LAHABREAANCIENT","(-？？？？-)<UIForeground>F20223</UIForeground>蛮神巴哈姆特……
 竟然能够再次现身在我的眼前。<UIForeground>01</UIForeground>"

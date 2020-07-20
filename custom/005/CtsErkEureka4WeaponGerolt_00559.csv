@@ -92,7 +92,7 @@ int32,str,str
 它的新名字就叫……"
 41,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_230","<Sheet(Item,IntegerParameter(1),0)/>与<Sheet(Item,IntegerParameter(2),0)/>！"
 42,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_240","<Sheet(Item,IntegerParameter(1),0)/>！"
-43,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_250","根以往一样，
+43,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_250","跟以往一样，
 这把武器用丰水地带的素材还能进一步进行强化。
 你就再凑齐素材来找我吧！"
 44,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_260","终于完成了。
@@ -139,7 +139,7 @@ int32,str,str
 之后就看你能不能熟练使用它了。
 可别跟我说你做不到。"
 66,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_346","那就好，那你就带上你的搭档一起去实战一下吧！"
-67,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_349","使用“<Sheet(ContentFinderCondition,IntegerParameter(1),34)/>”的幻想嵌写器
+67,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_000_349","使用“<Sheet(ContentFinderCondition,IntegerParameter(1),35)/>”的幻想嵌写器
 可以对“禁地兵装最终形态”赋予副属性了。"
 68,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_350","看来我又制作了一个杰作。
 我的才能真是无穷无尽啊。

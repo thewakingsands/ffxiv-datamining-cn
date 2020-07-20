@@ -230,7 +230,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒"
 84,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>贯通刺　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530<If(GreaterThanOrEqualTo(PlayerParameter(72),56))><If(Equal(PlayerParameter(68),22))>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“苍天龙血”状态中连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒<Else/></If><Else/></If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>“苍天龙血”或“红莲龙血”状态中连击成功：<Else/>“苍天龙血”状态中连击成功：</If><Else/>“苍天龙血”状态中连击成功：</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒<Else/></If><Else/></If>"
 85,"一定时间内，自身发动攻击造成的伤害提高15%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
 86,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170"
@@ -244,7 +244,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击中背面攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续伤害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>24秒<If(GreaterThanOrEqualTo(PlayerParameter(72),58))><If(Equal(PlayerParameter(68),22))>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“苍天龙血”中连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒<Else/></If><Else/></If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>“苍天龙血”或“红莲龙血”状态中连击成功：<Else/>“苍天龙血”状态中连击成功：</If><Else/>“苍天龙血”状态中连击成功：</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒<Else/></If><Else/></If>"
 89,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重刺　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150"
 90,"对目标发动远程物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150"
@@ -605,7 +606,7 @@ int32,str
 219,"令雷之碎晶<If(GreaterThanOrEqualTo(PlayerParameter(68),16))><If(GreaterThanOrEqualTo(PlayerParameter(69),50))>、雷之水晶、雷之晶簇<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),41))>、雷之水晶<Else/></If></If><Else/></If>的获得数增加2个"
 220,"令获得率提高15%
 仅对获得率高于1%的道具有效"
-221,"发现未知的良材与草场，导向地图上也会显示出来"
+221,"发现未知的、传说的、梦幻的良材与草场，导向地图上也会显示出来"
 222,"令获得数增加1个"
 223,""
 224,"令获得数增加2个"
@@ -633,7 +634,7 @@ int32,str
 236,"令冰之碎晶<If(GreaterThanOrEqualTo(PlayerParameter(68),16))><If(GreaterThanOrEqualTo(PlayerParameter(69),50))>、冰之水晶、冰之晶簇<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),41))>、冰之水晶<Else/></If></If><Else/></If>的获得数增加2个"
 237,"令获得率提高15%
 仅对获得率高于1%的道具有效"
-238,"发现未知的矿脉与石场，导向地图上也会显示出来"
+238,"发现未知的、传说的、梦幻的矿脉与石场，导向地图上也会显示出来"
 239,"令获得数增加1个"
 240,""
 241,"令获得数增加2个"
@@ -651,28 +652,20 @@ int32,str
 250,"技能成功率提高20%，5次作业内有效"
 251,"技能成功率提高20%，5次作业内有效"
 252,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 253,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 254,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 255,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 256,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 257,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 258,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 259,"加工精度会随着加工系作业成功次数提高
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[加工精度提高上限：3000]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 最多积累11档"
 260,"令下一次使用的加工系技能效果提升100%，3次作业内有效"
 261,"令下一次使用的加工系技能效果提升100%，3次作业内有效"
@@ -3673,7 +3666,7 @@ int32,str
 2861,""
 2862,""
 2863,""
-2864,"设置车式浮空炮塔进行援护射击
+2864,"设置车式浮空炮塔进行支援射击
 车式浮空炮塔的运转时间随发动该技能时消耗的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>电能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>而变动
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最长运转时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 车式浮空炮塔可以通过<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>齐射<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行自动攻击
@@ -4496,7 +4489,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>侧面攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间延长10秒
 最多可延长至30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 3555,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中<If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -4505,7 +4498,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>背面攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间延长10秒
 最多可延长至30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 3557,"一定时间内，自身与周围队员的暴击发动率提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
 3558,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>230"
@@ -5286,10 +5279,10 @@ int32,str
 将钓上来的鱼作为收藏品保存起来"
 4102,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 目标鱼的优质率提高50%，但是提钩成功率降低40%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>145秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 在以小钓大的机会出现时发动此技能，机会自动取消"
 4103,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-以力量强大的操竿技巧来提钩，可以打消“提钩成功率降低”状态，只对部分鱼类有效"
+以力量强大的操竿技巧来提钩，可以打消“提钩成功率降低”状态，对咬钩强度低的鱼等部分鱼类无效"
 4104,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在下次垂钓中缩短鱼上钩所需时间
 在以小钓大的机会出现时发动此技能，机会自动取消"
@@ -5373,7 +5366,7 @@ int32,str
 4177,""
 4178,""
 4179,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-以精准无比的操竿技巧来提钩，可以打消“提钩成功率降低”状态，只对部分鱼类有效"
+以精准无比的操竿技巧来提钩，可以打消“提钩成功率降低”状态，对咬钩强度高的鱼等部分鱼类无效"
 4180,""
 4181,""
 4182,""
@@ -8729,7 +8722,7 @@ int32,str
 7387,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20点"
 7388,"为自身与周围队员附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于目标最大体力12%的伤害量
+该防护罩能够抵消相当于目标最大体力15%的伤害量
 另外，自身处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“战栗”“复仇”“原初的直觉”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态时，每解除一个状态，防护罩的效果量上升2%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 7389,"一定时间内不需要消耗兽魂就可以发动特定技能，且自身攻击必定暴击并且直击
@@ -8858,7 +8851,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>18秒"
 7421,"效果时间内，前3次咏唱的魔法没有任何咏唱时间　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 7422,"对目标及其周围敌人发动无属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
-攻击复数目标时，每多1目标，对该目标威力降低10%，最低降为50%
+攻击复数敌人时，对目标之外的敌人威力降低25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7423,"命令召唤兽发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵护<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -8867,10 +8860,10 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤兽处于同行状态"
 7424,"对目标附加无属性持续伤害状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
-7425,"对目标发动无属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+7425,"对目标发动无属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>无属性持续伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>45　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
 7426,"对目标发动无属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毁坏强化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
@@ -9101,12 +9094,12 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得3点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与3点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>白魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7504,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130<If(GreaterThanOrEqualTo(PlayerParameter(72),2))><If(Equal(PlayerParameter(68),35))>
 平衡量谱中<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>白魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>都在30点以上时，该技能变为魔回刺<Else/></If><Else/></If>"
-7505,"对目标发动雷属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>350<Else/>310</If><Else/>310</If>
+7505,"对目标发动雷属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>370<Else/>310</If><Else/>310</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得11点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),26))><If(Equal(PlayerParameter(68),35))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果（发动几率50%）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤火炎预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒<Else/></If><Else/></If>"
 7506,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
-7507,"对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>350<Else/>310</If><Else/>310</If>
+7507,"对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>370<Else/>310</If><Else/>310</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得11点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>白魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),30))><If(Equal(PlayerParameter(68),35))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果（发动几率50%）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤飞石预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒<Else/></If><Else/></If>"
 7508,"对目标及其周围的敌人附加止步状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
@@ -9133,11 +9126,10 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>交击斩或魔交击斩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>230
 平衡量谱中<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>白魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>都在25点以上时，该技能变为魔连攻"
-7517,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
+7517,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440"
 7518,"一定时间内，前3次能附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤火炎预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤飞石预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的技能追加效果发动率变为100%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
-7519,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
-攻击复数敌人时，对目标之外的敌人威力降低50%"
+7519,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400"
 7520,"一定时间内，自身发动魔法攻击造成的伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 此效果每4秒降低2%
@@ -10540,7 +10532,7 @@ int32,str
 8751,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
-8752,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
+8752,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量100%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忠义<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8753,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000
@@ -10549,7 +10541,7 @@ int32,str
 自身剩余魔力越少威力越大
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>咏唱魔法不消耗魔力且不需要咏唱时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
-8755,"一定时间内，除特定攻击之外其他所有对自身发动的攻击均无效
+8755,"对自身张开除特定攻击之外所有攻击均无效的防护罩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
 8756,"替目标队员承受来自敌人的攻击
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
@@ -10589,13 +10581,13 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能在“原初的混沌”状态中会变为“狂魂”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8764,"对目标发动远距离物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8765,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+8765,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20点
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8766,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 自身剩余体力越高威力越大，自身提高体力上限的技能会对威力造成影响，最大提升到4倍
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20点"
-8767,"将目标拉向自身，同时禁止自身和目标的移动　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
+8767,"将目标拉向自身，同时禁止自身和目标的移动　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
 该状态不受止步无效和击退无效的影响
 效果中所有对自身发动的攻击均无法令体力减少到1以下"
 8768,"一定时间内可不消耗<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动相关技能
@@ -10687,11 +10679,11 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8788,"令自身受到的伤害减轻10%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为自身附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于恢复力3000的伤害量　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
-8789,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+该防护罩能够抵消相当于恢复力2000的伤害量　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
+8789,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>疾风迅雷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>疾风迅雷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>最大档数"
-8790,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+8790,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>斗气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>斗气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5档"
 8791,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
@@ -10736,7 +10728,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“苍天龙血”及“红莲龙血”中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 攻击之后回到原位
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
-8802,"跳起接近目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+8802,"跳起接近目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>幻象冲的复唱时间缩短15秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8803,"向身后跳出15米距离
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加重、止步和死斗状态下会同时解除上述状态"
@@ -10744,11 +10737,13 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“苍天龙血”状态中该技能变为“武神枪”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“红莲龙血”状态中该技能变为“死者之岸”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8805,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+8805,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后解除<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2档"
-8806,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2档
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能在“红莲龙血”状态中会变为“死者之岸”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+8806,"向目标所在方向发出直线范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>发动后解除<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2档
 
@@ -10777,7 +10772,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8812,"迅速移动到指定地点
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为自身附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于恢复力1000的伤害量　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动
+该防护罩能够抵消相当于恢复力2000的伤害量　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 8813,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -10857,15 +10852,15 @@ int32,str
 8830,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5档
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 该战技有单独计算的复唱时间
 与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>纷乱雪月花<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共享复唱时间"
 8831,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5档
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 该战技有单独计算的复唱时间
 与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天下五剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共享复唱时间"
 8832,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
@@ -10901,16 +10896,16 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 8839,"对目标发动物理攻击同时后跳10米　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“放浪神的小步舞曲”与“军神的赞美歌”状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-自身获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>诗心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，同时获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂之声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+自身获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>诗心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，同时获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂之声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8840,""
 8841,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800～2400
 目标剩余体力越低威力越大"
 8842,"对目标发动物理攻击
 根据自身附加的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>诗心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>档数给与相应伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心1档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心2档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心3档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心1档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心2档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>诗心3档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>放浪神的小步舞曲<UIGlow>01</UIGlow><UIForeground>01</UIForeground>加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>诗心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1档以上
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -10945,27 +10940,28 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“高斯枪管”状态中且“枪管热度”大于50时，该技能变为“热狙击弹”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8848,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+8848,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8849,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+8849,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>热分裂弹
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8850,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+8850,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>热独头弹
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8851,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+8851,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>虹吸弹和弹射的复唱时间缩短7.5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>过热<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8852,""
 8853,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+目标身上有自身附加的野火状态时威力变为3倍
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标击退15米"
 8854,"令目标陷入50%加重状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒"
 8855,"在目标身上放置一枚定时炸弹
@@ -10987,10 +10983,11 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“星极火”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
-8859,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+8859,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复2000点魔力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“灵极冰”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法的咏唱及复唱时间缩短10%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“灵极冰”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法的咏唱及复唱时间缩短10%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 8860,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续伤害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -11016,7 +11013,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8864,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+8864,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复4000点魔力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
@@ -11024,11 +11021,11 @@ int32,str
 8865,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 发动后会取消<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态"
-8866,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
+8866,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“星极火”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%"
-8867,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+8867,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会恢复2000点魔力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -11116,9 +11113,11 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8890,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50%加重　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8891,"对目标发动物理攻击同时后跳15米　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>止步　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 8892,"当前平衡量谱中积累的量值翻倍
@@ -11143,11 +11142,15 @@ int32,str
 8903,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以太超流
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久"
-8904,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000"
+8904,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在战斗状态下为体力减少的目标恢复体力"
 8905,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为目标附加能够抵御一定伤害的防护罩
 该防护罩能够抵消相当于治疗量100%的伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在战斗状态下为体力减少的目标恢复体力"
 8906,""
 8907,"为目标张开一个防护罩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
@@ -11157,7 +11160,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久"
 8909,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
+与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不屈不挠之策<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共享复唱时间"
 8910,"召唤朝日小仙女
 朝日小仙女会对召唤者使用恢复技能治疗的目标发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>日光的拥抱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10点
@@ -11172,7 +11176,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能在“中间学派”状态中会变为“吉星相位”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8914,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000"
 8915,""
-8916,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000～4000
+8916,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2500～5000
 目标剩余体力越少恢复力越高
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 8917,"一定时间内，魔法没有咏唱时间，且消耗魔力减少50%
@@ -12413,7 +12417,9 @@ int32,str
 效果时间内发动技能或进行移动、转身都会使火焰喷射器立即消失
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“高斯枪管”状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>效果时间内以每次10点的速度不断获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 非战斗中无法获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-10025,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
+10025,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>白魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔元<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在战斗状态下为体力减少的目标恢复体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>若该技能发动时需要咏唱时间，则对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>连续咏唱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“连续咏唱”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下次咏唱魔法不需要咏唱时间"
 10026,"将空着的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“抽卡”“小奥秘卡”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡位一气补满
@@ -15106,7 +15112,7 @@ int32,str
 12576,""
 12577,"向目标所在方向发动直线范围攻击
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>受伤加重"
-12578,"对自身周围的队友附加体力持续恢复与攻击力提高效果"
+12578,"恢复自身及周围队员的体力并附加体力持续恢复与攻击力提高效果"
 12579,""
 12580,""
 12581,""
@@ -18184,7 +18190,7 @@ int32,str
 15550,""
 15551,""
 15552,""
-15553,""
+15553,"派发装饰彩蛋"
 15554,""
 15555,""
 15556,""
@@ -19643,7 +19649,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>治疗百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16535,"对目标及其周围的敌人发动无属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
-攻击复数目标时，每多1目标，对该目标威力降低10%，最低降为50%
+攻击复数敌人时，对目标之外的敌人威力降低25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>完全开放"
 16536,"一定时间内，自身发动治疗魔法的治疗量提高20%，自身与30米以内的队员受到的伤害减轻10%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
 16537,"命令小仙女发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>仙光的低语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -20992,14 +20998,14 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得1档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>斗气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久"
-17671,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+17671,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标击退15米"
 17672,"将自身所受的伤害减轻20%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 17673,""
 17674,"向身后跳出10米距离
 止步状态下无法发动"
 17675,"以自身所受伤害提高10%为代价，令攻击伤害提高10%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
-17676,"将攻击所造成伤害的50%转化为自身的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
+17676,"将物理攻击所造成伤害的100%转化为自身的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
 17677,"令以自身为目标的眩晕、睡眠、止步、加重、沉默、击退、吸引的效果无效　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 17678,"令目标陷入50%加重状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒"
 17679,"对目标造成止步效果　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒"
@@ -21011,8 +21017,8 @@ int32,str
 "
 17682,"提高自身和周围队员的移动速度
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
-17683,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-自身剩余体力越少威力越大，最大提升到5倍
+17683,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600～1800
+自身剩余体力越少威力越大
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量2倍的体力"
 17684,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受伤害提高20%
@@ -21024,7 +21030,7 @@ int32,str
 防护罩因吸收到足够的伤害而消失时，恢复自身2500点魔力"
 17688,"将目标队员吸引到自己身边
 目标带有击退无效及部分弱化效果时无效"
-17689,"恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000～6000
+17689,"恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000～6000
 自身剩余体力越少恢复力越高
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以无法移动或行动为代价，令自身所受的伤害减轻99%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒"
 17690,"令目标陷入睡眠状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒"
@@ -21070,7 +21076,7 @@ int32,str
 17699,"为自身与周围队员附加能够抵御一定伤害的防护罩
 该防护罩能够抵消相当于恢复力2000的伤害量
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-另外，自身处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>铁壁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态时，会解除该状态并令防护罩的效果量上升到3000"
+另外，自身处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>铁壁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态时，会解除该状态并令防护罩的效果量上升到4000"
 17700,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会恢复250点魔力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点"
@@ -21078,9 +21084,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗黑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暗黑效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受到的恢复效果减少20%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暗黑状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗黑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间延长15秒
-最多可延长至30秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受到的恢复效果减少20%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暗黑状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗黑<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 持续时间延长15秒
+最多可延长至60秒"
 17702,"不需要消耗<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以发动寂灭和血溅　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
 17703,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 
@@ -21098,7 +21104,6 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17706,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量50%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>快速装填<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>快速装填效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身战技的复唱时间缩短5%　最多积累3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -21110,7 +21115,6 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17707,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>烈牙
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量50%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>快速装填<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>快速装填效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身战技的复唱时间缩短5%　最多积累3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -21122,7 +21126,6 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17708,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>猛兽爪
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量50%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>快速装填<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>快速装填效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身战技的复唱时间缩短5%　最多积累3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -21132,36 +21135,35 @@ int32,str
 该战技有单独计算的复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17709,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量50%的体力
+17709,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量100%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>快速装填<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>快速装填效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身战技的复唱时间缩短5%　最多积累3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17710,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量50%的体力
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复伤害量100%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>快速装填<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>快速装填效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身战技的复唱时间缩短5%　最多积累3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17711,"对目标发动追击
 使用烈牙后可以发动撕喉，使用猛兽爪后可以发动裂膛，使用凶禽爪后可以发动穿目"
-17712,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+17712,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>撕喉预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17713,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+17713,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>裂膛预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17714,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+17714,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>穿目预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17715,"一定时间内，令自身和周围队员所受到的伤害减轻10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于相当于恢复力1000的伤害量
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>若自身附加了<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>残暴弹<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，则周围队员会附加2倍效果的该状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 17716,"冲向目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -21218,20 +21220,21 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连续咏唱效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下次咏唱魔法不需要咏唱时间
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“连续咏唱”状态中该技能变为“冲击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17728,"跳起接近目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
+17728,"跳起接近目标并发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 攻击之后回到原位
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>幻象冲的复唱时间缩短15秒
-止步状态下无法发动"
+止步状态下无法发动
+"
 17729,"跳起接近目标并发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 止步状态下无法发动"
-17730,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+17730,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 17731,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点"
-17732,"对目标及其周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
+17732,"对目标及其周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>风遁之术<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>35秒
@@ -21239,7 +21242,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>三印自在<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17733,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
+17733,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>风遁之术<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>35秒
@@ -21250,9 +21253,9 @@ int32,str
 17734,"效果时间内使用战技后，自身的分身会出现并加以追击
 持续时间结束或发动3次战技后取消该状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 分身攻击威力固定
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>近身攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>远程攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>范围攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>近身攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>远程攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>范围攻击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 分身的攻击命中时自身获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17735,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受伤害提高15%
@@ -21280,8 +21283,8 @@ int32,str
 17742,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5档
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天下五剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用完毕
 该战技有单独计算的复唱时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
@@ -21290,8 +21293,8 @@ int32,str
 17743,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5档
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>纷乱雪月花<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用完毕
 该战技有单独计算的复唱时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
@@ -21299,7 +21302,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17744,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点"
-17745,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+17745,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“放浪神的小步舞曲”与“军神的赞美歌”状态中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 自身获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>诗心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，同时获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂之声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17746,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
@@ -21313,8 +21316,7 @@ int32,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂之声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消耗量越高威力越大
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂之声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点以上"
 17748,"对自身周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50%加重
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>解除目标身上所有的持续恢复效果及防护罩"
 17749,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 该战技有单独计算的复唱时间"
 17750,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
@@ -21324,11 +21326,11 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>过热<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17752,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
+17752,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令目标受到的伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 该战技有单独计算的复唱时间"
-17753,"对目标及其周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+17753,"对目标及其周围的敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3"
 17754,"进入过热状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
 若自身已处于过热状态，则将持续时间延长5秒
@@ -21367,7 +21369,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17760,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员发动攻击造成的伤害提高10%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点"
 17761,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>扇舞·急预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -21377,7 +21379,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※跳舞模式中该技能变为“绿叶小踢腿”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17762,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员所受的伤害减轻10%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>扇舞·急预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 17763,"恢复自身及周围队员的体力
@@ -21417,38 +21419,38 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17771,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17772,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17773,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及带有自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>舞伴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17774,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3200
@@ -21457,7 +21459,7 @@ int32,str
 17775,"令目标及其周围敌人陷入睡眠状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒"
 17776,""
-17777,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+17777,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17778,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不死鸟附体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
@@ -21507,7 +21509,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 17791,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令目标体力持续恢复
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>治疗百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>治疗百合开放条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身进入战斗状态后每隔10秒开放一朵
@@ -21518,13 +21520,12 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>完全开放"
 17794,"自身攻击造成的伤害与治疗效果提高20%，自身与30米以内的队员受到的伤害减轻10%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 17795,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17796,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受到的恢复效果减少20%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17797,"对自身周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标击退10米
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得20点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+17797,"对自身周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17798,"召唤炽天使
 炽天使的召唤时间随发动该技能时消耗的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>而变动
@@ -21558,7 +21559,7 @@ int32,str
 17806,"对目标发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标的战技与魔法的咏唱及复唱时间延长10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
-17807,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600～3000
+17807,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800～3200
 目标剩余的体力越多威力越大
 该魔法有单独计算的复唱时间"
 17808,""
@@ -21585,72 +21586,72 @@ int32,str
 发动技能后，战技会进入复唱时间"
 17825,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及周围的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及周围的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1200～2400
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～3000
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17826,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及周围的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及周围的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1200～2400
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～3000
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17827,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及周围的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及周围的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1200～2400
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～3000
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17828,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及周围的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及周围的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1200～2400
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～3000
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17829,"对自身周围的敌人发动范围物理攻击
 与目标距离越近威力越大
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身以及周围的队员战技与魔法的咏唱及复唱时间缩短5%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>舞步成功时追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身以及周围的队员附加战技与魔法的咏唱及复唱时间缩短5%的效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能的威力随舞步技能的成功次数而有所不同
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1200～2400
-发动技能后，战技会进入复唱时间
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功0次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力200～600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功1次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力400～1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功2次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力600～1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功3次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力800～2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>成功4次时：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>威力1000～3000
+发动技能后，战技会产生复唱时间
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17830,""
@@ -21717,8 +21718,9 @@ int32,str
 17888,""
 17889,"以一名队员为目标
 对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>原初的勇猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，对目标附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>原初的武猛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>原初的勇猛效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将攻击所造成伤害的50%转化为自身的体力
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>原初的武猛效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复战士自身恢复体力100%的体力
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>原初的勇猛效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将攻击所造成伤害的100%转化为自身的体力
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>原初的武猛效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复战士自身转化量100%的体力
+同时，受到的伤害减轻10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
 17890,"削弱目标，对自身附加强化效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
@@ -21726,11 +21728,9 @@ int32,str
 若目标是以远程攻击为主的职业，则目标受到的伤害提高10%，并对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·远<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“抽取融合·近”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“抽取融合·远”效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>所受伤害减轻10%"
-17891,"令目标体力持续恢复
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于恢复力2000的伤害量
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
+17891,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标体力持续恢复
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 17892,""
 17893,""
 17894,""
@@ -21830,7 +21830,8 @@ int32,str
 17987,""
 17988,""
 17989,""
-17990,"令自身魔法的咏唱时间与复唱时间缩短15%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+17990,"自身发动治疗魔法的治疗量提高50%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>生命活性法和不屈不挠之策的复唱时间缩短15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点"
 17991,"解除自身周围敌人身上所有的持续恢复效果及防护罩
 同时对自身及周围的队员附加以下状态
@@ -22938,7 +22939,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>暗黑效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击伤害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标所受到的恢复效果降低10%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 若自身已经附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗黑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，则持续时间延长15秒
 最多可延长至30秒"
 18909,"一定时间内，令自身和周围队员所受到的伤害减轻10%，并且所受的体力恢复效果提高10%
@@ -22990,7 +22991,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>“苍天龙血”及“红莲龙血”中连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间延长10秒，最多可延长至30秒
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-18920,"效果时间内，自身发动的1次战技造成的伤害提升20%，并且恢复伤害量100%的体力
+18920,"效果时间内，自身发动的1次战技造成的伤害提升50%，并且恢复伤害量100%的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒"
 18921,"对自身周围的敌人发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得10点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -23017,11 +23018,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>解除加重、止步、死斗"
 18929,"对目标发动物理攻击
 该技能威力随自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的档数而变化
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>1档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>2档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>3档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>4档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>5档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>1档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>2档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>3档时威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2400
 发动时会消耗全部的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>剑压<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1档以上"
 18930,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
@@ -23032,7 +23031,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“过热”状态中该技能变为“自动弩”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-18933,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
+18933,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3"
 18934,"一定时间内令自己与周围队员受到的伤害减轻10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
@@ -23066,7 +23065,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 18942,"提高自身的移动速度
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
-18943,"恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2000～6000
+18943,"恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000～6000
 自身剩余体力越少恢复力越高
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3"
 18944,"向目标所在方向发出扇形范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1600
@@ -23075,7 +23074,7 @@ int32,str
 18946,"恢复自身及周围队员的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标体力持续恢复
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>治疗百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>治疗百合获得条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身进入战斗状态后每隔10秒获得一朵
@@ -23084,10 +23083,13 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为目标附加能够抵御一定伤害的防护罩
 该防护罩能够抵消相当于治疗量100%的伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>每命中一个目标都会获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在战斗状态下为体力减少的目标恢复体力"
 18948,"恢复自身及周围队员的体力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
+与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>生命活性法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共享复唱时间"
 18949,"为自身或一名队员附加“体力低于50%时或持续时间结束后自动恢复”状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
@@ -23112,12 +23114,12 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>剧毒菌效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续伤害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>18秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-18954,"一定时间内，令自身对目标造成的伤害提高25%
+18954,"一定时间内，令自身对目标造成的伤害提高20%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒"
-18955,"效果时间内，自身发动的1次战技造成的伤害提升20%
+18955,"效果时间内，自身发动的1次战技造成的伤害提升50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒"
-18956,"对自身周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>战技与魔法的咏唱及复唱时间延长10%
+18956,"对自身周围的敌人发动魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>战技与魔法的咏唱及复唱时间延长20%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 18957,"一定时间内，自身发动治疗魔法的治疗量提高25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
@@ -23205,14 +23207,14 @@ int32,str
 19001,""
 19002,"耐久度的消耗量减少50%，8次作业内有效"
 19003,"耐久度的消耗量减少50%，8次作业内有效"
-19004,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19005,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19006,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19007,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19008,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19009,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19010,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
-19011,"提升品质和推动作业进展的技能效率均提高20%，4次作业内有效"
+19004,"提升品质的技能效率提高50%，4次作业内有效"
+19005,"提升品质的技能效率提高50%，4次作业内有效"
+19006,"提升品质的技能效率提高50%，4次作业内有效"
+19007,"提升品质的技能效率提高50%，4次作业内有效"
+19008,"提升品质的技能效率提高50%，4次作业内有效"
+19009,"提升品质的技能效率提高50%，4次作业内有效"
+19010,"提升品质的技能效率提高50%，4次作业内有效"
+19011,"提升品质的技能效率提高50%，4次作业内有效"
 19012,"执行可令物品制作完成的技能时，让进展在差一点就制作完成的位置停下来1次，5次作业内有效
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>使用本技能不会消耗一次作业时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 19013,"执行可令物品制作完成的技能时，让进展在差一点就制作完成的位置停下来1次，5次作业内有效
@@ -23280,8 +23282,8 @@ int32,str
 19068,""
 19069,""
 19070,""
-19071,"令自身或其他一名队员受到的伤害减轻10%，并且所受的体力恢复效果提高20%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
+19071,"令自身或其他一名队员受到的伤害减轻10%，并且所受的体力恢复效果提高10%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 19072,""
 19073,""
 19074,""
@@ -23299,7 +23301,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 自身处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>铁壁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中发动本技能时，可令目标所受伤害减轻效果提升到30%"
 19086,"为自身与周围队员附加能够抵御一定伤害的防护罩
-该防护罩能够抵消相当于恢复力2500的伤害量
+该防护罩能够抵消相当于恢复力3000的伤害量
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 19087,""
 19088,""
@@ -23530,14 +23532,14 @@ int32,str
 19294,""
 19295,""
 19296,""
-19297,""
-19298,""
-19299,""
-19300,""
-19301,""
-19302,""
-19303,""
-19304,""
+19297,"推动作业进展的技能效率提高50%，4次作业内有效"
+19298,"推动作业进展的技能效率提高50%，4次作业内有效"
+19299,"推动作业进展的技能效率提高50%，4次作业内有效"
+19300,"推动作业进展的技能效率提高50%，4次作业内有效"
+19301,"推动作业进展的技能效率提高50%，4次作业内有效"
+19302,"推动作业进展的技能效率提高50%，4次作业内有效"
+19303,"推动作业进展的技能效率提高50%，4次作业内有效"
+19304,"推动作业进展的技能效率提高50%，4次作业内有效"
 19305,""
 19306,""
 19307,""
@@ -23964,7 +23966,7 @@ int32,str
 19728,""
 19729,""
 19730,""
-19731,""
+19731,"脱下目前穿着的特殊玩偶装"
 19732,""
 19733,""
 19734,""
@@ -24227,11 +24229,11 @@ int32,str
 19991,""
 19992,""
 19993,""
-19994,""
+19994,"站稳准备承受强烈的冲击"
 19995,""
 19996,""
-19997,""
-19998,""
+19997,"抛网捉鸡"
+19998,"投掷粘鸟胶，拖慢小鸡的动作"
 19999,""
 20000,""
 20001,""
@@ -24251,7 +24253,7 @@ int32,str
 20015,""
 20016,""
 20017,""
-20018,""
+20018,"此任务指令目前无法使用"
 20019,""
 20020,""
 20021,""
@@ -24263,8 +24265,9 @@ int32,str
 20027,""
 20028,""
 20029,""
-20030,""
-20031,""
+20030,"发出具有魔力的不可思议的光线"
+20031,"发出具有魔力的不可思议的光线
+演出技能，没有任何实际效果"
 20032,""
 20033,""
 20034,""
@@ -24299,3 +24302,942 @@ int32,str
 20063,""
 20064,"展示自己美丽的尾羽
 演出技能，没有任何实际效果"
+20065,""
+20066,""
+20067,""
+20068,""
+20069,""
+20070,""
+20071,""
+20072,""
+20073,""
+20074,""
+20075,""
+20076,""
+20077,""
+20078,""
+20079,""
+20080,""
+20081,""
+20082,""
+20083,""
+20084,""
+20085,""
+20086,""
+20087,""
+20088,""
+20089,""
+20090,""
+20091,""
+20092,""
+20093,""
+20094,""
+20095,""
+20096,""
+20097,""
+20098,""
+20099,""
+20100,""
+20101,""
+20102,""
+20103,""
+20104,""
+20105,""
+20106,"自身与周围队员攻击造成的伤害提高10%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+此效果每3秒降低2%"
+20107,""
+20108,""
+20109,""
+20110,""
+20111,""
+20112,""
+20113,""
+20114,""
+20115,""
+20116,""
+20117,""
+20118,""
+20119,""
+20120,""
+20121,""
+20122,""
+20123,""
+20124,""
+20125,""
+20126,""
+20127,""
+20128,""
+20129,""
+20130,""
+20131,""
+20132,""
+20133,""
+20134,""
+20135,""
+20136,""
+20137,""
+20138,""
+20139,""
+20140,""
+20141,""
+20142,""
+20143,""
+20144,""
+20145,""
+20146,""
+20147,""
+20148,""
+20149,""
+20150,""
+20151,""
+20152,""
+20153,""
+20154,""
+20155,""
+20156,""
+20157,""
+20158,""
+20159,""
+20160,""
+20161,""
+20162,""
+20163,""
+20164,""
+20165,""
+20166,""
+20167,""
+20168,""
+20169,""
+20170,""
+20171,""
+20172,""
+20173,""
+20174,""
+20175,""
+20176,""
+20177,""
+20178,""
+20179,""
+20180,""
+20181,""
+20182,""
+20183,""
+20184,""
+20185,""
+20186,""
+20187,""
+20188,""
+20189,""
+20190,""
+20191,""
+20192,""
+20193,""
+20194,""
+20195,""
+20196,""
+20197,""
+20198,""
+20199,""
+20200,""
+20201,""
+20202,""
+20203,""
+20204,""
+20205,""
+20206,""
+20207,""
+20208,""
+20209,""
+20210,""
+20211,""
+20212,""
+20213,""
+20214,""
+20215,""
+20216,""
+20217,""
+20218,""
+20219,""
+20220,""
+20221,""
+20222,""
+20223,""
+20224,""
+20225,""
+20226,""
+20227,""
+20228,""
+20229,""
+20230,""
+20231,""
+20232,""
+20233,""
+20234,""
+20235,""
+20236,""
+20237,""
+20238,""
+20239,""
+20240,""
+20241,""
+20242,""
+20243,""
+20244,""
+20245,""
+20246,""
+20247,""
+20248,""
+20249,""
+20250,""
+20251,""
+20252,""
+20253,""
+20254,""
+20255,""
+20256,""
+20257,""
+20258,""
+20259,""
+20260,""
+20261,""
+20262,""
+20263,""
+20264,""
+20265,""
+20266,""
+20267,""
+20268,""
+20269,""
+20270,""
+20271,""
+20272,""
+20273,""
+20274,""
+20275,""
+20276,""
+20277,""
+20278,""
+20279,""
+20280,""
+20281,""
+20282,""
+20283,""
+20284,""
+20285,""
+20286,""
+20287,""
+20288,""
+20289,""
+20290,""
+20291,""
+20292,""
+20293,""
+20294,""
+20295,""
+20296,""
+20297,""
+20298,""
+20299,""
+20300,""
+20301,""
+20302,""
+20303,""
+20304,"用阿尔法的羽毛制作的陆行鸟之笔。
+上面有黑色的颜料"
+20305,""
+20306,""
+20307,""
+20308,""
+20309,""
+20310,""
+20311,""
+20312,""
+20313,""
+20314,""
+20315,""
+20316,""
+20317,""
+20318,""
+20319,""
+20320,""
+20321,""
+20322,""
+20323,""
+20324,""
+20325,""
+20326,""
+20327,""
+20328,""
+20329,""
+20330,""
+20331,""
+20332,""
+20333,""
+20334,""
+20335,""
+20336,""
+20337,""
+20338,""
+20339,""
+20340,""
+20341,""
+20342,""
+20343,""
+20344,""
+20345,""
+20346,""
+20347,""
+20348,""
+20349,""
+20350,""
+20351,""
+20352,""
+20353,""
+20354,""
+20355,""
+20356,""
+20357,""
+20358,""
+20359,""
+20360,""
+20361,""
+20362,""
+20363,""
+20364,""
+20365,""
+20366,""
+20367,""
+20368,""
+20369,""
+20370,""
+20371,""
+20372,""
+20373,""
+20374,""
+20375,""
+20376,""
+20377,""
+20378,""
+20379,""
+20380,""
+20381,""
+20382,""
+20383,""
+20384,""
+20385,""
+20386,""
+20387,""
+20388,""
+20389,""
+20390,""
+20391,""
+20392,""
+20393,""
+20394,""
+20395,""
+20396,""
+20397,""
+20398,""
+20399,""
+20400,""
+20401,""
+20402,""
+20403,""
+20404,""
+20405,""
+20406,""
+20407,""
+20408,""
+20409,""
+20410,""
+20411,""
+20412,""
+20413,""
+20414,""
+20415,""
+20416,""
+20417,""
+20418,""
+20419,""
+20420,""
+20421,""
+20422,""
+20423,""
+20424,""
+20425,""
+20426,""
+20427,""
+20428,""
+20429,""
+20430,""
+20431,""
+20432,""
+20433,""
+20434,""
+20435,""
+20436,""
+20437,""
+20438,""
+20439,""
+20440,""
+20441,""
+20442,""
+20443,""
+20444,""
+20445,""
+20446,""
+20447,""
+20448,""
+20449,""
+20450,""
+20451,""
+20452,""
+20453,""
+20454,""
+20455,""
+20456,""
+20457,""
+20458,""
+20459,""
+20460,""
+20461,""
+20462,""
+20463,""
+20464,""
+20465,""
+20466,""
+20467,""
+20468,""
+20469,""
+20470,""
+20471,""
+20472,""
+20473,""
+20474,""
+20475,""
+20476,""
+20477,""
+20478,""
+20479,""
+20480,""
+20481,""
+20482,""
+20483,""
+20484,""
+20485,""
+20486,""
+20487,""
+20488,""
+20489,""
+20490,""
+20491,""
+20492,""
+20493,""
+20494,""
+20495,""
+20496,""
+20497,""
+20498,""
+20499,""
+20500,""
+20501,""
+20502,""
+20503,""
+20504,""
+20505,""
+20506,""
+20507,""
+20508,""
+20509,""
+20510,""
+20511,""
+20512,""
+20513,""
+20514,""
+20515,""
+20516,""
+20517,""
+20518,""
+20519,""
+20520,""
+20521,""
+20522,""
+20523,""
+20524,""
+20525,""
+20526,""
+20527,""
+20528,""
+20529,""
+20530,""
+20531,""
+20532,""
+20533,""
+20534,""
+20535,""
+20536,""
+20537,""
+20538,""
+20539,""
+20540,""
+20541,""
+20542,""
+20543,""
+20544,""
+20545,""
+20546,""
+20547,""
+20548,""
+20549,""
+20550,""
+20551,""
+20552,""
+20553,""
+20554,""
+20555,""
+20556,""
+20557,""
+20558,""
+20559,""
+20560,""
+20561,""
+20562,""
+20563,""
+20564,""
+20565,""
+20566,""
+20567,""
+20568,""
+20569,""
+20570,""
+20571,""
+20572,""
+20573,""
+20574,""
+20575,""
+20576,""
+20577,""
+20578,""
+20579,""
+20580,""
+20581,""
+20582,""
+20583,""
+20584,""
+20585,""
+20586,""
+20587,""
+20588,""
+20589,""
+20590,""
+20591,""
+20592,""
+20593,""
+20594,""
+20595,""
+20596,""
+20597,""
+20598,""
+20599,""
+20600,""
+20601,""
+20602,""
+20603,""
+20604,""
+20605,""
+20606,""
+20607,""
+20608,""
+20609,""
+20610,""
+20611,""
+20612,""
+20613,""
+20614,""
+20615,""
+20616,""
+20617,""
+20618,""
+20619,""
+20620,""
+20621,""
+20622,""
+20623,""
+20624,""
+20625,""
+20626,""
+20627,""
+20628,""
+20629,""
+20630,""
+20631,""
+20632,""
+20633,""
+20634,""
+20635,""
+20636,""
+20637,""
+20638,""
+20639,""
+20640,""
+20641,""
+20642,""
+20643,""
+20644,""
+20645,""
+20646,""
+20647,""
+20648,""
+20649,""
+20650,""
+20651,""
+20652,""
+20653,""
+20654,""
+20655,""
+20656,""
+20657,""
+20658,""
+20659,""
+20660,""
+20661,""
+20662,""
+20663,""
+20664,""
+20665,""
+20666,""
+20667,""
+20668,""
+20669,""
+20670,""
+20671,""
+20672,""
+20673,""
+20674,""
+20675,""
+20676,""
+20677,""
+20678,""
+20679,""
+20680,""
+20681,""
+20682,""
+20683,""
+20684,""
+20685,""
+20686,""
+20687,""
+20688,""
+20689,""
+20690,""
+20691,""
+20692,""
+20693,""
+20694,""
+20695,""
+20696,""
+20697,""
+20698,""
+20699,""
+20700,""
+20701,""
+20702,""
+20703,""
+20704,""
+20705,""
+20706,""
+20707,""
+20708,""
+20709,""
+20710,""
+20711,""
+20712,""
+20713,""
+20714,""
+20715,""
+20716,""
+20717,""
+20718,""
+20719,""
+20720,""
+20721,""
+20722,""
+20723,""
+20724,""
+20725,""
+20726,""
+20727,""
+20728,""
+20729,""
+20730,""
+20731,""
+20732,""
+20733,""
+20734,""
+20735,""
+20736,""
+20737,""
+20738,""
+20739,""
+20740,""
+20741,""
+20742,""
+20743,""
+20744,""
+20745,""
+20746,""
+20747,""
+20748,""
+20749,""
+20750,""
+20751,""
+20752,""
+20753,""
+20754,""
+20755,""
+20756,""
+20757,""
+20758,""
+20759,""
+20760,""
+20761,""
+20762,""
+20763,""
+20764,""
+20765,""
+20766,""
+20767,""
+20768,""
+20769,""
+20770,""
+20771,""
+20772,""
+20773,""
+20774,""
+20775,""
+20776,""
+20777,""
+20778,""
+20779,""
+20780,""
+20781,""
+20782,""
+20783,""
+20784,""
+20785,""
+20786,""
+20787,""
+20788,""
+20789,""
+20790,""
+20791,""
+20792,""
+20793,""
+20794,""
+20795,""
+20796,""
+20797,""
+20798,""
+20799,""
+20800,""
+20801,""
+20802,""
+20803,""
+20804,""
+20805,""
+20806,""
+20807,""
+20808,""
+20809,""
+20810,""
+20811,""
+20812,""
+20813,""
+20814,""
+20815,""
+20816,""
+20817,""
+20818,""
+20819,""
+20820,""
+20821,""
+20822,""
+20823,""
+20824,""
+20825,""
+20826,""
+20827,""
+20828,""
+20829,""
+20830,""
+20831,""
+20832,""
+20833,""
+20834,""
+20835,""
+20836,""
+20837,""
+20838,""
+20839,""
+20840,""
+20841,""
+20842,""
+20843,""
+20844,""
+20845,""
+20846,""
+20847,""
+20848,""
+20849,""
+20850,""
+20851,""
+20852,""
+20853,""
+20854,""
+20855,""
+20856,""
+20857,""
+20858,""
+20859,""
+20860,""
+20861,""
+20862,""
+20863,""
+20864,""
+20865,""
+20866,""
+20867,""
+20868,""
+20869,""
+20870,""
+20871,""
+20872,""
+20873,""
+20874,""
+20875,""
+20876,""
+20877,""
+20878,""
+20879,""
+20880,""
+20881,""
+20882,""
+20883,""
+20884,""
+20885,""
+20886,""
+20887,""
+20888,""
+20889,""
+20890,""
+20891,""
+20892,""
+20893,""
+20894,""
+20895,""
+20896,""
+20897,""
+20898,""
+20899,""
+20900,""
+20901,""
+20902,""
+20903,""
+20904,""
+20905,""
+20906,""
+20907,""
+20908,""
+20909,""
+20910,""
+20911,""
+20912,""
+20913,""
+20914,""
+20915,""
+20916,""
+20917,""
+20918,""
+20919,""
+20920,""
+20921,""
+20922,""
+20923,""
+20924,""
+20925,""
+20926,""
+20927,""
+20928,""
+20929,""
+20930,""
+20931,""
+20932,""
+20933,""
+20934,""
+20935,""
+20936,""
+20937,""
+20938,""
+20939,""
+20940,""
+20941,""
+20942,""
+20943,""
+20944,""
+20945,""
+20946,""
+20947,""
+20948,""
+20949,""
+20950,""
+20951,""
+20952,""
+20953,""
+20954,""
+20955,""
+20956,""
+20957,""
+20958,""
+20959,""
+20960,""
+20961,""
+20962,""
+20963,""
+20964,""
+20965,""
+20966,""
+20967,""
+20968,""
+20969,""
+20970,""
+20971,""
+20972,""
+20973,""
+20974,""
+20975,""
+20976,""
+20977,""
+20978,""
+20979,""
+20980,""
+20981,""
+20982,""
+20983,""
+20984,""
+20985,""
+20986,""
+20987,""
+20988,""
+20989,""
+20990,""
+20991,""
+20992,""
+20993,""
+20994,""
+20995,""
+20996,""
+20997,""
+20998,""
+20999,""
+21000,""

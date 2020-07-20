@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Level,TerritoryType,ConditionSuccessEvent,ConditionFailEvent,ConfirmEvent,WarpCondition,WarpLogic,StartCutscene,EndCutscene,,,
+#,PopRange,TerritoryType,ConditionSuccessEvent,ConditionFailEvent,ConfirmEvent,WarpCondition,WarpLogic,StartCutscene,EndCutscene,CanSkipCutscene,Name,Question
 int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,WarpLogic,Cutscene,Cutscene,bit&01,str,str
 131072,0,0,0,0,0,1,1,0,0,False,"",""
 131073,2040811,148,0,0,0,2,2,0,0,False,"",""
@@ -279,7 +279,7 @@ int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,Warp
 131305,7743671,621,0,0,0,1,1,0,0,False,"","要前往基拉巴尼亚湖区吗？"
 131306,7743671,621,0,0,0,1,1,0,0,False,"","要前往基拉巴尼亚湖区吗？"
 131307,7761499,132,0,0,0,1,1,0,0,False,"","要离开呼啸眼石塔群吗？"
-131308,7807336,828,594538,0,0,1,1,0,0,False,"","要前往道具间吗？"
+131308,7078657,735,596781,0,0,1,1,0,0,False,"","要前往道具间等候吗？"
 131309,7830042,828,0,0,0,1,1,0,0,False,"","要前往道具间吗？"
 131310,7848800,827,0,0,0,1,1,0,0,False,"","要前往瓦尔河源流吗？"
 131311,7878066,819,0,0,0,1,1,0,0,False,"","要离开观星室吗？"
@@ -330,3 +330,8 @@ int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,Warp
 131356,8154983,820,595632,0,0,44,1,0,0,False,"前往游末邦","要前往游末邦吗？"
 131357,8193602,896,0,0,0,1,1,0,0,False,"","要前往第五区吗？"
 131358,8193584,896,0,0,0,1,1,0,0,False,"","要前往第四区吗？"
+131359,0,0,0,0,0,0,0,0,0,False,"",""
+131360,0,0,0,0,0,0,0,0,0,False,"",""
+131361,8321517,921,596820,596819,0,46,1,0,0,False,"","要前往儿科病房吗？"
+131362,8322370,131,0,0,0,1,1,0,0,False,"","要离开儿科病房吗？"
+131363,8341503,814,0,0,0,1,1,0,0,False,"","要前往珂露西亚岛吗？"

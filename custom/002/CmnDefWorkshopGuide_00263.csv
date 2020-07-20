@@ -55,12 +55,10 @@ int32,str,str
 31,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_230_002","品质越接近100，
 那么在接下来的工程中就越容易获得好的结果。"
 32,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_240_000","把某个工程中、所需的素材、全都交齐之后、
-大家就要到、部队工房集合了！
-然后开展接下来的、工程。"
-33,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_240_001","需要4人以上的能工巧匠才可推进工程进展。
-召集4人以上的能工巧匠组成小队吧。"
-34,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_240_002","小队全员在部队工房集合，
-由小队队长从部队合建设备中执行“推进工程进展”。"
+就下来、就该开始、推进工程进展了。"
+33,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_240_001","（★未使用／削除予定★）"
+34,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_240_002","此时需要切换为能工巧匠职业，
+从部队合建设备中执行“推进工程进展”。"
 35,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_250_000","在推进工程进展时、
 根据得到的结果、接下来的工程会发生变化。"
 36,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_250_001","通过消耗交纳的素材、推进工程进展的话，
