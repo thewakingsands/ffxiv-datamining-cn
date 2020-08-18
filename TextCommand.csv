@@ -667,9 +667,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 显示指定指令的说明。","","",189,0
 202,2,1,0,0,0,"/wait","","/等待 等待时间
 /wait
-在宏指令中用来调整时间的命令。
-等待时间设为“1”相当于1秒。
-等待时间最多可以设置为60，超过60会按不等待处理。","/等待","",181,0
+宏专用指令。可以让宏在等待指定时间后发动。
+设置等待时间的数值时，“1”大约相当于1秒，且只可以设置整数。
+等待时间最多可以设置为60，超过60时按60算。","/等待","",181,0
 204,2,1,2,0,0,"/legacymark","/lmark","/十二神印记(/神印) 子命令
 /legacymark、/lmark
 设置是否显示自己角色的十二神印记。
@@ -3220,3 +3220,27 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/打响指","",293,0
+607,2,1,2,0,0,"/breakfast","/bread","/吃面包 子命令
+/bread
+拿出面包啃。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃面包","",293,0
+608,2,1,2,0,0,"/read","","/看书 子命令
+/read
+拿出书阅读。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/看书","",293,0
+609,2,1,2,0,0,"/insist","","/坚持主张 子命令
+/insist
+坚持自己的主张。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/坚持主张","",293,0

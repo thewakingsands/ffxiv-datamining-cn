@@ -392,7 +392,8 @@ int32,str,str
 172,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_002","和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
 选择交纳委托品，查看交货列表。"
 173,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_003","另外，酿造奶酒的必需品、酿造道具素材、奥萨德鲑鱼
-可以得到较多报酬。如果列表中有上述物品，就积极交货吧。"
+可以得到较多报酬。
+如果列表中有上述物品，就积极交货吧。"
 174,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_004","另外，今后可以对亚德基拉进行武具投影了。"
 175,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_000","谢谢你提供了这么多货品！"
 176,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_001","不愧是我和熙洛小姐看中的匠人，

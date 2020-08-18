@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,Name,AchievementKind,ShowComplete,HideCategory,
+#,Name,AchievementKind,ShowComplete,HideCategory,Order
 int32,str,AchievementKind,bit&01,bit&02,byte
 0,"",0,True,False,0
 1,"整体",1,True,False,1
@@ -70,4 +70,4 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 66,"禁地兵装",4,True,False,10
 67,"诺弗兰特",11,True,False,11
 68,"",0,False,False,0
-69,"",0,False,False,0
+69,"全职业共通",5,True,False,1

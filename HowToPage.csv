@@ -268,7 +268,8 @@ int32,byte,byte,Image,byte,str,str,str
 在技能菜单中有一个分类叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。在这个分类中可以查看当前其他大地使者或能工巧匠职业已经学会的技能中，有哪些是现在的职业可以使用的。
 
 通过快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分类中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮可以打开技能菜单窗口。","",""
-96,1,0,150412,0,"额外技能的装备数量受到角色当前职业等级的限制。随着等级的提升，可装备数量也会增加。
+96,1,0,150412,0,"
+额外技能的装备数量受到角色当前职业等级的限制。随着等级的提升，可装备数量也会增加。
 
 一开始只能够装备一个，10级之后每<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>提升5级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会增加一个，最多可增加到十个。
 
@@ -276,7 +277,8 @@ int32,byte,byte,Image,byte,str,str,str
 97,1,0,150413,0,"选中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会在技能菜单的下面显示出来。
 
 将技能对应的图标<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到热键栏上之后就可以随时使用了。","",""
-98,1,0,150414,0,"选中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后会进入到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的模式。
+98,1,0,150414,0,"
+选中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>额外技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后会进入到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的模式。
 
 此时按下对应的按键可以将技能设置到对应的位置上，与发动技能时的操作基本相同。","",""
 99,0,0,0,0,"","",""
@@ -344,7 +346,8 @@ int32,byte,byte,Image,byte,str,str,str
 127,0,0,0,0,"","",""
 128,0,0,0,0,"","",""
 129,0,0,0,0,"","",""
-130,1,0,150891,0,"完成某些特定的职业任务，可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职业专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+130,1,0,150891,0,"
+完成某些特定的职业任务，可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>职业专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 例如，完成枪术师<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>15级任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>之后，可以学会远程战技<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“贯穿尖”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
@@ -353,7 +356,8 @@ int32,byte,byte,Image,byte,str,str,str
 132,0,0,0,0,"","",""
 133,0,0,0,0,"","",""
 134,0,0,0,0,"","",""
-135,1,0,150201,0,"在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>商店<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以进行道具的买卖。
+135,1,0,150201,0,"
+在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>商店<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以进行道具的买卖。
 
 点击商店一侧的道具可以进行购买。
 
@@ -523,7 +527,8 @@ int32,byte,byte,Image,byte,str,str,str
 打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家搜索条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，可以设置搜索目标的各种条件。条件包括姓名、职业、等级、在线状态、所在地以及使用语言。
 
 选好之后点击<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开始搜索<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，便会将结果显示出来。","",""
-212,1,0,150633,0,"玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
+212,1,0,150633,0,"
+玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
 
 通过快捷指令打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之后用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鼠标右键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>点击自己的名字，之后选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编辑信息<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打开个人信息窗口进行编辑。","",""
 213,1,0,150634,0,"
@@ -534,7 +539,8 @@ int32,byte,byte,Image,byte,str,str,str
 在线状态为“希望组队”时可以选择多个职业作为搜索对象，单击一次为选中，再单击一次会取消选中状态。
 
 不过如果在线状态不是“希望组队”，即使选中了多个职业也不会起到任何作用，只会将自己当前的职业作为搜索对象。","",""
-215,1,0,150633,0,"玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
+215,1,0,150633,0,"
+玩家搜索功能可以查看各个玩家的个人信息。而自己的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搜索情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行编辑。
 
 通过快捷指令打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之后选中自己的名字并在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>次级指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编辑信息<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打开个人信息窗口进行编辑。","",""
 216,1,0,150635,0,"
@@ -858,7 +864,8 @@ int32,byte,byte,Image,byte,str,str,str
 选中讨伐目标敌人之后，地图上的敌人头上就会自动出现记号。这样就能很轻易地找到它们。
 
 发现标有讨伐记号的敌人就尽快打倒它们吧。","",""
-403,1,0,150451,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>讨伐笔记<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+403,1,0,150451,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>讨伐笔记<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 专门为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>战斗精英<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔法导师<UIGlow>01</UIGlow><UIForeground>01</UIForeground>两类职业准备的内容。
 
@@ -1122,7 +1129,8 @@ int32,byte,byte,Image,byte,str,str,str
 557,0,0,0,0,"","",""
 558,0,0,0,0,"","",""
 559,0,0,0,0,"","",""
-560,1,0,150671,0,"制作系理符任务的流程与佣兵任务有所不同。
+560,1,0,150671,0,"
+制作系理符任务的流程与佣兵任务有所不同。
 
 制作任务没有时间限制，将指定的目标道具交给委托人手中便可以完成。
 
@@ -1219,7 +1227,8 @@ int32,byte,byte,Image,byte,str,str,str
 617,0,0,0,0,"","",""
 618,0,0,0,0,"","",""
 619,0,0,0,0,"","",""
-620,1,0,150661,0,"危命任务结束后，根据结果可以得到相应的报酬。
+620,1,0,150661,0,"
+危命任务结束后，根据结果可以得到相应的报酬。
 
 依据任务成功与否及玩家的贡献度情况，所获取的报酬也会有所不同。
 
@@ -1511,12 +1520,14 @@ int32,byte,byte,Image,byte,str,str,str
 在市场购买物品时，首先要指定想要买的物品。
 
 进行查找时既可以直接输入物品名，也可以通过种类和条件进行查找。","",""
-811,1,0,150482,0,"通过输入物品名查找
+811,1,0,150482,0,"
+通过输入物品名查找
 
 在搜索框内直接输入关键字，之后点下搜索按钮，会在右侧显示出搜索结果。
 
 例如在搜索框里输入“野猪”之后点击搜索按钮，右侧便会出现名字里含有“野猪”的相关道具。","",""
-812,1,0,150483,0,"通过道具的种类和条件查找
+812,1,0,150483,0,"
+通过道具的种类和条件查找
 
 如果想要列出某个种类下的全部道具，可以点击左侧的各个分类按钮来查找。
 
@@ -1709,7 +1720,8 @@ int32,byte,byte,Image,byte,str,str,str
 周围没有怪物时就没有必要继续维持这个状态了。
 
 在潜行状态下再次发动技能可以解除隐身的效果。","",""
-922,1,0,150263,0,"在被怪物攻击时无法发动潜行技能。
+922,1,0,150263,0,"
+在被怪物攻击时无法发动潜行技能。
 
 此外，对于比自己等级高出过多的强大怪物，
 即使处在潜行状态中也会被发现。","",""
@@ -1846,7 +1858,8 @@ int32,byte,byte,Image,byte,str,str,str
 不过，镶嵌魔晶石需要习得特别的技术，并达到装备所需<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“镶嵌魔晶石等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的要求。","",""
 991,1,0,151322,0,"
 自己无法镶嵌魔晶石的时候，可以委托各城邦的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石师傅”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行镶嵌，也可以到市场中找找有没有已经镶嵌好魔晶石的装备出售。","",""
-992,1,0,151323,0,"另外，也可以找其他的玩家帮忙镶嵌魔晶石。
+992,1,0,151323,0,"
+另外，也可以找其他的玩家帮忙镶嵌魔晶石。
 
 找到帮手之后，选中该玩家再选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔晶石镶嵌委托”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以发送申请。对方的作业顺利的话很快就会完成镶嵌。
 进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“禁忌镶嵌”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的委托时，由于存在失败的风险，一定要双方事先充分交流后再开始作业。","",""
@@ -2236,13 +2249,15 @@ int32,byte,byte,Image,byte,str,str,str
 格斗家有着一套特殊的战斗系统，玩家可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“疾风迅雷”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来获得特殊的效果。
 
 三种身形通过各种战技来进行转换，既有提高伤害的效果，也会有增加攻击速度的效果。","",""
-1231,1,0,151422,0,"发动战技便会转化为特定的身形，另外一部分战技只有在特定的身形下才能够发动，格斗家就是通过不断变换身形来进行战斗的。
+1231,1,0,151422,0,"
+发动战技便会转化为特定的身形，另外一部分战技只有在特定的身形下才能够发动，格斗家就是通过不断变换身形来进行战斗的。
 
 现在的身形一共有以下三种：
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔猿身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“盗龙身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“猛豹身形”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1232,1,0,151423,0,"格斗家基本是凭借以下的战法进行战斗：
+1232,1,0,151423,0,"
+格斗家基本是凭借以下的战法进行战斗：
 
 “魔猿身形”战技
 　⇒“盗龙身形”战技
@@ -2353,7 +2368,8 @@ int32,byte,byte,Image,byte,str,str,str
 1287,0,0,0,0,"","",""
 1288,0,0,0,0,"","",""
 1289,0,0,0,0,"","",""
-1290,1,0,151471,0,"这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
+1290,1,0,151471,0,"
+这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
 
 点击<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>边上的道具图标后，屏幕中会出现使用道具的目标范围。
 
@@ -2484,7 +2500,8 @@ int32,byte,byte,Image,byte,str,str,str
 在冒险者住宅区的所有土地面前都设立有一块<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>门牌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 上面记有土地所有者的情况。","",""
-1361,1,0,151562,0,"如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土地竞拍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>尝试购买土地。
+1361,1,0,151562,0,"
+如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土地竞拍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>尝试购买土地。
 
 具体的出价方法和规则可以到各个冒险者住宅区的管理人那里听取详细说明。土地的价格每经过6小时会有一次下调，根据自己手中的钱看好机会就出手吧。","",""
 1362,0,0,0,0,"","",""
@@ -2804,7 +2821,8 @@ int32,byte,byte,Image,byte,str,str,str
 1547,0,0,0,0,"","",""
 1548,0,0,0,0,"","",""
 1549,0,0,0,0,"","",""
-1550,1,0,151751,0,"能工巧匠可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“秘籍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>学会新的制作配方。
+1550,1,0,151751,0,"
+能工巧匠可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“秘籍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>学会新的制作配方。
 
 每本秘籍中包含的配方数量不定，可能是一种配方，也可能是多种配方。
 
@@ -3019,7 +3037,8 @@ int32,byte,byte,Image,byte,str,str,str
 1677,0,0,0,0,"","",""
 1678,0,0,0,0,"","",""
 1679,0,0,0,0,"","",""
-1680,1,0,151901,0,"法外战区<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“加尔提诺平原周边遗迹群”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
+1680,1,0,151901,0,"
+法外战区<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“加尔提诺平原周边遗迹群”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
 
 在这片地区中，三城邦的军队围绕所有权展开了激烈的斗争，甚至冒险者也被卷入了这场纷争之中，站在各自的立场上互相进行战斗。战场的具体情况可以在各国阵营中与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“航空兵”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行确认。","",""
 1681,0,0,0,0,"","",""
@@ -3045,12 +3064,14 @@ int32,byte,byte,Image,byte,str,str,str
 1697,0,0,0,0,"","",""
 1698,0,0,0,0,"","",""
 1699,0,0,0,0,"","",""
-1700,1,0,151891,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
+1700,1,0,151891,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
 
 在特定场所满足天气、时间或动作等条件，便可以发现笔记中所记载的准确景色。
 
 在笔记中出现的场景和条件等零散情报，都是米莉丝根据听到的传闻记录下来的，仔细分析传言或许能够找到一些捷径。","",""
-1701,1,0,151893,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
+1701,1,0,151893,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“探索笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中记录有世界各地的风景名胜。
 
 在特定场所满足天气、时间或动作等条件，便可以发现笔记中所记载的准确景色。
 
@@ -3208,7 +3229,7 @@ int32,byte,byte,Image,byte,str,str,str
 1792,1,0,151983,0,"
 与其他蛮族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
 
-另外，供应任务所指定的物品会在每天的<Time(1285081200)/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品了，一定要注意。","",""
+另外，供应任务所指定的物品会在每天的<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品，一定要注意。","",""
 1800,1,0,151991,0,"
 在雇员达到50级之后，可以提高装备去探索更加珍贵的物品。
 
@@ -3687,9 +3708,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，在任务结束时，得到的经验值则会根据交任务时角色的等级进行调整。","",""
 2201,1,0,152372,0,"
-标有“职业固定”的任务只能以领取任务时的职业、特职来完成。
+一些领取任务时显示有职业限制的任务只能以领取任务时的职业来完成。
 
-任务途中若变更职业、特职，将导致任务无法继续进行下去，敬请注意。","",""
+任务途中若变更职业，将导致任务无法继续进行下去，敬请注意。","",""
 2210,1,0,152381,0,"
 一些特定的任务带有<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground>标记，意为任务设有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职业固定”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，任务只能以领取任务时的职业、特职来完成。
 
@@ -4038,28 +4059,34 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>交流簿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是能让访问房屋的访客或者好友等在上面留言或者点赞的家具。
 
 房主可以在编辑房主留言界面编辑给访问房屋的人的留言。","",""
-2482,1,0,152682,0,"来访者可以选择“书写留言”留下自己的留言。
+2482,1,0,152682,0,"
+来访者可以选择“书写留言”留下自己的留言。
 
 想要删除留言可以点留言后面的“×”。只有房主本人或写这条留言的人能删除留言。","",""
-2483,1,0,152683,0,"房主能够选择让留言处于谁都能浏览的“公开状态”或者“非公开状态”。
+2483,1,0,152683,0,"
+房主能够选择让留言处于谁都能浏览的“公开状态”或者“非公开状态”。
 
 可以点击每条留言后面的“公开”“非公开”图标设定状态。","",""
-2484,1,0,152684,0,"来访者可以对房主进行“点赞”。
+2484,1,0,152684,0,"
+来访者可以对房主进行“点赞”。
 
 可以点赞的次数一开始有10次。之后每天恢复5次。
 
 要是有喜欢的房子，就大力对房主进行点赞，不要吝啬夸奖！","",""
-2485,1,0,152691,0,"和老主顾的信赖度上升，可以给他们“换装”了。
+2485,1,0,152691,0,"
+和老主顾的信赖度上升，可以给他们“换装”了。
 
 选择“换装”之后，就可以变更老主顾的服装。
 
 可以变更全套5件。","",""
-2486,1,0,152692,0,"老主顾的服装只能是所有种族和所有职业都能装备的。
+2486,1,0,152692,0,"
+老主顾的服装只能是所有种族和所有职业都能装备的。
 
 另外，换装和染色的时候会消耗相应触媒。
 
 选择你喜欢的装备装扮老主顾吧！","",""
-2487,1,0,152701,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸福兔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为了还礼，
+2487,1,0,152701,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸福兔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为了还礼，
 想要送给你财宝！
 
 使用任务道具<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幸运胡萝卜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
@@ -4109,62 +4136,77 @@ int32,byte,byte,Image,byte,str,str,str
 
 在市场布告板搜索时可以开启相关筛选，
 从次级指令中可以向卖家发送悄悄话联系。","",""
-2495,1,0,152723,0,"不按整套出售的话，买家从市场布告板就可以直接购买。
+2495,1,0,152723,0,"
+不按整套出售的话，买家从市场布告板就可以直接购买。
 
 “服装模特出售的装备”与“只按整套出售的装备”可以通过图标辨别。
 
 将中意的装备通过服装模特好好搭配一番，
 尝试进行销售吧！","",""
-2496,1,0,152731,0,"文理融合器开放了！
+2496,1,0,152731,0,"
+文理融合器开放了！
 
 可以将“文理碎晶”投入文理融合器中提取记忆，从而获得“文理技能”。","",""
-2497,1,0,152732,0,"文理技能获得后会存储在魔素板右侧的窗口中，最多可存储最近3次提取的技能。
+2497,1,0,152732,0,"
+文理技能获得后会存储在魔素板右侧的窗口中，最多可存储最近3次提取的技能。
 使用存储的文理技能即可获得其中的记忆，将其化为任务指令使用。","",""
-2498,1,0,152733,0,"融合后会出现的文理技能种类，
+2498,1,0,152733,0,"
+融合后会出现的文理技能种类，
 与放入融合器的碎晶种类、数量有关。
 请积极尝试各种组合。","",""
-2499,1,0,152741,0,"文理融合器得到了改良！
+2499,1,0,152741,0,"
+文理融合器得到了改良！
 
 经过改良的文理融合器分出了星极与灵极两边，可以将碎晶分别放入两边一起融合。
 每边最多可放入的碎晶数为3，
 需要注意的是左右合计放入超过3个碎晶后，融合成功率会开始下降。","",""
-2500,1,0,152742,0,"与风险相对，
+2500,1,0,152742,0,"
+与风险相对，
 一旦成功即可获得只占一个存储位的两个文理技能。
 请算好得失，善加利用。","",""
-2501,1,0,152751,0,"得到了可以和小队队员共同骑乘的坐骑！
+2501,1,0,152751,0,"
+得到了可以和小队队员共同骑乘的坐骑！
 
 在你骑乘该坐骑时，小队队员可以通过选中你，从次级指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共同骑乘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来乘上你的坐骑。
 
 和同伴一起愉快地踏上冒险之旅吧！","",""
-2502,1,0,152771,0,"青魔法师无法通过等级提升习得新的魔法技能。
+2502,1,0,152771,0,"
+青魔法师无法通过等级提升习得新的魔法技能。
 
 想要学习新的青魔法，需要在战斗中看到魔物使用能化为青魔法的技能，然后击败魔物后即会有一定几率学会。
 
 这一机制被称作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>学习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，是青魔法师的职业特性。","",""
-2503,1,0,152772,0,"成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
+2503,1,0,152772,0,"
+成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
 想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
-2504,1,0,152773,0,"开启青魔法书后，可以通过勾选选出能设置到快捷栏的有效技能。
+2504,1,0,152773,0,"
+开启青魔法书后，可以通过勾选选出能设置到快捷栏的有效技能。
 有效技能的上限为青魔法24种。","",""
-2505,1,0,152774,0,"在青魔法书中可以确认到青魔法的详细效果和解说，以及主要的学习地点等信息。
+2505,1,0,152774,0,"
+在青魔法书中可以确认到青魔法的详细效果和解说，以及主要的学习地点等信息。
 
 另外，在不使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“解除人数限制”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情况下，通过任务搜索器参加副本任务后，会大幅提高学习的成功率。
 
 多多利用这一点来学习新的青魔法吧！","",""
-2506,1,0,152761,0,"在最终幻想14的世界中，除了你创建角色时选择的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>原始服务器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，还有着很多其他的服务器。
+2506,1,0,152761,0,"
+在最终幻想14的世界中，除了你创建角色时选择的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>原始服务器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>外，还有着很多其他的服务器。
 通过某些城市的以太之光，可以传送到其他的世界中旅行！
 
 想要跨服找朋友玩耍时，记得利用此功能。","",""
-2507,1,0,152762,0,"想要从其他服务器返回原始服务器时，也是和去时一样使用城内的以太之光即可。
+2507,1,0,152762,0,"
+想要从其他服务器返回原始服务器时，也是和去时一样使用城内的以太之光即可。
 
 在造访其他服务器时会有一部分机能受到限制。
 
 详情请通过可进行跨界传送的以太之光进行确认。","",""
-2508,1,0,152775,0,"青魔法师的武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔杖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与通常的装备不同，不会为角色提供状态参数。
+2508,1,0,152775,0,"
+青魔法师的武器<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔杖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与通常的装备不同，不会为角色提供状态参数。
 
 不过青魔法师的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以提供高于其他职业的攻击伤害加成，请通过防具和饰品提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>智力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，让青魔法师变得更强吧！","",""
-2509,1,0,152776,0,"成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
+2509,1,0,152776,0,"
+成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
 想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
@@ -4184,7 +4226,12 @@ int32,byte,byte,Image,byte,str,str,str
 当前的危命任务完成度可在快捷指令的“危命任务完成度”里进行确认。
 
 部分稀有道具只能通过与广域交易商进行交易获取，请积极参与遇到的危命任务吧！","",""
-2520,0,0,0,0,"","",""
+2520,1,0,152821,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>高难度配方<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是与普通配方不同的特殊配方。
+
+制作高难度配方时，会有与“高品质”和“最高品质”都不相同的各种状态。
+
+仔细观察各种状态，运用适当的技能制作出高品质的道具吧。","",""
 2530,1,0,152831,0,"
 习得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>耐心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
@@ -4197,5 +4244,15 @@ int32,byte,byte,Image,byte,str,str,str
 分辨出咬钩强度使用不同技能，可以打消提钩成功率降低的状态。
 
 在合适的时机使用两种不同的提钩，钓上大鱼吧！","",""
-2540,0,0,0,0,"","",""
-2541,0,0,0,0,"","",""
+2540,1,0,152841,0,"
+可以撑起伞了！
+
+撑伞的技能在技能菜单的“特别指令”中，添加到热键栏后便可以使用。
+
+先试着使用一下技能，撑起伞吧。","",""
+2541,1,0,152842,0,"
+在撑伞的状态下再次使用技能便会收起伞。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※无论使用多少次技能，伞都不会消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+在天气不好的时候，试着撑起伞也是个不错的选择哦！","",""

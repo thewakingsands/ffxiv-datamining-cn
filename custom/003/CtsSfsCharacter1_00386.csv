@@ -402,7 +402,8 @@ int32,str,str
 171,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_002","和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
 选择交纳委托品，查看交货列表。"
 172,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_003","另外，孤儿院的日用品、彩虹色素、河虾
-可以得到较多报酬。如果列表中有上述物品，就积极交货吧。"
+可以得到较多报酬。
+如果列表中有上述物品，就积极交货吧。"
 173,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_000","谢谢你交了这么多物品！"
 174,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_001","真不愧是一名老练的工匠呢！
 今后还请多多关照！"

@@ -372,7 +372,8 @@ int32,str,str
 159,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_002","和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
 选择交纳委托品，查看交货列表。"
 160,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_003","另外，解放军的军需品、黄葛根、紫圆盾
-可以得到较多报酬。如果列表中有上述物品，就积极交货吧。"
+可以得到较多报酬。
+如果列表中有上述物品，就积极交货吧。"
 161,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_000","谢谢你交了这么多的物品！"
 162,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_001","真不愧是<Highlight>ObjectParameter(1)</Highlight>！
 今后也拜托你了！"

@@ -13936,7 +13936,7 @@ int32,str
 11422,"向自身前方发动无属性扇形范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 攻击复数敌人时，对第一个之外的敌人威力降低50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>失明　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
-11423,"对目标发动无属性物理攻撃　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10
+11423,"对目标发动无属性物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中断目标的技能咏唱"
 11424,"一定时间内，将自身所受的伤害减轻90%，同时除特定攻击之外其他所有击退与吸引效果失效
 但是持续时间内无法移动或使用技能　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
@@ -23935,7 +23935,7 @@ int32,str
 19697,""
 19698,""
 19699,""
-19700,""
+19700,"启动以太钻孔机，发射高压以太"
 19701,""
 19702,""
 19703,""
