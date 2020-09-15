@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANANA006_03041_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 威罗迪纳基地的阿露帕正在等候冒险者。"
 1,"TEXT_BANANA006_03041_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 和阿露帕进行了交谈。阿露帕想要召集帮助过国境警备队的人们，举行慰劳宴会。将<Sheet(EventItem,2002430,0)/>交给对等石的梅·赛特·提亚和帝国东方堡的塔拉·莫尔酷协牙尉。"
 2,"TEXT_BANANA006_03041_SEQ_02","将<Sheet(EventItem,2002430,0)/>交给了梅·赛特·提亚和塔拉·莫尔酷协牙尉。回到威罗迪纳基地，向阿露帕报告。"

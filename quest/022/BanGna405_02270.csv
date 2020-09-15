@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANGNA405_02270_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 自由脑窟穴的眼神好有想要全权委托的工作。"
 1,"TEXT_BANGNA405_02270_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 眼神好委托冒险者收集供给圣菲内雅连队的毛皮。因为骨颌族不会区分毛皮的好坏，所以请求了格里莫尔德的帮助。和尾羽集落的格里莫尔德谈谈。"
 2,"TEXT_BANGNA405_02270_SEQ_02","和格里莫尔德进行了交谈。他说<Sheet(EventItem,2001962,0)/>是最合适的。在陆行鸟之森的3处<Sheet(EObj,2006918,0)/>使用<Sheet(EventItem,2001961,0)/>，讨伐出现的<Sheet(BNpcName,4721,0)/>，获取<Sheet(EventItem,2001962,0)/>。"

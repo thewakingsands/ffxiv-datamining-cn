@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANGNA404_02269_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 自由脑窟穴的眼神好有东西想让冒险者试一下。"
 1,"TEXT_BANGNA404_02269_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 眼神好委托冒险者试用为供给圣菲内雅连队而种植的银露草。骑着恐甲蚂蜓，对凶暴邪龙眷属散播驱赶龙族的香，驱赶3次就可以了。为了骑上恐甲蚂蜓，和自由脑窟穴的养虫子谈谈。"
 2,"TEXT_BANGNA404_02269_SEQ_02","和养虫子进行了交谈，骑上了恐甲蚂蜓。骑着恐甲蚂蜓，在荒烟野地的<Sheet(EObj,2006915,0)/>使用散播。

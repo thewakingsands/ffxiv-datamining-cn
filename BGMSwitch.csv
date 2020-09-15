@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,BGMSystemDefine,Quest,,
-int32,BGMSystemDefine,Quest,byte,uint16
+#,BGMSystemDefine,Quest,,BGM
+int32,BGMSystemDefine,Quest,byte,BGM
 50000.0,0,0,0,0
 50001.0,1,0,0,1202
 50001.1,3,68062,0,1202

@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBREL300_02328_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊规则：  职业固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 阿尔达希尔在思索培育人造元灵的新方法。"
 1,"TEXT_JOBREL300_02328_SEQ_01","※本任务为<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 职业固定任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 ※另外，本任务无法直接从日志放弃。
 　需要放弃时请和阿尔达希尔进行对话。
 

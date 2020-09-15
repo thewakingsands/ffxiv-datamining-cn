@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANVAN304_02188_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 西风岛的穆纳瓦努在关于涂料的问题上有事想委托给冒险者。"
 1,"TEXT_BANVAN304_02188_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 穆纳瓦努委托冒险者获取房子的涂料。和西风岛的木工奇努瓦努谈谈，听取详情。"
 2,"TEXT_BANVAN304_02188_SEQ_02","和奇努瓦努进行了交谈。衮杜族目前做不出涂料，因此希望冒险者去温杜族那里偷。前往瓦纳温杜集落，获取3个<Sheet(EventItem,2001917,0)/>。"

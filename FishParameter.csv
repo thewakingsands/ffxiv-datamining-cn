@@ -824,7 +824,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 820,"其名字在拿巴示艾兰的语言中是“大地之盾”的意思。其外壳轻盈和结实兼备，因此常被用于制作王国骑士的盾和铠甲。",28192,370,0,False,False,4,815,0,True,False,False
 821,"其肉质细腻且甘甜。光之泛滥后虽然没有经历长期捕杀，但伴随着近海渔业回暖的浪潮，其越发地引起了关注。",28193,380,0,False,False,0,814,0,True,False,False
 822,"其筑的巢穴被研究员们称之为“要塞”，自身在眷属的鱼群中也是坐落顶点。生性凶猛，会撕裂所有靠近巢穴的生物。",28925,460,0,True,True,3,813,2507,True,True,True
-823,"体表为黑白色，隆索族中极少数人会有同样的花纹。进行威吓时的表情与隆索凶猛的样子很像，非常有趣。",28926,460,0,True,True,2,814,2507,True,True,False
+823,"因其体表有着隆索族中极少数人才有的黑白色花纹而得名。进行威吓时的表情与隆索凶猛的样子很像，非常有趣。",28926,460,0,True,True,2,814,2507,True,True,False
 824,"经过年龄增长，皮肤更加坚硬了的刺棘蜥蜴。在拿巴示艾兰王国，甚至有将其皮革缝在衣服内侧给犯人穿，以作惩罚。",28927,460,0,True,True,4,815,2507,True,True,True
 825,"有人说这是仙子不经意间经过群树馆时，遭受了比死还要可怕的折磨，为逃避现实，最后变成了这种鱼。",28928,460,0,True,True,2,816,2507,True,False,True
 826,"在激战中存活下来的黑色三连星。据说三条这种鱼在一起时，它们强而有力的摆尾甚至能改变河川流向。",28929,460,0,True,True,2,817,2507,True,True,True
@@ -909,8 +909,8 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 905,"背部寄宿着的广大珊瑚之森，据说在其中能找到上百种生物。据说小型鱼也栖息在这片珊瑚中，可以将它比作会移动的殖民地。",29789,445,5,True,False,1,900,0,True,True,False
 906,"活了很长很长时间的年迈石鳍鲨。据说年轻的时候会借助储存的气体浮行，不过现在全身硬化，所以身体过重飞不起来了。",29790,445,5,True,False,1,900,0,True,True,False
 907,"一种濒临灭绝的大型海龙。据说在很久以前，海盗们为牵引长船使用的就是这种海龙。",29791,445,5,True,False,1,900,0,True,True,False
-908,"",0,0,0,False,False,0,0,0,False,False,False
-909,"",0,0,0,False,False,0,0,0,False,False,False
+908,"河川神沙利亚克在创造出知识之河时产生的珊瑚。因相信食用它能提高学习能力而导致食物中毒的学徒不计其数。",29673,440,0,False,False,3,399,0,True,False,False
+909,"贪婪吞噬其他贝类的肉食性海螺。因其带刺的外表，有传言称它是从库尔札斯地区的龙骨中诞生的。",29678,450,0,False,False,3,397,0,True,False,False
 910,"",0,0,0,False,False,0,0,0,False,False,False
 911,"",0,0,0,False,False,0,0,0,False,False,False
 912,"",0,0,0,False,False,0,0,0,False,False,False

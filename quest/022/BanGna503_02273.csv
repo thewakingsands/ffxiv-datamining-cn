@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANGNA503_02273_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 自由脑窟穴的眼神好想给冒险者展现一项技能。"
 1,"TEXT_BANGNA503_02273_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 眼神好委托冒险者获取供给田园郡的<Sheet(EventItem,2001964,0)/>。首先需要<Sheet(EventItem,2001963,0)/>作为诱饵。在悲叹飞泉的<Sheet(EObj,2006930,0)/>中获取<Sheet(EventItem,2001963,0)/>。"
 2,"TEXT_BANGNA503_02273_SEQ_02","获得了<Sheet(EventItem,2001963,0)/>。在宽慰河中游的<Sheet(EObj,2006931,0)/>使用<Sheet(EventItem,2001963,0)/>，从出现的<Sheet(BNpcName,4722,0)/>身上获取<Sheet(EventItem,2001964,0)/>。"

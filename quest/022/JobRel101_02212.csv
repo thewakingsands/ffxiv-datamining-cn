@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_JOBREL101_02212_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>特殊规则：  职业固定<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 阿尔达希尔想要马上开始研究。"
 1,"TEXT_JOBREL101_02212_SEQ_01","※本任务为<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 职业固定任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 阿尔达希尔委托冒险者去获取制造人造元灵所必需的以太结晶，也就是<Sheet(Item,13575,0)/>和<Sheet(Item,13576,0)/>。和摩杜纳丧灵钟的罗薇娜谈谈，请教获取结晶的方法。"
 2,"TEXT_JOBREL101_02212_SEQ_02","向罗薇娜请教了获取<Sheet(Item,13575,0)/>和<Sheet(Item,13576,0)/>的方法。宝石工匠辛冬妮好像知道些什么。和罗薇娜会馆的辛冬妮谈谈。"

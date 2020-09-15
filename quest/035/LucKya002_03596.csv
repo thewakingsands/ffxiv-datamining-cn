@@ -94,7 +94,7 @@ int32,str,str
 我真是失礼了。<UIForeground>01</UIForeground>"
 63,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_100_041","<UIForeground>F20223</UIForeground>你拥有特别市民权，
 当然可以进出本学院。
-请问你来阿尼德罗学院有何贵干吗？<UIForeground>01</UIForeground>"
+请问你来阿尼德罗学院有何贵干？<UIForeground>01</UIForeground>"
 64,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_042","<UIForeground>F20223</UIForeground>嗯，我明白了。
 你提到的生物，的确是归我们管理。<UIForeground>01</UIForeground>"
 65,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_043","<UIForeground>F20223</UIForeground>如果你很在意那个创造物的话，
@@ -135,7 +135,7 @@ int32,str,str
 事态会马上得到控制的吧。<UIForeground>01</UIForeground>"
 82,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_068","<UIForeground>F20223</UIForeground>像你这样的小孩子就不用担心了。
 只不过你因此没能跟研究者聊上几句，实在有些遗憾。
-要你是愿意再来参观的话，没准还有跟他们交流的机会。<UIForeground>01</UIForeground>"
+要是你愿意再来参观的话，没准还有跟他们交流的机会。<UIForeground>01</UIForeground>"
 83,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_069","<UIForeground>F20223</UIForeground>你还有其他要询问的事情吗？
 只要是我能回答的问题，我都会为你解答。<UIForeground>01</UIForeground>"
 84,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_070","<UIForeground>F20223</UIForeground>嗯，这是当然的。

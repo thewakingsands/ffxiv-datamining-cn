@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANGNA301_02261_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 自由脑窟穴的眼神好有事想要拜托冒险者。"
 1,"TEXT_BANGNA301_02261_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 眼神好委托冒险者收集供给尾羽集落的<Sheet(EventItem,2001951,0)/>。在荒烟野地的3处<Sheet(EObj,2006881,0)/>张望，讨伐出现的<Sheet(BNpcName,4713,0)/>，获取<Sheet(EventItem,2001951,0)/>。"
 2,"TEXT_BANGNA301_02261_SEQ_02","获得了2根<Sheet(EventItem,2001951,0)/>。将<Sheet(EventItem,2001951,0)/>交给自由脑窟穴的眼神好。"

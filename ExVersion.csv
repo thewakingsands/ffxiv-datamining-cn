@@ -1,6 +1,6 @@
 ﻿key,0,1,2
-#,Name,,
-int32,str,uint16,uint16
+#,Name,AcceptJingle,CompleteJingle
+int32,str,ScreenImage,ScreenImage
 0,"重生之境",1,2
 1,"苍穹之禁城",342,343
 2,"红莲之狂潮",344,345

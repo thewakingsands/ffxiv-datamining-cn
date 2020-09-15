@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANVAN301_02185_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 西风岛的穆纳瓦努希望冒险者去帮助奇努瓦努。"
 1,"TEXT_BANVAN301_02185_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 接受了穆纳瓦努的委托，去帮助奇努瓦努。和西风岛的木工奇努瓦努对话。"
 2,"TEXT_BANVAN301_02185_SEQ_02","奇努瓦努委托冒险者去和人类交换金属钉子。为此，首先要准备好诱饵，以获得奇纳哈尔鸟妖的嫩肉。从蓝天窗的<Sheet(EObj,2006676,0)/>获取<Sheet(EventItem,2001912,0)/>。"

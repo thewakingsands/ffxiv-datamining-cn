@@ -1180,6 +1180,7 @@ int32,uint16,uint16,str,str,str
 4017,17,357,"","重建伊修加德","chongjianyixiujiade"
 4018,17,165,"","亚拉戈奇谭神典石","yalageqitanshendianshi"
 4019,17,360,"","出海垂钓","chuhaichuidiao"
+4020,17,359,"","天钢工具","tianganggongju"
 5000,24,3001,"","大型任务","daxingrenwu"
 5001,24,6002,"","每日挑战","meiritiaozhan"
 5002,24,1210,"","岩燕庙","yanyanmiao"
@@ -1234,3 +1235,4 @@ int32,uint16,uint16,str,str,str
 5051,24,3108,"","共鸣之章","gongmingzhizhang"
 5052,24,2238,"","红宝石神兵破坏作战","hongbaoshishenbingpohuaizuozhan"
 5053,24,2239,"","红宝石神兵狂想作战","hongbaoshishenbingkuangxiangzuozhan"
+5054,24,2240,"","博兹雅堡垒追忆战","boziyabaoleizhuiyizhan"

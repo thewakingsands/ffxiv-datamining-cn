@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,RequiredReputation,Name,,
-int32,uint16,str,str,uint32
+#,RequiredReputation,Name,AlliedNames,Color
+int32,uint16,str,str,UIColor
 0,0,"无","无",0
 1,150,"中立","中立",56
 2,360,"承认","承认",57

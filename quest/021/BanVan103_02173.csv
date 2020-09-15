@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANVAN103_02173_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整（限定职业）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 西风岛的穆纳瓦努有事想让冒险者帮忙。"
 1,"TEXT_BANVAN103_02173_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
-　进行时需要与接受任务时的职业相同才可继续进行任务。
+　需要与接受任务时的职业相同才可继续进行任务。
 
 穆纳瓦努委托冒险者除掉<Sheet(EObj,2006646,0)/>。只要用腾云蛇的突风吹走4个巢穴就好了。为了骑上腾云蛇，和西风岛的商人鲁纳瓦努谈谈。"
 2,"TEXT_BANVAN103_02173_SEQ_02","和商人鲁纳瓦努进行了交谈，骑上了腾云蛇。骑着腾云蛇，对蓝天窗的4个<Sheet(EObj,2006646,0)/>使用突风。
