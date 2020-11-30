@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB701_00896_SEQ_00","巨龙首营地的奥尔什方有事情想要委托给冒险者。"
-1,"TEXT_GAIUSB701_00896_SEQ_01","奥尔什方委托冒险者和自己的部下进行比试。和巨龙首营地西侧的身经百战的骑士谈谈，尽全力打败<Sheet(BNpcName,1990,0)/>。"
+1,"TEXT_GAIUSB701_00896_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往巨龙首营地找奥尔什方重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB701_00896_SEQ_02","打败了<Sheet(BNpcName,1990,0)/>们。向巨龙首营地的奥尔什方报告。"
 3,"TEXT_GAIUSB701_00896_SEQ_03","作为福尔唐家的骑士，奥尔什方对伊修加德的形势也有自己的独特见解。他们对飞空艇企业号的下落展开的调查貌似也很值得期待。"
 4,"TEXT_GAIUSB701_00896_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB701_00896_SEQ_21",""
 22,"TEXT_GAIUSB701_00896_SEQ_22",""
 23,"TEXT_GAIUSB701_00896_SEQ_23",""
-24,"TEXT_GAIUSB701_00896_TODO_00","和身经百战的骑士对话 和<Sheet(BNpcName,1990,0)/>进行训练"
-25,"TEXT_GAIUSB701_00896_TODO_01","向奥尔什方报告"
+24,"TEXT_GAIUSB701_00896_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB701_00896_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB701_00896_TODO_02",""
 27,"TEXT_GAIUSB701_00896_TODO_03",""
 28,"TEXT_GAIUSB701_00896_TODO_04",""

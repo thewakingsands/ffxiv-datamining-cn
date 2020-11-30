@@ -23,13 +23,13 @@ int32,str,str
 因而被指定为了恶名精英。"
 13,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_021","那家伙被称作提克斯塔，
 几次三番袭击了来往于皇都的商队。"
-14,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_022","那个商队向尾羽集落运送生活物资、向皇都运送作为商品的陆行鸟。
-如果这个商队的运输被中断，那么尾羽集落就要断粮了。
-必须要赶快猎捕到它。"
+14,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_022","这些商队向尾羽集落运送生活物资，向皇都运送作为商品的陆行鸟，
+如果运输中断，尾羽集落将难以维持生计。
+需要尽快解决这个问题。"
 15,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_030","索姆阿尔灵峰是一座活火山。
-所以，听说位于那座山山麓的大洞穴里流淌着如河流般的熔岩。"
+据说位于其山麓的大洞穴里流淌着河流般的熔岩。"
 16,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_031","那种温暖的环境滋养了古恐龙那种原始的甲鳞纲魔兽。
-并作为龙族的眷属被利用。"
+龙族会利用这些魔兽作为眷属，对地域造成巨大威胁。"
 17,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_032","特别是名为派拉斯特暴龙的恐怖凶猛古恐龙，
 一定要特别警戒。
 那家伙可是被称作为最强眷属啊。"
@@ -45,7 +45,7 @@ int32,str,str
 众所周知，那种野兽非常善于捕猎，
 它们捕猎的终极秘诀和人类无异。"
 22,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_051","据尾羽集落的猎人所说，
-捕猎的秘诀是“瞄准猎物瞄准猎物的瞬间”。
+捕猎的秘诀是“把握猎物正在捕猎的瞬间”。
 不管是什么野兽，一旦注意力集中在捕猎上，立刻就会露出破绽。"
 23,"TEXT_REGDRA2NOTORIOUSMONSTERHINTF1_00266_FHILSKAET_000_052","而神穆尔鸟领会到了这一秘诀。
 那头巨大的狮鹫会在饿着肚子的兽群捕猎的时候，

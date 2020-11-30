@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE111_01185_SEQ_00","丧灵钟的斯拉佛伯恩，有事情想要告诉冒险者。"
-1,"TEXT_GAIUSE111_01185_SEQ_01","斯拉佛伯恩想让聚集在丧灵钟的冒险者们更活跃一些。完成行会令——讨伐污染源头魔界花！
+1,"TEXT_GAIUSE111_01185_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-※可以通过任务搜索器参加。"
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE111_01185_SEQ_02","成功完成行会令——讨伐污染源头魔界花！向丧灵钟的斯拉佛伯恩报告。"
 3,"TEXT_GAIUSE111_01185_SEQ_03","向斯拉佛伯恩报告完毕。冒险者帮斯拉佛伯恩解决了烦恼。今后也同斯拉佛伯恩等人一起，为丧灵钟增添活力。"
 4,"TEXT_GAIUSE111_01185_SEQ_04",""
@@ -27,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSE111_01185_SEQ_21",""
 22,"TEXT_GAIUSE111_01185_SEQ_22",""
 23,"TEXT_GAIUSE111_01185_SEQ_23",""
-24,"TEXT_GAIUSE111_01185_TODO_00","完成行会令——讨伐污染源头魔界花！"
-25,"TEXT_GAIUSE111_01185_TODO_01","向丧灵钟的斯拉佛伯恩报告"
+24,"TEXT_GAIUSE111_01185_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE111_01185_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSE111_01185_TODO_02",""
 27,"TEXT_GAIUSE111_01185_TODO_03",""
 28,"TEXT_GAIUSE111_01185_TODO_04",""

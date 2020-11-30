@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSX110_01561_SEQ_00","丧灵钟的斯拉佛伯恩正在为什么事情烦恼。"
-1,"TEXT_GAIUSX110_01561_SEQ_01","斯拉佛伯恩为了让冒险者行会更加活跃，因此希望冒险者能够完成冒险者行会的委托。前往摩杜纳的纠缠沼泽林讨伐2只<Sheet(BNpcName,237,0)/>。"
+1,"TEXT_GAIUSX110_01561_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSX110_01561_SEQ_02","讨伐了<Sheet(BNpcName,237,0)/>。向丧灵钟的斯拉佛伯恩报告。"
 3,"TEXT_GAIUSX110_01561_SEQ_03","向斯拉佛伯恩报告完毕。他期待可以通过冒险者的行动，调动起冒险者行会的活力。"
 4,"TEXT_GAIUSX110_01561_SEQ_04","空"
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSX110_01561_SEQ_21","空"
 22,"TEXT_GAIUSX110_01561_SEQ_22","空"
 23,"TEXT_GAIUSX110_01561_SEQ_23","空"
-24,"TEXT_GAIUSX110_01561_TODO_00","讨伐<Sheet(BNpcName,237,0)/>"
-25,"TEXT_GAIUSX110_01561_TODO_01","向丧灵钟的斯拉佛伯恩报告"
+24,"TEXT_GAIUSX110_01561_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSX110_01561_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSX110_01561_TODO_02","空"
 27,"TEXT_GAIUSX110_01561_TODO_03","空"
 28,"TEXT_GAIUSX110_01561_TODO_04","空"

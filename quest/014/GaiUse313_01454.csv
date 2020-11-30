@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE313_01454_SEQ_00","石之家的敏菲利亚，有件事要传达给冒险者。"
-1,"TEXT_GAIUSE313_01454_SEQ_01","敏菲利亚让冒险者看了各国寄来的感谢信，巩固了解决无影问题的决心。趁阿尔菲诺进行报告时，在摩杜纳的丧灵钟寻找斯拉佛伯恩。"
+1,"TEXT_GAIUSE313_01454_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往石之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE313_01454_SEQ_02","接受了斯拉佛伯恩的委托，帮助新手冒险者。前往摩杜纳的歌咏裂谷，讨伐无助的冒险者身边的<Sheet(BNpcName,2874,0)/>。"
 3,"TEXT_GAIUSE313_01454_SEQ_03","打倒了<Sheet(BNpcName,2874,0)/>。救助歌咏裂谷的无助的冒险者。"
 4,"TEXT_GAIUSE313_01454_SEQ_04","救助了无助的冒险者。她认为自己一点错都没有。对歌咏裂谷的无助的冒险者做情感动作“莫名”。"
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSE313_01454_SEQ_21","无"
 22,"TEXT_GAIUSE313_01454_SEQ_22","无"
 23,"TEXT_GAIUSE313_01454_SEQ_23","无"
-24,"TEXT_GAIUSE313_01454_TODO_00","和丧灵钟的斯拉佛伯恩对话"
-25,"TEXT_GAIUSE313_01454_TODO_01","在歌咏裂谷的无助的冒险者附近 讨伐<Sheet(BNpcName,2874,0)/>"
-26,"TEXT_GAIUSE313_01454_TODO_02","救助无助的冒险者"
-27,"TEXT_GAIUSE313_01454_TODO_03","对无助的冒险者做“莫名”的情感动作"
-28,"TEXT_GAIUSE313_01454_TODO_04","和斯拉佛伯恩对话"
+24,"TEXT_GAIUSE313_01454_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往石之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE313_01454_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往石之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE313_01454_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往石之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE313_01454_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往石之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE313_01454_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往石之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSE313_01454_TODO_05","无"
 30,"TEXT_GAIUSE313_01454_TODO_06","无"
 31,"TEXT_GAIUSE313_01454_TODO_07","无"

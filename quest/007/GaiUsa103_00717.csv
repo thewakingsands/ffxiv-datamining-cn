@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA103_00717_SEQ_00","伊达想要让冒险者得到妖精族的认可。"
-1,"TEXT_GAIUSA103_00717_SEQ_01","为了加深感情，首先从妖精族们使用的问候方式做起。对妖精暂留地的妖精族和神勇队士兵做情感动作“跳舞”。"
+1,"TEXT_GAIUSA103_00717_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往妖精暂留地找伊达重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSA103_00717_SEQ_02","对妖精暂留地的住户们都跳了一遍舞。回去向伊达报告。"
 3,"TEXT_GAIUSA103_00717_SEQ_03","冒险者通过跳舞表现出了诚意，得到了一些认可。"
 4,"TEXT_GAIUSA103_00717_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSA103_00717_SEQ_21",""
 22,"TEXT_GAIUSA103_00717_SEQ_22",""
 23,"TEXT_GAIUSA103_00717_SEQ_23",""
-24,"TEXT_GAIUSA103_00717_TODO_00","对妖精暂留地的住户们做“跳舞”的情感动作"
-25,"TEXT_GAIUSA103_00717_TODO_01","向伊达报告"
+24,"TEXT_GAIUSA103_00717_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找伊达重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA103_00717_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找伊达重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSA103_00717_TODO_02",""
 27,"TEXT_GAIUSA103_00717_TODO_03",""
 28,"TEXT_GAIUSA103_00717_TODO_04",""

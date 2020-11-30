@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB808_00917_SEQ_00","巨龙首营地的奥尔什方想要将飞空艇的情报告诉冒险者。"
-1,"TEXT_GAIUSB808_00917_SEQ_01","得到了期待已久的飞空艇的情报。和等在外面的困惑的编目人谈谈。"
+1,"TEXT_GAIUSB808_00917_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往巨龙首营地找奥尔什方重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB808_00917_SEQ_02","根据观测员的证言，飞空艇的观测情报和着陆地点都被记录在占星台的书库里。到阿德内尔占星台最上层的书架上取得1572年的观测记录。"
 3,"TEXT_GAIUSB808_00917_SEQ_03","从书架上获得了所需要的观测记录。将其交给困惑的编目人并再和他谈谈。"
 4,"TEXT_GAIUSB808_00917_SEQ_04","根据记载，飞空艇好像紧急着陆在了石卫塔附近。返回巨龙首营地，和奥尔什方商谈一下。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSB808_00917_SEQ_21",""
 22,"TEXT_GAIUSB808_00917_SEQ_22",""
 23,"TEXT_GAIUSB808_00917_SEQ_23",""
-24,"TEXT_GAIUSB808_00917_TODO_00","和困惑的编目人对话"
-25,"TEXT_GAIUSB808_00917_TODO_01","获取<Sheet(EventItem,2000720,0)/>"
-26,"TEXT_GAIUSB808_00917_TODO_02","将<Sheet(EventItem,2000720,0)/>交给困惑的编目人"
-27,"TEXT_GAIUSB808_00917_TODO_03","和奥尔什方谈谈"
-28,"TEXT_GAIUSB808_00917_TODO_04","和弗朗塞尔对话"
-29,"TEXT_GAIUSB808_00917_TODO_05","将介绍信交给布吕纳迪耶"
+24,"TEXT_GAIUSB808_00917_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB808_00917_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB808_00917_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSB808_00917_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSB808_00917_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSB808_00917_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巨龙首营地找奥尔什方重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSB808_00917_TODO_06",""
 31,"TEXT_GAIUSB808_00917_TODO_07",""
 32,"TEXT_GAIUSB808_00917_TODO_08",""

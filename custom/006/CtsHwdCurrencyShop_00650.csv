@@ -8,9 +8,9 @@ int32,str,str
 真是吓了我一跳呢。"
 2,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_010","只要帮忙重建天穹街就会得到<Sheet(Item,28063,0)/>。
 用<Sheet(Item,28063,0)/>可以在我这里交换你想要的东西。"
-3,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_020","为了能让大家有动力多参加工程，
-我会努力增加更好更棒的谢礼，
-请你也多多光顾吧！"
+3,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_020","为了能让更多人参与到工程中，
+我会努力增加充满魅力的谢礼，
+到时候请你多多来光顾一下吧！"
 4,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_030","<Sheet(Item,28063,0)/>不仅可以通过交纳物品获得，
 也可以通过参加“联合重建工程”获得，请你踊跃参加……
 啊，对了，你知道“联合重建工程”的事情吗？"
@@ -18,7 +18,11 @@ int32,str,str
 那你去找奥格伯特监督问问吧！
 我会一直在这里等着你，快去吧。"
 6,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_050","<Sheet(Item,28063,0)/>不仅可以通过交纳制品获得，
-还可以通过检验重建用素材获得，请你务必奋勇参加……
+还可以通过检验重建用素材获得，请你务必踊跃参加……
 啊，你知道素材检验的事情吗？"
 7,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_010_060","如果方便的话，请你去找弗洛帕桑咨询一下！
 我会一直在这里等你，请你走好。"
+8,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_000","交换天穹街振兴票"
+9,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_010","交换天穹街振兴票（装备·家具）"
+10,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_020","交换天穹街振兴票（素材·魔晶石·消耗品）"
+11,"TEXT_CTSHWDCURRENCYSHOP_00650_ENIE_020_030","取消"

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC307_00974_SEQ_00","十二神大圣堂的梅尔温，想要为冒险者提供情报。"
-1,"TEXT_GAIUSC307_00974_SEQ_01","首先在<Sheet(EObj,2002193,0)/>等待，从<Sheet(BNpcName,1981,0)/>身上获得<Sheet(EventItem,2000930,0)/>。"
+1,"TEXT_GAIUSC307_00974_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往小麦酒港找西艾娜重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC307_00974_SEQ_02","这还远远不够。将<Sheet(EventItem,2000930,0)/>放在<Sheet(EObj,2002194,0)/>上。"
 3,"TEXT_GAIUSC307_00974_SEQ_03","获得了<Sheet(EventItem,2000752,0)/>。与龙纹岩的提吉交谈。"
 4,"TEXT_GAIUSC307_00974_SEQ_04","这下子就可以把格吉引诱出来了。在<Sheet(EObj,2002195,0)/>使用<Sheet(EventItem,2000752,0)/>，从<Sheet(BNpcName,1982,0)/>身上获得<Sheet(EventItem,2000753,0)/>。"
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSC307_00974_SEQ_21","无"
 22,"TEXT_GAIUSC307_00974_SEQ_22","无"
 23,"TEXT_GAIUSC307_00974_SEQ_23","无"
-24,"TEXT_GAIUSC307_00974_TODO_00","在<Sheet(EObj,2002193,0)/>等待 从<Sheet(BNpcName,1981,0)/>身上获取<Sheet(EventItem,2000930,0)/>"
-25,"TEXT_GAIUSC307_00974_TODO_01","将<Sheet(EventItem,2000930,0)/>放在<Sheet(EObj,2002194,0)/>上 获取<Sheet(EventItem,2000752,0)/>"
-26,"TEXT_GAIUSC307_00974_TODO_02","和提吉谈谈"
-27,"TEXT_GAIUSC307_00974_TODO_03","在<Sheet(EObj,2002195,0)/>使用<Sheet(EventItem,2000752,0)/> 从<Sheet(BNpcName,1982,0)/>身上获取<Sheet(EventItem,2000753,0)/>"
-28,"TEXT_GAIUSC307_00974_TODO_04","将<Sheet(EventItem,2000753,0)/>交给格里达尼亚旧街的赫丁"
+24,"TEXT_GAIUSC307_00974_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC307_00974_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC307_00974_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC307_00974_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC307_00974_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSC307_00974_TODO_05","无"
 30,"TEXT_GAIUSC307_00974_TODO_06","无"
 31,"TEXT_GAIUSC307_00974_TODO_07","无"

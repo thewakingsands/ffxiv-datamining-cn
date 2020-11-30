@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB008_00815_SEQ_00","恬静路营地的鬼哭队士兵朗德内尔想要就获取美味的办法给冒险者一些建议。"
-1,"TEXT_GAIUSB008_00815_SEQ_01","守护<Sheet(EventItem,2000641,0)/>的<Sheet(BNpcName,34,0)/>非常凶暴，鬼哭队加强了附近的警备。但朗德内尔却另有办法。调查低径的<Sheet(EventItem,2000638,0)/>，使用<Sheet(EventItem,2000959,0)/>讨伐<Sheet(BNpcName,2058,0)/>。"
+1,"TEXT_GAIUSB008_00815_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往恬静路营地找朗德内尔重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB008_00815_SEQ_02","成功讨伐了<Sheet(BNpcName,2058,0)/>。获取<Sheet(EventItem,2000638,0)/>。"
 3,"TEXT_GAIUSB008_00815_SEQ_03","获得了<Sheet(EventItem,2000638,0)/>。将其交给恬静路营地的朗德内尔。"
 4,"TEXT_GAIUSB008_00815_SEQ_04","<Sheet(BNpcName,2058,0)/>的出现好像让朗德内尔很吃惊。貌似有必要马上加强低径附近的警备……"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSB008_00815_SEQ_21",""
 22,"TEXT_GAIUSB008_00815_SEQ_22",""
 23,"TEXT_GAIUSB008_00815_SEQ_23",""
-24,"TEXT_GAIUSB008_00815_TODO_00","调查<Sheet(EventItem,2000638,0)/> 使用<Sheet(EventItem,2000959,0)/>讨伐<Sheet(BNpcName,2058,0)/>"
-25,"TEXT_GAIUSB008_00815_TODO_01","获取<Sheet(EventItem,2000638,0)/>"
-26,"TEXT_GAIUSB008_00815_TODO_02","将<Sheet(EventItem,2000638,0)/>交给朗德内尔"
+24,"TEXT_GAIUSB008_00815_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往恬静路营地找朗德内尔重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB008_00815_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往恬静路营地找朗德内尔重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB008_00815_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往恬静路营地找朗德内尔重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSB008_00815_TODO_03",""
 28,"TEXT_GAIUSB008_00815_TODO_04",""
 29,"TEXT_GAIUSB008_00815_TODO_05",""

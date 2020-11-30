@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB503_00872_SEQ_00","圣阿达玛·兰达玛教会的马尔克斯，在寻找修理物品所需的材料。"
-1,"TEXT_GAIUSB503_00872_SEQ_01","接受了筹备修理怀表所需材料的委托。分别从乌尔达哈雕金匠行会的梅梅德斯和蓝玉大街国际市场的辛特戈特处，获得<Sheet(EventItem,2000678,0)/>和<Sheet(EventItem,2000679,0)/>。"
+1,"TEXT_GAIUSB503_00872_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往圣阿达玛·兰达玛教会找马尔克斯重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB503_00872_SEQ_02","获得了2种材料。将其交给圣阿达玛·兰达玛教会的马尔克斯。"
 3,"TEXT_GAIUSB503_00872_SEQ_03","怀表修理完毕。马尔克斯不明白自己为什么会擅长修理怀表。将<Sheet(EventItem,2000680,0)/>交给圣阿达玛·兰达玛教会的埃莉内德。"
 4,"TEXT_GAIUSB503_00872_SEQ_04","据埃莉内德所说，这个怀表是帝国制造的。竟能不费吹灰之力就修好这种东西，马尔克斯究竟是什么人？"
@@ -25,10 +27,14 @@ int32,str,str
 21,"TEXT_GAIUSB503_00872_SEQ_21","无"
 22,"TEXT_GAIUSB503_00872_SEQ_22","无"
 23,"TEXT_GAIUSB503_00872_SEQ_23","无"
-24,"TEXT_GAIUSB503_00872_TODO_00","从雕金匠行会的梅梅德斯处获取<Sheet(EventItem,2000678,0)/>"
-25,"TEXT_GAIUSB503_00872_TODO_01","从蓝玉大街国际市场的辛特戈特处获取<Sheet(EventItem,2000679,0)/>"
-26,"TEXT_GAIUSB503_00872_TODO_02","将材料交给圣阿达玛·兰达玛教会的马尔克斯"
-27,"TEXT_GAIUSB503_00872_TODO_03","将<Sheet(EventItem,2000680,0)/>交给埃莉内德"
+24,"TEXT_GAIUSB503_00872_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往圣阿达玛·兰达玛教会找马尔克斯重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB503_00872_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往圣阿达玛·兰达玛教会找马尔克斯重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB503_00872_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往圣阿达玛·兰达玛教会找马尔克斯重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSB503_00872_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往圣阿达玛·兰达玛教会找马尔克斯重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_GAIUSB503_00872_TODO_04","无"
 29,"TEXT_GAIUSB503_00872_TODO_05","无"
 30,"TEXT_GAIUSB503_00872_TODO_06","无"

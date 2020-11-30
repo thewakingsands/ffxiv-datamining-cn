@@ -18,6 +18,7 @@ int32,str
 14,"获得力 <Value>IntegerParameter(1)</Value>以上"
 15,"鉴别力 <Value>IntegerParameter(1)</Value>以上"
 16,"获得力 <Value>IntegerParameter(1)</Value>以下"
-17,"鉴别力 <Value>IntegerParameter(1)</Value>以下"
+17,"鉴别力 <Value>IntegerParameter(1)</Value><If(IntegerParameter(2))>以上<Else/>以下</If>"
 18,"<Sheet(Status,IntegerParameter(1),0)/>状态"
 19,"采集力上限 <Value>IntegerParameter(1)</Value>以上"
+20,"<Sheet(Item,IntegerParameter(1),0)/><If(IntegerParameter(2))>装备时<Else/>未装备时</If>"

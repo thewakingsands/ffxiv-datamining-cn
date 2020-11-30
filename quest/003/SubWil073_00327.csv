@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBWIL073_00327_SEQ_00","黑尘驿站的瓦林想要托人去讨伐在铁轨上放置矿石的犯人。"
-1,"TEXT_SUBWIL073_00327_SEQ_01","为了保护列车的行驶安全，瓦林想要讨伐在铁轨上放置矿石的犯人。听从他的指示，去黑尘驿站周边，在放置着满是划痕的银矿石的铁轨附近进行调查，打倒出现的犯人。"
+1,"TEXT_SUBWIL073_00327_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往黑尘驿站找兹兹梅达重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBWIL073_00327_SEQ_02","调查完黑尘驿站周边的铁轨，并成功讨伐了啃石魔石精。向黑尘驿站的瓦林报告。"
 3,"TEXT_SUBWIL073_00327_SEQ_03","击退了放置矿石的犯人，暂时确保了铁路的安全。瓦林说，放置在铁轨上的满是划痕的银矿石很有可能是啃石魔石精进食时掉下来的银矿石……"
 4,"TEXT_SUBWIL073_00327_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_SUBWIL073_00327_SEQ_21",""
 22,"TEXT_SUBWIL073_00327_SEQ_22",""
 23,"TEXT_SUBWIL073_00327_SEQ_23",""
-24,"TEXT_SUBWIL073_00327_TODO_00","调查满是划痕的银矿石"
-25,"TEXT_SUBWIL073_00327_TODO_01","向瓦林报告"
+24,"TEXT_SUBWIL073_00327_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黑尘驿站找兹兹梅达重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBWIL073_00327_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黑尘驿站找兹兹梅达重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBWIL073_00327_TODO_02",""
 27,"TEXT_SUBWIL073_00327_TODO_03",""
 28,"TEXT_SUBWIL073_00327_TODO_04",""

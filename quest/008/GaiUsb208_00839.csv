@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB208_00839_SEQ_00","太阳海岸的维斯凯特，想要让冒险者去准备最棒的美酒。"
-1,"TEXT_GAIUSB208_00839_SEQ_01","特别的晚餐需要最棒的美酒相伴。负责烹饪三大美味的是厨师迪尔斯特维兹，听取他的指示。"
+1,"TEXT_GAIUSB208_00839_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往太阳海岸找维斯凯特重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB208_00839_SEQ_02","从迪尔斯特维兹处获得了<Sheet(EventItem,2000653,0)/>。前往东拉诺西亚的葡萄酒港，将<Sheet(EventItem,2000653,0)/>交给原海雄旅团团员夏马尼·洛马尼。"
 3,"TEXT_GAIUSB208_00839_SEQ_03","夏马尼·洛马尼将视觉以外的感官都提升到了最敏锐的地步，由此便可以制作最棒的葡萄酒。再次与夏马尼·洛马尼交谈。"
 4,"TEXT_GAIUSB208_00839_SEQ_04","无"
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB208_00839_SEQ_21","无"
 22,"TEXT_GAIUSB208_00839_SEQ_22","无"
 23,"TEXT_GAIUSB208_00839_SEQ_23","无"
-24,"TEXT_GAIUSB208_00839_TODO_00","和迪尔斯特维兹对话"
-25,"TEXT_GAIUSB208_00839_TODO_01","将<Sheet(EventItem,2000653,0)/>交给葡萄酒港的夏马尼·洛马尼"
+24,"TEXT_GAIUSB208_00839_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往太阳海岸找维斯凯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB208_00839_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往太阳海岸找维斯凯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB208_00839_TODO_02","无"
 27,"TEXT_GAIUSB208_00839_TODO_03","无"
 28,"TEXT_GAIUSB208_00839_TODO_04","无"

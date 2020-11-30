@@ -164,14 +164,14 @@ int32,str,str
 亚马乌罗提也好，生活在这里的人们也好……
 全部都是末日尚未降临时的样子……"
 110,"TEXT_LUCKMF109_03652_URIANGER_000_121","爱梅特赛尔克重现的，
-是古代人们还活着的”那一天“吧。"
+是古代人们还活着的“那一天”吧。"
 111,"TEXT_LUCKMF109_03652_THANCRED_000_122","真是不可思议……
 幸好我们和古代人似乎可以交流。"
 112,"TEXT_LUCKMF109_03652_THANCRED_000_123","而且他们对我们好像也没有敌意……
 不如，我们分头去打探一下
 爱梅特赛尔克的所在地吧？"
-113,"TEXT_LUCKMF109_03652_THANCRED_000_124","把刚才那个人说的”十四人委员会“
-和”灾难“当作线索，
+113,"TEXT_LUCKMF109_03652_THANCRED_000_124","把刚才那个人说的“十四人委员会”
+和“灾难”当作线索，
 说不定可以得到有用的情报。"
 114,"TEXT_LUCKMF109_03652_THANCRED_000_125","好……那就这么定了。
 打听完之后我们再回到这个广场集合。"
@@ -198,7 +198,7 @@ int32,str,str
 这可不行啊，这种时候怎么能离开家人呢。<UIForeground>01</UIForeground>"
 123,"TEXT_LUCKMF109_03652_AMAUROTRESIDENTB03652_000_138","<UIForeground>F20223</UIForeground>这个星球发生异变了，
 现在还只局限在海对岸，没到我们这边来。
-据说这是一场前所未有的灾难，大家都叫它”末日“。<UIForeground>01</UIForeground>"
+据说这是一场前所未有的灾难，大家都叫它“末日”。<UIForeground>01</UIForeground>"
 124,"TEXT_LUCKMF109_03652_AMAUROTRESIDENTB03652_000_139","<UIForeground>F20223</UIForeground>我听说有一天，大地突然发出了轰鸣。
 所有听到这声音的生物都会发生异变，
 就连我们都会不受控制地开始乱放创造魔法……<UIForeground>01</UIForeground>"

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE411_00079_SEQ_00","格里达尼亚新街的伊尔伯德希望冒险者助其一臂之力。"
-1,"TEXT_GAIUSE411_00079_SEQ_01","和伊尔伯德进行了交谈。加雷马帝国的密探常春藤疑为恒辉队二把手艾莉娜·罗阿耶正耀将。同格里达尼亚新街的伊尔伯德一起，偷偷尾随其后。"
+1,"TEXT_GAIUSE411_00079_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往格里达尼亚找伊尔伯德重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE411_00079_SEQ_02","和伊尔伯德汇合了。同伊尔伯德一起，跟踪艾莉娜·罗阿耶。"
 3,"TEXT_GAIUSE411_00079_SEQ_03","艾莉娜·罗阿耶进入了魔女咖啡馆。进入店内寻找她，如果找不到，就去和格里达尼亚飞艇坪的埃菲米对话。"
 4,"TEXT_GAIUSE411_00079_SEQ_04","和埃菲米进行了交谈。但她并没有看见艾莉娜·罗阿耶。向魔女咖啡馆前的伊尔伯德报告。"
@@ -25,13 +27,20 @@ int32,str,str
 21,"TEXT_GAIUSE411_00079_SEQ_21","无"
 22,"TEXT_GAIUSE411_00079_SEQ_22","无"
 23,"TEXT_GAIUSE411_00079_SEQ_23",""
-24,"TEXT_GAIUSE411_00079_TODO_00","和伊尔伯德对话 跟踪艾莉娜·罗阿耶"
-25,"TEXT_GAIUSE411_00079_TODO_01","和伊尔伯德对话 再次跟踪艾莉娜·罗阿耶"
-26,"TEXT_GAIUSE411_00079_TODO_02","和埃菲米对话"
-27,"TEXT_GAIUSE411_00079_TODO_03","和伊尔伯德对话"
-28,"TEXT_GAIUSE411_00079_TODO_04","和格里达尼亚新街的第二分队队员对话"
-29,"TEXT_GAIUSE411_00079_TODO_05","和格里达尼亚旧街的第二分队队员对话"
-30,"TEXT_GAIUSE411_00079_TODO_06","和以太之光广场的伊尔伯德对话"
+24,"TEXT_GAIUSE411_00079_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE411_00079_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE411_00079_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE411_00079_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE411_00079_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE411_00079_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+30,"TEXT_GAIUSE411_00079_TODO_06","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往格里达尼亚找伊尔伯德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 31,"TEXT_GAIUSE411_00079_TODO_07","无"
 32,"TEXT_GAIUSE411_00079_TODO_08","无"
 33,"TEXT_GAIUSE411_00079_TODO_09","无"

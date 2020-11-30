@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE106_01180_SEQ_00","敏菲利亚希望冒险者能够派送某样东西。"
-1,"TEXT_GAIUSE106_01180_SEQ_01","敏菲利亚和贤人们都在忙着做本部迁移的准备。将<Sheet(EventItem,2001077,0)/>交给丧灵钟的斯拉佛伯恩。"
+1,"TEXT_GAIUSE106_01180_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沙之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE106_01180_SEQ_02","顺利将<Sheet(EventItem,2001077,0)/>交给了斯拉佛伯恩。斯拉佛伯恩希望可以借助冒险者的力量，重建丧灵钟。在丧灵钟附近，帮助有困难的居民。"
 3,"TEXT_GAIUSE106_01180_SEQ_03","空"
 4,"TEXT_GAIUSE106_01180_SEQ_04","空"
@@ -25,7 +27,8 @@ int32,str,str
 21,"TEXT_GAIUSE106_01180_SEQ_21","空"
 22,"TEXT_GAIUSE106_01180_SEQ_22","空"
 23,"TEXT_GAIUSE106_01180_SEQ_23","空"
-24,"TEXT_GAIUSE106_01180_TODO_00","将<Sheet(EventItem,2001077,0)/>交给丧灵钟的斯拉佛伯恩"
+24,"TEXT_GAIUSE106_01180_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSE106_01180_TODO_01","空"
 26,"TEXT_GAIUSE106_01180_TODO_02","空"
 27,"TEXT_GAIUSE106_01180_TODO_03","空"

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB914_00937_SEQ_00","野战医院的西德想要冒险者帮忙。"
-1,"TEXT_GAIUSB914_00937_SEQ_01","西德需要一些材料来对配药用的蒸馏器进行改良。打倒<Sheet(BNpcName,114,0)/>，获取6个<Sheet(EventItem,2000732,0)/>。"
+1,"TEXT_GAIUSB914_00937_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往白云崖前哨找西德重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB914_00937_SEQ_02","收集齐了西德需要的材料。将<Sheet(EventItem,2000732,0)/>交给白云崖前哨的西德。"
 3,"TEXT_GAIUSB914_00937_SEQ_03","改良了蒸馏器，好不容易才要在野战医院获得信赖，可又被异端审问官吉耶姆给破坏了。看来不对异端审问官想想办法的话，就很难取得进展。"
 4,"TEXT_GAIUSB914_00937_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB914_00937_SEQ_21",""
 22,"TEXT_GAIUSB914_00937_SEQ_22",""
 23,"TEXT_GAIUSB914_00937_SEQ_23",""
-24,"TEXT_GAIUSB914_00937_TODO_00","从<Sheet(BNpcName,114,0)/>身上得到<Sheet(EventItem,2000732,0)/>"
-25,"TEXT_GAIUSB914_00937_TODO_01","将<Sheet(EventItem,2000732,0)/>交给西德"
+24,"TEXT_GAIUSB914_00937_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往白云崖前哨找西德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB914_00937_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往白云崖前哨找西德重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB914_00937_TODO_02",""
 27,"TEXT_GAIUSB914_00937_TODO_03",""
 28,"TEXT_GAIUSB914_00937_TODO_04",""

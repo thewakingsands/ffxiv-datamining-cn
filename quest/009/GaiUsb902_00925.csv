@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB902_00925_SEQ_00","白云崖前哨的本尼德克特有工作想要委托给冒险者。"
-1,"TEXT_GAIUSB902_00925_SEQ_01","为了得到排外的狄兰达尔家的信赖，需要付出较大的努力。讨伐5只<Sheet(BNpcName,784,0)/>。"
+1,"TEXT_GAIUSB902_00925_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往白云崖前哨找奥斯特福或西德重新领取。另外，重新领取到什么任务会根据当前的任务进度来决定。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB902_00925_SEQ_02","成功讨伐了<Sheet(BNpcName,784,0)/>。向白云崖前哨的克洛泰里翁报告。"
 3,"TEXT_GAIUSB902_00925_SEQ_03","克洛泰里翁虽然认同了冒险者的成绩，但是依然没有好脸色。看来前哨的人们果然不愿意借助外人的力量……"
 4,"TEXT_GAIUSB902_00925_SEQ_04",""
@@ -25,8 +27,8 @@ int32,str,str
 21,"TEXT_GAIUSB902_00925_SEQ_21",""
 22,"TEXT_GAIUSB902_00925_SEQ_22",""
 23,"TEXT_GAIUSB902_00925_SEQ_23",""
-24,"TEXT_GAIUSB902_00925_TODO_00","讨伐<Sheet(BNpcName,784,0)/>"
-25,"TEXT_GAIUSB902_00925_TODO_01","向克洛泰里翁报告"
+24,"TEXT_GAIUSB902_00925_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB902_00925_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB902_00925_TODO_02",""
 27,"TEXT_GAIUSB902_00925_TODO_03",""
 28,"TEXT_GAIUSB902_00925_TODO_04",""

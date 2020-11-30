@@ -61,10 +61,10 @@ int32,str,str
 52,"TEXT_LUCKSA051_03845_A2_800_000","制作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的义军武器"
 53,"TEXT_LUCKSA051_03845_SYSTEM_800_001","请切换成想制作义军武器的职业，
 再次与兹拉坦对话。"
-54,"TEXT_LUCKSA051_03845_SYSTEM_800_005","已经获得了<Sheet(Item,IntegerParameter(1),0)/>以及<Sheet(Item,IntegerParameter(2),0)/>。
-请切换成其他职业再次与兹拉坦对话。"
-55,"TEXT_LUCKSA051_03845_SYSTEM_800_006","已经获得了<Sheet(Item,IntegerParameter(1),0)/>，
-请切换成其他职业再次与兹拉坦对话。"
+54,"TEXT_LUCKSA051_03845_SYSTEM_800_005","已拥有<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>。
+请切换成其他特职再次与兹拉坦对话。"
+55,"TEXT_LUCKSA051_03845_SYSTEM_800_006","已拥有<Sheet(Item,IntegerParameter(1),0)/>，
+请切换成其他特职再次与兹拉坦对话。"
 56,"TEXT_LUCKSA051_03845_ZLATAN_000_000","你想要制作其他的义军武器吗？
 这边别的材料倒是都有富余……
 问题果然还是需要筹集<Sheet(Item,30273,0)/>。"

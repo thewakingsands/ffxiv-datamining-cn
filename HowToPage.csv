@@ -3438,9 +3438,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 确认好他们需要多少“收藏价值”的收藏品后，再去制作与采集收藏品吧！","",""
 1980,1,0,152171,0,"
-通过与风脉泉的共鸣，感知到了风向，可以在空中自由翱翔了。
+可以在空中自由翱翔了！
 
-在与风脉泉共鸣完毕的区域，骑乘飞行坐骑执行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳跃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，就可以在空中自由翱翔了。","",""
+骑乘坐骑执行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳跃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，就可以在空中自由翱翔了。","",""
 1981,1,0,152172,0,"
 飞行时的基本操作为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“前进”“上升”“急降”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 前进：
@@ -3822,7 +3822,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※可选择的外貌种类请参照更新笔记。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2270,1,0,152461,0,"
-在身为冒险者提高名气、挑战更强的敌人时，不仅需要注意自己的职业等级，还需要注意<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+在身为冒险者提高名气、挑战更强的敌人时，不仅需要注意自己的职业和职业等级，还需要注意<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备品级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是表示武器、防具及饰品强度的值，装备品级越高，装备就越强。","",""
 2271,1,0,152462,0,"
@@ -4247,7 +4247,7 @@ int32,byte,byte,Image,byte,str,str,str
 2540,1,0,152841,0,"
 可以撑起伞了！
 
-撑伞的技能在技能菜单的“特别指令”中，添加到热键栏后便可以使用。
+撑伞的技能在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>时尚配饰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中，添加到热键栏后便可以使用。
 
 先试着使用一下技能，撑起伞吧。","",""
 2541,1,0,152842,0,"
@@ -4256,3 +4256,15 @@ int32,byte,byte,Image,byte,str,str,str
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※无论使用多少次技能，伞都不会消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在天气不好的时候，试着撑起伞也是个不错的选择哦！","",""
+2550,1,0,152861,0,"
+可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能了！
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是不使用材料进行的模拟练习。
+
+在挑战制作高难度配方之前，先通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来模拟一下制作过程吧。","",""
+2551,1,0,152862,0,"
+在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作笔记”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“开始制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可开始<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“制作练习”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的操作和通常制作时是一样的。
+
+要注意，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作练习<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即使成功了也不会获得道具和经验。","",""

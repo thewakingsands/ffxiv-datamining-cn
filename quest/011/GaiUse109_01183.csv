@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE109_01183_SEQ_00","丧灵钟的萨尔克·贸尔克很在意一些事情。"
-1,"TEXT_GAIUSE109_01183_SEQ_01","萨尔克·贸尔克有些在意残留在丧灵钟周边的帝国军动向。在丧灵钟西南的帝国军开采据点，使用<Sheet(EventItem,2001079,0)/>，破坏<Sheet(EObj,2002847,0)/>。"
+1,"TEXT_GAIUSE109_01183_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE109_01183_SEQ_02","成功破坏了<Sheet(EObj,2002847,0)/>。回到丧灵钟，将情况报告给萨尔克·贸尔克。"
 3,"TEXT_GAIUSE109_01183_SEQ_03","向萨尔克·贸尔克报告完毕。有关他的秘密，现在依然不得而知……"
 4,"TEXT_GAIUSE109_01183_SEQ_04","空"
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSE109_01183_SEQ_21","空"
 22,"TEXT_GAIUSE109_01183_SEQ_22","空"
 23,"TEXT_GAIUSE109_01183_SEQ_23","空"
-24,"TEXT_GAIUSE109_01183_TODO_00","使用<Sheet(EventItem,2001079,0)/>破坏<Sheet(EObj,2002847,0)/>"
-25,"TEXT_GAIUSE109_01183_TODO_01","向萨尔克·贸尔克报告"
+24,"TEXT_GAIUSE109_01183_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE109_01183_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSE109_01183_TODO_02","空"
 27,"TEXT_GAIUSE109_01183_TODO_03","空"
 28,"TEXT_GAIUSE109_01183_TODO_04","空"

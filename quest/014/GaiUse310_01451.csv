@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE310_01451_SEQ_00","伊达似乎知道贤人们的去向。"
-1,"TEXT_GAIUSE310_01451_SEQ_01","据伊达说，帕帕力莫被雅·修特拉带走了。在妖精领寻找帕帕力莫等人。"
+1,"TEXT_GAIUSE310_01451_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往妖精暂留地找双蛇党副牙尉重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE310_01451_SEQ_02","找到了帕帕力莫和两个雅·修特拉。和附近的马奇希奥商量对策。"
 3,"TEXT_GAIUSE310_01451_SEQ_03","再次从马奇希奥那里获得了<Sheet(EventItem,2001313,0)/>。对妖精领的帕帕力莫等人使用<Sheet(EventItem,2001313,0)/>。"
 4,"TEXT_GAIUSE310_01451_SEQ_04","使用了<Sheet(EventItem,2001313,0)/>，揭穿了坏妖精的变装。接近逃开的坏妖精，打倒他的朋友。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE310_01451_SEQ_21","无"
 22,"TEXT_GAIUSE310_01451_SEQ_22","无"
 23,"TEXT_GAIUSE310_01451_SEQ_23","无"
-24,"TEXT_GAIUSE310_01451_TODO_00","在妖精领寻找帕帕力莫等人"
-25,"TEXT_GAIUSE310_01451_TODO_01","和马奇希奥谈谈"
-26,"TEXT_GAIUSE310_01451_TODO_02","对帕帕力莫等人使用<Sheet(EventItem,2001313,0)/>"
-27,"TEXT_GAIUSE310_01451_TODO_03","接近坏妖精 打倒他的朋友"
-28,"TEXT_GAIUSE310_01451_TODO_04","和坏妖精对话"
-29,"TEXT_GAIUSE310_01451_TODO_05","向帕帕力莫报告"
+24,"TEXT_GAIUSE310_01451_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE310_01451_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE310_01451_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE310_01451_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE310_01451_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE310_01451_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往妖精暂留地找双蛇党副牙尉重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE310_01451_TODO_06","无"
 31,"TEXT_GAIUSE310_01451_TODO_07","无"
 32,"TEXT_GAIUSE310_01451_TODO_08","无"

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC603_01003_SEQ_00","丧灵钟的萨尔克·贸尔克想要冒险者筹备某些东西。"
-1,"TEXT_GAIUSC603_01003_SEQ_01","萨尔克·贸尔克委托冒险者筹备帝国兵的装备。讨伐<Sheet(BNpcName,1813,0)/>、<Sheet(BNpcName,1812,0)/>或是<Sheet(BNpcName,1811,0)/>，获取<Sheet(EventItem,2000767,0)/>。再讨伐<Sheet(BNpcName,1809,0)/>或<Sheet(BNpcName,1810,0)/>，获取<Sheet(EventItem,2000768,0)/>。"
+1,"TEXT_GAIUSC603_01003_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找萨尔克·贸尔克重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC603_01003_SEQ_02","成功拿到了帝国兵的军装和头盔。让丧灵钟的萨尔克·贸尔克查看<Sheet(EventItem,2000767,0)/>和<Sheet(EventItem,2000768,0)/>。"
 3,"TEXT_GAIUSC603_01003_SEQ_03","萨尔克·贸尔克说穿上这些战损的装备会引起帝国兵的怀疑。为了修复这些装备，将<Sheet(EventItem,2000767,0)/>交给乌尔达哈裁衣匠行会的埃塞尔维恩，将<Sheet(EventItem,2000768,0)/>交给利姆萨·罗敏萨铸甲匠行会的赫·纳恩萨。"
 4,"TEXT_GAIUSC603_01003_SEQ_04","获得了修复好的军装和头盔。返回丧灵钟，将<Sheet(EventItem,2000769,0)/>和<Sheet(EventItem,2000770,0)/>交给萨尔克·贸尔克。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSC603_01003_SEQ_21",""
 22,"TEXT_GAIUSC603_01003_SEQ_22",""
 23,"TEXT_GAIUSC603_01003_SEQ_23",""
-24,"TEXT_GAIUSC603_01003_TODO_00","从帝国兵那里得到<Sheet(EventItem,2000767,0)/>"
-25,"TEXT_GAIUSC603_01003_TODO_01","从帝国兵那里得到<Sheet(EventItem,2000768,0)/>"
-26,"TEXT_GAIUSC603_01003_TODO_02","让萨尔克·贸尔克查看获得的装备"
-27,"TEXT_GAIUSC603_01003_TODO_03","将<Sheet(EventItem,2000767,0)/>交给裁衣匠行会的埃塞尔维恩"
-28,"TEXT_GAIUSC603_01003_TODO_04","将<Sheet(EventItem,2000768,0)/>交给铸甲匠行会的赫·纳恩萨"
-29,"TEXT_GAIUSC603_01003_TODO_05","将修复的装备交给萨尔克·贸尔克"
+24,"TEXT_GAIUSC603_01003_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC603_01003_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC603_01003_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC603_01003_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC603_01003_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSC603_01003_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找萨尔克·贸尔克重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSC603_01003_TODO_06",""
 31,"TEXT_GAIUSC603_01003_TODO_07",""
 32,"TEXT_GAIUSC603_01003_TODO_08",""

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB101_00820_SEQ_00","遗忘绿洲的族长乌·欧德·努恩好像并不信任冒险者。"
-1,"TEXT_GAIUSB101_00820_SEQ_01","乌·欧德·努恩要冒险者接受试炼。打倒撒沟厉沙漠的<Sheet(BNpcName,264,0)/>，获取7份<Sheet(EventItem,2000642,0)/>。"
+1,"TEXT_GAIUSB101_00820_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往遗忘绿洲找乌·欧德·努恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB101_00820_SEQ_02","获得了7份<Sheet(EventItem,2000642,0)/>。将其交给遗忘绿洲的乌·欧德·努恩。"
 3,"TEXT_GAIUSB101_00820_SEQ_03","乌·欧德·努恩好像稍微认可了冒险者……"
 4,"TEXT_GAIUSB101_00820_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB101_00820_SEQ_21",""
 22,"TEXT_GAIUSB101_00820_SEQ_22",""
 23,"TEXT_GAIUSB101_00820_SEQ_23",""
-24,"TEXT_GAIUSB101_00820_TODO_00","从<Sheet(BNpcName,264,0)/>身上得到<Sheet(EventItem,2000642,0)/>"
-25,"TEXT_GAIUSB101_00820_TODO_01","将<Sheet(EventItem,2000642,0)/>交给乌·欧德·努恩"
+24,"TEXT_GAIUSB101_00820_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往遗忘绿洲找乌·欧德·努恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB101_00820_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往遗忘绿洲找乌·欧德·努恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB101_00820_TODO_02",""
 27,"TEXT_GAIUSB101_00820_TODO_03",""
 28,"TEXT_GAIUSB101_00820_TODO_04",""

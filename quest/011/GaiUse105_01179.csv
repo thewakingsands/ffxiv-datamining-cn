@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE105_01179_SEQ_00","沙之家的敏菲利亚有事情想要拜托冒险者。"
-1,"TEXT_GAIUSE105_01179_SEQ_01","下定决心进行迁移的敏菲利亚，察觉到母亲芙·拉敏的样子有些奇怪。和沙之家的芙·拉敏对话。"
+1,"TEXT_GAIUSE105_01179_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沙之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE105_01179_SEQ_02","芙·拉敏的耳饰坏了，那耳饰对她来说很重要。将<Sheet(EventItem,2001074,0)/>交给乌尔达哈雕金匠行会的梅梅德斯。"
 3,"TEXT_GAIUSE105_01179_SEQ_03","耳饰好像是天才雕金匠涅尔弗雷纳送给恋人的东西。前往南萨纳兰的挖掘场，和奥迪内尔对话，代替梅梅德斯取回矿石。"
 4,"TEXT_GAIUSE105_01179_SEQ_04","从奥迪内尔那里拿到了<Sheet(EventItem,2001075,0)/>。将<Sheet(EventItem,2001075,0)/>交给乌尔达哈雕金匠行会的梅梅德斯。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE105_01179_SEQ_21","空"
 22,"TEXT_GAIUSE105_01179_SEQ_22","空"
 23,"TEXT_GAIUSE105_01179_SEQ_23","空"
-24,"TEXT_GAIUSE105_01179_TODO_00","和芙·拉敏对话"
-25,"TEXT_GAIUSE105_01179_TODO_01","将<Sheet(EventItem,2001074,0)/>交给雕金匠行会的梅梅德斯"
-26,"TEXT_GAIUSE105_01179_TODO_02","前往南萨纳兰的挖掘场和奥迪内尔对话"
-27,"TEXT_GAIUSE105_01179_TODO_03","将<Sheet(EventItem,2001075,0)/>交给雕金匠行会的梅梅德斯"
-28,"TEXT_GAIUSE105_01179_TODO_04","将<Sheet(EventItem,2001076,0)/>交给沙之家的芙·拉敏"
-29,"TEXT_GAIUSE105_01179_TODO_05","向敏菲利亚报告"
+24,"TEXT_GAIUSE105_01179_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE105_01179_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE105_01179_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE105_01179_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE105_01179_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE105_01179_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE105_01179_TODO_06","空"
 31,"TEXT_GAIUSE105_01179_TODO_07","空"
 32,"TEXT_GAIUSE105_01179_TODO_08","空"
@@ -158,10 +166,11 @@ int32,str,str
 今后也请你继续协助她和“拂晓”。"
 95,"TEXT_GAIUSE105_01179_FLHAMINN_000_086","也得感谢阿希莉亚呢！
 你去向她报告吧，她一定很担心吧。"
-96,"TEXT_GAIUSE105_01179_MINFILIA_000_090","谢谢你，<Highlight>ObjectParameter(1)</Highlight>。
-你解决了拉敏的烦恼啊。
-看到她重新露出笑容，我也好开心。"
-97,"TEXT_GAIUSE105_01179_ALPHINAUD_000_091","<Highlight>ObjectParameter(1)</Highlight>也在啊，那正好。"
+96,"TEXT_GAIUSE105_01179_MINFILIA_000_090","<Highlight>ObjectParameter(1)</Highlight>，怎么样，休息好了吗？
+阿尔菲诺刚来了消息，
+说是希望你去一趟拂晓之间，他有事想向你汇报。"
+97,"TEXT_GAIUSE105_01179_ALPHINAUD_000_091","<Highlight>ObjectParameter(1)</Highlight>，你来了呀。
+那接下来我就开始汇报吧。"
 98,"TEXT_GAIUSE105_01179_ALPHINAUD_000_092","敏菲利亚，我和冒险者行会谈妥了。"
 99,"TEXT_GAIUSE105_01179_MINFILIA_000_093","他们怎么说？"
 100,"TEXT_GAIUSE105_01179_ALPHINAUD_000_094","冒险者行会同意全面协助我们。

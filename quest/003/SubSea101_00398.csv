@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBSEA101_00398_SEQ_00","天梯的维尔克里特想要派送气球中剩下的货物。"
-1,"TEXT_SUBSEA101_00398_SEQ_01","把气球中剩下的货物派送到前桅塔和德内维尔关。"
+1,"TEXT_SUBSEA101_00398_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往天梯找维尔克里特重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBSEA101_00398_SEQ_02","送完了所有货物。向天梯的维尔克里特报告。"
 3,"TEXT_SUBSEA101_00398_SEQ_03","只要在暴风悬崖上做出坡道，就可以避免类似的问题了。但由于梅尔维布提督优先处理蛮族及加雷马帝国的问题，公共事业便毫无指望了。眼下此地只能用气球来克服困难。"
 4,"TEXT_SUBSEA101_00398_SEQ_04",""
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_SUBSEA101_00398_SEQ_21",""
 22,"TEXT_SUBSEA101_00398_SEQ_22",""
 23,"TEXT_SUBSEA101_00398_SEQ_23",""
-24,"TEXT_SUBSEA101_00398_TODO_00","把给前桅塔的货物派送给兴济图夫"
-25,"TEXT_SUBSEA101_00398_TODO_01","把给德内维尔关的货物派送给杰萨敏"
-26,"TEXT_SUBSEA101_00398_TODO_02","向维尔克里特报告"
+24,"TEXT_SUBSEA101_00398_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往天梯找维尔克里特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBSEA101_00398_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往天梯找维尔克里特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_SUBSEA101_00398_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往天梯找维尔克里特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_SUBSEA101_00398_TODO_03",""
 28,"TEXT_SUBSEA101_00398_TODO_04",""
 29,"TEXT_SUBSEA101_00398_TODO_05",""

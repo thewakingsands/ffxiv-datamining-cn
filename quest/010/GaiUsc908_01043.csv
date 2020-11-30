@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC908_01043_SEQ_00","青磷精炼所的艾德尔斯坦，有事情想告诉冒险者。"
-1,"TEXT_GAIUSC908_01043_SEQ_01","劳班到达了青磷精炼所。和他对话，听从他的指示。"
+1,"TEXT_GAIUSC908_01043_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往蓝雾营地找克拉克德·菲斯特重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC908_01043_SEQ_02","劳班让冒险者去鼓舞士兵们。对青磷精炼所的士兵们做情感动作“激励”。"
 3,"TEXT_GAIUSC908_01043_SEQ_03","激励了士兵们。最后，对艾德尔斯坦做情感动作“激励”。"
 4,"TEXT_GAIUSC908_01043_SEQ_04","艾德尔斯坦也有了干劲。见到了阿拉米格猛牛劳班，士兵们都情绪高涨。凭着这股干劲，开始作战的最终阶段，并向着胜利前进。"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSC908_01043_SEQ_21",""
 22,"TEXT_GAIUSC908_01043_SEQ_22",""
 23,"TEXT_GAIUSC908_01043_SEQ_23",""
-24,"TEXT_GAIUSC908_01043_TODO_00","和劳班对话"
-25,"TEXT_GAIUSC908_01043_TODO_01","对士兵们做“激励”的情感动作"
-26,"TEXT_GAIUSC908_01043_TODO_02","对艾德尔斯坦做“激励”的情感动作"
+24,"TEXT_GAIUSC908_01043_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC908_01043_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC908_01043_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSC908_01043_TODO_03",""
 28,"TEXT_GAIUSC908_01043_TODO_04",""
 29,"TEXT_GAIUSC908_01043_TODO_05",""

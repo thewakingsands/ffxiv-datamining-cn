@@ -269,3 +269,12 @@ int32,str
 1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>极风<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>豪风<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜月<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+38,"连击用技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太光剑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>840　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>消耗能量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太连斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1200　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>消耗能量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>最终一击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1940　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>消耗能量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
+39,""
+40,""

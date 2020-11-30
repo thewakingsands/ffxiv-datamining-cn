@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE207_01351_SEQ_00","黄昏湾的宝山遇到了一个棘手的问题。"
-1,"TEXT_GAIUSE207_01351_SEQ_01","宝山的父亲讨厌陆行鸟的臭味，所以拒绝搭乘陆行鸟篷车。为了寻找陆行鸟臭味的处理方法，去黄昏湾的酒馆，询问对气味敏感的女性。"
+1,"TEXT_GAIUSE207_01351_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往黄昏湾找宝山重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE207_01351_SEQ_02","获得了<Sheet(EventItem,2001208,0)/>，可以用这个来掩盖陆行鸟的臭味。对黄昏湾的陆行鸟使用<Sheet(EventItem,2001208,0)/>。"
 3,"TEXT_GAIUSE207_01351_SEQ_03","对陆行鸟使用了<Sheet(EventItem,2001208,0)/>。为了确认效果，闻一下黄昏湾的陆行鸟的味道。"
 4,"TEXT_GAIUSE207_01351_SEQ_04","看来使用<Sheet(EventItem,2001208,0)/>也不能掩盖陆行鸟的臭味。和黄昏湾的人族车夫谈谈。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE207_01351_SEQ_21",""
 22,"TEXT_GAIUSE207_01351_SEQ_22",""
 23,"TEXT_GAIUSE207_01351_SEQ_23",""
-24,"TEXT_GAIUSE207_01351_TODO_00","向酒馆的女性询问如何处理陆行鸟臭味"
-25,"TEXT_GAIUSE207_01351_TODO_01","对黄昏湾的陆行鸟使用<Sheet(EventItem,2001208,0)/>"
-26,"TEXT_GAIUSE207_01351_TODO_02","去闻黄昏湾的陆行鸟的味道"
-27,"TEXT_GAIUSE207_01351_TODO_03","和人族车夫对话"
-28,"TEXT_GAIUSE207_01351_TODO_04","将<Sheet(EventItem,2001209,0)/>交给宝山"
-29,"TEXT_GAIUSE207_01351_TODO_05","和宝山对话"
+24,"TEXT_GAIUSE207_01351_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE207_01351_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE207_01351_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE207_01351_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE207_01351_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE207_01351_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往黄昏湾找宝山重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE207_01351_TODO_06",""
 31,"TEXT_GAIUSE207_01351_TODO_07",""
 32,"TEXT_GAIUSE207_01351_TODO_08",""

@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE104_01178_SEQ_00","葡萄酒港的芙·拉敏想要制作香水。"
-1,"TEXT_GAIUSE104_01178_SEQ_01","要制作送给敏菲利亚的香水，还缺少一样材料。讨伐拉诺西亚高地的<Sheet(BNpcName,642,0)/>，获取<Sheet(EventItem,2001072,0)/>。"
+1,"TEXT_GAIUSE104_01178_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往葡萄酒港找芙·拉敏重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE104_01178_SEQ_02","获得了<Sheet(EventItem,2001072,0)/>。为了引出<Sheet(BNpcName,688,0)/>，将<Sheet(EventItem,2001072,0)/>放置在<Sheet(EObj,2002842,0)/>。"
 3,"TEXT_GAIUSE104_01178_SEQ_03","放好了<Sheet(EventItem,2001072,0)/>。在<Sheet(EObj,2002843,0)/>等待，讨伐出现的<Sheet(BNpcName,688,0)/>，获取<Sheet(EventItem,2001073,0)/>。"
 4,"TEXT_GAIUSE104_01178_SEQ_04","成功打倒了出现的<Sheet(BNpcName,688,0)/>，获得了<Sheet(EventItem,2001073,0)/>。将<Sheet(EventItem,2001073,0)/>交给葡萄酒港的芙·拉敏。"
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSE104_01178_SEQ_21","空"
 22,"TEXT_GAIUSE104_01178_SEQ_22","空"
 23,"TEXT_GAIUSE104_01178_SEQ_23","空"
-24,"TEXT_GAIUSE104_01178_TODO_00","打倒<Sheet(BNpcName,642,0)/> 获得<Sheet(EventItem,2001072,0)/>"
-25,"TEXT_GAIUSE104_01178_TODO_01","在<Sheet(EObj,2002842,0)/>放置<Sheet(EventItem,2001072,0)/>"
-26,"TEXT_GAIUSE104_01178_TODO_02","在<Sheet(EObj,2002843,0)/>等待 讨伐<Sheet(BNpcName,688,0)/>"
-27,"TEXT_GAIUSE104_01178_TODO_03","将<Sheet(EventItem,2001073,0)/>交给葡萄酒港的芙·拉敏"
-28,"TEXT_GAIUSE104_01178_TODO_04","和沙之家的敏菲利亚对话"
+24,"TEXT_GAIUSE104_01178_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往葡萄酒港找芙·拉敏重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE104_01178_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往葡萄酒港找芙·拉敏重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE104_01178_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往葡萄酒港找芙·拉敏重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE104_01178_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往葡萄酒港找芙·拉敏重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE104_01178_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往葡萄酒港找芙·拉敏重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSE104_01178_TODO_05","空"
 30,"TEXT_GAIUSE104_01178_TODO_06","空"
 31,"TEXT_GAIUSE104_01178_TODO_07","空"
@@ -99,8 +106,8 @@ int32,str,str
 我从冒险者身上闻到了一丝那种香味呢。"
 72,"TEXT_GAIUSE104_01178_MINFILIA_000_041","不过，市场上卖的香水，都没有拉敏做的好闻。
 我好高兴……"
-73,"TEXT_GAIUSE104_01178_FLHAMINN_000_042","为了制作香水，
-这位冒险者帮了我很多忙。"
+73,"TEXT_GAIUSE104_01178_FLHAMINN_000_042","在我收集香水的材料时遇到了魔物，
+正是这位冒险者救了我。"
 74,"TEXT_GAIUSE104_01178_MINFILIA_000_043","谢谢你，<Highlight>ObjectParameter(1)</Highlight>。"
 75,"TEXT_GAIUSE104_01178_FLHAMINN_000_044","对了，还有这个。"
 76,"TEXT_GAIUSE104_01178_MINFILIA_000_045","这是……猫眼石……

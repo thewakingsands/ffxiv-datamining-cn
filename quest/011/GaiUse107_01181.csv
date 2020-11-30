@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE107_01181_SEQ_00","丧灵钟的古奥尔盖姆有些在意运输队的情况。"
-1,"TEXT_GAIUSE107_01181_SEQ_01","来自格里达尼亚的物资还没有运到。为了调查运输队的情况，和秋瓜浮村的鬼哭队队员对话。"
+1,"TEXT_GAIUSE107_01181_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE107_01181_SEQ_02","据鬼哭队队员所说，被鸟人族袭击的陆行鸟篷车可能就是前往丧灵钟的运输队。前往秋瓜浮村东边，向路边的鬼哭队队员询问详情。"
 3,"TEXT_GAIUSE107_01181_SEQ_03","鸟人族抢夺了物资，并绑架了2名车夫。前往鸟人军采伐所解救2名车夫，回收3件<Sheet(EObj,2002844,0)/>。"
 4,"TEXT_GAIUSE107_01181_SEQ_04","成功解救了车夫，并夺回了物资。回到秋瓜浮村以东的路边，向精灵族车夫询问物资的运送地点。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE107_01181_SEQ_21","空"
 22,"TEXT_GAIUSE107_01181_SEQ_22","空"
 23,"TEXT_GAIUSE107_01181_SEQ_23","空"
-24,"TEXT_GAIUSE107_01181_TODO_00","和秋瓜浮村的鬼哭队队员对话"
-25,"TEXT_GAIUSE107_01181_TODO_01","和秋瓜浮村东边的鬼哭队队员对话"
-26,"TEXT_GAIUSE107_01181_TODO_02","前往鸟人军采伐所解救车夫"
-27,"TEXT_GAIUSE107_01181_TODO_03","在鸟人军采伐所回收<Sheet(EObj,2002844,0)/>"
-28,"TEXT_GAIUSE107_01181_TODO_04","和秋瓜浮村东边的精灵族车夫对话"
-29,"TEXT_GAIUSE107_01181_TODO_05","向丧灵钟的古奥尔盖姆报告"
+24,"TEXT_GAIUSE107_01181_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE107_01181_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE107_01181_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE107_01181_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE107_01181_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE107_01181_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE107_01181_TODO_06","空"
 31,"TEXT_GAIUSE107_01181_TODO_07","空"
 32,"TEXT_GAIUSE107_01181_TODO_08","空"

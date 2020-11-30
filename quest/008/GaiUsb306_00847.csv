@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB306_00847_SEQ_00","断弦亭的德雷斯特，想委托给冒险者一份工作。"
-1,"TEXT_GAIUSB306_00847_SEQ_01","德雷斯特想要赚钱重返故乡。讨伐<Sheet(BNpcName,352,0)/>，获得4个<Sheet(EventItem,2000656,0)/>。"
+1,"TEXT_GAIUSB306_00847_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往断弦亭找德雷斯特重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB306_00847_SEQ_02","获得了<Sheet(EventItem,2000656,0)/>。将其交给断弦亭的德雷斯特。"
 3,"TEXT_GAIUSB306_00847_SEQ_03","德雷斯特的故乡是加雷马帝国的行省之一，他是在那里被征兵的。他也是战争的受害者……"
 4,"TEXT_GAIUSB306_00847_SEQ_04","无"
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB306_00847_SEQ_21","无"
 22,"TEXT_GAIUSB306_00847_SEQ_22","无"
 23,"TEXT_GAIUSB306_00847_SEQ_23","无"
-24,"TEXT_GAIUSB306_00847_TODO_00","从<Sheet(BNpcName,352,0)/>身上获取<Sheet(EventItem,2000656,0)/>"
-25,"TEXT_GAIUSB306_00847_TODO_01","将<Sheet(EventItem,2000656,0)/>交给德雷斯特"
+24,"TEXT_GAIUSB306_00847_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往断弦亭找德雷斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB306_00847_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往断弦亭找德雷斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB306_00847_TODO_02","无"
 27,"TEXT_GAIUSB306_00847_TODO_03","无"
 28,"TEXT_GAIUSB306_00847_TODO_04","无"

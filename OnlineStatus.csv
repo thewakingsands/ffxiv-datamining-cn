@@ -2,10 +2,10 @@
 #,List,,Priority,Name,Icon
 int32,bit&01,bit&02,byte,str,Image
 0,False,False,0,"",0
-1,False,False,0,"游戏制作人",61531
+1,False,False,0,"游戏测试",61532
 2,False,False,0,"游戏管理员",61524
 3,False,False,0,"游戏管理员",61532
-4,False,False,0,"游戏管理员",61533
+4,False,False,0,"活动参与者",61533
 5,False,False,0,"通信切断",61503
 6,True,False,1,"临时好友",61501
 7,True,False,2,"临时加入",61501

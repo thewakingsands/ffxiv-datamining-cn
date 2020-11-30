@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB009_00816_SEQ_00","恬静路营地的朗德内尔有事情要拜托冒险者。"
-1,"TEXT_GAIUSB009_00816_SEQ_01","朗德内尔想要向部下们传令，加强低径的警备。向蔓根沼附近的3名鬼哭队士兵传话，让他们去加强低径的警备。"
+1,"TEXT_GAIUSB009_00816_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往恬静路营地找朗德内尔重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB009_00816_SEQ_02","将朗德内尔的意思传达给了他的部下们。向恬静路营地的朗德内尔报告。"
 3,"TEXT_GAIUSB009_00816_SEQ_03","为了强化低径附近的警备，蔓根沼附近的警卫力量被抽空了。朗德内尔好像从一开始就是这个目的……"
 4,"TEXT_GAIUSB009_00816_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSB009_00816_SEQ_21",""
 22,"TEXT_GAIUSB009_00816_SEQ_22",""
 23,"TEXT_GAIUSB009_00816_SEQ_23",""
-24,"TEXT_GAIUSB009_00816_TODO_00","将危机通知给朗德内尔的部下"
-25,"TEXT_GAIUSB009_00816_TODO_01","向朗德内尔报告"
+24,"TEXT_GAIUSB009_00816_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往恬静路营地找朗德内尔重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB009_00816_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往恬静路营地找朗德内尔重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB009_00816_TODO_02",""
 27,"TEXT_GAIUSB009_00816_TODO_03",""
 28,"TEXT_GAIUSB009_00816_TODO_04",""

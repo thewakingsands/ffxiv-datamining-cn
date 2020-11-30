@@ -97,8 +97,8 @@ int32,str,str
 <If(PlayerParameter(4))>她<Else/>他</If>见证了敏菲利亚的结局，
 是我拜托<If(PlayerParameter(4))>她<Else/>他</If>陪我一起来的。"
 69,"TEXT_LUCKZK991_03750_POPOKKULI_000_065","没想到<Highlight>ObjectParameter(1)</Highlight>也来了啊。
-嗯……这件事与心脏之刃的事也不能说没关系，
-那时候真是多亏了你呢……"
+不过……既然你在心脏之刃的事件中出了力，
+这件事也算和你有关系吧……"
 70,"TEXT_LUCKZK991_03750_FLHAMINN_000_066","那么言归正传吧，
 信上写的事是真的吗？"
 71,"TEXT_LUCKZK991_03750_SESERUKKA_000_067","我慢慢跟你讲。

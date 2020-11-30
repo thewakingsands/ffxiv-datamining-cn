@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE108_01182_SEQ_00","丧灵钟的斯拉佛伯恩有事想要委托冒险者。"
-1,"TEXT_GAIUSE108_01182_SEQ_01","斯拉佛伯恩想要巩固丧灵钟的防守，因此需要<Sheet(EventItem,2001078,0)/>。为了获取<Sheet(EventItem,2001078,0)/>，首先和南萨纳兰喀恩埋没圣堂的比比姆对话。"
+1,"TEXT_GAIUSE108_01182_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE108_01182_SEQ_02","和比比姆进行了交谈。突破南萨纳兰的“古代遗迹喀恩埋没圣堂”，获取<Sheet(EventItem,2001078,0)/>。
 
 ※可以通过任务搜索器参加。"
@@ -27,9 +29,12 @@ int32,str,str
 21,"TEXT_GAIUSE108_01182_SEQ_21","空"
 22,"TEXT_GAIUSE108_01182_SEQ_22","空"
 23,"TEXT_GAIUSE108_01182_SEQ_23","空"
-24,"TEXT_GAIUSE108_01182_TODO_00","和喀恩埋没圣堂的比比姆对话"
-25,"TEXT_GAIUSE108_01182_TODO_01","突破古代遗迹喀恩埋没圣堂 获取<Sheet(EventItem,2001078,0)/>"
-26,"TEXT_GAIUSE108_01182_TODO_02","将<Sheet(EventItem,2001078,0)/>交给丧灵钟的斯拉佛伯恩"
+24,"TEXT_GAIUSE108_01182_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE108_01182_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE108_01182_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSE108_01182_TODO_03","空"
 28,"TEXT_GAIUSE108_01182_TODO_04","空"
 29,"TEXT_GAIUSE108_01182_TODO_05","空"

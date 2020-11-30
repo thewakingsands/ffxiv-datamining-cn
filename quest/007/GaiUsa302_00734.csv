@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA302_00734_SEQ_00","梅梅卢恩交易站的特特卢恩，有事想请冒险者帮忙。"
-1,"TEXT_GAIUSA302_00734_SEQ_01","接受了帮助特特卢恩制作<Sheet(EventItem,2000594,0)/>的委托。在愚者瀑布使用<Sheet(EventItem,2000588,0)/>，获取<Sheet(EventItem,2000589,0)/>。之后，讨伐<Sheet(BNpcName,28,0)/>，获取5根<Sheet(EventItem,2000590,0)/>。"
+1,"TEXT_GAIUSA302_00734_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往梅梅卢恩交易站找特特卢恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSA302_00734_SEQ_02","将集齐的材料交给梅梅卢恩交易站的特特卢恩。"
 3,"TEXT_GAIUSA302_00734_SEQ_03","有了冒险者收集的材料，制作<Sheet(EventItem,2000594,0)/>的准备工作就结束了。距离制作完成还需要一些时间。"
 4,"TEXT_GAIUSA302_00734_SEQ_04","无"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSA302_00734_SEQ_21","无"
 22,"TEXT_GAIUSA302_00734_SEQ_22","无"
 23,"TEXT_GAIUSA302_00734_SEQ_23","无"
-24,"TEXT_GAIUSA302_00734_TODO_00","获取<Sheet(EventItem,2000589,0)/>"
-25,"TEXT_GAIUSA302_00734_TODO_01","从<Sheet(BNpcName,28,0)/>身上获取<Sheet(EventItem,2000590,0)/>"
-26,"TEXT_GAIUSA302_00734_TODO_02","将<Sheet(EventItem,2000589,0)/>和<Sheet(EventItem,2000590,0)/>交给特特卢恩"
+24,"TEXT_GAIUSA302_00734_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往梅梅卢恩交易站找特特卢恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA302_00734_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往梅梅卢恩交易站找特特卢恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSA302_00734_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往梅梅卢恩交易站找特特卢恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSA302_00734_TODO_03","无"
 28,"TEXT_GAIUSA302_00734_TODO_04","无"
 29,"TEXT_GAIUSA302_00734_TODO_05","无"

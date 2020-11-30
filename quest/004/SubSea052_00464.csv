@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBSEA052_00464_SEQ_00","盛夏农庄的雇佣园艺工加肯特，为了确保开垦地的安全，希望冒险者去讨伐魔物。"
-1,"TEXT_SUBSEA052_00464_SEQ_01","在开垦地的周围巡逻，讨伐5只妨碍开垦工作的小蔓德拉。"
+1,"TEXT_SUBSEA052_00464_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往盛夏农庄找修太尔威尔恩或加肯特重新领取。另外，重新领取到什么任务会根据当前的任务进度来决定。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBSEA052_00464_SEQ_02","确保了开垦地的安全，向盛夏农庄的雇佣园艺工加肯特报告。"
 3,"TEXT_SUBSEA052_00464_SEQ_03","冒险者协助保护了开垦地的安全，加肯特对此表示感谢。其实加肯特想把这种讨伐工作交给曾是海盗的农夫们做的。不知加肯特的愿望是否能够实现。"
 4,"TEXT_SUBSEA052_00464_SEQ_04",""
@@ -25,8 +27,8 @@ int32,str,str
 21,"TEXT_SUBSEA052_00464_SEQ_21",""
 22,"TEXT_SUBSEA052_00464_SEQ_22",""
 23,"TEXT_SUBSEA052_00464_SEQ_23",""
-24,"TEXT_SUBSEA052_00464_TODO_00","讨伐小蔓德拉"
-25,"TEXT_SUBSEA052_00464_TODO_01","向加肯特报告"
+24,"TEXT_SUBSEA052_00464_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBSEA052_00464_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBSEA052_00464_TODO_02",""
 27,"TEXT_SUBSEA052_00464_TODO_03",""
 28,"TEXT_SUBSEA052_00464_TODO_04",""

@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_MANFST502_01136_SEQ_00","劳班想要展开贤者行军行动的最终阶段。"
-1,"TEXT_MANFST502_01136_SEQ_01","作战开始了。突破帝国南方堡。
+1,"TEXT_MANFST502_01136_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往青磷精炼所找艾德尔斯坦重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-※可以通过任务搜索器参加。"
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_MANFST502_01136_SEQ_02","从地面入侵沉睡着究极神兵的工房比较困难。向帝国南方堡前的劳班报告。"
 3,"TEXT_MANFST502_01136_SEQ_03","向劳班报告完毕。接下来乘坐飞空艇企业号，进入工房。"
 4,"TEXT_MANFST502_01136_SEQ_04","空"
@@ -27,8 +27,10 @@ int32,str,str
 21,"TEXT_MANFST502_01136_SEQ_21","空"
 22,"TEXT_MANFST502_01136_SEQ_22","空"
 23,"TEXT_MANFST502_01136_SEQ_23","空"
-24,"TEXT_MANFST502_01136_TODO_00","突破帝国南方堡"
-25,"TEXT_MANFST502_01136_TODO_01","向劳班报告"
+24,"TEXT_MANFST502_01136_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往青磷精炼所找艾德尔斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_MANFST502_01136_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往青磷精炼所找艾德尔斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_MANFST502_01136_TODO_02","空"
 27,"TEXT_MANFST502_01136_TODO_03","空"
 28,"TEXT_MANFST502_01136_TODO_04","空"

@@ -156,8 +156,8 @@ int32,str,str
 就是这方面的洞察力非比寻常。"
 96,"TEXT_LUCKMD116_03621_YSHTOLA_000_117","对桑克瑞德来说应该也很少有那么难对付的对象，
 ……他已经干得很不错了。"
-97,"TEXT_LUCKMD116_03621_ALPHINAUD_000_120","这样就终于轮到和沃斯里的对决了啊……
-不过<Highlight>ObjectParameter(1)</Highlight>，现在还是先去和阿莉塞庆祝一下
+97,"TEXT_LUCKMD116_03621_ALPHINAUD_000_120","终于轮到和沃斯里对决了……
+不过<Highlight>ObjectParameter(1)</Highlight>，现在先和阿莉塞庆祝一下
 为这片大地取回了黑暗吧。"
 98,"TEXT_LUCKMD116_03621_THANCRED_000_125","啧……对我这副身体来说还是有点严苛了啊……
 你怎么样？没事吧？"
@@ -165,8 +165,8 @@ int32,str,str
 如果是的话我会很开心的。"
 100,"TEXT_LUCKMD116_03621_RYNE_000_131","但是<Highlight>ObjectParameter(1)</Highlight>……
 你的身体……"
-101,"TEXT_LUCKMD116_03621_URIANGER_000_135","像这样又驱散了一片土地的光，能确实地感受到战斗快要接近尾声了。
-但这又是什么的终结、什么的开始呢……"
+101,"TEXT_LUCKMD116_03621_URIANGER_000_135","又驱散了一片土地的光，能真切感受到战斗接近尾声了。
+这又是什么的终结、什么的开始呢……"
 102,"TEXT_LUCKMD116_03621_YSHTOLA_000_140","这次爱梅特赛尔克没来迎接啊。
 真是个搞不懂的男人……"
 103,"TEXT_LUCKMD116_03621_ALISAIE_000_150","<Highlight>ObjectParameter(1)</Highlight>，谢谢你。

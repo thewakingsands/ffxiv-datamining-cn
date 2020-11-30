@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBSEA107_00404_SEQ_00","雨燕塔殖民地的利尔夫，希望冒险者去寻找其亡父的遗产。"
-1,"TEXT_SUBSEA107_00404_SEQ_01","调查位于渡渡鸟巢营废弃小屋附近的遗产所在地，找出利尔夫亡父埋下的装有遗产的小箱。"
+1,"TEXT_SUBSEA107_00404_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往雨燕塔殖民地找弗雷洛夫重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBSEA107_00404_SEQ_02","找到了装有遗产的小箱。交给雨燕塔殖民地的利尔夫。"
 3,"TEXT_SUBSEA107_00404_SEQ_03","冒险者挖出的装有遗产的小箱里，装的是小麦种子。利尔夫大失所望，但之后立刻理解了亡父真正的用意。期待这片贫瘠之地，会成为一片丰收的小麦田。"
 4,"TEXT_SUBSEA107_00404_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_SUBSEA107_00404_SEQ_21",""
 22,"TEXT_SUBSEA107_00404_SEQ_22",""
 23,"TEXT_SUBSEA107_00404_SEQ_23",""
-24,"TEXT_SUBSEA107_00404_TODO_00","调查遗产所在地 获取装有遗产的小箱"
-25,"TEXT_SUBSEA107_00404_TODO_01","将装有遗产的小箱交给利尔夫"
+24,"TEXT_SUBSEA107_00404_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往雨燕塔殖民地找弗雷洛夫重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBSEA107_00404_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往雨燕塔殖民地找弗雷洛夫重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBSEA107_00404_TODO_02",""
 27,"TEXT_SUBSEA107_00404_TODO_03",""
 28,"TEXT_SUBSEA107_00404_TODO_04",""

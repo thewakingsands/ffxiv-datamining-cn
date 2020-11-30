@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB903_00926_SEQ_00","白云崖前哨的尼维正走投无路。"
-1,"TEXT_GAIUSB903_00926_SEQ_01","艾因哈特家的传令员尼维手中的重要书信被强风刮飞了。在白云崖前哨南方的崖壁寻找<Sheet(EventItem,2000723,0)/>。"
+1,"TEXT_GAIUSB903_00926_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往白云崖前哨找奥斯特福或西德重新领取。另外，重新领取到什么任务会根据当前的任务进度来决定。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSB903_00926_SEQ_02","找到了<Sheet(EventItem,2000723,0)/>。将其交给白云崖前哨的德里耶蒙。"
 3,"TEXT_GAIUSB903_00926_SEQ_03","将书信交给了德里耶蒙，却被嘲笑信中所说的是丧家犬的战略。向尼维报告。"
 4,"TEXT_GAIUSB903_00926_SEQ_04","艾因哈特家因为之前的失态而丧失了很多战力，虽然是四大名门之一，却也开始受到其他家族的轻视。已经走到了这一步，不能就此放弃。为了获得进入石卫塔的许可，要一点点地来博取信任。"
@@ -25,9 +27,9 @@ int32,str,str
 21,"TEXT_GAIUSB903_00926_SEQ_21",""
 22,"TEXT_GAIUSB903_00926_SEQ_22",""
 23,"TEXT_GAIUSB903_00926_SEQ_23",""
-24,"TEXT_GAIUSB903_00926_TODO_00","寻找<Sheet(EventItem,2000723,0)/>"
-25,"TEXT_GAIUSB903_00926_TODO_01","将<Sheet(EventItem,2000723,0)/>交给德里耶蒙"
-26,"TEXT_GAIUSB903_00926_TODO_02","向尼维报告"
+24,"TEXT_GAIUSB903_00926_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB903_00926_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB903_00926_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃任务重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSB903_00926_TODO_03",""
 28,"TEXT_GAIUSB903_00926_TODO_04",""
 29,"TEXT_GAIUSB903_00926_TODO_05",""

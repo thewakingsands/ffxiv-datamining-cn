@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE209_01353_SEQ_00","流沙屋的阿尔菲诺有事情要告诉冒险者。"
-1,"TEXT_GAIUSE209_01353_SEQ_01","被委托担任夕雾他们的向导，去丧灵钟办理接纳难民的手续。前往摩杜纳的丧灵钟，和斯拉佛伯恩谈谈。"
+1,"TEXT_GAIUSE209_01353_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往流沙屋找阿尔菲诺重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE209_01353_SEQ_02","以斯拉佛伯恩为代表的冒险者行会，对夕雾等多玛难民加入丧灵钟开拓团表示了欢迎。和丧灵钟的夕雾谈谈。"
 3,"TEXT_GAIUSE209_01353_SEQ_03","夕雾希望能与敏菲利亚见面。前往丧灵钟的石之家，和敏菲利亚谈谈。"
 4,"TEXT_GAIUSE209_01353_SEQ_04","夕雾向敏菲利亚传达了感谢之情。然而，敏菲利亚却因为联系不上巴尔德西昂委员会，而感到担心。"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSE209_01353_SEQ_21",""
 22,"TEXT_GAIUSE209_01353_SEQ_22",""
 23,"TEXT_GAIUSE209_01353_SEQ_23",""
-24,"TEXT_GAIUSE209_01353_TODO_00","和丧灵钟的斯拉佛伯恩对话"
-25,"TEXT_GAIUSE209_01353_TODO_01","和丧灵钟的夕雾对话"
-26,"TEXT_GAIUSE209_01353_TODO_02","和石之家的敏菲利亚对话"
+24,"TEXT_GAIUSE209_01353_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往流沙屋找阿尔菲诺重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE209_01353_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往流沙屋找阿尔菲诺重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE209_01353_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往流沙屋找阿尔菲诺重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSE209_01353_TODO_03",""
 28,"TEXT_GAIUSE209_01353_TODO_04",""
 29,"TEXT_GAIUSE209_01353_TODO_05",""

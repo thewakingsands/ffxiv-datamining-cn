@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE103_01177_SEQ_00","圣阿达玛·兰达玛教会的伊琉德，有事情想要告诉冒险者。"
-1,"TEXT_GAIUSE103_01177_SEQ_01","有人在太阳海岸目击到了疑似芙·拉敏的舞女。和太阳海岸的地主格格鲁玖谈谈。"
+1,"TEXT_GAIUSE103_01177_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沙之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE103_01177_SEQ_02","芙·拉敏已经辞去了在格格鲁玖这里的工作。前往位于太阳海岸西边的葡萄酒港，向当地居民打听一下情况。"
 3,"TEXT_GAIUSE103_01177_SEQ_03","打听到了情报，据说有一个猫魅族的舞女来过葡萄酒港。和夏马尼·洛马尼对话，获取更多情报。"
 4,"TEXT_GAIUSE103_01177_SEQ_04","疑似芙·拉敏的女性，去采摘某种鲜花了。前往葡萄酒港以南，寻找芙·拉敏。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE103_01177_SEQ_21","空"
 22,"TEXT_GAIUSE103_01177_SEQ_22","空"
 23,"TEXT_GAIUSE103_01177_SEQ_23","空"
-24,"TEXT_GAIUSE103_01177_TODO_00","和太阳海岸的格格鲁玖对话"
-25,"TEXT_GAIUSE103_01177_TODO_01","在葡萄酒港收集情报"
-26,"TEXT_GAIUSE103_01177_TODO_02","和葡萄酒港的夏马尼·洛马尼对话"
-27,"TEXT_GAIUSE103_01177_TODO_03","寻找芙·拉敏"
-28,"TEXT_GAIUSE103_01177_TODO_04","和芙·拉敏对话"
-29,"TEXT_GAIUSE103_01177_TODO_05","和葡萄酒港的阿尔菲诺对话"
+24,"TEXT_GAIUSE103_01177_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE103_01177_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE103_01177_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE103_01177_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE103_01177_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE103_01177_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找敏菲利亚重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE103_01177_TODO_06","空"
 31,"TEXT_GAIUSE103_01177_TODO_07","空"
 32,"TEXT_GAIUSE103_01177_TODO_08","空"

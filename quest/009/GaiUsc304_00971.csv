@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC304_00971_SEQ_00","妖精暂留地的科姆希奥，想要为冒险者提供情报。"
-1,"TEXT_GAIUSC304_00971_SEQ_01","从科姆希奥口中听说了魔石精前去的地点。前往百灵啼，救助离群的魔石精。"
+1,"TEXT_GAIUSC304_00971_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往小麦酒港找西艾娜重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC304_00971_SEQ_02","提吉前往了妖精暂留地。与妖精暂留地的科姆希奥交谈。"
 3,"TEXT_GAIUSC304_00971_SEQ_03","获得了坏蛋大胃王魔石精格吉的情报。前往十二神大圣堂，与梅尔温交谈。"
 4,"TEXT_GAIUSC304_00971_SEQ_04","将事情的缘由告诉了梅尔温。冒险者所寻找的石头似乎很珍贵……"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSC304_00971_SEQ_21","无"
 22,"TEXT_GAIUSC304_00971_SEQ_22","无"
 23,"TEXT_GAIUSC304_00971_SEQ_23","无"
-24,"TEXT_GAIUSC304_00971_TODO_00","解救离群的魔石精"
-25,"TEXT_GAIUSC304_00971_TODO_01","和科姆希奥对话"
-26,"TEXT_GAIUSC304_00971_TODO_02","和梅尔温对话"
+24,"TEXT_GAIUSC304_00971_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC304_00971_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC304_00971_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往小麦酒港找西艾娜重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSC304_00971_TODO_03","无"
 28,"TEXT_GAIUSC304_00971_TODO_04","无"
 29,"TEXT_GAIUSC304_00971_TODO_05","无"

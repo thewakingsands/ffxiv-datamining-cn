@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA301_00733_SEQ_00","巴斯卡隆酒家的巴斯卡隆，想委托冒险者替他跑一趟。"
-1,"TEXT_GAIUSA301_00733_SEQ_01","曾在酒家工作的特特卢恩遗落了东西。为了找到特特卢恩的去向，去问问利姆萨·罗敏萨国际商贩路的贝恩兴。"
+1,"TEXT_GAIUSA301_00733_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往巴斯卡隆酒家找巴斯卡隆重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSA301_00733_SEQ_02","括括卢恩似乎知道特特卢恩的去向。将其最喜欢的<Sheet(Item,　4772,0)/>交给他，再向他询问详情。"
 3,"TEXT_GAIUSA301_00733_SEQ_03","终于知道特特卢恩的去向了。和利姆萨·罗敏萨码头的维恩伯格谈谈，向他请教前往拉诺西亚高地的方法。"
 4,"TEXT_GAIUSA301_00733_SEQ_04","和维恩伯格进行了交谈，得知了前往拉诺西亚高地的方法。和小麦酒港的阿尔德福特谈谈，向他请教前往特特卢恩所在地的详细方法。"
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSA301_00733_SEQ_21","无"
 22,"TEXT_GAIUSA301_00733_SEQ_22","无"
 23,"TEXT_GAIUSA301_00733_SEQ_23","无"
-24,"TEXT_GAIUSA301_00733_TODO_00","和西国际商贩路的贝恩兴对话"
-25,"TEXT_GAIUSA301_00733_TODO_01","将<Sheet(Item,　4772,0)/>交给括括卢恩"
-26,"TEXT_GAIUSA301_00733_TODO_02","和利姆萨·罗敏萨码头的维恩伯格对话"
-27,"TEXT_GAIUSA301_00733_TODO_03","和小麦酒港的阿尔德福特对话"
-28,"TEXT_GAIUSA301_00733_TODO_04","将<Sheet(EventItem,2000587,0)/>交给梅梅卢恩交易站的特特卢恩"
+24,"TEXT_GAIUSA301_00733_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巴斯卡隆酒家找巴斯卡隆重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA301_00733_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巴斯卡隆酒家找巴斯卡隆重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSA301_00733_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巴斯卡隆酒家找巴斯卡隆重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSA301_00733_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巴斯卡隆酒家找巴斯卡隆重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSA301_00733_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往巴斯卡隆酒家找巴斯卡隆重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSA301_00733_TODO_05","无"
 30,"TEXT_GAIUSA301_00733_TODO_06","无"
 31,"TEXT_GAIUSA301_00733_TODO_07","无"

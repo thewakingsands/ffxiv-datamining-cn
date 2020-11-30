@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBWIL062_00305_SEQ_00","金库灵柩亭的罗杰，想要将消灭灵蚁工蚁的工作介绍给冒险者。"
-1,"TEXT_SUBWIL062_00305_SEQ_01","在黑尘驿站的周边，凶暴的灵蚁工蚁造成的危害越来越大。讨伐5只灵蚁工蚁，并获取灵蚁的大颚作为凭证。"
+1,"TEXT_SUBWIL062_00305_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往金库灵柩亭找罗杰重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBWIL062_00305_SEQ_02","成功得到5个灵蚁的大颚。向黑尘驿站的瓦林报告。"
 3,"TEXT_SUBWIL062_00305_SEQ_03","打倒灵蚁工蚁后，前去拜访了瓦林。虽然最开始他并不相信，但在确认了冒险者的实力后，决定要将新的工作委托给冒险者。"
 4,"TEXT_SUBWIL062_00305_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_SUBWIL062_00305_SEQ_21",""
 22,"TEXT_SUBWIL062_00305_SEQ_22",""
 23,"TEXT_SUBWIL062_00305_SEQ_23",""
-24,"TEXT_SUBWIL062_00305_TODO_00","从灵蚁工蚁身上得到大颚"
-25,"TEXT_SUBWIL062_00305_TODO_01","将灵蚁的大颚交给瓦林"
+24,"TEXT_SUBWIL062_00305_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往金库灵柩亭找罗杰重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBWIL062_00305_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往金库灵柩亭找罗杰重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBWIL062_00305_TODO_02",""
 27,"TEXT_SUBWIL062_00305_TODO_03",""
 28,"TEXT_SUBWIL062_00305_TODO_04",""

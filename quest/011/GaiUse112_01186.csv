@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE112_01186_SEQ_00","丧灵钟的斯拉佛伯恩，有事情想要告诉冒险者。"
-1,"TEXT_GAIUSE112_01186_SEQ_01","接受了斯拉佛伯恩的委托，去确认沙之家迁移计划的进展情况。和沙之家的阿尔菲诺谈谈。"
+1,"TEXT_GAIUSE112_01186_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找斯拉佛伯恩重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSE112_01186_SEQ_02","接受了阿尔菲诺的委托，为迁移出力。搜查沙之家，寻找4个<Sheet(EObj,2002850,0)/>。"
 3,"TEXT_GAIUSE112_01186_SEQ_03","在沙之家找到了4个<Sheet(EObj,2002850,0)/>。将<Sheet(EventItem,2001080,0)/>交给沙之家的塔塔露。"
 4,"TEXT_GAIUSE112_01186_SEQ_04","顺利将<Sheet(EventItem,2001080,0)/>交给了塔塔露。行李已经整理好了，但塔塔露好像还有事情要委托冒险者去做……"
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSE112_01186_SEQ_21",""
 22,"TEXT_GAIUSE112_01186_SEQ_22",""
 23,"TEXT_GAIUSE112_01186_SEQ_23",""
-24,"TEXT_GAIUSE112_01186_TODO_00","和沙之家的阿尔菲诺对话"
-25,"TEXT_GAIUSE112_01186_TODO_01","捡起<Sheet(EObj,2002850,0)/>"
-26,"TEXT_GAIUSE112_01186_TODO_02","将<Sheet(EventItem,2001080,0)/>交给沙之家的塔塔露"
+24,"TEXT_GAIUSE112_01186_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE112_01186_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE112_01186_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找斯拉佛伯恩重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSE112_01186_TODO_03",""
 28,"TEXT_GAIUSE112_01186_TODO_04",""
 29,"TEXT_GAIUSE112_01186_TODO_05",""

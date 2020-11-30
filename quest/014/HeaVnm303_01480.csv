@@ -6,11 +6,7 @@ int32,str,str
 
 ※可以通过任务搜索器参加。"
 2,"TEXT_HEAVNM303_01480_SEQ_02","从在影之国遭遇的飞行生物身上取得了一些残骸。将残骸交给在田园郡等待的斯利普斯利克斯。"
-3,"TEXT_HEAVNM303_01480_SEQ_03","原来在影之国遭遇的飞行生物是古代亚拉戈帝国制造的对蛮神兵器。斯利普斯利克斯认为是对蛮神兵器将在影之国徘徊的大群妖异错当成了蛮神，所以才出现在了影之国附近。可以将作为报酬得到的<Sheet(Item,17521,0)/>交给斯利姆西克斯，请他帮忙打造装备。
-
-※本任务可重复进行。本任务每周最多可完成1次。完成后，该周无法再次接受。如接受任务后拖延到下周完成，则会消耗掉完成周的任务受理限额。
-
-※每周<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）之后可以再次进行挑战。请在重置前耐心等待。"
+3,"TEXT_HEAVNM303_01480_SEQ_03","原来在影之国遭遇的飞行生物是古代亚拉戈帝国制造的对蛮神兵器。斯利普斯利克斯认为是对蛮神兵器将在影之国徘徊的大群妖异错当成了蛮神，所以才出现在了影之国附近。可以将作为报酬得到的<Sheet(Item,17521,0)/>交给斯利姆西克斯，请他帮忙打造装备。"
 4,"TEXT_HEAVNM303_01480_SEQ_04",""
 5,"TEXT_HEAVNM303_01480_SEQ_05",""
 6,"TEXT_HEAVNM303_01480_SEQ_06",""

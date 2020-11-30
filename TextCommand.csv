@@ -190,7 +190,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 25,1,0,0,0,0,"/newgame+","/ng+","/昔日重现模式
 /newgame+、/ng+
 打开昔日重现模式窗口。","/昔日重现模式","",32,0
-26,2,1,2,0,0,"/dice","","/掷骰 聊天频道
+26,2,1,2,0,0,"/dice","","/掷骰 聊天频道 上限值
 /dice
 从0～999中随机抽取一个数字发送到当前或指定聊天频道。
 >>可指定频道：
@@ -203,11 +203,17 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 省略输入指定频道时，会在当前频道发言。
 ※设成宏使用时必须指定聊天频道。
 
+>>上限值（2～999）
+在随机抽选数字时指定上限值。指定上限值后，数字将从（1～上限值）的范围内抽选。省略上限值时则从（0～999）的范围内进行抽选。
 >>示例
 /掷骰
 在当前聊天频道发送随机掷骰数字。
+/掷骰 16
+在当前聊天频道发送从1～16范围内的随机掷骰数字。
 /掷骰 跨服贝1
-在跨服通讯贝1发送随机掷骰数字。","/掷骰","",36,1000
+在跨服通讯贝1发送随机掷骰数字。
+/掷骰 跨服贝1 16
+在跨服通讯贝1～16中发送随机掷骰数字。","/掷骰","",36,1000
 28,3,1,2,0,0,"/nameplatedisp","","/名牌显示 对象 设置代号/nameplatedisp
 进行玩家名牌显示设置。
 >>对象
@@ -235,6 +241,19 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 >>示例
 /名牌显示 全部 4
 将所有玩家的名牌显示设置改为不显示。","/名牌显示","",36,0
+29,2,1,20,0,0,"/fashion","","/时尚配饰 时尚配饰名
+/fashion
+使用指定的时尚配饰。
+
+>>示例
+/时尚配饰 阳伞
+使用时尚配饰“阳伞”。","/时尚配饰","",36,0
+30,1,0,0,0,0,"/fashionguide","","/时尚配饰一览
+/fashionlist、/fashionguide
+打开时尚配饰菜单。","/时尚配饰一览","/fashionlist",32,0
+31,1,0,0,0,0,"/officialsite","/site","/官方网站
+/officialsite、/site
+打开官方网站菜单。","/官方网站","",32,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -556,9 +575,18 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 173,1,0,0,0,0,"/shutdown","","/关闭游戏
 /shutdown
 退出并结束游戏。","/关闭游戏","",32,0
-174,1,0,0,0,0,"/partysort","/psort","/小队排序
+174,3,0,0,0,0,"/partysort","/psort","/小队排序 子命令
 /partysort、/psort
-将小队列表按一定顺序排列。","/小队排序","",36,0
+将小队列表按指定顺序排列。
+>>子命令
+数字1 数字2
+将小队列表中的小队成员按指定的数字（2-8）交换排列位置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+按角色设置＞界面设置＞小队列表＞队员排序设置中设定的顺序进行排列。
+
+>>示例
+/小队排序 2 3
+将小队列表中的2号队员与3号队员交换排列位置。","/小队排序","",36,0
 175,1,0,0,0,0,"/readycheck","/rcheck","/准备确认
 /readycheck、/rcheck
 发起准备确认。","/准备确认","",32,0
@@ -760,10 +788,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　撤除指定对象范围内设置的排列条件，该状态下由于排列条件已经撤除，通过命令进行排列时不会有任何效果。
 
 >>对象指定
-物品(Inventory) 雇员物品(Retainer) 兵装库(ArmouryChest) 主手(main) 副手(sub) 头部(head) 身体(body) 手臂(hands) 腰带(waist) 腿部(legs) 脚部(feet) 颈部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 灵魂水晶(soul)
+物品(Inventory) 雇员物品(Retainer) 兵装库(ArmouryChest) 陆行鸟鞍囊（saddlebag） 主手(main) 副手(sub) 头部(head) 身体(body) 手臂(hands) 腰带(waist) 腿部(legs) 脚部(feet) 颈部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 灵魂水晶(soul)
 
 >>条件指定
 道具编号(id) 精炼度(spiritbond) 道具种类(category) 装备等级(level) 物品品级(itemlevel) 打包数量(stack) 优质道具(hq) 魔晶石数(materia) 物理基本性能(physicaldamage) 魔法基本性能(magicdamage) 攻击间隔(delay) 物理自动攻击(physicalautoattack) 格挡发动力(blockrate) 格挡性能(blockstrength) 物理防御力(defense) 魔法防御力(magicdefense) 力量(str) 灵巧(dex) 耐力(vit) 智力(int) 精神(mnd) 作业精度(craftsmanship) 加工精度(control) 获得力(gathering) 鉴别力(perception) 分栏(tab)
+※分栏(tab)会按照每个收纳分栏进行指定分配。
 
 >>顺序指定
 升序(asc) 降序(des)
@@ -775,9 +804,16 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /道具整理 条件 主手 物品品级 降序
 /道具整理 实行 主手
 将兵装库内主手栏下的排列条件设为精炼度升序及道具品级降序，并开始进行整理。","/道具整理","/整理",36,0
-211,2,1,2,0,0,"/random","","/随机数
+211,2,1,2,0,0,"/random","","/随机数 上限值
 /random
-在0～999的数字中随机抽选出一个并显示在消息窗口中。在说话范围内的玩家都能够看到结果。","/随机数","",36,0
+在0～999的数字中随机抽选出一个并显示在消息窗口中。在说话范围内的玩家都能够看到结果。
+>>上限值（2～999）
+在随机抽选数字时指定上限值。指定上限值后，数字将从（1～上限值）的范围内抽选。省略上限值时则从（0～999）的范围内进行抽选。
+>>示例
+/随机数
+发送0～999范围内的随机掷骰数字。
+/随机数 16
+发送从1～16范围内的随机掷骰数字。","/随机数","",36,0
 212,1,0,0,0,0,"/instance","","/副本区检查
 /instance
 检查当前所在地区是否为副本区域，并在消息窗口中显示结果。","/副本区检查","/副本区",60,0
@@ -1403,7 +1439,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 特殊热键栏(HotbarEx)
 十字热键栏(Crosshotbar)
 主线向导(ScenarioGuide)
+高压以太(CompressedAether)
 纷争前线：战意槽(Frontline:BattleGauge)
+烈羽争锋：车站情报(RivalWings:Station)
 烈羽争锋：团队列表(RivalWings:Alliance)
 烈羽争锋：哥布林佣兵情报(RivalWings:Mercenary)
 群狼盛宴：我方情报(TheFeast:AllyInfo)
@@ -1463,6 +1501,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　设置指定编号的热键栏在当前职业专用和全职业共通之间切换。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　解除编号1热键栏编号2位置上的技能或用户宏指令。编号2设置为“全部(all)”的时候会将该热键栏上的所有指令都解除。
+
 >>示例
 /热键栏 设置 随机坐骑 1 1
 将“随机坐骑”放入热键栏1的位置1中。
@@ -1619,6 +1658,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　设置指定编号的热键栏在当前专用和全职业共通之间切换。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号1 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　解除编号1热键栏编号2位置上的技能或用户宏指令。编号2设置为“全部(all)”的时候会将该热键栏上的所有指令都解除。
+
 >>示例
 /对战热键栏 技能 净化 1 1
 将“净化”放入热键栏1的位置1中。
@@ -3244,3 +3284,43 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/坚持主张","",293,0
+610,2,1,2,0,0,"/consider","/hmm","/疑问 子命令
+/consider、/hmm
+抱有疑问。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/疑问","",293,0
+611,2,1,2,0,0,"/wasshoi","","/嘿哟 子命令
+/wasshoi
+嘿哟！嘿哟！
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/嘿哟","",293,0
+613,2,1,2,0,0,"/flamedance","","/火焰之舞 子命令
+/flamedance
+跳起火焰之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/火焰之舞","",293,0
+617,2,1,2,0,0,"/beesknees","","/蜜蜂之舞 子命令
+/beesknees 
+跳起蜜蜂之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/蜜蜂之舞","",293,0
+618,2,1,2,0,0,"/lalihop","","/啦哩吼舞 子命令
+/lalihop 
+跳起啦哩吼舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/啦哩吼舞","",293,0

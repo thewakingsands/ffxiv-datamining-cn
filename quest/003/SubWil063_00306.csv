@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBWIL063_00306_SEQ_00","黑尘驿站的铁灯团员瓦林，在委托冒险者工作前，想要确认一下冒险者的装备。"
-1,"TEXT_SUBWIL063_00306_SEQ_01","黑尘驿站的铁灯团员瓦林，希望冒险者能备齐一身足以胜任工作的装备。在头部、身体、手臂、腿部、脚部装备上品级5级以上的防具后，让瓦林查看。"
+1,"TEXT_SUBWIL063_00306_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往金库灵柩亭找罗杰重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_SUBWIL063_00306_SEQ_02","最近很多人因为穿戴着低劣的装备接受工作，而惨遭失败。看到了装备得万无一失的冒险者，瓦林感觉可以放心地将工作委托出去了。"
 3,"TEXT_SUBWIL063_00306_SEQ_03",""
 4,"TEXT_SUBWIL063_00306_SEQ_04",""
@@ -25,7 +27,8 @@ int32,str,str
 21,"TEXT_SUBWIL063_00306_SEQ_21",""
 22,"TEXT_SUBWIL063_00306_SEQ_22",""
 23,"TEXT_SUBWIL063_00306_SEQ_23",""
-24,"TEXT_SUBWIL063_00306_TODO_00","让瓦林查看装备"
+24,"TEXT_SUBWIL063_00306_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往金库灵柩亭找罗杰重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_SUBWIL063_00306_TODO_01",""
 26,"TEXT_SUBWIL063_00306_TODO_02",""
 27,"TEXT_SUBWIL063_00306_TODO_03",""

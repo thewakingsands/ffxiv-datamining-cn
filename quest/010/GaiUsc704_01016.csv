@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC704_01016_SEQ_00","拂晓血盟的阿雷恩瓦尔德想要寻求乌氏的协助。"
-1,"TEXT_GAIUSC704_01016_SEQ_01","为了牵制住蛮族，需要尽可能多的协助。前往遗忘绿洲，向族长乌·欧德·努恩请求援助。"
+1,"TEXT_GAIUSC704_01016_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沙之家找维格斯坦重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 2,"TEXT_GAIUSC704_01016_SEQ_02","和乌·欧德·努恩进行了交谈。他本人虽然很想帮助冒险者，但是还要看乌氏全体的意向。"
 3,"TEXT_GAIUSC704_01016_SEQ_03",""
 4,"TEXT_GAIUSC704_01016_SEQ_04",""
@@ -25,7 +25,8 @@ int32,str,str
 21,"TEXT_GAIUSC704_01016_SEQ_21",""
 22,"TEXT_GAIUSC704_01016_SEQ_22",""
 23,"TEXT_GAIUSC704_01016_SEQ_23",""
-24,"TEXT_GAIUSC704_01016_TODO_00","和遗忘绿洲的乌·欧德·努恩对话"
+24,"TEXT_GAIUSC704_01016_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往沙之家找维格斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSC704_01016_TODO_01",""
 26,"TEXT_GAIUSC704_01016_TODO_02",""
 27,"TEXT_GAIUSC704_01016_TODO_03",""

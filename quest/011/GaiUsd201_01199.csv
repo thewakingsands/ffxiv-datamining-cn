@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSD201_01199_SEQ_00","丧灵钟的异国装扮的男人想要给冒险者介绍工作。"
-1,"TEXT_GAIUSD201_01199_SEQ_01","异国装扮的男人给冒险者介绍了工作，据说能籍此得到古代文明的遗产。向圣寇伊纳克调查地的拉姆布鲁斯询问详情。"
+1,"TEXT_GAIUSD201_01199_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往丧灵钟找异国装扮的男人重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 2,"TEXT_GAIUSD201_01199_SEQ_02","圣寇伊纳克财团在和西德一起调查古代亚拉戈文明。为了参加对古代遗产水晶塔的调查计划，再和拉姆布鲁斯谈谈。"
 3,"TEXT_GAIUSD201_01199_SEQ_03","要到达水晶塔的入口，必须突破利用了4种属性的防御系统。为了反射来自防御系统的攻击，需要采集超高纯度水晶。前往拉诺西亚外地的武伽玛罗武装矿山，完成危命任务“土神的召唤者——第5高级教士泽埠”，通过获得贡献度，获取<Sheet(EventItem,2001093,0)/>；前往西拉诺西亚的萨普沙产卵地，完成危命任务“水神的召唤者——水魔鬼涯尔”，通过获得贡献度，获取<Sheet(EventItem,2001094,0)/>。"
 4,"TEXT_GAIUSD201_01199_SEQ_04","分别从地灵族和鱼人族的据点获得了超高纯度水晶。返回圣寇伊纳克调查地，将<Sheet(EventItem,2001093,0)/>和<Sheet(EventItem,2001094,0)/>交给拉姆布鲁斯。"
@@ -37,7 +37,8 @@ int32,str,str
 29,"TEXT_GAIUSD201_01199_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
 前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSD201_01199_TODO_06","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>重新领取任务后可不参加危命任务直接推进剧情<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-31,"TEXT_GAIUSD201_01199_TODO_07","将超高纯度水晶交给圣寇伊纳克调查地的拉姆布鲁斯"
+31,"TEXT_GAIUSD201_01199_TODO_07","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往丧灵钟找异国装扮的男人重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 32,"TEXT_GAIUSD201_01199_TODO_08","空栏"
 33,"TEXT_GAIUSD201_01199_TODO_09","空栏"
 34,"TEXT_GAIUSD201_01199_TODO_10","空栏"

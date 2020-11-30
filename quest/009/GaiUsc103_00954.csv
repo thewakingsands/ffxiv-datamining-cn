@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC103_00954_SEQ_00","枯骨营地的以太学者朗贝尔坦，对冒险者的问题有着浓厚的兴趣。"
-1,"TEXT_GAIUSC103_00954_SEQ_01","要想拿到偏属性水晶就需要先得到特殊的壶。请黄金集市慷慨的商人将壶转让过来。"
+1,"TEXT_GAIUSC103_00954_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往枯骨营地找朗贝尔坦重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC103_00954_SEQ_02","获得了<Sheet(EventItem,2000740,0)/>。将其交给枯骨营地的朗贝尔坦。"
 3,"TEXT_GAIUSC103_00954_SEQ_03","将<Sheet(EventItem,2000740,0)/>交给了朗贝尔坦。这样就真的能获得偏属性水晶了么……"
 4,"TEXT_GAIUSC103_00954_SEQ_04","无"
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_GAIUSC103_00954_SEQ_21","无"
 22,"TEXT_GAIUSC103_00954_SEQ_22","无"
 23,"TEXT_GAIUSC103_00954_SEQ_23","无"
-24,"TEXT_GAIUSC103_00954_TODO_00","和黄金集市的商人对话"
-25,"TEXT_GAIUSC103_00954_TODO_01","将<Sheet(EventItem,2000740,0)/>交给朗贝尔坦"
+24,"TEXT_GAIUSC103_00954_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往枯骨营地找朗贝尔坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC103_00954_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往枯骨营地找朗贝尔坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSC103_00954_TODO_02","无"
 27,"TEXT_GAIUSC103_00954_TODO_03","无"
 28,"TEXT_GAIUSC103_00954_TODO_04","无"

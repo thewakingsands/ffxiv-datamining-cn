@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC904_01039_SEQ_00","蓝雾营地的克拉克德·菲斯特，希望冒险者能去为士兵们打气……"
-1,"TEXT_GAIUSC904_01039_SEQ_01","为士兵打气，给他们准备美味菜肴。打倒<Sheet(BNpcName,304,0)/>，获取3个<Sheet(EventItem,2000785,0)/>。"
+1,"TEXT_GAIUSC904_01039_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往蓝雾营地找克拉克德·菲斯特重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC904_01039_SEQ_02","获得了菜肴的材料。将<Sheet(EventItem,2000785,0)/>放入<Sheet(EObj,2002256,0)/>，进行烹调。"
 3,"TEXT_GAIUSC904_01039_SEQ_03","菜肴要等一阵才能做好。在<Sheet(EObj,2002256,0)/>旁稍等片刻。"
 4,"TEXT_GAIUSC904_01039_SEQ_04","菜肴出锅了。从<Sheet(EObj,2002256,0)/>里拿出<Sheet(EventItem,2000786,0)/>。"
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSC904_01039_SEQ_21",""
 22,"TEXT_GAIUSC904_01039_SEQ_22",""
 23,"TEXT_GAIUSC904_01039_SEQ_23",""
-24,"TEXT_GAIUSC904_01039_TODO_00","从<Sheet(BNpcName,304,0)/>身上得到<Sheet(EventItem,2000785,0)/>"
-25,"TEXT_GAIUSC904_01039_TODO_01","将<Sheet(EventItem,2000785,0)/>放入<Sheet(EObj,2002256,0)/>"
-26,"TEXT_GAIUSC904_01039_TODO_02","煮熟<Sheet(EventItem,2000785,0)/>"
-27,"TEXT_GAIUSC904_01039_TODO_03","从<Sheet(EObj,2002256,0)/>里得到<Sheet(EventItem,2000786,0)/>"
-28,"TEXT_GAIUSC904_01039_TODO_04","将<Sheet(EventItem,2000786,0)/>分给士兵"
-29,"TEXT_GAIUSC904_01039_TODO_05","向克拉克德·菲斯特报告"
+24,"TEXT_GAIUSC904_01039_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC904_01039_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC904_01039_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC904_01039_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC904_01039_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSC904_01039_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往蓝雾营地找克拉克德·菲斯特重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSC904_01039_TODO_06",""
 31,"TEXT_GAIUSC904_01039_TODO_07",""
 32,"TEXT_GAIUSC904_01039_TODO_08",""

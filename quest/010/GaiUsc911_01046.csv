@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC911_01046_SEQ_00","青磷精炼所的艾德尔斯坦，有件事想要委托给冒险者。"
-1,"TEXT_GAIUSC911_01046_SEQ_01","由于受到帝国兵的阻挠，士兵们的集合时间被推迟了。为了能使作战顺利进行，打倒3名<Sheet(BNpcName,269,0)/>，并打倒帝国军<Sheet(BNpcName,61,0)/>、<Sheet(BNpcName,60,0)/>、<Sheet(BNpcName,59,0)/>、<Sheet(BNpcName,53,0)/>或<Sheet(BNpcName,58,0)/>中的任意3名。"
+1,"TEXT_GAIUSC911_01046_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往青磷精炼所找艾德尔斯坦重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※接下来的主线任务可以在主线向导中进行确认。在快捷指令的系统中可以找到角色设置，打开角色设置后，在界面设置的界面项中可以显示或隐藏主线向导。"
 2,"TEXT_GAIUSC911_01046_SEQ_02","打倒了阻碍作战的敌人。向帝国南方堡前面的劳班报告。"
 3,"TEXT_GAIUSC911_01046_SEQ_03","向劳班报告完毕。终于要打响帝国南方堡之战的第一枪了。艾欧泽亚和加雷马帝国……历史究竟会选择哪一方？"
 4,"TEXT_GAIUSC911_01046_SEQ_04",""
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSC911_01046_SEQ_21",""
 22,"TEXT_GAIUSC911_01046_SEQ_22",""
 23,"TEXT_GAIUSC911_01046_SEQ_23",""
-24,"TEXT_GAIUSC911_01046_TODO_00","讨伐帝国兵"
-25,"TEXT_GAIUSC911_01046_TODO_01","讨伐<Sheet(BNpcName,269,0)/>"
-26,"TEXT_GAIUSC911_01046_TODO_02","向南方堡的劳班报告"
+24,"TEXT_GAIUSC911_01046_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往青磷精炼所找艾德尔斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC911_01046_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往青磷精炼所找艾德尔斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC911_01046_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整 建议放弃本任务
+前往青磷精炼所找艾德尔斯坦重新领取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSC911_01046_TODO_03",""
 28,"TEXT_GAIUSC911_01046_TODO_04",""
 29,"TEXT_GAIUSC911_01046_TODO_05",""
