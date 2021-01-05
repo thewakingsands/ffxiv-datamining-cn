@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001","现在正在举办九宫幻卡大赛——<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>！
-压轴奖品是<Sheet(Item,IntegerParameter(1),0)/>哟！"
+特等奖是<Sheet(Item,IntegerParameter(1),0)/>哟！"
 1,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002","我是九宫幻卡大赛的接待员。
 客人您好像还不了解对局的规则吧？"
 2,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_003","在参加大赛前，请先去找那边的幻卡大师。
@@ -99,7 +99,7 @@ int32,str,str
 61,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_002","听取大赛说明"
 62,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_003","取消"
 63,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_210_001","即将举办的赛事是——<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>！
-优胜奖品是<Sheet(Item,IntegerParameter(1),0)/>！
+特等奖是<Sheet(Item,IntegerParameter(1),0)/>！
 请您努力磨练技巧做好参赛准备吧！"
 64,"TEXT_CMNGSCTRIPLETRIADCUP_00247_SYSTEM_210_002","下次<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>的开赛时间为：
 <Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>年<Value>TopLevelParameter(221)</Value>月<Value>TopLevelParameter(219)</Value>日（星期<Switch(TopLevelParameter(220))><Case(1)>日</Case><Case(2)>一</Case><Case(3)>二</Case><Case(4)>三</Case><Case(5)>四</Case><Case(6)>五</Case><Case(7)>六</Case></Switch>） <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）

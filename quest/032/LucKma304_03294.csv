@@ -51,9 +51,9 @@ int32,str,str
 47,"TEXT_LUCKMA304_03294_TODO_23",""
 48,"TEXT_LUCKMA304_03294_CASSARD_000_000","祝你能顺利和同伴汇合！
 等你要回去的时候咱们再见！"
-49,"TEXT_LUCKMA304_03294_TESLEEN_000_010","好啦，既然决定了，
-那我们就快点走吧<Highlight>ObjectParameter(1)</Highlight>！
-我也想快点让你们两个见面！"
+49,"TEXT_LUCKMA304_03294_TESLEEN_000_010","好啦，既然这么决定了，
+我们就快点走吧，<Highlight>ObjectParameter(1)</Highlight>！
+我也想让你们两个早些见面！"
 50,"TEXT_LUCKMA304_03294_TESLEEN_000_011","我们住的上路客店在鼹灵集市的南边。"
 51,"TEXT_LUCKMA304_03294_TESLEEN_000_012","准备好出发之后就在门外集合！
 我也会带上行李过去的！"
@@ -68,7 +68,7 @@ int32,str,str
 55,"TEXT_LUCKMA304_03294_TESLEEN_000_023","所以要是郊狼出现的话，
 能帮我赶走它们吗？"
 56,"TEXT_LUCKMA304_03294_TESLEEN_000_024","太好了，不愧是阿莉塞崇拜的……哎呀，
-什么都没有没有没有，走吧！"
+没事没事，走吧！"
 57,"TEXT_LUCKMA304_03294_TESLEEN_000_025","来了！"
 58,"TEXT_LUCKMA304_03294_TESLEEN_000_030","不好意思，刚说完就出来了……
 没事吧？没受伤吧？"
@@ -85,7 +85,7 @@ int32,str,str
 63,"TEXT_LUCKMA304_03294_TESLEEN_000_040","啊，太好了你没事！
 郊狼的叫声都传到这里来了，
 我还有点害怕……"
-64,"TEXT_LUCKMA304_03294_TESLEEN_000_041","谢谢你帮忙确保安全！
+64,"TEXT_LUCKMA304_03294_TESLEEN_000_041","谢谢你帮忙护送！
 这样我就可以专心搬东西了！"
 65,"TEXT_LUCKMA304_03294_TESLEEN_000_050","嗯，我们到啦！
 有<Highlight>ObjectParameter(1)</Highlight>你在，行李也安全抵达了！

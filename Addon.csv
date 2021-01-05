@@ -5438,10 +5438,10 @@ A：Assist，协助他人打倒敌人的次数"
 5842,"确定要领取奖励吗？
 下列宠物已学会：
 <If(GreaterThan(IntegerParameter(1),0))>
-　·<Sheet(ActStr,IntegerParameter(1),0)/><Else/></If><If(GreaterThan(IntegerParameter(2),0))>
-　·<Sheet(ActStr,IntegerParameter(2),0)/><Else/></If><If(GreaterThan(IntegerParameter(3),0))>
-　·<Sheet(ActStr,IntegerParameter(3),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
-　·<Sheet(ActStr,IntegerParameter(4),0)/><Else/></If>"
+　・<Sheet(Companion,IntegerParameter(1),0)/><Else/></If><If(GreaterThan(IntegerParameter(2),0))>
+　・<Sheet(Companion,IntegerParameter(2),0)/><Else/></If><If(GreaterThan(IntegerParameter(3),0))>
+　・<Sheet(Companion,IntegerParameter(3),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
+　・<Sheet(Companion,IntegerParameter(4),0)/><Else/></If>"
 5860,"持有数量"
 5861,"持有数量：<Value>IntegerParameter(1)</Value>"
 5862,"继续分解"
@@ -11790,7 +11790,7 @@ A：Assist，协助他人打倒敌人的次数"
 12770,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 12771,"库啵好运票的持有数量已达上限，无法获得新的库啵好运章。"
 12772,"排名统计期"
-12773,"<If(Equal(IntegerParameter(1),0))><Else/>至<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
+12773,"<If(Equal(IntegerParameter(1),0))><Else/><Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
 12774,"※不在原始服务器，无法获得技巧点。"
 12775,"排名技巧点"
 12776,"累计技巧点"
@@ -12229,7 +12229,7 @@ A：Assist，协助他人打倒敌人的次数"
 13235,"<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value><Else/>---</If>"
 13236,"排名"
 13237,"https://actff1.web.sdo.com/Project/20200601ishgardianranking/index.html"
-13238,"<If(Equal(IntegerParameter(1),0))>非排名统计期<Else/>排名统计期　至<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
+13238,"<If(Equal(IntegerParameter(1),0))>非排名统计期<Else/>排名统计期　<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
 13239,"可在官方网站确认排名信息！
 <Highlight>StringParameter(1)</Highlight>"
 13240,"排名技巧点"
@@ -12379,7 +12379,7 @@ A：Assist，协助他人打倒敌人的次数"
 13474,"排名技巧点"
 13475,"累计技巧点"
 13476,"排名统计期"
-13477,"<If(Equal(IntegerParameter(1),0))><Else/>至<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
+13477,"<If(Equal(IntegerParameter(1),0))><Else/><Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>结束</If>"
 13478,"※不在原始服务器，无法获得排名技巧点。"
 13479,"排名技巧点"
 13480,"累计技巧点"
@@ -12426,7 +12426,7 @@ A：Assist，协助他人打倒敌人的次数"
 13550,"小图"
 13551,"偶尔会出现"
 13552,"中图"
-13553,"随机出现一种或两种"
+13553,"随机出现一种"
 13554,"大图"
 13555,"一定会出现"
 13556,"额外机会对象"

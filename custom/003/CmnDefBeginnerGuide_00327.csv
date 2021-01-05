@@ -146,7 +146,7 @@ int32,str,str
 71,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_142","成为其中任意一类指导者后，
 便可以加入专用的聊天频道“新人频道”，
 并享受相关经验值加成。"
-72,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_142","此外，只有“战斗指导者”能够使用”<Sheet(ContentRoulette,9,0)/>“。"
+72,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_100_142","此外，只有“战斗指导者”能够使用“<Sheet(ContentRoulette,9,0)/>”。"
 73,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_143","可以使用文本指令“<UIForeground>F20222</UIForeground>/加入新人频道 开<UIForeground>01</UIForeground>”和
 “<UIForeground>F20222</UIForeground>/加入新人频道 关<UIForeground>01</UIForeground>”来设定是否自动加入新人频道。"
 74,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_144","另外，也可以通过点击消息栏下方的小树苗图标，

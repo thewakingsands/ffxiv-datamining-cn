@@ -245,7 +245,7 @@ int32,str,str
 150,"TEXT_BANALL210_03161_JOLHMYN_000_172","用了这个42式手榴弹，
 就应该能弄醒梅·赛特了吧？
 反正我想他应该没装多少火药，这个威力正好能让他醒过来才对。"
-151,"TEXT_BANALL210_03161_JOLHMYN_100_172","不过为了以防万一，我还是站远点好。"
+151,"TEXT_BANALL210_03161_JOLHMYN_100_172","不过以防万一，我还是站远点好。"
 152,"TEXT_BANALL210_03161_JOLHMYN_000_175","总之先听他说说吧。
 <Highlight>ObjectParameter(1)</Highlight>，能把他弄醒吗？"
 153,"TEXT_BANALL210_03161_MZHETTIA_000_180","呜哇呀呀呀呀呀呀！！"

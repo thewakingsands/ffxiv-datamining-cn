@@ -33,7 +33,7 @@ int32,str,str
 14,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_530","太好了，我当然欢迎你来挑战。
 那咱们快点开始吧……"
 15,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_531","现在开始发给你3张牌。
-你的牌会被揭开1张，我的会被揭开2张。"
+你的牌会公开1张，我的会公开2张。"
 16,"TEXT_REGNOR4TISTABIE_00612_TISTABIE_000_532","来吧……
 你觉得你的手牌数值之和比我的手牌的高还是低？"
 17,"TEXT_REGNOR4TISTABIE_00612_Q2_000_533","比对方的手牌数值之和……"

@@ -66,7 +66,7 @@ int32,str,str
 53,"TEXT_CLSGLD050_00611_SERENDIPITY_000_7","我们雕金匠和采矿工可是生意上的合作伙伴，
 你可以去拜托他们帮你准备素材。"
 54,"TEXT_CLSGLD050_00611_SERENDIPITY_000_8","或者你可以去当采矿工，
-自己亲自准备材料。"
+自己准备材料。"
 55,"TEXT_CLSGLD050_00611_SERENDIPITY_000_9","那么请你制作3个<Sheet(Item,4305,0)/>吧。
 拜托你了！"
 56,"TEXT_CLSGLD050_00611_SERENDIPITY_000_10","啊，<Highlight>ObjectParameter(1)</Highlight>，怎么样了？
