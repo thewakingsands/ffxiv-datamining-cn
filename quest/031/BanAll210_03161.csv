@@ -88,9 +88,9 @@ int32,str,str
 你在这里干什么呢？"
 67,"TEXT_BANALL210_03161_ALPA_000_023","嘶——好久不见了，再次见到你真是太好了！
 难道说是你来给我们当向导吗？"
-68,"TEXT_BANALL210_03161_HANCOCK_000_024","哎呀，这个提案不错！
-你们之间又都熟悉，想必一定会有很多话要说吧。
-<Highlight>ObjectParameter(1)</Highlight>，我就把向导的任务就给你了，你觉得怎么样？"
+68,"TEXT_BANALL210_03161_HANCOCK_000_024","哎呀，这个提议不错！
+你们之间又都熟悉，想必一定有很多话要说吧。
+<Highlight>ObjectParameter(1)</Highlight>，我把向导的任务交给你，如何？"
 69,"TEXT_BANALL210_03161_HANCOCK_000_025","那就这样定了。
 我想两位经过漫长旅途肯定是累了，
 我这就去安排旅馆！"

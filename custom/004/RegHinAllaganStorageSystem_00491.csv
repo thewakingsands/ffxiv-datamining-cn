@@ -156,7 +156,7 @@ int32,str,str
 68,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_161","(-异国的剧作家的录音-)其实杰诺米是第一次以这个传说为原型创作戏剧。
 虽然以前听他说过几次想改编这一故事，
 却没想到他创作出的会是音乐剧。"
-69,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_162","(-异国的剧作家的录音-)不止是作词，里面的曲子也是杰诺米亲自完成，
+69,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_162","(-异国的剧作家的录音-)除了作词，曲子也是杰诺米亲自完成，
 所谓的天才正是用来形容他这样的人的吧。"
 70,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_00491_ALLAGAN_000_163","(-异国的剧作家的录音-)这部戏剧全篇共有5幕，前面3幕描绘了在教会的命令下
 暗中活动的迪利塔，由于与奥薇莉亚的邂逅而改过自新，
@@ -223,9 +223,9 @@ int32,str,str
 99,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_113","(-杰诺米的录音-)不过，根据后来解读出的内容，
 似乎是一个叫劳动六号的机工兵器在与拉姆萨·贝奥尔甫交战时，
 兵器释放的攻击导致城市的中层部分消失。"
-100,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_114","(-杰诺米的录音-)而且攻击的威力不止破坏了都市，
-还在下方的大海上制造出了和异空间连接的裂缝。
-现在裂缝已经扩大成了海眼。"
+100,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_114","(-杰诺米的录音-)而且攻击的威力不但破坏了都市，
+还在下方的大海上制造出连接异空间的裂缝。
+现在裂缝已经扩大成海眼。"
 101,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_115","(-杰诺米的录音-)制造出危险兵器的高古之民被当地人民疏远。
 迫不得已，只好背井离乡。"
 102,"TEXT_REGHINALLAGANSTORAGESYSTEM_00491_ALLAGAN_000_116","(-杰诺米的录音-)高古人流浪到了北洲伊尔萨巴德，

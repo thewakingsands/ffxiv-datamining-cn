@@ -174,7 +174,7 @@ int32,str,str
 这样就可以制作绘本了吧，简直像做梦一样呢！"
 76,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_000","背包已满，
 无法获取信赖等级提高的报酬。"
-77,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_001","请整理背包后再次和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话。"
+77,"TEXT_CTSSFSCHARACTER6_00674_FULLBAG_000_001","请整理背包后再找<Sheet(ENpcResident,IntegerParameter(1),0)/>。"
 78,"TEXT_CTSSFSCHARACTER6_00674_BEFRANKUP_EHLLTOU_000_000","英雄！谢谢你交了这么多物品！
 这个数量就应该足够用来学习“采集”了，
 我这就去叫阿尔韦迪师父过来！"
@@ -382,7 +382,8 @@ int32,str,str
 179,"TEXT_CTSSFSCHARACTER6_00674_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>
 有新的委托想要给你。"
 180,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_000_001","接到了新的委托，交货列表已经更新。
-和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，查看新的交货列表。"
+和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
+选择交纳委托品，查看交货列表。"
 181,"TEXT_CTSSFSCHARACTER6_00674_AFTRANKUP_001_001","可以领取老主顾交易的剧情任务了。
 和圣罗埃勒广场的艾尔·图对话即可接受任务。
 完成任务后，交货列表将会更新。"

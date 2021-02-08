@@ -243,9 +243,9 @@ int32,str,str
 148,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_135","分队任务的完成状况
 会在每周<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）被重置。
 此外，每个任务1周可以完成1次。"
-149,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_136","接下来我来说明一下“训练”的相关事项吧。
+149,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_136","下面我来说明一下“训练”的相关事项吧。
 “训练”可以提高我们分队的“分队综合能力”。
-虽然也可促进分队员个人成长，不过主要还是对分队整体能力的提升。"
+虽然也可促进分队员个人成长，不过主要还是影响分队的整体能力。"
 150,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_137","想让分队进行训练的时候，
 请在<Sheet(EObj,2007150,0)/>上作出指示。"
 151,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_138","想要完成高难度的分队任务，训练是必须的。
@@ -409,9 +409,9 @@ int32,str,str
 随着能力的提升，任务的成功率也会上升。"
 219,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_132","（★未使用／削除予定★）"
 220,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_133","（★未使用／削除予定★）"
-221,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_136","接下来我来说明一下“训练”的相关事项吧。
+221,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_136","下面我来说明一下“训练”的相关事项吧。
 “训练”可以提高我们分队的“分队综合能力”。
-虽然也可促进分队员个人成长，不过主要还是对分队整体能力的提升。"
+虽然也可促进分队员个人成长，不过主要还是影响分队的整体能力。"
 222,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_137","想让分队进行训练的时候，
 请在<Sheet(EObj,2007150,0)/>上作出指示。"
 223,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_138","想要完成高难度的分队任务，训练是必须的。
@@ -521,9 +521,9 @@ int32,str,str
 随着能力的提升，任务的成功率也会上升。"
 270,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_132","（★未使用／削除予定★）"
 271,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_133","（★未使用／削除予定★）"
-272,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_136","接下来我来说明一下“训练”的相关事项吧。
+272,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_136","下面我来说明一下“训练”的相关事项吧。
 “训练”可以提高我们分队的“分队综合能力”。
-虽然也可促进分队员个人成长，不过主要还是对分队整体能力的提升。"
+虽然也可促进分队员个人成长，不过主要还是影响分队的整体能力。"
 273,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_137","想让分队训练的时候，
 请在<Sheet(EObj,2007150,0)/>上作出指示。"
 274,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_138","想要完成高难度的分队任务，训练是必须的。

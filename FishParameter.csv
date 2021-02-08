@@ -926,8 +926,8 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 922,"具有复杂风味的浮草。风干后研成的粉末可以用于调味，除此之外也有地区将其用于轻食与饲养牲畜的饲料。",30490,355,0,False,False,6,401,0,True,False,False
 923,"肉厚且吃起来很带劲的鲱鱼。总是游在鱼群的前面，一直能吃到最好的食物所以才会成长到了这么大。",30491,370,0,False,False,1,613,0,True,False,False
 924,"最适合用作制作印刷墨水材料的贝类。据说总是有人会把通讯贝与其搞错，拼命地想从这里面听出点声音来。",30492,380,0,False,False,2,399,0,True,False,False
-925,"",0,0,0,False,False,0,0,0,False,False,False
-926,"",0,0,0,False,False,0,0,0,False,False,False
+925,"色彩鲜艳的贝类。会让人联想到泉水中飘落的梅花，自古便是人们制作工具的素材。",31129,460,0,False,True,3,614,0,True,False,False
+926,"具有金属质感鳞片的魔泉鱼。有着异常强烈的斗争心，据说它们会通过互食来提高鳞片的纯度，使其变得更加坚硬。",31134,460,0,False,True,8,402,0,True,False,False
 927,"",0,0,0,False,False,0,0,0,False,False,False
 928,"",0,0,0,False,False,0,0,0,False,False,False
 929,"",0,0,0,False,False,0,0,0,False,False,False

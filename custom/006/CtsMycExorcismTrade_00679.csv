@@ -1,12 +1,17 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
+0,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000","十分抱歉……
+现在正在确认补给物资，还请耐心等待。"
+1,"TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000","要做什么？（博兹雅晶簇的持有数量：<Value>IntegerParameter(1)</Value>个）"
+2,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000","取得“紧急遭遇战”的优先参战权（所需数量：<Value>IntegerParameter(1)</Value>个）"
+3,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001","道具交换"
+4,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002","询问有关博兹雅晶簇"
+5,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003","取消"
+6,"TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000","要取得“紧急遭遇战”的优先参战权吗？
+　博兹雅晶簇的持有数量：<Value>IntegerParameter(1)</Value>个"
+7,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001","需要<Value>IntegerParameter(1)</Value>个博兹雅晶簇才能请求优先攻击援军。
+十分抱歉，你的持有数量不足……"
+8,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002","我明白了。
+在出现强力援军时，
+将会优先送出你的攻击请求。"

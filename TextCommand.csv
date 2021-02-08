@@ -788,7 +788,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 　撤除指定对象范围内设置的排列条件，该状态下由于排列条件已经撤除，通过命令进行排列时不会有任何效果。
 
 >>对象指定
-物品(Inventory) 雇员物品(Retainer) 兵装库(ArmouryChest) 陆行鸟鞍囊（saddlebag） 主手(main) 副手(sub) 头部(head) 身体(body) 手臂(hands) 腰带(waist) 腿部(legs) 脚部(feet) 颈部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 灵魂水晶(soul)
+物品(Inventory) 雇员物品(Retainer) 兵装库(ArmouryChest) 陆行鸟鞍囊（saddlebag） 陆行鸟鞍囊2（rightsaddlebag） 主手(main) 副手(sub) 头部(head) 身体(body) 手臂(hands) 腰带(waist) 腿部(legs) 脚部(feet) 颈部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 灵魂水晶(soul)
 
 >>条件指定
 道具编号(id) 精炼度(spiritbond) 道具种类(category) 装备等级(level) 物品品级(itemlevel) 打包数量(stack) 优质道具(hq) 魔晶石数(materia) 物理基本性能(physicaldamage) 魔法基本性能(magicdamage) 攻击间隔(delay) 物理自动攻击(physicalautoattack) 格挡发动力(blockrate) 格挡性能(blockstrength) 物理防御力(defense) 魔法防御力(magicdefense) 力量(str) 灵巧(dex) 耐力(vit) 智力(int) 精神(mnd) 作业精度(craftsmanship) 加工精度(control) 获得力(gathering) 鉴别力(perception) 分栏(tab)
@@ -3316,6 +3316,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/击掌","",293,0
+615,2,1,2,0,0,"/guard","","/巡视 子命令
+/guard
+巡视四周。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/巡视","",293,0
 617,2,1,2,0,0,"/beesknees","","/蜜蜂之舞 子命令
 /beesknees 
 跳起蜜蜂之舞。

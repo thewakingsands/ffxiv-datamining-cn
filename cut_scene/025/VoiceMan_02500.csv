@@ -322,7 +322,7 @@ int32,str,str
 就能从周围环境收集来大量的以太。<UIForeground>01</UIForeground>"
 155,"TEXT_VOICEMAN_02500_600170_NABRIALES","<UIForeground>F20223</UIForeground>那老头子不用水晶也能成功召唤十二神降临，
 你就没动过脑子好好想想为什么吗？<UIForeground>01</UIForeground>"
-156,"TEXT_VOICEMAN_02500_600180_NABRIALES","<UIForeground>F20223</UIForeground>召唤不止需要祈祷，还需要以太的能量。
+156,"TEXT_VOICEMAN_02500_600180_NABRIALES","<UIForeground>F20223</UIForeground>召唤不只需要祈祷，还需要以太的能量。
 这可是连小毛孩都懂的吧？<UIForeground>01</UIForeground>"
 157,"TEXT_VOICEMAN_02500_600190_MINFILIA","……多亏了你的教导，现在我就清楚了。
 那么，这把杖就更不能交给你了！"
@@ -803,7 +803,7 @@ int32,str,str
 水晶义勇队里也有的是能手。
 帕帕力莫，看来我们能一展身手了！"
 428,"TEXT_VOICEMAN_02500_Q00390_PAPALYMO","伊达，现在不是说这种玩笑的时候！"
-429,"TEXT_VOICEMAN_02500_Q00400_MINFILIA","看来这个计划不止针对娜娜莫陛下……
+429,"TEXT_VOICEMAN_02500_Q00400_MINFILIA","看来这个计划不只针对娜娜莫陛下……
 从一开始我们也是目标之一了。"
 430,"TEXT_VOICEMAN_02500_Q00410_PAPALYMO","在某些人眼里，我们还真是眼中钉呢。
 ……如此说来，石之家被占领恐怕也是真的了。"

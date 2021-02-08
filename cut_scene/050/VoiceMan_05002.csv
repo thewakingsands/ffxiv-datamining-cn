@@ -374,7 +374,7 @@ int32,str,str
 你到底打算做什么？"
 200,"TEXT_VOICEMAN_05002_001850_MYSTERYVOICE","沃斯里大人，我才想要问一问你的想法。
 打倒灵光卫原本就是全世界人类的共同愿望。"
-201,"TEXT_VOICEMAN_05002_001860_MYSTERYVOICE","现在，不止是雷克兰德的人民，
+201,"TEXT_VOICEMAN_05002_001860_MYSTERYVOICE","现在，不只是雷克兰德的人民，
 还有妖灵之乡的居民也在欢庆黑暗回归。"
 202,"TEXT_VOICEMAN_05002_001870_MYSTERYVOICE","人类终于有了反击的希望，
 你为什么要加以阻止？"
@@ -716,7 +716,7 @@ int32,str,str
 有诸多的生命生活在那里。"
 403,"TEXT_VOICEMAN_05002_003760_EMETSELCH","但是，后来世界的法则紊乱，发生了前所未有的灾难。
 那个文明被逼到了绝处。"
-404,"TEXT_VOICEMAN_05002_003770_EMETSELCH","因此人们通过祈祷和牺牲创造出了“星球的意志”。
+404,"TEXT_VOICEMAN_05002_003770_EMETSELCH","因此人们通过祈祷和牺牲创造出了“星球的意志”，
 并最终平息了灾难。"
 405,"TEXT_VOICEMAN_05002_003780_EMETSELCH","而这个星球意志的名字——叫做佐迪亚克。"
 406,"TEXT_VOICEMAN_05002_003790_YSHTOLA","什么？！佐迪亚克？
