@@ -146,8 +146,8 @@ int32,str,str
 88,"TEXT_LUCKMF111_03654_RYNE_000_088","这是……为什么？"
 89,"TEXT_LUCKMF111_03654_RYNE_000_089","那……你为什么要继续走下去？"
 90,"TEXT_LUCKMF111_03654_Q2_000_000","要说什么？"
-91,"TEXT_LUCKMF111_03654_A2_000_001","因为英雄不适合做出哀伤的表情"
-92,"TEXT_LUCKMF111_03654_A2_000_002","因为有的英雄为了这个世界不断前进到了最后"
+91,"TEXT_LUCKMF111_03654_A2_000_001","因为英雄可不应该露出悲伤的表情"
+92,"TEXT_LUCKMF111_03654_A2_000_002","因为为了这个世界，曾有一群英雄从未低头认输"
 93,"TEXT_LUCKMF111_03654_A2_000_003","……"
 94,"TEXT_LUCKMF111_03654_RYNE_000_090","！"
 95,"TEXT_LUCKMF111_03654_RYNE_000_091","这句话是指……"
@@ -293,7 +293,7 @@ int32,str,str
 我们正一步步走向灭亡。<UIForeground>01</UIForeground>"
 163,"TEXT_LUCKMF111_03654_ELIDIBUS_000_909","<UIForeground>F20223</UIForeground>……我明白。
 即便如此，我们也没有告终。<UIForeground>01</UIForeground>"
-164,"TEXT_LUCKMF111_03654_ELIDIBUS_000_910","<UIForeground>F20223</UIForeground>那个英雄，的确是过去最大的障碍。
+164,"TEXT_LUCKMF111_03654_ELIDIBUS_000_910","<UIForeground>F20223</UIForeground>那个英雄，的确是迄今最大的障碍。
 但是……这次我定要将其铲除。<UIForeground>01</UIForeground>"
 165,"TEXT_LUCKMF111_03654_ELIDIBUS_000_911","<UIForeground>F20223</UIForeground>我已经有了计划……
 只要能将他们一直困在第一世界，
@@ -302,7 +302,7 @@ int32,str,str
 那么你们的命运就已经有了定数。<UIForeground>01</UIForeground>"
 167,"TEXT_LUCKMF111_03654_ELIDIBUS_000_913","<UIForeground>F20223</UIForeground>暗之战士会被光之战士消灭。
 就如同……你们当初做过的那样！<UIForeground>01</UIForeground>"
-168,"TEXT_LUCKMF111_03654_THANCRED_000_930","果然没错啊……琳。"
+168,"TEXT_LUCKMF111_03654_THANCRED_000_930","你确定是吧……琳。"
 169,"TEXT_LUCKMF111_03654_RYNE_000_931","是的……
 对面有什么东西。"
 170,"TEXT_LUCKMF111_03654_THANCRED_000_932","可是……前方不管再怎么走，
@@ -315,7 +315,7 @@ int32,str,str
 可是，并没有恢复原貌。"
 174,"TEXT_LUCKMF111_03654_THANCRED_000_936","恢复原貌吗……"
 175,"TEXT_LUCKMF111_03654_THANCRED_000_937","那就必须去确认看看，
-尽头有什么东西在等着我们。"
+尽头有什么东西在等着我们了。"
 176,"TEXT_LUCKMF111_03654_THANCRED_000_938","既然这是你的愿望，
 我身为你的家人，怎么可能不全力支持你呢？"
 177,"TEXT_LUCKMF111_03654_THANCRED_000_939","好了，我们回去准备一下吧。"

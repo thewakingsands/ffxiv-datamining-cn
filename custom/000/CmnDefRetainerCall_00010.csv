@@ -267,7 +267,7 @@ int32,str,str
 209,"TEXT_CMNDEFRETAINERCALL_00010_CLASS_SELECTED","<Highlight>StringParameter(1)</Highlight>成为了<Sheet(ClassJob,IntegerParameter(2),0)/>！
 以主手为中心整齐装备，然后试着委托雇员探险吧！"
 210,"TEXT_CMNDEFRETAINERCALL_00010_MENU_CLASS_SETTINGS","设置雇员职业"
-211,"TEXT_CMNDEFRETAINERCALL_00010_CLASS_RESET_DONE","<Highlight>StringParameter(1)</Highlight>的<Sheet(ClassJob,IntegerParameter(2),0)/>被重置了。"
+211,"TEXT_CMNDEFRETAINERCALL_00010_CLASS_RESET_DONE","<Highlight>StringParameter(1)</Highlight>的“<Sheet(ClassJob,IntegerParameter(2),0)/>”职业被重置了。"
 212,"TEXT_CMNDEFRETAINERCALL_00010_PLEASE_SET_CLASS","请在“设置雇员职业”中对雇员的职业进行设置。"
 213,"TEXT_CMNDEFRETAINERCALL_00010_NO_RESET_DURING_TASK","雇员探险中无法重置职业或特职。"
 214,"TEXT_CMNDEFRETAINERCALL_00010_RESET_CLASS_QUESTION","要重置雇员的职业或特职吗？"

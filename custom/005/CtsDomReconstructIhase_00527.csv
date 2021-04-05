@@ -128,7 +128,7 @@ int32,str,str
 51,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MITSUBA_000_066","看来<Highlight>ObjectParameter(1)</Highlight>你还是一如既往来帮忙了呢。
 正好，来一起吃吧！"
 52,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_067","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，好久不见！
-你会为什么这里呢？！"
+你为什么会在这里呢？！"
 53,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_068","在进行冒险的同时顺便帮助多玛飞地进行重建来着吗？
 好厉害！不愧是<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>！"
 54,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_069","为了提高我们多玛冒险者团的知名度，

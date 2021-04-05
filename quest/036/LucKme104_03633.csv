@@ -207,6 +207,5 @@ int32,str,str
 123,"TEXT_LUCKME104_03633_URIANGER_000_183","用不了多久应该就能完成准备了。
 虽说花了不少时间，不过现在终于能让所有人团结一致，
 反抗毁灭的宿命了……"
-124,"TEXT_LUCKME104_03633_URIANGER_000_184","……<Highlight>ObjectParameter(1)</Highlight>，希望在这反抗的尽头，
-能看到你的笑容。
+124,"TEXT_LUCKME104_03633_URIANGER_000_184","<Highlight>ObjectParameter(1)</Highlight>，希望在这反抗的尽头能够看到你的笑容，
 即便冒险的终点总是与离别相伴……"

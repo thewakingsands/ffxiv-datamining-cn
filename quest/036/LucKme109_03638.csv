@@ -100,8 +100,8 @@ int32,str,str
 71,"TEXT_LUCKME109_03638_XAMOTT_000_029","既然你这样说，那我也不拦着了。
 扣鲁图就麻烦你们了。"
 72,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_030","路上很可能会遭到食罪灵的袭击，
-我们要做好战斗的准备再出发。"
-73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","没事，只要有<Highlight>ObjectParameter(1)</Highlight>在，
+做好战斗的准备再出发吧。"
+73,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_031","请放心，只要有<Highlight>ObjectParameter(1)</Highlight>在，
 什么都不在话下。"
 74,"TEXT_LUCKME109_03638_MYSTERYVOICE_000_040","让扣鲁图带我们去侏儒烟囱吧。
 别忘了做好战斗的准备。"

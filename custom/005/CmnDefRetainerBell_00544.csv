@@ -79,7 +79,7 @@ int32,str,str
 另外也可以执行“水岸探索委托”，探索水岸，寻找道具。"
 46,"TEXT_CMNDEFRETAINERBELL_00544_CLASS_NOT_UNLOCKED","无法将雇员设置为雇主未曾习得的职业。"
 47,"TEXT_CMNDEFRETAINERBELL_00544_CLASS_CONFIRM_ASK","确定要让<Highlight>StringParameter(1)</Highlight>成为<Sheet(ClassJob,IntegerParameter(2),0)/>吗？"
-48,"TEXT_CMNDEFRETAINERBELL_00544_CLASS_RESET_DONE","<Highlight>StringParameter(1)</Highlight>成为了<Sheet(ClassJob,IntegerParameter(2),0)/>。"
+48,"TEXT_CMNDEFRETAINERBELL_00544_CLASS_RESET_DONE","<Highlight>StringParameter(1)</Highlight>的“<Sheet(ClassJob,IntegerParameter(2),0)/>”职业被重置了。"
 49,"TEXT_CMNDEFRETAINERBELL_00544_PLEASE_SET_CLASS","请在“设置雇员职业”中对雇员的职业进行设置。"
 50,"TEXT_CMNDEFRETAINERBELL_00544_NO_RESET_DURING_TASK","雇员探险中无法重置职业或特职。"
 51,"TEXT_CMNDEFRETAINERBELL_00544_RESET_CLASS_QUESTION","要重置雇员的职业或特职吗？"

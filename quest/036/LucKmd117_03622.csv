@@ -130,7 +130,7 @@ int32,str,str
 请随时呼叫我们。"
 87,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_900","――果然 到这为止都没有问题"
 88,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_901","那么 传送的时间支点 就再往前一些
-定在阿拉米格解放附近好了――"
+定在阿拉米格解放附近好了……"
 89,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_902","喂，书差不多该看完了吧？"
 90,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_903","这里也快不行了……
 被袭击之前赶紧撤退。"
@@ -143,7 +143,7 @@ int32,str,str
 所以往哪走都一样。"
 94,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_907","又来了，动静真大……
 看这样子十二骑士像都守不住了……"
-95,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_908","――就没有什么 能做的吗"
+95,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_908","就没有什么能做的吗？"
 96,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_909","你是说对这个战况？
 没有啦，这已经不是有谁站起来就能解决的问题了。"
 97,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_910","艾欧泽亚各国现在都一样，
@@ -151,16 +151,16 @@ int32,str,str
 98,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_911","人不互相残杀殆尽战斗是不会停止了，
 性命也好文明也罢，都将尽数灭亡……这已经是灵灾了。"
 99,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_912","已经没救了啊……这个世界。"
-100,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_913","……那本回忆录，
+100,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_913","那本回忆录，
 我最喜欢的是皇都决战的部分。
 英雄乘着白龙去解救身陷窘境的友军……"
 101,"TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_914","想必是非常夺目耀眼的场景吧。
 我也想能在最后，留下那样的希望，
 平静地离开。"
-102,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_916","——必须改变命运
-然后 有想要传达的话"
-103,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_917","以其名 为路标
-绝对 要找出一条路——"
+102,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_916","必须改变命运才行
+如果能够成功 我这次一定会说出自己的心愿"
+103,"TEXT_LUCKMD117_03622_MYSTERYVOICE_000_917","以<If(PlayerParameter(4))>她<Else/>他</If>的名字为路标
+我绝对 绝对要找出一条生路来……"
 104,"TEXT_LUCKMD117_03622_Q10_000_920","刚才那是……"
 105,"TEXT_LUCKMD117_03622_A10_000_921","好像做了个奇怪的梦……"
 106,"TEXT_LUCKMD117_03622_A10_000_923","是谁的过去？"

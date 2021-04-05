@@ -68,9 +68,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1023,"亚德基拉",6,55,255,0,4,False,True,True,True,True,True,True,True,True
 1024,"凯·希尔",6,55,255,0,5,False,True,True,True,True,True,True,True,True
 1025,"联合重建1",7,20,255,73,1,False,True,True,True,True,True,True,True,True
-1026,"其他",7,20,255,73,5,False,True,True,True,True,True,True,True,True
+1026,"其他",7,20,255,73,6,False,True,True,True,True,True,True,True,True
 1027,"联合重建2",7,20,255,73,2,False,True,True,True,True,True,True,True,True
-1028,"天钢工具",7,80,255,69384,4,False,True,True,True,True,True,True,True,True
+1028,"天钢工具",7,80,255,69384,5,False,True,True,True,True,True,True,True,True
 1029,"矮人族",5,70,255,0,4,False,True,True,True,True,True,True,True,True
 1030,"艾尔·图",6,55,255,0,6,False,True,True,True,True,True,True,True,True
 1031,"联合重建3",7,20,255,73,3,False,True,True,True,True,True,True,True,True
@@ -79,6 +79,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1034,"71-80",8,70,255,0,3,False,True,True,True,True,True,True,True,True
 1035,"装饰品",3,50,255,0,3,False,False,False,False,False,False,False,True,False
 1036,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1037,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"传承录·库尔札斯篇",0,255,50,0,0,False,True,True,True,True,True,True,True,True
 2001,"传承录·龙堡篇",0,255,50,0,0,False,True,True,True,True,True,True,True,True
 2002,"传承录·阿巴拉提亚篇",0,255,50,0,0,False,True,True,True,True,True,True,True,True
@@ -87,4 +88,6 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 2005,"传承录·诺弗兰特篇",0,255,70,0,0,False,True,True,True,True,True,True,True,True
 2006,"重建伊修加德",0,255,1,74,0,False,True,True,True,True,True,True,True,True
 2007,"天钢工具",0,255,80,69384,0,False,True,True,True,True,True,True,True,True
-2008,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True
+2008,"收藏品交易1",0,255,50,67631,0,False,True,True,True,True,True,True,True,True
+2009,"收藏品交易2",0,255,70,67631,0,False,True,True,True,True,True,True,True,True
+2010,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True

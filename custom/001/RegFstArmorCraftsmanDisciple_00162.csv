@@ -23,9 +23,8 @@ int32,str,str
 12,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_021","不过，那些收集武器的收藏家，
 他们不是使用者，所以不会勤于保养……
 长年累月后，很多武器都劣化了吧。"
-13,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_022","不过，如果有亚拉戈时光沙和亚拉戈时光油的话，
-即使是我这样的手艺，也能进行修理！
-听说这些东西可以在古代遗迹中找到。"
+13,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_022","不过，如果你能给我素材对等的报酬，
+即使是我这样的手艺，也能进行修理！"
 14,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_023","如果你有师父大人制作的杰作的话……
 请务必让我修理试试。
 我也可以借此学到很多东西！"
@@ -45,10 +44,10 @@ int32,str,str
 20,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_036","我仔细观察了一下装备，发现了一点点可以改进的地方。
 因为这是基于帝国的技术，由艾欧泽亚的素材制作出来的，
 因此有些不完美的部分。"
-21,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_037","所以，如果能拿来亚拉戈硬化药和亚拉戈强化纤维的话，
-即使是我这样的手艺，也能进行强化。
-听说这些东西可以在古代遗迹中找到。"
-22,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_038","要是你得到亚拉戈帝国制的优秀素材的话，
+21,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_037","还好我这里备有必要的素材，
+只要你能给我对等的报酬，
+即使是我这样的手艺，也能进行强化。"
+22,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_038","要是你想强化加隆德装备的话，
 请务必让我重新打造！
 我想要回馈师父大人对我的期待！"
 23,"TEXT_REGFSTARMORCRAFTSMANDISCIPLE_00162_DRAKE_000_030","（未使用/预计删除）"

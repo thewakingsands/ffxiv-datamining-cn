@@ -35,7 +35,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /快捷发言 全力攻击
 发送快捷发言“全力攻击”。
 /快捷发言 攻击目标 <目标>
-发送快捷发言“攻击目标”加上当前所选目标的名字。","/快捷发言","/qchat",509,0
+发送快捷发言“攻击目标”加上当前所选目标的名字。","/快捷发言","/qchat",1021,0
 9,4,3,2,18,2,"/bluespellbook","","/青魔法书 子命令
 /bluespellbook
 对青魔法进行有效技能设置。
@@ -93,7 +93,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨1 大家好！
 在跨服通讯贝频道1中发送消息“大家好！”。
 /跨1
-将默认聊天频道变更为跨服通讯贝频道1。","/跨服贝频道1","/跨1",509,0
+将默认聊天频道变更为跨服通讯贝频道1。","/跨服贝频道1","/跨1",1021,0
 14,1,0,0,0,0,"/cwlinkshell2","/cwl2","/跨服贝频道2(/跨2) 发言内容
 /cwlinkshell2、/cwl2
 向跨服通讯贝频道2内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -103,7 +103,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨2 大家好！
 在跨服通讯贝频道2中发送消息“大家好！”。
 /跨2
-将默认聊天频道变更为跨服通讯贝频道2。","/跨服贝频道2","/跨2",509,0
+将默认聊天频道变更为跨服通讯贝频道2。","/跨服贝频道2","/跨2",1021,0
 15,1,0,0,0,0,"/cwlinkshell3","/cwl3","/跨服贝频道3(/跨3) 发言内容
 /cwlinkshell3、/cwl3
 向跨服通讯贝频道3内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -113,7 +113,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨3 大家好！
 在跨服通讯贝频道3中发送消息“大家好！”。
 /跨3
-将默认聊天频道变更为跨服通讯贝频道3。","/跨服贝频道3","/跨3",509,0
+将默认聊天频道变更为跨服通讯贝频道3。","/跨服贝频道3","/跨3",1021,0
 16,1,0,0,0,0,"/cwlinkshell4","/cwl4","/跨服贝频道4(/跨4) 发言内容
 /cwlinkshell4、/cwl4
 向跨服通讯贝频道4内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -123,7 +123,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨4 大家好！
 在跨服通讯贝频道4中发送消息“大家好！”。
 /跨4
-将默认聊天频道变更为跨服通讯贝频道4。","/跨服贝频道4","/跨4",509,0
+将默认聊天频道变更为跨服通讯贝频道4。","/跨服贝频道4","/跨4",1021,0
 17,1,0,0,0,0,"/cwlinkshell5","/cwl5","/跨服贝频道5(/跨5) 发言内容
 /cwlinkshell5、/cwl5
 向跨服通讯贝频道5内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -133,7 +133,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨5 大家好！
 在跨服通讯贝频道5中发送消息“大家好！”。
 /跨5
-将默认聊天频道变更为跨服通讯贝频道5。","/跨服贝频道5","/跨5",509,0
+将默认聊天频道变更为跨服通讯贝频道5。","/跨服贝频道5","/跨5",1021,0
 18,1,0,0,0,0,"/cwlinkshell6","/cwl6","/跨服贝频道6(/跨6) 发言内容
 /cwlinkshell6、/cwl6
 向跨服通讯贝频道6内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -143,7 +143,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨6 大家好！
 在跨服通讯贝频道6中发送消息“大家好！”。
 /跨6
-将默认聊天频道变更为跨服通讯贝频道6。","/跨服贝频道6","/跨6",509,0
+将默认聊天频道变更为跨服通讯贝频道6。","/跨服贝频道6","/跨6",1021,0
 19,1,0,0,0,0,"/cwlinkshell7","/cwl7","/跨服贝频道7(/跨7) 发言内容
 /cwlinkshell7、/cwl7
 向跨服通讯贝频道7内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -153,7 +153,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨7 大家好！
 在跨服通讯贝频道7中发送消息“大家好！”。
 /跨7
-将默认聊天频道变更为跨服通讯贝频道7。","/跨服贝频道7","/跨7",509,0
+将默认聊天频道变更为跨服通讯贝频道7。","/跨服贝频道7","/跨7",1021,0
 20,1,0,0,0,0,"/cwlinkshell8","/cwl8","/跨服贝频道8(/跨8) 发言内容
 /cwlinkshell8、/cwl8
 向跨服通讯贝频道8内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -163,7 +163,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨8 大家好！
 在跨服通讯贝频道8中发送消息“大家好！”。
 /跨8
-将默认聊天频道变更为跨服通讯贝频道8。","/跨服贝频道8","/跨8",509,0
+将默认聊天频道变更为跨服通讯贝频道8。","/跨服贝频道8","/跨8",1021,0
 21,2,0,0,0,0,"/graphicpresets","/gpresets","/图像设置预设 预设组编号
 /graphicpresets、/gpreset
 将图像设置切换为预设设置。
@@ -177,7 +177,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 
 示例
 /图像设置预设 1
-将图像设置切换为“标准品质（笔记本电脑）”。","/图像设置预设","",481,0
+将图像设置切换为“标准品质（笔记本电脑）”。","/图像设置预设","",993,0
 22,1,0,0,0,0,"/fellowship","/fs","/同好会
 /fellowship、/fs
 打开同好会窗口。","/同好会","",32,0
@@ -254,6 +254,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 31,1,0,0,0,0,"/officialsite","/site","/官方网站
 /officialsite、/site
 打开官方网站菜单。","/官方网站","",32,0
+32,1,0,0,0,0,"//setGearset","","//setGearset
+リアルイベント用コマンド。
+アーマリーチェスト内のアイテムをもとに、自動的にバトルジョブのギアセットを生成する。","","",32,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -263,7 +266,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /战 我来啦！
 在战队频道中发送消息“我来啦！”。
 /战
-将默认聊天频道变更为战队频道。","/战队频道","/战",509,0
+将默认聊天频道变更为战队频道。","/战队频道","/战",1021,0
 92,1,0,0,0,0,"/cwlinkshell","/cwl","/跨服贝频道(/跨) 发言内容
 /cwlinkshell、/cwl
 向常用跨服通讯贝内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -273,7 +276,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /跨 大家好！
 在常用跨服通讯贝频道中发送消息“大家好！”。
 /跨
-将默认聊天频道变更为常用跨服通讯贝频道。","/跨服贝频道","/跨",509,0
+将默认聊天频道变更为常用跨服通讯贝频道。","/跨服贝频道","/跨",1021,0
 101,1,0,0,0,0,"/beginner","/b","/新人频道(/新) 发言内容
 /beginner、/b
 向参加新人频道的所有玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -282,14 +285,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 /新人频道 你好。
 在新人频道发送“你好。”的聊天消息。
 /新人频道
-将默认聊天频道变更为新人频道。","/新人频道","/新",509,0
+将默认聊天频道变更为新人频道。","/新人频道","/新",1021,0
 102,1,0,0,0,0,"/say","/s","/说话频道(/说) 发言内容
 /say、/s
 让身边小范围内的玩家看到自己的发言。
-只输入“/说话频道(/说)”可将默认聊天频道变更为说话频道。","/说话频道","/说",511,0
+只输入“/说话频道(/说)”可将默认聊天频道变更为说话频道。","/说话频道","/说",1023,0
 103,1,0,0,0,0,"/shout","/sh","/喊话频道(/喊) 发言内容
 /shout、/sh
-让当前所在区域的所有玩家看到自己的发言。","/喊话频道","/喊",509,0
+让当前所在区域的所有玩家看到自己的发言。","/喊话频道","/喊",1021,0
 104,3,0,0,0,0,"/tell","/t","/悄悄话频道(/悄) 玩家名@服务器名 发言内容
 /tell、/t
 向和自己属于同一服务器的指定玩家发送聊天消息。
@@ -297,57 +300,57 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只输入“/悄悄话频道(/悄) 玩家名@服务器名”可将默认聊天频道变更为对该玩家的悄悄话频道。
 >>示例
 /悄 阿鲁玛@萌芽池 你好。
-对萌芽池服务器的阿鲁玛发送“你好。”的聊天消息。","/悄悄话频道","/悄",509,0
+对萌芽池服务器的阿鲁玛发送“你好。”的聊天消息。","/悄悄话频道","/悄",1021,0
 105,1,0,0,0,0,"/party","/p","/小队频道(/队) 发言内容
 /party、/p
 向同一小队内的全体成员发送聊天消息，无论离多远、是不是在同一地图都可以看到。
-只输入“/小队频道(/队)”可将默认聊天频道变更为小队频道。","/小队频道","/队",509,0
+只输入“/小队频道(/队)”可将默认聊天频道变更为小队频道。","/小队频道","/队",1021,0
 106,1,0,0,0,0,"/linkshell","/l","/通讯贝频道(/讯) 发言内容
 /linkshell、/l
 向常用通讯贝内的玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
-只输入“/通讯贝频道(/讯)”可将默认聊天频道变更为常用通讯贝频道。","/通讯贝频道","/讯",509,0
+只输入“/通讯贝频道(/讯)”可将默认聊天频道变更为常用通讯贝频道。","/通讯贝频道","/讯",1021,0
 107,1,0,0,0,0,"/linkshell1","/l1","/通讯贝频道1(/讯1) 发言内容
 /linkshell1、/l1
-向１号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道1","/讯1",509,0
+向１号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道1","/讯1",1021,0
 108,1,0,0,0,0,"/linkshell2","/l2","/通讯贝频道2(/讯2) 发言内容
 /linkshell2、/l2
-向２号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道2","/讯2",509,0
+向２号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道2","/讯2",1021,0
 109,1,0,0,0,0,"/linkshell3","/l3","/通讯贝频道3(/讯3) 发言内容
 /linkshell3、/l3
-向３号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道3","/讯3",509,0
+向３号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道3","/讯3",1021,0
 110,1,0,0,0,0,"/linkshell4","/l4","/通讯贝频道4(/讯4) 发言内容
 /linkshell4、/l4
-向４号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道4","/讯4",509,0
+向４号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道4","/讯4",1021,0
 111,1,0,0,0,0,"/linkshell5","/l5","/通讯贝频道5(/讯5) 发言内容
 /linkshell5、/l5
-向５号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道5","/讯5",509,0
+向５号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道5","/讯5",1021,0
 112,1,0,0,0,0,"/linkshell6","/l6","/通讯贝频道6(/讯6) 发言内容
 /linkshell6、/l6
-向６号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道6","/讯6",509,0
+向６号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道6","/讯6",1021,0
 113,1,0,0,0,0,"/linkshell7","/l7","/通讯贝频道7(/讯7) 发言内容
 /linkshell7、/l7
-向７号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道7","/讯7",509,0
+向７号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道7","/讯7",1021,0
 114,1,0,0,0,0,"/linkshell8","/l8","/通讯贝频道8(/讯8) 发言内容
 /linkshell8、/l8
-向８号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道8","/讯8",509,0
+向８号通讯贝内的玩家发送聊天信息，无论离多远、无论在哪个地区都可以看到。","/通讯贝频道8","/讯8",1021,0
 115,1,0,0,0,0,"/freecompany","/fc","/部队频道(/部) 发言内容
 /freecompany、/fc
 向同一部队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
-只输入“/部队频道(/部)”可将默认聊天频道变更为部队频道。","/部队频道","/部",509,0
+只输入“/部队频道(/部)”可将默认聊天频道变更为部队频道。","/部队频道","/部",1021,0
 116,1,0,0,0,0,"/echo","/e","/默语(/默) 发言内容
 /echo、/e
-显示只有自己能看到的发言内容。","/默语","/默",509,0
+显示只有自己能看到的发言内容。","/默语","/默",1021,0
 117,1,0,0,0,0,"/yell","/y","/呼喊频道(/呼) 发言内容
 /yell、/y
 让身边大范围内的玩家看到自己的发言。
-只输入“/呼喊频道(/呼)”可将默认聊天频道变更为呼喊频道。","/呼喊频道","/呼",509,0
+只输入“/呼喊频道(/呼)”可将默认聊天频道变更为呼喊频道。","/呼喊频道","/呼",1021,0
 118,1,0,0,0,0,"/reply","/r","/回答(/回) 发言内容
 /reply、/r
-向最后一次收到悄悄话的玩家发送聊天消息。","/回答","/回",509,0
+向最后一次收到悄悄话的玩家发送聊天消息。","/回答","/回",1021,0
 119,1,0,0,0,0,"/alliance","/a","/团队频道(/团) 发言内容
 /alliance、/a
 向同一团队的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
-只输入“/团队频道(/团)”可将默认聊天频道变更为团队频道。","/团队频道","/团",509,0
+只输入“/团队频道(/团)”可将默认聊天频道变更为团队频道。","/团队频道","/团",1021,0
 121,1,0,0,0,0,"/join","","/参加
 /join
 接受组队邀请。","/参加","",4,0
@@ -396,7 +399,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 打开日志。","/日志","",32,0
 143,1,0,0,0,0,"/dutyfinder","/dfinder","/任务搜索器(/任务)
 /dutyfinder、/dfinder
-打开任务搜索器。","/任务搜索器","/任务",288,0
+打开任务搜索器。","/任务搜索器","/任务",800,0
 144,1,0,0,0,0,"/armourychest","/armoury","/兵装库(/兵装)
 /armourychest、/armoury
 打开兵装库。","/兵装库","/兵装",32,0
@@ -3232,6 +3235,22 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/啦哩吼","",293,0
+601,2,1,2,0,0,"/simulationm","","/欧米茄M架势 子命令
+/simulationm
+摆出欧米茄M的架势。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欧米茄M架势","",293,0
+602,2,1,2,0,0,"/simulationf","","/欧米茄F架势 子命令
+/simulationf
+摆出欧米茄F的架势。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/欧米茄F架势","",293,0
 603,2,1,2,0,0,"/toast","","/干杯 子命令
 /toast
 干了这杯橙汁！
@@ -3300,6 +3319,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/嘿哟","",293,0
+612,2,1,2,0,0,"/flowershower","/petals","/花雨 子命令
+/flowershower、/petals
+沐浴在花雨中。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/花雨","",293,0
 613,2,1,2,0,0,"/flamedance","","/火焰之舞 子命令
 /flamedance
 跳起火焰之舞。
@@ -3340,3 +3367,43 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/啦哩吼舞","",293,0
+625,2,1,2,0,0,"/paintblack","","/黑色陆行鸟之笔（/涂黑） 子命令
+/paintblack 
+将脚下涂黑。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/黑色陆行鸟之笔","/涂黑",293,0
+626,2,1,2,0,0,"/paintred","","/红色陆行鸟之笔（/涂红） 子命令
+/paintred 
+将脚下涂红。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/红色陆行鸟之笔","/涂红",293,0
+627,2,1,2,0,0,"/paintyellow","","/黄色陆行鸟之笔（/涂黄） 子命令
+/paintyellow 
+将脚下涂黄。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/黄色陆行鸟之笔","/涂黄",293,0
+628,2,1,2,0,0,"/paintblue","","/蓝色陆行鸟之笔（/涂蓝） 子命令
+/paintblue 
+将脚下涂蓝。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/蓝色陆行鸟之笔","/涂蓝",293,0
+629,2,1,2,0,0,"/fakesmile","","/假笑 子命令
+/fakesmile 
+露出假笑的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/假笑","",293,0

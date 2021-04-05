@@ -77,9 +77,9 @@ int32,str,str
 正是爱梅特赛尔克。"
 60,"TEXT_LUCKMF109_03652_URIANGER_000_045","身为同行者的我们先不论……
 至少这里应该是欢迎你进入的吧？"
-61,"TEXT_LUCKMF109_03652_YSHTOLA_000_046","请问，电梯指的是？"
-62,"TEXT_LUCKMF109_03652_ELEVATOR03652_000_047","(-大门传出的声音-)是通往这座阿科拉塔各楼层的装置。
-现在可以直达第一层。"
+61,"TEXT_LUCKMF109_03652_YSHTOLA_000_046","请问，电梯都可以通往哪里？"
+62,"TEXT_LUCKMF109_03652_ELEVATOR03652_000_047","(-大门传出的声音-)电梯可通往这座阿科拉塔的各楼层，
+当前时间段仅往返于本层与地上一层。"
 63,"TEXT_LUCKMF109_03652_YSHTOLA_000_048","你怎么想？
 我是觉得在这里原地踏步也没有意义，
 不如进去看看。"
@@ -206,8 +206,8 @@ int32,str,str
 魔法会将周围掀起的恐惧与痛苦不断变成实体……
 陨石降落，大火燃烧，怪兽出生……永无止境……<UIForeground>01</UIForeground>"
 126,"TEXT_LUCKMF109_03652_AMAUROTRESIDENTB03652_000_141","<UIForeground>F20223</UIForeground>到那时，根本就不存在元凶与因果，
-只有灾难，灾难发生，然后逐渐扩大。
-就好像星球生病了似的……或者说，像是星球拒绝活下去似的。<UIForeground>01</UIForeground>"
+只有灾难不断发生，然后逐渐扩大。
+就好像星球生病了似的……或者说，像是星球拒绝活下去一般。<UIForeground>01</UIForeground>"
 127,"TEXT_LUCKMF109_03652_AMAUROTRESIDENTB03652_000_142","<UIForeground>F20223</UIForeground>我们现在所在的亚马乌罗提也是一样……
 不知道哪天大地就会发出轰鸣，整个城市都被灾难吞噬。
 所以，千万不要离开心爱的人……千万不要哦……<UIForeground>01</UIForeground>"
