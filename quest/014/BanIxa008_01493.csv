@@ -71,7 +71,7 @@ int32,str,str
 这样就能赶在风扬殖民地那群笨蛋来之前，
 完成迪兹尔·库瓦兰号，并让它飞翔于空了！"
 51,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_003","接下来就靠你了<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>！
-去制作一个高品质的<Sheet(ItemHQ,　8133,0)/>并把它交给我！
+去制作一个优质的<Sheet(ItemHQ,　8133,0)/>并把它交给我！
 这就是<If(PlayerParameter(4))>小美女<Else/>小帅哥</If>你最后的任务了！"
 52,"TEXT_BANIXA008_01493_SEZULTOTOLOC_000_004","我已经帮你准备好<Sheet(EventItem,2001371,0)/>了，
 你只需要把它拿到秋瓜浮村的制作设施进行加工就好了！

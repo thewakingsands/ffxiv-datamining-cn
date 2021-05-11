@@ -1109,7 +1109,7 @@ int32,str
 1073,"机工士"
 1074,"--"
 1075,"组队加成"
-1076,"<If(GreaterThan(IntegerParameter(1),0))><If(Equal(PlayerParameter(78),3))><Switch(IntegerParameter(1))><Case(1)>control键</Case><Case(2)>option键</Case><Case(3)>shift键</Case><Case(4)><CommandIcon(14)/></Case></Switch><Else/><Switch(IntegerParameter(1))><Case(1)>Ctrl键</Case><Case(2)>Alt键</Case><Case(3)>Shift键</Case><Case(4)><CommandIcon(14)/></Case></Switch></If> 显示<Switch(IntegerParameter(2))><Case(1)>高品质</Case><Case(2)>普通品质</Case></Switch>详细信息<If(GreaterThan(IntegerParameter(3),0))>　<Else/></If><Else/></If><If(GreaterThan(IntegerParameter(3),0))><If(Equal(PlayerParameter(78),3))><Switch(IntegerParameter(3))><Case(1)>control键</Case><Case(2)>option键</Case><Case(3)>shift键</Case><Case(4)><CommandIcon(15)/></Case></Switch><Else/><Switch(IntegerParameter(3))><Case(1)>Ctrl键</Case><Case(2)>Alt键</Case><Case(3)>Shift键</Case><Case(4)><CommandIcon(15)/></Case></Switch></If> 隐藏详细信息<Else/></If>"
+1076,"<If(GreaterThan(IntegerParameter(1),0))><If(Equal(PlayerParameter(78),3))><Switch(IntegerParameter(1))><Case(1)>control键</Case><Case(2)>option键</Case><Case(3)>shift键</Case><Case(4)><CommandIcon(14)/></Case></Switch><Else/><Switch(IntegerParameter(1))><Case(1)>Ctrl键</Case><Case(2)>Alt键</Case><Case(3)>Shift键</Case><Case(4)><CommandIcon(14)/></Case></Switch></If> 显示<Switch(IntegerParameter(2))><Case(1)>优质</Case><Case(2)>普通品质</Case></Switch>详细信息<If(GreaterThan(IntegerParameter(3),0))>　<Else/></If><Else/></If><If(GreaterThan(IntegerParameter(3),0))><If(Equal(PlayerParameter(78),3))><Switch(IntegerParameter(3))><Case(1)>control键</Case><Case(2)>option键</Case><Case(3)>shift键</Case><Case(4)><CommandIcon(15)/></Case></Switch><Else/><Switch(IntegerParameter(3))><Case(1)>Ctrl键</Case><Case(2)>Alt键</Case><Case(3)>Shift键</Case><Case(4)><CommandIcon(15)/></Case></Switch></If> 隐藏详细信息<Else/></If>"
 1077,"仅<Value>IntegerParameter(1)</Value>级以下有效"
 1078,"<If(IntegerParameter(3))><Sheet(ClassJob,IntegerParameter(2),0)/>  <Gui(62)/><Emphasis><Highlight>StringParameter(1)</Highlight>级</Emphasis><Else/><Sheet(ClassJob,IntegerParameter(2),0)/>  <Highlight>StringParameter(1)</Highlight>级</If>    <If(GreaterThan(IntegerParameter(7),0))>经验值 --/--<Else/><If(GreaterThan(IntegerParameter(6),0))><Gui(76)/><UIForeground>F20203</UIForeground><UIGlow>F20204</UIGlow>经验值 <Format(IntegerParameter(4),FF022C)/> / <Format(IntegerParameter(5),FF022C)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/>经验值 <Format(IntegerParameter(4),FF022C)/> / <Format(IntegerParameter(5),FF022C)/></If></If>"
 1079,"<If(IntegerParameter(3))><Emphasis><Gui(62)/><Highlight>StringParameter(1)</Highlight>级 <Highlight>StringParameter(2)</Highlight></Emphasis><Else/><If(IntegerParameter(5))><Highlight>StringParameter(1)</Highlight>级 <Highlight>StringParameter(2)</Highlight><Else/><If(IntegerParameter(4))><Highlight>StringParameter(2)</Highlight><Else/><Highlight>StringParameter(1)</Highlight>级 <Highlight>StringParameter(2)</Highlight></If></If></If>"
@@ -1145,7 +1145,7 @@ int32,str
 1107,"收到了新的邮件。
 请在原始服务器找邮差莫古力进行确认。"
 1110,"焦点目标"
-1111,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight> <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
+1111,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>级 <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
 1112,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>% <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
 1113,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight> <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
 1114,"收到了新的邮件。
@@ -2074,7 +2074,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※列表与统计数据会在每次服务器维护时清空<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 2073,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>查看市场情况 <CommandIcon(9)/>返回"
 2074,"添加到期望列表"
-2075,"从列表中删除"
+2075,"从期望列表中删除"
 2076,"需求情况"
 2077,"需求情况"
 2078,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>查看市场情况 <CommandIcon(9)/>返回 <CommandIcon(12)/><CommandIcon(13)/>翻页"
@@ -2348,7 +2348,7 @@ int32,str
 2367,"确认完成"
 2368,"必须装备主手武器才能开始接受委托。"
 2369,"×<Format(IntegerParameter(1),FF022C)/>"
-2370,"<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>级<Else/></If><Highlight>StringParameter(2)</Highlight>"
+2370,"<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>级 <Else/></If><Highlight>StringParameter(2)</Highlight>"
 2371,"确定要中止“<Highlight>StringParameter(1)</Highlight>”的委托吗？"
 2372,"为雇员穿上装备"
 2373,"为雇员卸下装备"
@@ -3064,8 +3064,7 @@ int32,str
 3136,"部分一致"
 3137,"搜索以输入文字开头的道具名。
 在搜索结果中会显示出需求情况和出售数量。"
-3138,"勾选“部分一致”进行搜索时。
-在搜索结果中不会显示出需求情况和出售数量。"
+3138,"勾选“部分一致”进行搜索时不会显示出需求情况和出售数量。"
 3139,"确定"
 3140,"拉诺西亚"
 3141,"黑衣森林"
@@ -3702,7 +3701,7 @@ int32,str
 4015,"语言"
 4020,"显示设置"
 4021,"选择主显示器"
-4022,"※需要重新启动。"
+4022,"※需要重新启动游戏。"
 4023,"显示模式"
 4024,"普通窗口模式"
 4025,"窗口全屏模式"
@@ -6461,7 +6460,7 @@ A：Assist，协助他人打倒敌人的次数"
 6805,"复原"
 6806,"确定要重新布置水族箱内部吗？
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※高品质或收藏品道具会变为普通品质。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※优质或收藏品道具会变为普通品质。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※被替换或取出的东西会消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 6807,"选择观赏鱼与箱内装饰"
 6808,"水族箱设定"
@@ -6724,20 +6723,20 @@ A：Assist，协助他人打倒敌人的次数"
 7032,"确定要使用<If(GreaterThan(IntegerParameter(2),0))>收藏价值<Value>IntegerParameter(2)</Value>的<Else/></If><Sheet(Item,IntegerParameter(1),0)/>吗？<If(GreaterThan(IntegerParameter(2),0))>
 ※会优先使用收藏价值低的鱼。<Else/></If>
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※高品质或收藏品会降为普通品质。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※优质或收藏品会降为普通品质。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 "
 7033,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>所选鱼与当前鱼拓相同。
 
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>确定要使用<If(GreaterThan(IntegerParameter(2),0))>收藏价值<Value>IntegerParameter(2)</Value>的<Else/></If><Sheet(Item,IntegerParameter(1),0)/>吗？<If(GreaterThan(IntegerParameter(2),0))>
 ※会优先使用收藏价值低的鱼。<Else/></If>
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※高品质或收藏品会降为普通品质。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※优质或收藏品会降为普通品质。
 ※下列道具将会消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7034,"确定要使用<If(GreaterThan(IntegerParameter(2),0))>收藏价值<Value>IntegerParameter(2)</Value>的
 <Else/></If><Sheet(Item,IntegerParameter(1),0)/>吗？<If(GreaterThan(IntegerParameter(2),0))>
 ※会优先使用收藏价值低的鱼。<Else/></If>
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※高品质或收藏品会降为普通品质。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※优质或收藏品会降为普通品质。
 ※下列道具将会消失。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7035,"可选道具"
 7036,"当前道具"
@@ -7128,7 +7127,7 @@ A：Assist，协助他人打倒敌人的次数"
 7767,"显示热键栏编号"
 7768,"启用快捷切换键"
 7769,"启用拖拽功能"
-7770,"共通热键栏：将特定热键栏设置成全职业共通"
+7770,"共用热键栏：将特定热键栏设置成全职业共用"
 7771,"热键栏"
 7772,"十字热键栏"
 7773,"热键栏1"
@@ -8069,7 +8068,7 @@ A：Assist，协助他人打倒敌人的次数"
 8709,"关闭"
 8712,"标准品质"
 8713,"关闭"
-8715,"高分辨率界面设置"
+8715,"高分辨率用界面尺寸设置"
 8716,"调整界面尺寸以更合适高分辨率显示环境"
 8717,"100%（HD） - 基本尺寸"
 8718,"150%（FullHD） - 1728x972及以上"
@@ -9586,7 +9585,7 @@ A：Assist，协助他人打倒敌人的次数"
 10245,"标准"
 10246,"被激活栏"
 10247,"未激活栏"
-10248,"按住切换显示普通品质/高品质详细信息"
+10248,"按住切换显示普通品质/优质详细信息"
 10249,"按键 （手柄为<CommandIcon(14)/>键）"
 10250,"按住隐藏详细信息"
 10251,"按键 （手柄为<CommandIcon(15)/>键）"
@@ -12062,6 +12061,12 @@ A：Assist，协助他人打倒敌人的次数"
 12780,"库啵好运道"
 12781,"<Value>IntegerParameter(1)</Value>等"
 12782,"关闭"
+12783,"赞颂伟大的<Sheet(ClassJob,IntegerParameter(1),0)/>
+以及挥洒汗水的无名众人
+向你们致以最崇高的敬意"
+12784,"关闭"
+12785,"纪念所有天穹街重建者"
+12786,"天穹街全体居民　敬立"
 12790,"重要物品"
 12791,""
 12800,"同好会"
@@ -12425,8 +12430,8 @@ A：Assist，协助他人打倒敌人的次数"
 会不断重复上一次做出的情感动作。
 快来用自己喜欢的姿势拍照留念吧！"
 13140,"角色显示设置"
-13141,"操作角色"
-13142,"不操作角色"
+13141,"可操控角色"
+13142,"不可操控角色"
 13143,"自己"
 13144,"自己的宠物"
 13145,"其他玩家"
@@ -12448,8 +12453,8 @@ A：Assist，协助他人打倒敌人的次数"
 13161,"全隐藏"
 13162,"只显示自己"
 13163,"只显示自己与非玩家角色"
-13164,"只显示操作角色"
-13165,"只显示不操作角色"
+13164,"只显示可操控的"
+13165,"只显示不可操控的"
 13166,"只显示玩家"
 13167,"只显示搭档、召唤兽、宠物"
 13168,"只显示非玩家角色"

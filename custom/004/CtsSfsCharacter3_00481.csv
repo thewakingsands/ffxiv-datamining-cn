@@ -59,7 +59,7 @@ int32,str,str
 可以在碧玉水西南侧的甲人族杂用商人处购买。"
 35,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_000","能工巧匠制作出来的产品的“收藏价值”
 会随制作时物品品质的提高而上升。
-因此，尽量完成高品质制作是尤为重要的。"
+因此，尽量提高品质后做出成品是尤为重要的。"
 36,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_002","尤其是“内静”，
 这是在制作时提高品质的重要技能。"
 37,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_003","首先使用“内静”，
@@ -505,5 +505,5 @@ int32,str,str
 227,"TEXT_CTSSFSCHARACTER3_00481_AFTWEEKLY_000_000","本周向<Sheet(ENpcResident,IntegerParameter(1),0)/>交货的次数已经全部消耗。
 交货次数会在每周<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）被重置。"
 228,"TEXT_CTSSFSCHARACTER3_00481_GUIDE_004_001","提高品质的方法大致分为两种。
-一种是制作时使用高品质的材料，
+一种是制作时使用优质的材料，
 另一种是活用各种技能。"

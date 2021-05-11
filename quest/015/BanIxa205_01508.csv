@@ -57,7 +57,7 @@ int32,str,str
 45,"TEXT_BANIXA205_01508_TODO_21",""
 46,"TEXT_BANIXA205_01508_TODO_22",""
 47,"TEXT_BANIXA205_01508_TODO_23",""
-48,"TEXT_BANIXA205_01508_METHULICATTLAN_000_000","喂！你去制作2个用于组装动力部件的高品质<Sheet(ItemHQ,　8099,0)/>！
+48,"TEXT_BANIXA205_01508_METHULICATTLAN_000_000","喂！你去制作2个用于组装动力部件的优质<Sheet(ItemHQ,　8099,0)/>！
 不……我没有对你发火！
 我向来这副德行，你就体谅下吧！"
 49,"TEXT_BANIXA205_01508_METHULICATTLAN_000_010","需要你制作的是十分坚硬的大锤！
@@ -72,7 +72,7 @@ int32,str,str
 52,"TEXT_BANIXA205_01508_METHULICATTLAN_000_040","塔塔拉姆那小子已经派人准备好材料了！
 你去山人岩穴，找一个叫阿德马尔的家伙，
 让他把材料交给你！"
-53,"TEXT_BANIXA205_01508_METHULICATTLAN_000_050","我需要你制作高品质的<Sheet(ItemHQ,　8099,0)/>！
+53,"TEXT_BANIXA205_01508_METHULICATTLAN_000_050","我需要你制作优质的<Sheet(ItemHQ,　8099,0)/>！
 你去山人岩穴，找一个叫阿德马尔的家伙，
 让他把材料交给你！"
 54,"TEXT_BANIXA205_01508_ADEMAR_000_060","辛苦了！

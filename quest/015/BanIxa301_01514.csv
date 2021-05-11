@@ -59,7 +59,7 @@ int32,str,str
 46,"TEXT_BANIXA301_01514_TODO_22",""
 47,"TEXT_BANIXA301_01514_TODO_23",""
 48,"TEXT_BANIXA301_01514_ROZOLCATTLAN_000_000","<If(PlayerParameter(4))>小姐<Else/>小哥</If>！
-你的手艺十分了得，希望你能帮我制作2个高品质<Sheet(ItemHQ,　8100,0)/>！"
+你的手艺十分了得，希望你能帮我制作2个优质<Sheet(ItemHQ,　8100,0)/>！"
 49,"TEXT_BANIXA301_01514_ROZOLCATTLAN_000_010","我现在需要可以承受得了急加速的合金板。
 材料我已经准备好了，你去库尔札斯的中央高地，
 在阿德内尔占星台那里进行制作就行了。"

@@ -59,11 +59,11 @@ int32,str,str
 45,"TEXT_BANIXA302_01515_TODO_21",""
 46,"TEXT_BANIXA302_01515_TODO_22",""
 47,"TEXT_BANIXA302_01515_TODO_23",""
-48,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_000","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个高品质<Sheet(ItemHQ,　8101,0)/>吗？
+48,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_000","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个优质<Sheet(ItemHQ,　8101,0)/>吗？
 用于驾驶席的铆钉不够了！"
-49,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_010","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个高品质<Sheet(ItemHQ,　8101,0)/>吗？
+49,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_010","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个优质<Sheet(ItemHQ,　8101,0)/>吗？
 用于驾驶席的强化树脂不够了！"
-50,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_020","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个高品质<Sheet(ItemHQ,　8101,0)/>吗？
+50,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_020","<If(PlayerParameter(4))>小姐<Else/>小哥</If>，能请你制作2个优质<Sheet(ItemHQ,　8101,0)/>吗？
 用于驾驶席的包覆皮革的内饰板不够了！"
 51,"TEXT_BANIXA302_01515_ROZOLCATTLAN_000_040","你先去天火要塞群，
 找空力团货物运送员领取制作材料！

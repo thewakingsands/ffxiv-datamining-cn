@@ -14,9 +14,9 @@ int32,ENpcResident,ClassJobCategory,uint32,Item,Item,Item,Item,uint32,byte,byte,
 贡献度积累到最大时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献等级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将会提升。
 贡献等级提升后可观看金属工艺部新的剧情故事。
 
-另外，交纳物品时交纳普通品质或高品质的物品皆可，
+另外，交纳物品时交纳普通品质或优质的物品皆可，
 一次性交纳多个物品也可。
-交纳高品质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
+交纳优质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的報酬。"
 1,1027234,152,0,27240,27241,27242,27243,0,0,1,1,1,1,0,False,False,False,False,False,False,0,2,2,2,2,0,0,66,80,93,106,0,100,150,150,150,150,100,0,155,162,166,173,0,100,150,150,150,150,100,0,0,23187,18026,18025,18027,False,False,False,False,False,False,0,0,3,3,3,3,0,0,26554,27864,27871,27876,False,False,False,False,False,False,0,0,3,3,3,3,"“中庸工艺馆交易”的物品交纳界面上显示着对应部门需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>手工工艺：图楠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
@@ -31,9 +31,9 @@ int32,ENpcResident,ClassJobCategory,uint32,Item,Item,Item,Item,uint32,byte,byte,
 贡献度积累到最大时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献等级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将会提升。
 贡献等级提升后可观看手工工艺部新的剧情故事。
 
-另外，交纳物品时交纳普通品质或高品质的物品皆可，
+另外，交纳物品时交纳普通品质或优质的物品皆可，
 一次性交纳多个物品也可。
-交纳高品质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
+交纳优质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的報酬。"
 2,1027235,153,0,27248,27249,27250,27251,0,0,3,3,3,3,0,False,False,False,False,False,False,0,2,2,2,2,0,0,66,80,93,106,0,100,150,150,150,150,100,0,155,162,166,173,0,100,150,150,150,150,100,0,0,23187,18026,18025,18027,False,False,False,False,False,False,0,0,3,3,3,3,0,0,26554,27864,27871,27876,False,False,False,False,False,False,0,0,3,3,3,3,"“中庸工艺馆交易”的物品交纳界面上显示着对应部门需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>食药工艺：贝斯里克<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
@@ -48,9 +48,9 @@ int32,ENpcResident,ClassJobCategory,uint32,Item,Item,Item,Item,uint32,byte,byte,
 贡献度积累到最大时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献等级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将会提升。
 贡献等级提升后可观看食药工艺部新的剧情故事。
 
-另外，交纳物品时交纳普通品质或高品质的物品皆可，
+另外，交纳物品时交纳普通品质或优质的物品皆可，
 一次性交纳多个物品也可。
-交纳高品质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
+交纳优质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的報酬。"
 3,1027236,154,0,26752,26753,26754,26755,0,0,3,3,3,3,0,False,False,False,False,False,False,0,4,4,4,4,0,0,66,80,93,106,0,100,150,150,150,150,100,0,155,162,166,173,0,100,150,150,150,150,100,0,0,23185,18022,18023,18024,False,False,False,False,False,False,0,0,3,3,3,3,0,0,26553,27865,27870,27878,False,False,False,False,False,False,0,0,3,3,3,3,"“中庸工艺馆交易”的物品交纳界面上显示着对应部门需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>大地资源：科希·芮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
@@ -63,9 +63,9 @@ int32,ENpcResident,ClassJobCategory,uint32,Item,Item,Item,Item,uint32,byte,byte,
 贡献度积累到最大时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献等级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将会提升。
 贡献等级提升后可观看大地资源部新的剧情故事。
 
-另外，交纳物品时交纳普通品质或高品质的物品皆可，
+另外，交纳物品时交纳普通品质或优质的物品皆可，
 一次性交纳多个物品也可。
-交纳高品质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
+交纳优质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的報酬。"
 4,1027237,155,0,26746,26747,26748,26749,0,0,1,1,1,1,0,False,False,False,False,False,False,0,4,4,4,4,0,0,66,80,93,106,0,100,150,150,150,150,100,0,155,162,166,173,0,100,150,150,150,150,100,0,0,23185,18022,18023,18024,False,False,False,False,False,False,0,0,3,3,3,3,0,0,26553,27865,27870,27878,False,False,False,False,False,False,0,0,3,3,3,3,"“中庸工艺馆交易”的物品交纳界面上显示着对应部门需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>水生资源：弗里斯利克<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
@@ -75,7 +75,7 @@ int32,ENpcResident,ClassJobCategory,uint32,Item,Item,Item,Item,uint32,byte,byte,
 贡献度积累到最大时<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献等级<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将会提升。
 贡献等级提升后可观看水生资源部新的剧情故事。
 
-另外，交纳物品时交纳普通品质或高品质的物品皆可，
+另外，交纳物品时交纳普通品质或优质的物品皆可，
 一次性交纳多个物品也可。
-交纳高品质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
+交纳优质的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的報酬。"

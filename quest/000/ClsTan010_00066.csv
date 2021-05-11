@@ -106,7 +106,7 @@ int32,str,str
 69,"TEXT_CLSTAN010_00066_GEVA_000_030","我决不允许发生那种事。"
 70,"TEXT_CLSTAN010_00066_GEVA_000_031","<Highlight>ObjectParameter(1)</Highlight>，这是制革匠行会会长交给你最后的委托。
 就由你来阻止他们。"
-71,"TEXT_CLSTAN010_00066_GEVA_000_032","你去制作最高品质的<Sheet(ItemHQ,　3206,0)/>，
+71,"TEXT_CLSTAN010_00066_GEVA_000_032","你去制作最优质的<Sheet(ItemHQ,　3206,0)/>，
 并镶嵌上<Sheet(Item,　5696,0)/>，用它来参加品评会。"
 72,"TEXT_CLSTAN010_00066_GEVA_000_033","制作<Sheet(ItemHQ,　3206,0)/>可不是那么容易的。
 但你经受住了我严苛的训练，我相信你的手艺。"

@@ -88,11 +88,11 @@ int32,str,str
 我正被鬼哭队那些家伙追得满世界跑呢……"
 59,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_061","这些是我要送过去的材料。
 话说……<If(PlayerParameter(4))>小姐<Else/>小哥</If>，
-你接下来要制作大姐头所需的高品质<Sheet(ItemHQ,　8098,0)/>吧？"
+你接下来要制作大姐头所需的优质<Sheet(ItemHQ,　8098,0)/>吧？"
 60,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_062","如果是的话，就去秋瓜浮村借用制作设施吧。
 去找一个叫休德耶德的女人就行了。
 好事做到底嘛，就拜托你了！"
-61,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_063","去制作高品质的<Sheet(ItemHQ,　8098,0)/>吧。
+61,"TEXT_BANIXA204_01507_IXALGATHERER01507_000_063","去制作优质的<Sheet(ItemHQ,　8098,0)/>吧。
 前往秋瓜浮村，向休德耶德借用设施。
 好事做到底嘛，就拜托你了！"
 62,"TEXT_BANIXA204_01507_HILDEYERD_000_090","你好呀！

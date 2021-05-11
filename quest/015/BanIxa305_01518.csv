@@ -58,7 +58,7 @@ int32,str,str
 46,"TEXT_BANIXA305_01518_TODO_22",""
 47,"TEXT_BANIXA305_01518_TODO_23",""
 48,"TEXT_BANIXA305_01518_ROZOLCATTLAN_000_000","<If(PlayerParameter(4))>小姐<Else/>小哥</If>！<If(PlayerParameter(4))>小姐<Else/>小哥</If>！
-能请你制作高品质的<Sheet(ItemHQ,　8104,0)/>吗？
+能请你制作优质的<Sheet(ItemHQ,　8104,0)/>吗？
 那是用于驾驶席外部的东西，也就是防风用的。"
 49,"TEXT_BANIXA305_01518_ROZOLCATTLAN_000_010","多扎尔工头想要金属板！
 那家伙对品质的要求十分严格！

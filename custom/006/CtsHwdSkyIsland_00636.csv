@@ -11,12 +11,12 @@ int32,str,str
 3,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_000_030","我名为奥瓦埃尔·德·艾因哈特，
 是声名显赫的艾因哈特家的次子！
 肩负云冠群岛探索工作的先驱人物！"
-4,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_000","你来的正好，<Highlight>ObjectParameter(1)</Highlight>!
+4,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_000","你来得正好，<Highlight>ObjectParameter(1)</Highlight>!
 你听说有关我们工作的事情了吗？
 不要畏惧，云冠群岛探索工作不管多少次都会重新开放！"
-5,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_010","你来的正好，英雄啊！
-你听说有关我们工作的事情了吗？
-请务必详细听听我们的说明！"
+5,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_010","英雄啊，你来得正好！
+听说有关我们工作的事情了吗？
+请务必容我详细说明！"
 6,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_020","云冠群岛是一个以太极为紊乱，
 环境与动植物的生态系统非常容易变化的地区……"
 7,"TEXT_CTSHWDSKYISLAND_00636_AURVAEL_010_030","最近又发生了一场大规模的以太变异。
