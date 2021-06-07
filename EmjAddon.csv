@@ -199,8 +199,8 @@ int32,str
 194,""
 195,""
 196,""
-197,"宝牌（传统提示）"
-198,"宝牌（多玛式提示）"
+197,"宝牌指示牌（传统式）"
+198,"宝牌（多玛式）"
 199,"<If(Equal(PlayerParameter(80),0))><If(Equal(PlayerParameter(78),3))>control<Else/>Ctrl</If>键<Else/><CommandIcon(15)/></If> 显示点数差距"
 200,"段位<Value>IntegerParameter(1)</Value>"
 201,"距离新一局的开始时间还有

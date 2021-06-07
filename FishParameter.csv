@@ -994,8 +994,8 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 990,"长长的触手能将整艘船缠绕起来的巨大乌贼。被认为是栖息在破舰岛深处的怪物血族，不知是因为何种仇恨，对海都的人们有着很强的执念。",32074,485,5,True,True,1,900,0,True,True,False
 991,"不论怎么看都是稀松平常的青蛙，可是却不怕海水，会在海边自在地遨游。被人怀疑是从田园郡附近逃出来的某种实验体。",32094,485,5,True,True,1,900,0,True,True,False
 992,"名字诠释着它有一口平整的牙齿。会用牙齿翻起藏在海底的贝类进行捕食。因为会连贝壳一起咬碎，所以其所经之处都会有大量的碎片飘浮。",32114,485,5,True,True,1,900,0,True,True,False
-993,"",0,0,0,False,False,0,0,0,False,False,False
-994,"",0,0,0,False,False,0,0,0,False,False,False
+993,"褪色并皱起来的海藻。被人认为是莫古力在死后其绒球彷徨在云海时的样子。看起来有点像腌梅子。",31771,490,0,False,True,3,402,0,True,False,False
+994,"体内具有发光器官，会从导光板一样的鱼鳍中发出橙色的亮光，看上去就像是在水中摇摆的火光。",31770,490,0,False,True,3,402,0,True,False,False
 995,"",0,0,0,False,False,0,0,0,False,False,False
 996,"",0,0,0,False,False,0,0,0,False,False,False
 997,"",0,0,0,False,False,0,0,0,False,False,False

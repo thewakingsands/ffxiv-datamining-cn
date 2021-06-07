@@ -4181,10 +4181,10 @@ int32,byte,byte,Image,byte,str,str,str
 2503,1,0,152772,0,"
 成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
+想要使用学会的青魔法，需要打开青魔法书将青魔法设置到热键栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
 2504,1,0,152773,0,"
-开启青魔法书后，可以通过勾选选出能设置到快捷栏的有效技能。
+开启青魔法书后，可以通过勾选选出能设置到热键栏的有效技能。
 有效技能的上限为青魔法24种。","",""
 2505,1,0,152774,0,"
 在青魔法书中可以确认到青魔法的详细效果和解说，以及主要的学习地点等信息。
@@ -4210,7 +4210,7 @@ int32,byte,byte,Image,byte,str,str,str
 2509,1,0,152776,0,"
 成功学到的技能会化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>收录进<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中。
 
-想要使用学会的青魔法，需要打开青魔法书将青魔法设置到快捷栏上。
+想要使用学会的青魔法，需要打开青魔法书将青魔法设置到热键栏上。
 青魔法书可以通过快捷指令中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法书<UIGlow>01</UIGlow><UIForeground>01</UIForeground>选项开启。","",""
 2510,1,0,152781,0,"
 “双色宝石”是完成特定区域的临危受命任务时获得的宝石。

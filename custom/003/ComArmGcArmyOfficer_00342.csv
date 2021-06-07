@@ -170,7 +170,7 @@ int32,str,str
 分队员们会协力施放极限技。"
 111,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_349","此极限技固定为1级，
 就算极限槽攒满了2格，发动时也只会消耗1格。"
-112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","若想将号令添加到普通快捷栏中，
+112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","若想将号令添加到普通热键栏中，
 可以从快捷指令的角色→技能菜单→行动指令→冒险者分队
 中进行操作。"
 113,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_351","在<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))>分队副漩士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))>分队副牙士<Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))>分队副耀士<Else/></If><Else/></If>处可以开始分队攻略任务或确认任务结果。"
