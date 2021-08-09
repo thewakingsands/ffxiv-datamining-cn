@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,Name,Description,,,Unknown[5-4],,
+#,Name,Description,,,,,
 int32,str,str,byte,byte,bit&01,byte,int32
 0,"","",0,0,False,0,0
 1,"天选","出现什么规则完全交给命运女神来决定。",0,0,False,0,0

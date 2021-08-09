@@ -56,5 +56,4 @@ int32,str,str
 29,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_033","当收藏价值达到需要后，就采集收藏品吧。
 另外，采集地点的耐久变为0时，将无法继续进行采集，
 还请多多注意。"
-30,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_034","另外，职业为采矿工和园艺工时，
-有的采集地点需要乘坐飞行坐骑才能到达。"
+30,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_034","另外，有的采集地点和钓场需要乘坐飞行坐骑才能到达。"

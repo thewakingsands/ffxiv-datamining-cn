@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6
-#,,,Image,,,,
+#,Type,IconType,Image,TextType,Text[0],Text[1],Text[2]
 int32,byte,byte,Image,byte,str,str,str
 0,0,0,0,0,"","",""
 1,0,0,150011,0,"","",""
@@ -2111,11 +2111,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 升到一定的等级，踏遍一个地区的地图，完成特定的行动等等，都会得到相应的表彰。","",""
 1151,1,0,151492,0,"
-在解锁某些成就后会得到相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>装备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>称号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+部分成就在达成后可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>称号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等奖励。
 
-达成成就条件的路上并不是一路畅通的，还会有很多艰难险阻，不过不要气馁，努力去挑战吧！
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※报酬道具可以找位于格里达尼亚旧街的乔纳森领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+虽然达成成就的路上有很多艰难险阻，不过不要气馁，努力去挑战吧！","",""
 1152,0,0,0,0,"","",""
 1153,0,0,0,0,"","",""
 1154,0,0,0,0,"","",""

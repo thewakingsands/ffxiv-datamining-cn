@@ -161,7 +161,7 @@ int32,str,str
 并在退出部队经过24小时（地球时间）后才可以组建新部队。"
 89,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_80","那么，就将这份部队组建书交给你。
 首先，请决定部队的“名称”和“简称”。
-因为部队名称在决定后就无法再做更改，所以还请慎重对待。"
+两者在之后均可进行修改。"
 90,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_81","一个人是无法组建部队的。
 你需要另外征集3名部队初期成员，进行署名。"
 91,"TEXT_COMDEFFREECOMPANY_00076_FCSEAOFFICER_000_82","将署名后的部队组建书提交给部队管理负责人，
@@ -227,9 +227,9 @@ int32,str,str
 "
 126,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_105","在特定条件下，部队长阶级可以自动转让给部队成员。"
 127,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_106","部队长阶级的角色被删除，
-或是35天（地球时间）未登陆游戏时，
+或是35天（地球时间）未登入游戏时，
 部队长阶级会自动转让给其他的成员。"
 128,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_107","另外，接任部队长阶级的成员以以下标准来选定。"
-129,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_108","1.7天内（地球时间）登陆过游戏。
+129,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_108","1.7天内（地球时间）登入过游戏。
 2.阶级序列最高。
 3.加入时间最早。"

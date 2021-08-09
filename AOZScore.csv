@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,,,,
+#,IsHidden,Score,Name,Description
 int32,bit&01,int32,str,str
 0,False,0,"",""
 1,True,15000,"高速通关","在挑战时间内通关"

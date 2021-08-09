@@ -116,7 +116,7 @@ int32,str,str
 70,"TEXT_JOBSCH560_01674_SYSTEM_000_026","将聊天频道设置为“说话”频道后，
 使用键盘或软键盘输入包含“海兵之魂”的任意词句
 来回答哈尔加·特尔加。"
-71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","海兵之魂嗯嗯嗯嗯！！！"
+71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","海兵之魂嗯嗯嗯嗯！！"
 72,"TEXT_JOBSCH560_01674_HALGATOLGA_000_028","很好，就是这样，一定要时刻牢记“海兵之魂”！
 行了，接下来分别给你们出点课题来做做！"
 73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","喂，那个<Switch(PlayerParameter(71))><Case(1)>缺心眼的</Case><Case(2)>瘦麻杆</Case><Case(3)>小不点</Case><Case(4)>小猫崽</Case><Case(5)>傻大个</Case><Case(6)>一身鳞的</Case><Case(7)>大毛球</Case><Case(8)>长耳朵</Case></Switch>！这附近有个自以为是的辉鳞人队长，

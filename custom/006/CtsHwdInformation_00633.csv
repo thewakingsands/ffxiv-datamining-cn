@@ -239,3 +239,7 @@ int32,str,str
 91,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_340_000","多亏了工匠们的努力，重建工程全面竣工了。
 不过没想到完工之后你还会来到这条街，
 <Highlight>ObjectParameter(1)</Highlight>，你这个人可真是不错啊！"
+92,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_000","真让人感慨啊，这里竟然变得如此热闹！
+当初谁能想到这里会举办天穹同庆呢？"
+93,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_350_010","就算重建已经完成了，也希望你能经常来这里！
+感谢你的帮忙，<Highlight>ObjectParameter(1)</Highlight>！"
