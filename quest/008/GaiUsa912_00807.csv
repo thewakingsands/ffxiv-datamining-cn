@@ -59,7 +59,7 @@ int32,str,str
 51,"TEXT_GAIUSA912_00807_MARCETTE_000_003","要挑战<Sheet(BNpcName,2057,0)/>的话，
 就使用这个<Sheet(EventItem,2000958,0)/>吧。
 死了的话还要给你下葬，太麻烦了，所以你一定要记得用哦！"
-52,"TEXT_GAIUSA912_00807_DUMMY_000_000","使用<Sheet(EventItem,【eventItem=2000958,0)/> 讨伐<Sheet(BNpcName,2057,0)/>"
+52,"TEXT_GAIUSA912_00807_DUMMY_000_000","//使用<Sheet(EventItem,【eventItem=2000958,0)/> 讨伐<Sheet(BNpcName,2057,0)/>"
 53,"TEXT_GAIUSA912_00807_SYSTEM_000_000",""
 54,"TEXT_GAIUSA912_00807_SYSTEM_000_002","无"
 55,"TEXT_GAIUSA912_00807_MARCETTE_000_010","我已经等不及要看<Sheet(EventItem,2000862,0)/>里面的东西了！

@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,,,,,Command,ShortCommand,Description,Alias,ShortAlias,,
-int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
+#,,,,,,Command,ShortCommand,Description,Alias,ShortAlias,Param,
+int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 1,1,0,0,0,0,"/record","","/任务回顾
 /replay、/record
 打开任务回顾窗口。","/任务回顾","/replay",32,0
@@ -3391,6 +3391,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/吃苹果","",293,0
+623,2,1,2,0,0,"/wringhands","","/搓手 子命令
+/wringhands 
+做出搓手的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/搓手","",293,0
 624,2,1,2,0,0,"/sweep","/broom","/扫地 子命令
 /sweep、/broom 
 开始用扫帚扫地。
@@ -3455,6 +3463,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,uint16,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/不解","",293,0
+632,2,1,2,0,0,"/shush","/shh","/嘘 子命令
+/shush、/shh
+催促周围保持安静。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/嘘","",293,0
 633,2,1,2,0,0,"/eatpizza","/pizza","/吃披萨 子命令
 /eatpizza、/pizza
 开始吃披萨。

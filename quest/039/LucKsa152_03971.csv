@@ -63,7 +63,7 @@ int32,str,str
 50,"TEXT_LUCKSA152_03971_Q1_800_000","要制作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的义军武器吗？"
 51,"TEXT_LUCKSA152_03971_A1_800_000","再考虑一下"
 52,"TEXT_LUCKSA152_03971_A2_800_000","制作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的义军武器"
-53,"TEXT_LUCKSA152_03971_SYSTEM_800_001","请切换成想制作义军武器的职业，
+53,"TEXT_LUCKSA152_03971_SYSTEM_800_001","请切换成想制作义军武器的特职，
 再次与兹拉坦对话。"
 54,"TEXT_LUCKSA152_03971_SYSTEM_800_005","已拥有<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>。
 请切换成其他特职再次与兹拉坦对话。"

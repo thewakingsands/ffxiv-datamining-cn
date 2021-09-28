@@ -1012,12 +1012,12 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 1008,"通过摄取具有毒性的蜱螨，使得自身的分泌液中含有了微弱的毒性。抽取出的麻痹毒素十分便于制作镇痛剂，因此在战场也得到了广泛的应用。",33221,355,0,False,False,2,612,0,True,False,False
 1009,"在东方地区的传说中，这种美丽的双壳贝会从水中升腾雾气，折射出海市蜃楼。人们常用金箔点缀其内侧当做香盒使用。 ",33222,380,0,False,False,2,614,0,True,False,False
 1010,"喜好栖息于香草茂盛的河岸。因其经常食用香草，使得肉质十分柔软，烹饪时即便不使用香辛料也会散发出很强烈的香味。",33223,400,0,False,False,2,622,0,True,False,False
-1011,"",0,0,0,False,False,0,0,0,False,False,False
-1012,"",0,0,0,False,False,0,0,0,False,False,False
-1013,"",0,0,0,False,False,0,0,0,False,False,False
-1014,"",0,0,0,False,False,0,0,0,False,False,False
-1015,"",0,0,0,False,False,0,0,0,False,False,False
-1016,"",0,0,0,False,False,0,0,0,False,False,False
+1011,"一种古代鲨鱼，会像甩动鬣毛一样利用鱼背上形似细长羽毛般的鳞片来游动。在始源湖中生活了很久，被人们称为贤岛之友。",33239,490,0,True,True,3,813,2507,True,True,True
+1012,"有着金属制鳞片的机械鱼。原本是矮人族为了采集水下资源而开发出来的，不过却因为失控游到了海里，再也没有回去。",33240,490,0,True,True,0,814,2507,True,True,False
+1013,"率领着沙卵们在热砂中迅猛前进的沙海之主。剥掉外壳后只会剩下黑色煤渣随风飘散，至于那诡异瞳孔的主人是谁就不得而知了。",33241,490,0,True,True,4,815,2507,True,True,True
+1014,"拥有优美的鱼鳍，因此在妖灵语中被称为镜中之蝶。据说这是一名因为不愿与上一任妖灵王离别的仙子族化身而成的。",33242,490,0,True,True,3,816,2507,True,True,True
+1015,"据说其真正的样子宛如巨龙一般。既然如此，那这副可爱圆滚滚的样子，是否在暗示着水蛇大人将再次降临于森林中呢……",33243,490,0,True,True,3,817,2507,True,True,False
+1016,"被人认为是深海的水流获得了生命变化而成的神秘鱼类。鱼身乃至骨骼内部都能储存大量的海水，以便在深海调节自身的浮力。",33244,490,0,True,True,1,818,2507,True,True,True
 1017,"",0,0,0,False,False,0,0,0,False,False,False
 1018,"",0,0,0,False,False,0,0,0,False,False,False
 1019,"",0,0,0,False,False,0,0,0,False,False,False

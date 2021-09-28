@@ -59,7 +59,7 @@ int32,str,str
 50,"TEXT_LUCKSA051_03845_Q1_800_000","要制作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的义军武器吗？"
 51,"TEXT_LUCKSA051_03845_A1_800_000","再考虑一下"
 52,"TEXT_LUCKSA051_03845_A2_800_000","制作<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>的义军武器"
-53,"TEXT_LUCKSA051_03845_SYSTEM_800_001","请切换成想制作义军武器的职业，
+53,"TEXT_LUCKSA051_03845_SYSTEM_800_001","请切换成想制作义军武器的特职，
 再次与兹拉坦对话。"
 54,"TEXT_LUCKSA051_03845_SYSTEM_800_005","已拥有<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>。
 请切换成其他特职再次与兹拉坦对话。"
@@ -67,7 +67,7 @@ int32,str,str
 请切换成其他特职再次与兹拉坦对话。"
 56,"TEXT_LUCKSA051_03845_ZLATAN_000_000","你想要制作其他的义军武器吗？
 这边别的材料倒是都有富余……
-问题果然还是需要筹集<Sheet(Item,30273,0)/>。"
+不过筹集<Sheet(Item,30273,0)/>是个问题。"
 57,"TEXT_LUCKSA051_03845_ZLATAN_000_001","虽然我们也想跟上回一样替解放者阁下支付费用，
 但由于一开始的计划只是请你持有一套武器，
 所以需要我们支付更多材料费的话，资金就有点……"
@@ -98,7 +98,7 @@ int32,str,str
 70,"TEXT_LUCKSA051_03845_GEROLT_100_062","好了，新的义军武器
 “<Sheet(Item,IntegerParameter(1),0)/>”以及“<Sheet(Item,IntegerParameter(2),0)/>”完成了！"
 71,"TEXT_LUCKSA051_03845_GEROLT_000_063","据说当时手持“上古武器”的“女王之刃”们，
-每当面对不同的敌人时都会根据状况对武器进行调整。
+会根据敌人的特点对武器进行精细调整。
 也就是说，他们曾在战斗中让武器不断成长。"
 72,"TEXT_LUCKSA051_03845_GEROLT_000_064","身为它的使用者，
 你也不能给“上古武器”之名抹黑。
