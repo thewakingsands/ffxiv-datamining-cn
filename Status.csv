@@ -1705,7 +1705,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1649,"文理反射","自身受到的魔法将被反射给对方",16645,0,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,0,0,False,0,False,False,0,40,False
 1650,"ロゴス・ポイズン","ＨＰが徐々に失われる状態。",16646,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,30,0,False,0,False,False,0,0,False
 1651,"文理醒神","魔素以太恢复量提高",16647,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,100,0,False,0,False,False,0,0,False
-1652,"文理魔法爆发","以自身发动技能时消耗的魔力增加为代价提高魔法类技能攻击时造成的伤害",16648,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,6,False,0,False,False,0,19,False
+1652,"魔法爆发","以自身发动技能时消耗的魔力增加为代价提高魔法类技能攻击时造成的伤害",16648,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,6,False,0,False,False,0,19,False
 1653,"文理双刃剑","以体力不断降低为代价提高物理攻击所造成的伤害",19401,16,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,1200,0,False,0,False,False,0,0,False
 1654,"文理精神镖","受到攻击的伤害增加",16650,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,8,0,False,0,False,False,0,0,False
 1655,"文理放逐","受到攻击的伤害增加",16651,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,30,0,False,0,False,False,0,0,False

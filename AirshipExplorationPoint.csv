@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Name,Name{Short},,X,Y,RequiredLevel,RequiredFuel,Duration<min>,,,RequiredSurveillance,,,ExpReward
+#,Name,Name{Short},Passengers,X,Y,RankReq,CeruleumTankReq,SurveyDuration<min>,SurveyDistance,,SurveillanceReq,,,ExpReward
 int32,str,str,bit&01,int16,int16,byte,uint16,uint16,uint16,byte,byte,byte,byte,uint32
 0,"云海01","云海01",False,371,831,1,1,180,13,0,0,0,0,10610
 1,"云海02","云海02",False,615,800,1,1,180,13,0,0,0,0,10610
