@@ -2663,7 +2663,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2542,"不浄の恐怖","不浄の恐怖で行動できなくなり、対象から離れようとしてしまう状態。",15364,0,1,2,17,0,False,False,True,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2543,"软体化","陷入软体化状态。移动速度降低，无法进行跳跃以及发动技能",16214,0,1,1,16,0,False,False,False,False,True,False,False,False,False,100,False,False,False,0,2,True,0,False,False,0,0,False
 2544,"","",0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,0,False,True,False,0,20,False,0,False,False,3,0,False
-2545,"点名决斗","被点名要求决斗。受到点名对手的攻击时，减轻1次受到的伤害。如果在次状态的持续时间内没有受到点名对手的攻击，则在持续时间结束后陷入无法战斗状态",15349,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,True,-90,0,False,0,False,False,0,0,False
+2545,"点名决斗","被点名要求决斗。受到点名对手的攻击时，减轻1次受到的伤害。如果在此状态的持续时间内没有受到点名对手的攻击，则在持续时间结束后陷入无法战斗状态",15349,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,True,-90,0,False,0,False,False,0,0,False
 2546,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2547,"炎斧","莱昂的斧子处于燃烧的状态，自动攻击时会发生追加效果",15350,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 2548,"变身","变成了其他形态",16214,0,1,1,16,0,False,False,False,False,True,False,False,True,True,100,False,False,False,0,2,False,0,False,False,0,0,False

@@ -193,7 +193,7 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 189,1,16784,False,2,0,1,22444,False,1,2,2,False,500
 190,1,16784,False,2,0,1,22444,False,1,2,2,False,500
 191,1,16784,False,2,0,1,22444,False,1,2,2,False,500
-192,1,16784,False,2,0,1,22444,False,1,2,1,False,1000
+192,1,16784,False,2,0,1,22444,False,1,2,2,False,500
 193,1,14971,False,1,0,1,26823,False,1,2,3,False,50
 194,1,14971,False,1,0,1,26823,False,1,2,3,False,50
 195,1,14971,False,1,0,1,26823,False,1,2,3,False,50
@@ -223,7 +223,7 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 219,1,14971,False,1,0,1,26823,False,1,2,3,False,50
 220,1,14971,False,1,0,1,26823,False,1,2,3,False,50
 221,1,14971,False,1,0,1,26823,False,1,2,3,False,50
-222,1,14971,False,1,0,1,26823,False,1,2,1,False,700
+222,1,14971,False,1,0,1,26823,False,1,2,3,False,50
 223,1,5827,False,1,0,2,1,False,500,1,26745,False,1
 224,1,5827,False,1,0,2,1,False,500,1,26745,False,1
 225,1,5827,False,1,0,2,1,False,500,1,26745,False,1

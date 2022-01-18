@@ -251,7 +251,7 @@ int32,str,str
 137,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_008","营救作战的指挥官知道人质并非贵族后，
 不顾拉姆萨和迪利塔的强烈反对，
 决定无视过激派提出的要求，直接进行强攻。"
-138,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_009","指挥官下令使用火攻，点燃了阿尔加斯和过激派据守的建筑，
+138,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_009","指挥官下令使用火攻，点燃了阿加斯和过激派据守的建筑，
 将所有人付之一炬，而不幸的蒂妲也死在了里面……
 据说当时迪利塔抱着蒂妲的尸体痛哭的声音传出了很远很远……"
 139,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_100_010","由于这次事件，迪利塔从士官学校退了学。
@@ -275,7 +275,7 @@ int32,str,str
 这对父子已经怀疑幕后黑手正是被尊为伊瓦利斯国教的教会。"
 146,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_005","奥尔兰多本身其实是处于贝奥尔甫家的敌对阵营，
 但他一直对战争持有反对态度。
-他曾数尝试和平解决争端，但每次都有教会从中作梗。"
+他曾数次尝试和平解决争端，但每次都有教会从中作梗。"
 147,"TEXT_REGHINRETURNTOIVALICESTORYNPC002_00543_JENOMIS_200_006","因此奥尔兰多将军认为正是号称中立的教会
 在阻挠这场战争早日平息，
 目的也许是想借战乱巩固教会的地位。"

@@ -58,7 +58,7 @@ int32,str,str
 50,"TEXT_HEAVNZ109_01758_LANIAITTE_000_010","拜托你了，请你支援泰尔米奥……"
 51,"TEXT_HEAVNZ109_01758_ENTRANCESOLDIER01755_000_011","你负责回收<Sheet(EventItem,2001601,0)/>？
 不好意思，拜托你了。"
-52,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_030","你看样子所有被抢的武器防具都取回来了。
+52,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_030","看样子你把所有被抢的武器防具都取回来了。
 多亏了你，<Highlight>ObjectParameter(1)</Highlight>。
 要是只有我们这些人，是没办法完成任务的。"
 53,"TEXT_HEAVNZ109_01758_TERREMIAUX_000_031","接下来我会去视察一下情况，然后回到营地里。
