@@ -65,7 +65,7 @@ int32,str,str
 53,"TEXT_CLSARC001_00046_LUCIANE_000_6","使用“强力射击”就可以破坏掉这些靶子。
 靶子一共有6个，如果你全部找到并成功破坏之后，
 就回到行会。"
-54,"TEXT_CLSARC001_00046_TALK_SCENE00001_000","（暂）等着给Eobj的skill action todo呢。"
+54,"TEXT_CLSARC001_00046_TALK_SCENE00001_000","等着给Eobj的skill action todo呢。"
 55,"TEXT_CLSARC001_00046_LUCIANE_000_10","看来你已经找到并破坏掉了弓术用的靶子。
 怎么样？你已经掌握“看”的诀窍了吗？"
 56,"TEXT_CLSARC001_00046_LUCIANE_000_11","那么接下来，就将其运用到实战中去吧。
@@ -85,7 +85,7 @@ int32,str,str
 观察对手使用怎样的招数，
 思考在战斗中怎样才能处于有利地位。"
 62,"TEXT_CLSARC001_00046_LUCIANE_000_17","好了，那你这就出发吧。"
-63,"TEXT_CLSARC001_00046_TALK_SCENE00003_000","（暂）向吕西安娜报告。有NCut。"
+63,"TEXT_CLSARC001_00046_TALK_SCENE00003_000","向吕西安娜报告。有NCut。"
 64,"TEXT_CLSARC001_00046_LUCIANE_000_0001","你回来了，<Highlight>ObjectParameter(1)</Highlight>。
 怎么样？找到有效的战斗方法了吗？"
 65,"TEXT_CLSARC001_00046_LUCIANE_000_0002","面对像这次一样棘手的敌人时，

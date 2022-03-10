@@ -73,3 +73,6 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 69,"全职业共通",5,True,False,1
 70,"天钢工具",4,True,False,51
 71,"特殊场景探索",1,True,False,7
+72,"北洋地域",11,True,False,12
+73,"伊尔萨巴德大陆",11,True,False,13
+74,"其他",11,True,False,99

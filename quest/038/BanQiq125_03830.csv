@@ -55,16 +55,16 @@ int32,str,str
 48,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_000","越是挖到地下深处，环境越是恶劣是也。
 如果没有专用的挖掘道具，根本无法有进展，
 所以某想麻烦尔去找一些制作坚固道具的素材。"
-49,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_001","请去蛇水湖的水下采取<Sheet(ItemHQ,29535,0)/>，
+49,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_001","请去蛇水湖的水下采取3个<Sheet(Item,29535,0)/>，
 为了进行安全的挖掘，就拜托尔了是也！"
-50,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_002","请去蛇水湖的水下采取<Sheet(ItemHQ,29561,0)/>，
+50,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_002","请去蛇水湖的水下采取3个<Sheet(Item,29561,0)/>，
 为了进行安全的挖掘，就拜托尔了是也！"
 51,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_003","请去蛇水湖用<Sheet(Item,27582,0)/>钓取
 栖息在那里的<Sheet(Item,29587,0)/>，
 为了进行安全的挖掘，就拜托尔了是也！"
-52,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_004","请去蛇水湖的水下采取<Sheet(ItemHQ,29535,0)/>，
+52,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_004","请去蛇水湖的水下采取3个<Sheet(Item,29535,0)/>，
 为了进行安全的挖掘，就拜托尔了是也！"
-53,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_005","请去蛇水湖的水下采取<Sheet(ItemHQ,29561,0)/>，
+53,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_005","请去蛇水湖的水下采取3个<Sheet(Item,29561,0)/>，
 为了进行安全的挖掘，就拜托尔了是也！"
 54,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_006","请去蛇水湖用<Sheet(Item,27582,0)/>钓取
 栖息在那里的<Sheet(Item,29587,0)/>，
@@ -82,5 +82,4 @@ int32,str,str
 59,"TEXT_BANQIQ125_03830_QHOTERLPASOL_000_014","就算是某家的小孩，只要有了新道具，
 也一定能从地下深处平安归来了是也！
 某作为等待采掘队回来的人，也算是安心了许多。"
-60,"TEXT_BANQIQ125_03830_SYSTEM_000_020","背包中留有在本次任务中采集到的普通品质道具。
-这种道具无法使用也无法出售给商店，尽早扔掉吧。"
+60,"TEXT_BANQIQ125_03830_SYSTEM_000_020","（★未使用／削除予定★）"

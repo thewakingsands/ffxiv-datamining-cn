@@ -67,9 +67,7 @@ int32,str,str
 54,"TEXT_CLSGLD250_00616_SYSTEM_000_7","试着制作“优质道具”吧。
 在制作过程中，通过提升“品质”，
 能大大提高优质道具的完成率。"
-55,"TEXT_CLSGLD250_00616_SYSTEM_000_8","另外，使用优质道具作为材料能够提高初期品质。
-从而更容易制作出优质道具。
-请积极地使用优质道具作为材料吧。"
+55,"TEXT_CLSGLD250_00616_SYSTEM_000_8",""
 56,"TEXT_CLSGLD250_00616_SERENDIPITY_000_9","<Highlight>ObjectParameter(1)</Highlight>！
 你做好<Sheet(ItemHQ,5064,0)/>了吗？"
 57,"TEXT_CLSGLD250_00616_SERENDIPITY_000_10","这品质……真是太棒了！

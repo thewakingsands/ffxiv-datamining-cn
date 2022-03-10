@@ -86,9 +86,9 @@ int32,str,str
 62,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_020","感谢你陪我印证猜想。
 多亏了有你帮忙，魔法生物获得了新的可能性。
 如果不嫌弃的话，今后也请你继续运用这门技术吧。"
-63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","可以使用<UIForeground>F20222</UIForeground><Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground>改变召唤兽的外形了。"
+63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","可以使用<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>改变召唤兽的外形了。"
 64,"TEXT_SUBCTS823_02360_SYSTEM_000_022","例如，想要将迦楼罗之灵的外形改变成红宝石兽时，
-输入“<UIForeground>F20222</UIForeground><Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground> 迦楼罗之灵 红宝石兽”即可进行改变。"
-65,"TEXT_SUBCTS823_02360_SYSTEM_000_023","输入<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground>
+输入“<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground> 迦楼罗之灵 红宝石兽”即可进行改变。"
+65,"TEXT_SUBCTS823_02360_SYSTEM_000_023","输入<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>
 或在“用户宏”的“文本指令一览”中可以查看更详细的说明。
 请试着将召唤兽变成自己喜欢的样子吧。"

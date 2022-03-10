@@ -16,9 +16,7 @@ int32,str,str
 9,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_030","<Sheet(Item,26746,0)/>可以在
 雷克兰德的风化裂痕钓到！
 虽然看起来很可怕，但其实是营养很丰富的鱼！"
-10,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_050","非常感谢！
-我会把它带去给暗盲症的患者！
-大家要是能早日康复就好了……"
+10,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_050",""
 11,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_055","这<Sheet(Item,26746,0)/>真是太棒了！非常感谢！
 有了它，暗盲症病人的病情肯定会有所好转！
 我马上给他们带过去！"
@@ -79,9 +77,7 @@ int32,str,str
 33,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_181","湿疹和异食症，虽说不是什么致死的疾病……
 但患者肯定也很痛苦吧……
 为了患者们，我们也要努力筹集物资！"
-34,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_200","非常感谢！
-这<Sheet(Item,26747,0)/>好像很美味啊！
-大家都会很高兴地吃下去吧！"
+34,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_200",""
 35,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_205","这<Sheet(Item,26747,0)/>可真肥嫩！
 非常感谢！
 这东西做食材，大家都会非常高兴地吃下去吧！"
@@ -165,9 +161,7 @@ int32,str,str
 67,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_330","<Sheet(Item,26748,0)/>的筹集还算顺利吗？
 让你去伊尔美格的宠坏的年幼溪流
 那么危险的地方真是对不起……"
-68,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_350","真是漂亮的<Sheet(Item,26748,0)/>，谢谢你！
-我马上就给炼金医疗馆拿过去！
-贝类关键就是要新鲜嘛！"
+68,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_350",""
 69,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_355","哇！好大的<Sheet(Item,26748,0)/>啊！
 而且满满全是肉，好沉啊！
 我马上就给炼金医疗馆拿过去！"
@@ -249,9 +243,7 @@ int32,str,str
 99,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_480","<Sheet(Item,26749,0)/>
 可以在安穆·艾兰的琥珀丘钓到。
 要是你能钓到，罗布和患者肯定也会很开心的！"
-100,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_500","谢谢你！
-真是圆滚滚的<Sheet(Item,26749,0)/>啊！
-这样的话，食疗效果也会很快显现出来吧！"
+100,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_500",""
 101,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_505","哇！多么上乘的<Sheet(Item,26749,0)/>啊！
 如此饱满……一眼就能看出来脂肪充足！
 这样的话，食疗效果应该会立刻显现出来吧！"

@@ -40,7 +40,7 @@ int32,str
 36,"第7名"
 37,"第8名"
 38,"<Sheet(GoldSaucerTextData,IntegerParameter(2),0)/>　<Sheet(GoldSaucerTextData,IntegerParameter(1),0)/>"
-39,"进度：<Value>IntegerParameter(1)</Value>％"
+39,"进度：<Value>IntegerParameter(1)</Value>%"
 40,"排名：<Highlight>StringParameter(1)</Highlight>"
 41,""
 42,""

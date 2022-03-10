@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","欢迎来到<Switch(IntegerParameter(1))><Case(1)>中桅塔</Case><Case(2)>百合岭</Case><Case(3)>娜娜莫大风车</Case><Case(4)>红梅御殿</Case></Switch>公寓！
+0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","欢迎来到<Switch(IntegerParameter(1))><Case(1)>中桅塔</Case><Case(2)>百合岭</Case><Case(3)>娜娜莫大风车</Case><Case(4)>红梅御殿</Case><Case(5)>皓天炉舍</Case></Switch>公寓！
 在这个窗口可以购买房间或听取说明。"
 1,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000","询问有关公寓的事情"
 2,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001","取消"
@@ -94,3 +94,9 @@ int32,str,str
 在土地正式对外销售前，请您耐心等待。"
 53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","要想购买公寓“红梅御殿”的房间，
 需要先完成主线任务“乘风破浪”。"
+54,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","欢迎来到皓天炉舍！
+为了正式向广大冒险者开放，
+现在这里正紧锣密鼓地进行着准备工作。"
+55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","皓天炉舍现还处于售前展示状态。
+在土地正式对外销售前，请您耐心等待。"
+56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY",""

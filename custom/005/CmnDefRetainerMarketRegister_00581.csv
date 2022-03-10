@@ -27,9 +27,9 @@ int32,str,str
 19,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_ABOUT","什么是减税"
 20,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_CANCEL","返回"
 21,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_NO_CASHBACK","当前<Sheet(Town,IntegerParameter(1),0)/>并没有在实施减税活动，
-出售道具时交纳的税金为成交价格的<Value>IntegerParameter(2)</Value>％。"
-22,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK","至<Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>为止，<Sheet(Town,IntegerParameter(1),0)/>实施减税<Value>IntegerParameter(3)</Value>％的活动。
-此期间内出售道具时交纳的税金为成交价格的<Value>IntegerParameter(4)</Value>％。"
+出售道具时交纳的税金为成交价格的<Value>IntegerParameter(2)</Value>%。"
+22,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK","至<Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>为止，<Sheet(Town,IntegerParameter(1),0)/>实施减税<Value>IntegerParameter(3)</Value>%的活动。
+此期间内出售道具时交纳的税金为成交价格的<Value>IntegerParameter(4)</Value>%。"
 23,"TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_01","当出售道具的雇员相对较少时，
 该国家的市场会减收成交时所需缴纳的税金。
 以此优待出售人。"

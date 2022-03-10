@@ -7,8 +7,8 @@ int32,str,str
 3,"TEXT_CLSHRV650_02622_SEQ_03","收集了女王薯的情报。和赤血雄鸡农场的艾德姬丝谈谈。"
 4,"TEXT_CLSHRV650_02622_SEQ_04","和艾德姬丝进行了交谈。冒险者决定去女王薯的输出地东方寻找。在黄金港的小金街收集女王薯的情报。"
 5,"TEXT_CLSHRV650_02622_SEQ_05","收集了女王薯的情报。和红玉海渔村的引波谈谈。"
-6,"TEXT_CLSHRV650_02622_SEQ_06","和引波进行了交谈。渔村北边的农田里似乎种有女王薯。将5个<Sheet(ItemHQ,17946,0)/>交给田园郡绿地菜园的艾德姬丝。可以在红玉海奥萨德东岸的草场上采到<Sheet(ItemHQ,17946,0)/>。"
-7,"TEXT_CLSHRV650_02622_SEQ_07","将<Sheet(ItemHQ,17946,0)/>交给了艾德姬丝，种在了田里。等待杂交有结果后再来看看。
+6,"TEXT_CLSHRV650_02622_SEQ_06","和引波进行了交谈。渔村北边的农田里似乎种有女王薯。将20个<Sheet(Item,17946,0)/>交给田园郡绿地菜园的艾德姬丝。可以在红玉海奥萨德东岸的草场上采到<Sheet(Item,17946,0)/>。"
+7,"TEXT_CLSHRV650_02622_SEQ_07","将<Sheet(Item,17946,0)/>交给了艾德姬丝，种在了田里。等待杂交有结果后再来看看。
 
 ※园艺工的等级达到68级以上时，可以从田园郡绿地菜园的艾德姬丝那里领取下一个园艺工任务。"
 8,"TEXT_CLSHRV650_02622_SEQ_08",""
@@ -32,7 +32,7 @@ int32,str,str
 26,"TEXT_CLSHRV650_02622_TODO_02","和艾德姬丝谈谈"
 27,"TEXT_CLSHRV650_02622_TODO_03","在黄金港收集情报"
 28,"TEXT_CLSHRV650_02622_TODO_04","和渔村的引波对话"
-29,"TEXT_CLSHRV650_02622_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>采集<Sheet(ItemHQ,17946,0)/><Else/>将<Sheet(ItemHQ,17946,0)/>交给田园郡的艾德姬丝</If>"
+29,"TEXT_CLSHRV650_02622_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>采集<Sheet(Item,17946,0)/><Else/>将<Sheet(Item,17946,0)/>交给田园郡的艾德姬丝</If>"
 30,"TEXT_CLSHRV650_02622_TODO_06",""
 31,"TEXT_CLSHRV650_02622_TODO_07",""
 32,"TEXT_CLSHRV650_02622_TODO_08",""
@@ -138,8 +138,8 @@ int32,str,str
 也许还有野生的女王薯存活下来。
 你想要就自己去挖吧。"
 83,"TEXT_CLSHRV650_02622_EDGYTH_000_100","冒险者，我等您好久了！
-您拿到<Sheet(ItemHQ,17946,0)/>了吗？"
-84,"TEXT_CLSHRV650_02622_EDGYTH_000_101","这就是<Sheet(ItemHQ,17946,0)/>……
+您拿到<Sheet(Item,17946,0)/>了吗？"
+84,"TEXT_CLSHRV650_02622_EDGYTH_000_101","这就是<Sheet(Item,17946,0)/>……
 和普通的新薯比起来颜色有点不一样呢。
 那就赶紧种下它吧！"
 85,"TEXT_CLSHRV650_02622_EDGYTH_000_110","……呼，这样就行了。

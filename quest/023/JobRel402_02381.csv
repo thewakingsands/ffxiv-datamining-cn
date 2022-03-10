@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_JOBREL402_02381_SEQ_00","田园郡的安格莱特好像在等待冒险者向她搭话。"
-1,"TEXT_JOBREL402_02381_SEQ_01","安格莱特希望用<Sheet(Item,16064,0)/>交换<Sheet(EventItem,2002021,0)/>。冒险者带着<Sheet(EventItem,2002020,0)/>回忆自己经历过的惨烈战斗，即可令<Sheet(EventItem,2002021,0)/>诞生。携带<Sheet(EventItem,2002020,0)/>完成“随机任务：50级/60级/70级”，获取<Sheet(EventItem,2002021,0)/>。
+1,"TEXT_JOBREL402_02381_SEQ_01","安格莱特希望用<Sheet(Item,16064,0)/>交换<Sheet(EventItem,2002021,0)/>。冒险者带着<Sheet(EventItem,2002020,0)/>回忆自己经历过的惨烈战斗，即可令<Sheet(EventItem,2002021,0)/>诞生。携带<Sheet(EventItem,2002020,0)/>完成“随机任务：50级/60级/70级/80级”，获取<Sheet(EventItem,2002021,0)/>。
 
-※只有在接受任务的状态下完成“随机任务：50级/60级/70级”，才能获得<Sheet(EventItem,2002021,0)/>。"
+※只有在接受任务的状态下完成“随机任务：50级/60级/70级/80级”，才能获得<Sheet(EventItem,2002021,0)/>。"
 2,"TEXT_JOBREL402_02381_SEQ_02","获得了<Sheet(EventItem,2002021,0)/>。将<Sheet(EventItem,2002021,0)/>交给田园郡的安格莱特。"
 3,"TEXT_JOBREL402_02381_SEQ_03","将<Sheet(EventItem,2002021,0)/>交给了安格莱特，获得了<Sheet(Item,16064,0)/>。她是要使用灵布制作帮人宣泄怨恨的诅咒人偶。下次有机会时，可以再次接受她的委托。
 
@@ -31,7 +31,7 @@ int32,str,str
 21,"TEXT_JOBREL402_02381_SEQ_21",""
 22,"TEXT_JOBREL402_02381_SEQ_22",""
 23,"TEXT_JOBREL402_02381_SEQ_23",""
-24,"TEXT_JOBREL402_02381_TODO_00","完成随机任务：50级/60级/70级
+24,"TEXT_JOBREL402_02381_TODO_00","完成随机任务：50级/60级/70级/80级
 获取<Sheet(EventItem,2002021,0)/>"
 25,"TEXT_JOBREL402_02381_TODO_01","将<Sheet(EventItem,2002021,0)/>交给田园郡的安格莱特"
 26,"TEXT_JOBREL402_02381_TODO_02",""
@@ -66,7 +66,7 @@ int32,str,str
 51,"TEXT_JOBREL402_02381_ANGELET_000_004","要注意的是，并不是随便什么战斗都可以……
 必须是激烈的战斗才行……
 不这样做的话，是没有效果的。"
-52,"TEXT_JOBREL402_02381_SYSTEM_000_000","完成“随机任务：50级/60级/70级”后，
+52,"TEXT_JOBREL402_02381_SYSTEM_000_000","完成“随机任务：50级/60级/70级/80级”后，
 可以得到“<Sheet(EventItem,2002021,0)/>”。"
 53,"TEXT_JOBREL402_02381_ANGELET_000_010","啊，你又来了……
 虽说是为了<Sheet(Item,16064,0)/>，
@@ -77,7 +77,7 @@ int32,str,str
 能让我的人偶具备帮人宣泄心底怨恨的力量……"
 56,"TEXT_JOBREL402_02381_ANGELET_000_020","好了，快带着灵布去经历战斗吧……
 这样一来，<Sheet(EventItem,2002021,0)/>就得以完成了……"
-57,"TEXT_JOBREL402_02381_SYSTEM_000_010","完成“随机任务：50级/60级/70级”后，
+57,"TEXT_JOBREL402_02381_SYSTEM_000_010","完成“随机任务：50级/60级/70级/80级”后，
 可以得到“<Sheet(EventItem,2002021,0)/>”。"
 58,"TEXT_JOBREL402_02381_ANGELET_000_040","欢迎回来……
 要给我<Sheet(EventItem,2002021,0)/>吗？"

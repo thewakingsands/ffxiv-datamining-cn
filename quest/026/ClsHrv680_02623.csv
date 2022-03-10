@@ -7,8 +7,8 @@ int32,str,str
 3,"TEXT_CLSHRV680_02623_SEQ_03","调查了<Sheet(EObj,2008181,0)/>。再次调查绿地菜园的<Sheet(EObj,2008181,0)/>。"
 4,"TEXT_CLSHRV680_02623_SEQ_04","获得了<Sheet(EventItem,2002166,0)/>。将<Sheet(EventItem,2002166,0)/>交给绿地菜园的艾德姬丝。"
 5,"TEXT_CLSHRV680_02623_SEQ_05","将<Sheet(EventItem,2002166,0)/>交给了艾德姬丝。她好像察觉到了什么，拜托冒险者购买用于确认原因的试剂。将<Sheet(EventItem,2002167,0)/>交给斯提克奇克斯工房的戈尔德奥克斯。"
-6,"TEXT_CLSHRV680_02623_SEQ_06","将<Sheet(EventItem,2002167,0)/>交给了戈尔德奥克斯。但制作<Sheet(EventItem,2002168,0)/>的材料似乎不够。将8个<Sheet(ItemHQ,17947,0)/>交给斯提克奇克斯工房的戈尔德奥克斯。可以在红玉海螺旋海峡的草场上采到<Sheet(ItemHQ,17947,0)/>。"
-7,"TEXT_CLSHRV680_02623_SEQ_07","将<Sheet(ItemHQ,17947,0)/>交给了戈尔德奥克斯，获得了<Sheet(EventItem,2002168,0)/>。将<Sheet(EventItem,2002168,0)/>交给绿地菜园的艾德姬丝。"
+6,"TEXT_CLSHRV680_02623_SEQ_06","将<Sheet(EventItem,2002167,0)/>交给了戈尔德奥克斯。但制作<Sheet(EventItem,2002168,0)/>的材料似乎不够。将20个<Sheet(Item,17947,0)/>交给斯提克奇克斯工房的戈尔德奥克斯。可以在红玉海螺旋海峡的草场上采到<Sheet(Item,17947,0)/>。"
+7,"TEXT_CLSHRV680_02623_SEQ_07","将<Sheet(Item,17947,0)/>交给了戈尔德奥克斯，获得了<Sheet(EventItem,2002168,0)/>。将<Sheet(EventItem,2002168,0)/>交给绿地菜园的艾德姬丝。"
 8,"TEXT_CLSHRV680_02623_SEQ_08","将<Sheet(EventItem,2002168,0)/>交给了艾德姬丝。使用试剂检测后，发现杂交第一代作物枯死的原因是一种叫线虫的虫子。在弗弗茶他们调查的时候，以防万一继续磨练园艺工的技术。
 
 ※园艺工的等级达到70级以上时，可以从田园郡绿地菜园的艾德姬丝那里领取下一个园艺工任务。"
@@ -32,7 +32,7 @@ int32,str,str
 26,"TEXT_CLSHRV680_02623_TODO_02","再次调查<Sheet(EObj,2008181,0)/>"
 27,"TEXT_CLSHRV680_02623_TODO_03","将<Sheet(EventItem,2002166,0)/>交给艾德姬丝"
 28,"TEXT_CLSHRV680_02623_TODO_04","将<Sheet(EventItem,2002167,0)/>交给戈尔德奥克斯"
-29,"TEXT_CLSHRV680_02623_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在螺旋海峡采集<Sheet(ItemHQ,17947,0)/><Else/>将<Sheet(ItemHQ,17947,0)/>交给斯提克奇克斯工房的戈尔德奥克斯</If>"
+29,"TEXT_CLSHRV680_02623_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在螺旋海峡采集<Sheet(Item,17947,0)/><Else/>将<Sheet(Item,17947,0)/>交给斯提克奇克斯工房的戈尔德奥克斯</If>"
 30,"TEXT_CLSHRV680_02623_TODO_06","将<Sheet(EventItem,2002168,0)/>交给艾德姬丝"
 31,"TEXT_CLSHRV680_02623_TODO_07",""
 32,"TEXT_CLSHRV680_02623_TODO_08",""
@@ -125,16 +125,16 @@ int32,str,str
 78,"TEXT_CLSHRV680_02623_GOLDWOX_000_070","呼哧……呼哧……
 原来如此 原来如此 你想要<Sheet(EventItem,2002168,0)/>！
 但是 现在 做不了！"
-79,"TEXT_CLSHRV680_02623_GOLDWOX_000_071","制作 必须要 稀少的<Sheet(ItemHQ,17947,0)/>！
+79,"TEXT_CLSHRV680_02623_GOLDWOX_000_071","制作 必须要 稀少的<Sheet(Item,17947,0)/>！
 现在 没有 做不了！"
 80,"TEXT_CLSHRV680_02623_GOLDWOX_000_072","你是 园艺工？
-那就去 采8个<Sheet(ItemHQ,17947,0)/>！
-有8个 就能做<Sheet(EventItem,2002168,0)/>了！"
-81,"TEXT_CLSHRV680_02623_GOLDWOX_000_073","<Sheet(ItemHQ,17947,0)/>是东方的 海藻！
+那就去 采20个<Sheet(Item,17947,0)/>！
+有20个 就能做<Sheet(EventItem,2002168,0)/>了！"
+81,"TEXT_CLSHRV680_02623_GOLDWOX_000_073","<Sheet(Item,17947,0)/>是东方的 海藻！
 红玉海 海底 能采到！"
-82,"TEXT_CLSHRV680_02623_GOLDWOX_000_080","采8个<Sheet(ItemHQ,17947,0)/>！
+82,"TEXT_CLSHRV680_02623_GOLDWOX_000_080","采20个<Sheet(Item,17947,0)/>！
 就能做<Sheet(EventItem,2002168,0)/>了！"
-83,"TEXT_CLSHRV680_02623_GOLDWOX_000_081","这正是 <Sheet(ItemHQ,17947,0)/>！
+83,"TEXT_CLSHRV680_02623_GOLDWOX_000_081","这正是 <Sheet(Item,17947,0)/>！
 品质 很好 没有问题！
 稍等 马上做试剂！"
 84,"TEXT_CLSHRV680_02623_GOLDWOX_100_081","呼哧……呼哧……

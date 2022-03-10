@@ -3,8 +3,8 @@
 int32,str,str
 0,"TEXT_LUCKLA403_03238_SEQ_00","中庸工艺馆的科希·芮在等待冒险者。"
 1,"TEXT_LUCKLA403_03238_SEQ_01","和科希·芮进行了交谈。判明了萨迈尔会用幻影隐藏身姿，和其栖息地是在珂露西亚岛。与搜索队一行人一同前往珂露西亚岛，和碎石山地的科希·芮谈谈。"
-2,"TEXT_LUCKLA403_03238_SEQ_02","和珂露西亚岛的科希·芮进行了交谈。为了解除萨迈尔的幻影，需要<Sheet(EventItem,2002566,0)/>。在碎石山地附近收集制作<Sheet(EventItem,2002566,0)/>所需要的<Sheet(ItemHQ,26757,0)/>。"
-3,"TEXT_LUCKLA403_03238_SEQ_03","将<Sheet(ItemHQ,26757,0)/>交给了科希·芮。在<Sheet(EObj,2009806,0)/>使用她制作的<Sheet(EventItem,2002566,0)/>。"
+2,"TEXT_LUCKLA403_03238_SEQ_02","和珂露西亚岛的科希·芮进行了交谈。为了解除萨迈尔的幻影，需要<Sheet(EventItem,2002566,0)/>。在碎石山地附近收集制作<Sheet(EventItem,2002566,0)/>所需要的<Sheet(Item,26757,0)/>。"
+3,"TEXT_LUCKLA403_03238_SEQ_03","将<Sheet(Item,26757,0)/>交给了科希·芮。在<Sheet(EObj,2009806,0)/>使用她制作的<Sheet(EventItem,2002566,0)/>。"
 4,"TEXT_LUCKLA403_03238_SEQ_04","在使用<Sheet(EventItem,2002566,0)/>后，看见了萨迈尔巨大的身影。看见带着幼崽的萨迈尔，科希·芮确信珂露西亚岛就是萨迈尔的繁殖地。带着幼崽的生物通常会很凶暴，此处暂时撤退。回到中庸工艺馆和科希·芮谈谈。"
 5,"TEXT_LUCKLA403_03238_SEQ_05","和科希·芮进行了交谈。证明了萨迈尔确实是存在的，萨迈尔搜索队圆满完成任务宣告解散。今后科希·芮她们也会利用调度资源工作外的闲暇时间继续进行萨迈尔的研究。要是冒险者再次发现不可思议的生物或是矿石的话，就告诉她们一声。"
 6,"TEXT_LUCKLA403_03238_SEQ_06",""
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_LUCKLA403_03238_SEQ_22",""
 23,"TEXT_LUCKLA403_03238_SEQ_23",""
 24,"TEXT_LUCKLA403_03238_TODO_00","和碎石山地东北边的科希·芮对话"
-25,"TEXT_LUCKLA403_03238_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在碎石山地采集<Sheet(ItemHQ,26757,0)/><Else/>将<Sheet(ItemHQ,26757,0)/>交给科希·芮</If>"
+25,"TEXT_LUCKLA403_03238_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在碎石山地采集<Sheet(Item,26757,0)/><Else/>将<Sheet(Item,26757,0)/>交给科希·芮</If>"
 26,"TEXT_LUCKLA403_03238_TODO_02","在<Sheet(EObj,2009806,0)/>使用<Sheet(EventItem,2002566,0)/>"
 27,"TEXT_LUCKLA403_03238_TODO_03","和中庸工艺馆的科希·芮对话"
 28,"TEXT_LUCKLA403_03238_TODO_04",""
@@ -90,10 +90,10 @@ int32,str,str
 62,"TEXT_LUCKLA403_03238_MAOLADD_000_016","这里就是萨迈尔的栖息地啊！
 没准萨迈尔现在就在附近呢！"
 63,"TEXT_LUCKLA403_03238_QESHIRAE_000_020","好了，就在这附近吧。
-这里的土壤里应该有<Sheet(ItemHQ,26757,0)/>！
+这里的土壤里应该有<Sheet(Item,26757,0)/>！
 就是用来制作解除幻影的<Sheet(EventItem,2002566,0)/>的材料！"
-64,"TEXT_LUCKLA403_03238_QESHIRAE_000_021","我想请你去采集些<Sheet(ItemHQ,26757,0)/>。
-有了<Sheet(ItemHQ,26757,0)/>我就能做出<Sheet(EventItem,2002566,0)/>了！"
+64,"TEXT_LUCKLA403_03238_QESHIRAE_000_021","我想请你去采集些<Sheet(Item,26757,0)/>。
+有了<Sheet(Item,26757,0)/>我就能做出<Sheet(EventItem,2002566,0)/>了！"
 65,"TEXT_LUCKLA403_03238_QESHIRAE_000_022","在你去收集的这段时间，我们会探索一下这附近，
 记录一下哪个地方有可能会有萨迈尔！
 我可爱的萨迈尔你在哪里呀……呜呵、呜呵呵呵呵……"
@@ -105,7 +105,7 @@ int32,str,str
 为什么它没有隐身呢？
 那时候又没用<Sheet(EventItem,2002566,0)/>什么的……"
 69,"TEXT_LUCKLA403_03238_QESHIRAE_000_030","怎么样？
-你找到<Sheet(ItemHQ,26757,0)/>了吗？
+你找到<Sheet(Item,26757,0)/>了吗？
 我想赶紧看看萨迈尔究竟长什么样！"
 70,"TEXT_LUCKLA403_03238_QESHIRAE_000_031","嗯嗯……数量、品质都不错！
 这样就能制作<Sheet(EventItem,2002566,0)/>了！

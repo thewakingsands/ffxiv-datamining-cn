@@ -52,8 +52,8 @@ int32,str,str
 46,"TEXT_JOBAST630_02410_TODO_22",""
 47,"TEXT_JOBAST630_02410_TODO_23",""
 48,"TEXT_JOBAST630_02410_JANNEQUINARD_000_000","你好，<Highlight>ObjectParameter(1)</Highlight>，
-由于旭峰性格平易近人，再加上他所掌握的风水知识，
-现在，他已经是占星院的大红人了。"
+旭峰旺盛的求知欲令蕾薇瓦老师都刮目相看，
+真是越来越有意思了。"
 49,"TEXT_JOBAST630_02410_KYOKUHOU_000_000","（★未使用／削除予定★）"
 50,"TEXT_JOBAST630_02410_KYOKUHO_000_000","噢，<If(PlayerParameter(4))>师姐<Else/>师兄</If>！
 占星院的人告诉我，

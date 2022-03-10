@@ -9,8 +9,8 @@ int32,str,str
 
 ※如果<Sheet(Item,17889,0)/>不足的话，就和兰多沃夫对话，即可重获材料，并再次进行挑战。"
 5,"TEXT_CLSBSM680_02618_SEQ_05","将<Sheet(ItemHQ,17890,0)/>交给了布瑞赛尔。
-他也为雪花锻造了新的副工具。将<Sheet(Item,17889,0)/>交给利姆萨·罗敏萨锚场的雪花。"
-6,"TEXT_CLSBSM680_02618_SEQ_06","雪花收下<Sheet(ItemHQ,17890,0)/>后，立刻跑去为自己在锻造的刀收尾了。返回锻铁匠行会，和雪花谈谈。"
+他也为雪花锻造了新的副工具。将<Sheet(EventItem,2002066,0)/>交给利姆萨·罗敏萨锚场的雪花。"
+6,"TEXT_CLSBSM680_02618_SEQ_06","雪花收下<Sheet(EventItem,2002066,0)/>后，立刻跑去为自己在锻造的刀收尾了。返回锻铁匠行会，和雪花谈谈。"
 7,"TEXT_CLSBSM680_02618_SEQ_07","拜访行会的神刀聆听了雪花新的决心，并答应给她一次拜师的机会。如果雪花愿意和冒险者比试一次并取得胜利，神刀就答应收她为徒。雪花和神刀先返回了作为赛场的黄金港。锻炼自己的手艺，等待布瑞赛尔挤出时间。
 
 ※锻铁匠的等级达到70级以上时，可以从锻铁匠行会的布瑞赛尔那里领取下一个锻铁匠任务。"
@@ -34,7 +34,7 @@ int32,str,str
 25,"TEXT_CLSBSM680_02618_TODO_01","向锻铁匠行会的布瑞赛尔报告"
 26,"TEXT_CLSBSM680_02618_TODO_02","和兰多沃夫对话"
 27,"TEXT_CLSBSM680_02618_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17890,0)/><Else/>将<Sheet(ItemHQ,17890,0)/>交给布瑞赛尔</If>"
-28,"TEXT_CLSBSM680_02618_TODO_04","将<Sheet(ItemHQ,17890,0)/>交给雪花"
+28,"TEXT_CLSBSM680_02618_TODO_04","将<Sheet(EventItem,2002066,0)/>交给雪花"
 29,"TEXT_CLSBSM680_02618_TODO_05","和锻铁匠行会的雪花对话"
 30,"TEXT_CLSBSM680_02618_TODO_06",""
 31,"TEXT_CLSBSM680_02618_TODO_07",""
@@ -116,7 +116,7 @@ int32,str,str
 请你一起拿给雪花小姐吧。
 她经常在锚场出没。"
 73,"TEXT_CLSBSM680_02618_BRITHAEL_000_090","雪花小姐经常在锚场出没。
-你去将<Sheet(ItemHQ,17890,0)/>交给她吧。"
+你去将<Sheet(EventItem,2002066,0)/>交给她吧。"
 74,"TEXT_CLSBSM680_02618_SEKKA_000_100","是<Highlight>ObjectParameter(1)</Highlight>阁下呀。
 我觉得自己真是没用。"
 75,"TEXT_CLSBSM680_02618_SEKKA_000_101","布瑞赛尔阁下不仅各种为我出谋划策，

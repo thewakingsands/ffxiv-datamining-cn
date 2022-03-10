@@ -55,7 +55,7 @@ int32,str,str
 <Sheet(EventItem,2000970,0)/>的库存不够，我想进行补充。"
 50,"TEXT_SUBSEA162_01148_WILTSWYS_000_002","<Sheet(EventItem,2000970,0)/>可以从栖息在周围的<Sheet(BNpcName,1181,0)/>身上得到。
 这工作可能有点麻烦，你愿意帮忙吗？"
-51,"TEXT_SUBSEA162_01148_DUMMY_000_010","讨伐<Sheet(BNpcName,1181,0)/>，拿到3个コカトリスの毒(暂)。"
+51,"TEXT_SUBSEA162_01148_DUMMY_000_010","讨伐<Sheet(BNpcName,1181,0)/>，拿到3个コカトリスの毒。"
 52,"TEXT_SUBSEA162_01148_DUMMYTODO_000_010","（★未使用／削除予定★）"
 53,"TEXT_SUBSEA162_01148_WILTSWYS_000_020","冒险者，欢迎回来。
 拜托你的东西集齐了吗？"

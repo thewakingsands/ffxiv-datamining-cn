@@ -67,7 +67,7 @@ int32,str,str
 但是，这需要相当大的努力才行，这一点我不说你也明白吧。"
 35,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_075","装备专家之证后可以成为专家。"
 36,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_076","制作专家之证所必须的<Sheet(Item,10336,0)/>，
-需要使用<Sheet(Item,17833,0)/>换取。"
+需要使用<Sheet(Item,25199,0)/>换取。"
 37,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_080","你知道灵魂水晶吗？
 那是一种印刻着战士们记忆的特殊石头，
 据说蕴藏着先人的记忆和知识。"

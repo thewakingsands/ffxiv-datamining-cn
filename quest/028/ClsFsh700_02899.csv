@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_CLSFSH700_02899_SEQ_00","捕鱼人行会的瓦瓦拉哥似乎调查完了有关海神祭的记载。"
 1,"TEXT_CLSFSH700_02899_SEQ_01","瓦瓦拉哥为了举办海神祭似乎干劲十足。和黄金港的蕾伊娜谈谈。"
 2,"TEXT_CLSFSH700_02899_SEQ_02","蕾伊娜刚刚接到了昂索姆。和红玉海渔村的瓦瓦拉哥汇合。"
-3,"TEXT_CLSFSH700_02899_SEQ_03","听瓦瓦拉哥讲解了海神祭的过程。钓上5条<Sheet(ItemHQ,17952,0)/>，交给渔村的瓦瓦拉哥。<Sheet(ItemHQ,17952,0)/>可以在自凝岛近海钓到。"
+3,"TEXT_CLSFSH700_02899_SEQ_03","听瓦瓦拉哥讲解了海神祭的过程。钓上5条<Sheet(Item,17952,0)/>，交给渔村的瓦瓦拉哥。<Sheet(Item,17952,0)/>可以在自凝岛近海钓到。"
 4,"TEXT_CLSFSH700_02899_SEQ_04","成功举办了海神祭，和果布确认了“海流星”的幼鱼依然存活。只要以后继续举行传统庆典，就能阻止“海流星”数量继续减少。总有一天“海流星”会回到拉诺西亚的海洋。"
 5,"TEXT_CLSFSH700_02899_SEQ_05",""
 6,"TEXT_CLSFSH700_02899_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_CLSFSH700_02899_SEQ_23",""
 24,"TEXT_CLSFSH700_02899_TODO_00","和黄金港的蕾伊娜对话"
 25,"TEXT_CLSFSH700_02899_TODO_01","和渔村的瓦瓦拉哥汇合"
-26,"TEXT_CLSFSH700_02899_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在自凝岛近海钓上<Sheet(ItemHQ,17952,0)/><Else/>将<Sheet(ItemHQ,17952,0)/>交给渔村的瓦瓦拉哥</If>"
+26,"TEXT_CLSFSH700_02899_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在自凝岛近海钓上<Sheet(Item,17952,0)/><Else/>将<Sheet(Item,17952,0)/>交给渔村的瓦瓦拉哥</If>"
 27,"TEXT_CLSFSH700_02899_TODO_03",""
 28,"TEXT_CLSFSH700_02899_TODO_04",""
 29,"TEXT_CLSFSH700_02899_TODO_05",""
@@ -100,7 +100,7 @@ int32,str,str
 连同我们的份一起钓上来，
 我……不，大家都很期待你的成果。"
 71,"TEXT_CLSFSH700_02899_WAWALAGO_000_059","请你一定要回应我们的期待……
-钓上5条被赶至近海的<Sheet(ItemHQ,17952,0)/>后再来找我！
+钓上5条被赶至近海的<Sheet(Item,17952,0)/>后再来找我！
 "
 72,"TEXT_CLSFSH700_02899_REYNA_000_140","这前面有海贼众对吧？
 我们就在这里钓鱼。
@@ -113,7 +113,7 @@ int32,str,str
 为了海流星，我会努力驱赶鱼的！"
 76,"TEXT_CLSFSH700_02899_JISYOU_000_160","祝愿各位满载而归！"
 77,"TEXT_CLSFSH700_02899_WAWALAGO_000_070","这次庆典成功与否的关键就在你身上……
-钓上5条潜伏在红玉海的<Sheet(ItemHQ,17952,0)/>后再来找我！"
+钓上5条潜伏在红玉海的<Sheet(Item,17952,0)/>后再来找我！"
 78,"TEXT_CLSFSH700_02899_WAWALAGO_000_080","哦，真是太棒了！
 我还是第一次见到这么厉害的鱼。
 好，叫大家集合确认成果吧！"

@@ -19,7 +19,7 @@ int32,str
 15,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>发动"
 16,"<CommandIcon(10)/>装备栏次级指令"
 17,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
-18,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(13)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
+18,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>＋<CommandIcon(10)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
 19,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 20,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 21,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
@@ -38,7 +38,7 @@ int32,str
 34,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 35,"<CommandIcon(11)/>重新获取队员招募列表　<CommandIcon(10)/>次级指令　<CommandIcon(8)/>查看详情"
 36,"<CommandIcon(11)/>开始搜索"
-37,"<CommandIcon(11)/>在各个职能间依次切换　<CommandIcon(8)/>指定具体职业"
+37,"<CommandIcon(10)/><CommandIcon(11)/>在各个职能间依次切换　<CommandIcon(8)/>指定具体职业"
 38,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>交换"
 39,"<CommandIcon(10)/>次级指令"
 40,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>确定  <CommandIcon(9)/>关闭"
@@ -165,7 +165,7 @@ int32,str
 161,"<CommandIcon(10)/>次级指令"
 162,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+<CommandIcon(24)/>缩放"
 163,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
-164,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(13)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
+164,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>＋<CommandIcon(10)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
 165,"<CommandIcon(11)/>随机选择号码"
 166,"<CommandIcon(10)/>次级指令"
 167,"<CommandIcon(10)/>次级指令"
@@ -174,8 +174,9 @@ int32,str
 170,"<CommandIcon(11)/>规则"
 171,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>选择道具"
 172,"<CommandIcon(9)/>选择关闭按钮"
-173,"lua 5.1.4 / MIT License
-
+173,"------------------------
+lua 5.1.4 / MIT License
+------------------------
 Copyright (C) 1994-2008 Lua.org, PUC-Rio.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
@@ -185,8 +186,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+------------------------
 rsa-md5 / RSA Data Security License
-
+------------------------
 Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
 
 License to copy and use this software is granted provided that it is identified as the “RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing this software or this function.
@@ -198,6 +200,7 @@ RSA Data Security, Inc. makes no representations concerning either the merchanta
 These notices must be retained in any copies of any part of this documentation and/or software. 
 
 
+------------------------
 SHA-1 (Internet Society)
 ------------------------
 Copyright (C) The Internet Society (2001). All Rights Reserved.
@@ -213,6 +216,7 @@ Acknowledgement
 Funding for the RFC Editor function is currently provided by the Internet Society.
 
 
+----------------
 zstream.h (zlib)
 ----------------
 Copyright (c) 1997
@@ -222,7 +226,13 @@ Fantoftvegen 38, 5036 BERGEN, Norway
 http://www.cmr.no
 
 Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.
--------------------------------------------------------------------------------"
+
+
+------
+LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
+------
+“DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
 174,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
 175,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
 176,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
@@ -383,7 +393,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 222,"<CommandIcon(10)/>次级指令"
 223,"<CommandIcon(23)/>滚动  <CommandIcon(12)/>＋<CommandIcon(23)/>缩放  <CommandIcon(13)/>切换固定视角"
 224,"<CommandIcon(10)/>次级指令"
-225,"<CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>选择水环境"
+225,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>环境切换"
 226,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动"
 227,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>添加 <CommandIcon(10)/>次级指令"
 228,"<CommandIcon(10)/>次级指令"
@@ -397,7 +407,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 236,"<CommandIcon(8)/>设置对战额外技能"
 237,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>选择"
 238,"<CommandIcon(3)/><CommandIcon(4)/>移动 <CommandIcon(8)/>确定"
-239,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(13)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放"
+239,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>＋<CommandIcon(10)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放"
 240,"<CommandIcon(8)/>设置对战特性"
 241,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 242,"<CommandIcon(9)/>选择放弃按钮"
@@ -553,17 +563,17 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 387,"<CommandIcon(8)/>领取奖励  <CommandIcon(10)/>次级指令"
 388,"<CommandIcon(10)/>次级指令"
 389,"<CommandIcon(10)/>次级指令"
-390,""
-391,""
-392,""
-393,""
-394,""
-395,""
-396,""
-397,""
-398,""
+390,"<CommandIcon(12)/><CommandIcon(13)/>选择职业分类 <CommandIcon(10)/>次级指令"
+391,"<CommandIcon(12)/><CommandIcon(13)/>选择职业分类  <CommandIcon(8)/>打开地图"
+392,"<CommandIcon(5)/>选择目的地 <CommandIcon(8)/>传送 <CommandIcon(23)/>转为控制地图"
+393,"<CommandIcon(23)/>滚动 <CommandIcon(7)/>转为控制列表"
+394,"<CommandIcon(23)/>滚动 <CommandIcon(8)/>传送 <CommandIcon(7)/>转为控制列表"
+395,"<CommandIcon(10)/>在各个职能间依次切换  <CommandIcon(8)/>指定具体职业  <CommandIcon(11)/>开始搜索"
+396,"<CommandIcon(10)/>全选/反选  <CommandIcon(11)/>开始搜索"
+397,"<CommandIcon(10)/>切换职能/单一职业"
+398,"<CommandIcon(10)/>切换该区域全选/单一地点"
 399,""
-400,""
+400,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>＋<CommandIcon(10)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放 <CommandIcon(8)/>传送"
 1000,"报告发送失败。
 请重新发送。"
 1001,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>
@@ -911,7 +921,9 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 
 ※价值提升的发生率
 会随着玩家鉴别力的提高而上升，
-请通过装备提升自己的鉴别力。"
+请通过装备提升自己的鉴别力。
+
+※增幅技能“价值瞩目”也能提高价值提升的发生率。"
 1041,"洞察"
 1042,"使用提纯技能后，
 有时会对玩家赋予洞察的效果。

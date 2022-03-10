@@ -8,7 +8,7 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 4,"待命","让召唤兽在原地待命",528,0,0,False,True,False
 5,"截击","让召唤兽在召唤者发动攻击或受到攻击后才开始进行战斗",531,0,0,False,True,False
 6,"等待指示","让召唤兽在接到召唤者的指示前不进行战斗",532,0,0,False,True,False
-7,"自主战斗","让召唤兽自主攻击",525,0,0,False,True,False
+7,"自主战斗","让召唤兽自主攻击",786,0,0,True,False,False
 8,"协助战斗","让召唤兽进行攻击， 不过一部分技能会在得到命令后才会发动",786,0,0,True,False,False
 9,"突风","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>90",786,637,1,True,False,False
 10,"吹飞","对目标发动风属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
@@ -61,7 +61,7 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 28,"燃火强袭","对目标发动火属性魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135",786,798,3,True,False,False
 29,"辉煌盾","为自身与周围队员附加防护罩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>防护罩效果（被攻击时100％发动）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击者所受物理伤害提高2%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>防护罩效果（被攻击时100%发动）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻击者所受物理伤害提高2%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,799,3,True,False,False
 30,"烈焰碎击","对自身周围的敌人发动火属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“协助战斗”状态下在接到命令之前不会发动该技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,800,3,True,False,False

@@ -10,4 +10,4 @@ int32,str,str
 6,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES","是"
 7,"TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO","否"
 8,"TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD","因缴纳了<If(Equal(IntegerParameter(1),1))><Else/><Value>IntegerParameter(1)</Value>种</If>优质道具，
-得到了额外<Value>IntegerParameter(2)</Value>％的报酬奖励。"
+得到了额外<Value>IntegerParameter(2)</Value>%的报酬奖励。"
