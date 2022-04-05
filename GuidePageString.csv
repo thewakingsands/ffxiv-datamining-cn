@@ -214,10 +214,10 @@ int32,str
 110,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤装填效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，晶壤的最大档数将变成三挡。
 当<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>迅连斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和40级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恶魔杀<UIGlow>01</UIGlow><UIForeground>01</UIForeground>连击成功时可以获得一档晶壤，发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>爆发击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或60级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能时需要消耗一档晶壤。"
 111,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的具体量值。
-使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡之影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会对目标附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡烙印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
-在该效果时间内击倒目标可以积累灵魂。另外，使用其他特定战技也会积累灵魂。
-通过消耗灵魂可以使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>隐匿挥割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和55级学会的
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>束缚挥割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以及76级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暴食<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
+使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡之影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会对目标附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡烙印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，在该效果时间内击倒目标可以积累灵魂。
+另外，使用其他特定战技也会积累灵魂。
+通过消耗灵魂可以使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>隐匿挥割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和55级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>束缚挥割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+以及76级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暴食<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 112,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魂衣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魂衣量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 魂衣量谱用于显示当前<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魂衣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的具体量值，
 当使用特定战技时，将会积累魂衣量值。

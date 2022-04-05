@@ -99,7 +99,7 @@ int32,str,str
 很适合面对野兽时不停用魔法轰击的魔女呢！"
 72,"TEXT_AKTKZF015_04270_LAZAHANAURABOY_000_022","哇，你选择了那朵漂亮又有气质的花啊！
 我想一定跟魔女的黑色长裙很相配！"
-73,"TEXT_AKTKZF015_04270_LAZAHANAURABOY_000_023","哇，你选择了气味芬香的花朵啊！
+73,"TEXT_AKTKZF015_04270_LAZAHANAURABOY_000_023","哇，你选择了气味芳香的花朵啊！
 说起来，魔女救下我的时候也散发着相似的令人安心的香味呢！"
 74,"TEXT_AKTKZF015_04270_LAZAHANAURAGIRL_000_024","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>好有品味！
 那你选了哪个给白色外衣叔叔呢？"
@@ -109,7 +109,7 @@ int32,str,str
 76,"TEXT_AKTKZF015_04270_LAZAHANAURAGIRL_000_026","你选择了紫色的花朵啊！
 这个跟叔叔那身白色的外衣很般配！
 很适合有气质的叔叔呢！"
-77,"TEXT_AKTKZF015_04270_LAZAHANAURAGIRL_000_027","你选择了气味芬香的花朵啊！
+77,"TEXT_AKTKZF015_04270_LAZAHANAURAGIRL_000_027","你选择了气味芳香的花朵啊！
 这种颜色还有香气……是大人的品味？
 很适合成熟的叔叔呢！"
 78,"TEXT_AKTKZF015_04270_LAZAHANAURABOY_000_028","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，谢谢你帮我们选花。

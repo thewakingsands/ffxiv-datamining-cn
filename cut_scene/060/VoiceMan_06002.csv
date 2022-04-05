@@ -436,7 +436,7 @@ int32,str,str
 我都一定会把你们也带上月球，还请见谅。"
 227,"TEXT_VOICEMAN_06002_002210_WATCHEROFMOON","<UIForeground>F20223</UIForeground>真是让人怀念。
 你是怎么得到它的？<UIForeground>01</UIForeground>"
-228,"TEXT_VOICEMAN_06002_002220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>原来如此，果然是维涅斯会出说的话。<UIForeground>01</UIForeground>"
+228,"TEXT_VOICEMAN_06002_002220_WATCHEROFMOON","<UIForeground>F20223</UIForeground>原来如此，果然是维涅斯会说出的话。<UIForeground>01</UIForeground>"
 229,"TEXT_VOICEMAN_06002_002230_WATCHEROFMOON","<UIForeground>F20223</UIForeground>那么，只要继续跟随这朵花的指引，
 说不定你们就能了解到连我们也不曾知晓的她的真意。<UIForeground>01</UIForeground>"
 230,"TEXT_VOICEMAN_06002_002240_WATCHEROFMOON","<UIForeground>F20223</UIForeground>另外，希望你们能记住，
@@ -515,7 +515,7 @@ int32,str,str
 268,"TEXT_VOICEMAN_06002_002620_FOURCHENAULT","我敢断言。
 凭借我们的智慧，绝对能够达成这项壮举。"
 269,"TEXT_VOICEMAN_06002_002630_FOURCHENAULT","我们每个人都要成为优秀的船员，成为下一个纽恩克雷夫！
-让我携手穿越这场狂风骤雨，一起见证灾难过后的新时代！"
+让我们携手穿越这场狂风骤雨，一起见证灾难过后的新时代！"
 270,"TEXT_VOICEMAN_06002_002640_BARNIER","具体计划之后会由各部门下达。
 请大家不要着急，做好自己平日的工作，遵从指示即可。
 好了，解散！"

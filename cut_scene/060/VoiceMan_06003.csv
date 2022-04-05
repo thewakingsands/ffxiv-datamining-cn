@@ -254,7 +254,7 @@ int32,str,str
 153,"TEXT_VOICEMAN_06003_001500_VRITRA","恐怖和绝望会令人变成再也无法苏醒的野兽……
 简直像噩梦一样。"
 154,"TEXT_VOICEMAN_06003_001510_VRITRA","萨维奈的子民到底犯了什么滔天大罪，
-需到遭到如此残忍的惩罚！"
+需要遭到如此残忍的惩罚！"
 155,"TEXT_VOICEMAN_06003_001520_ESTINIEN","你该做出决定了，
 是在背后独自悲伤还是走到前台保护他们。"
 156,"TEXT_VOICEMAN_06003_001530_ESTINIEN","拉札罕失去了总督，
@@ -568,7 +568,7 @@ int32,str,str
 那可真是没法待了……"
 339,"TEXT_VOICEMAN_06003_003320_ESTINIEN","这颗星球最终会无法居住……"
 340,"TEXT_VOICEMAN_06003_003330_MIHLEEL","这是您点的饮品。"
-341,"TEXT_VOICEMAN_06003_003340_MIHLEEL","轻慢用。
+341,"TEXT_VOICEMAN_06003_003340_MIHLEEL","请慢用。
 虽然现在形势很糟糕，不过还是请放松一下吧……"
 342,"TEXT_VOICEMAN_06003_003350_ALISAIE","我们该怎么做才好呢？"
 343,"TEXT_VOICEMAN_06003_003360_ALISAIE","经历了这次的灾难，

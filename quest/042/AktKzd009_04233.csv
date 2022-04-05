@@ -69,15 +69,15 @@ int32,str,str
 54,"TEXT_AKTKZD009_04233_GARLEANGIRL04233_000_021","呜呜，妈妈说只要到了这里，就能吃上饱饭……
 所以我们就从第三站过来了。"
 55,"TEXT_AKTKZD009_04233_GARLEANGIRL04233_000_022","但是，路上的建筑突然塌了，
-妈妈被压下碎石下动不了，请救救妈妈！"
+妈妈被压在碎石下动不了，请救救妈妈！"
 56,"TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_023","呜哇，这可不太妙啊！
 得赶紧过去才行！"
 57,"TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_024","<Highlight>ObjectParameter(1)</Highlight>阁下，
 麻烦你先跟她去现场看看！
-我去准备救援需要物资和人手！"
+我去准备救援物资和人手！"
 58,"TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_025","<Highlight>ObjectParameter(1)</Highlight>阁下，
 麻烦你先跟她去现场看看！
-我去准备救援需要物资和人手！"
+我去准备救援物资和人手！"
 59,"TEXT_AKTKZD009_04233_GARLEANGIRL04233_000_030","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>，你愿意帮我救妈妈吗？
 请跟我来，这边！"
 60,"TEXT_AKTKZD009_04233_GARLEANGIRL04233_000_031","接下来将跟随帝都来的少女同行，注意不要离她太远。"
@@ -98,7 +98,7 @@ int32,str,str
 69,"TEXT_AKTKZD009_04233_GARLEANMOTHER04233_000_046","无论发生什么事，我都想尽力让这个孩子活下去……
 因此我才能支撑到现在。"
 70,"TEXT_AKTKZD009_04233_GARLEANMOTHER04233_000_047","我们这就去营地那边。
-请替我向那位小个子的兵士先生也说一声谢谢……
+请替我向那位小个子的兵士先生也道一声谢……
 谢谢你们。"
 71,"TEXT_AKTKZD009_04233_MAKAGONAKAGO_000_050","<Highlight>ObjectParameter(1)</Highlight>阁下！
 刚刚那对母女已经被我们派出的搜救小队带回来了，

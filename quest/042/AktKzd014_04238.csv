@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_AKTKZD014_04238_TODO_22",""
 47,"TEXT_AKTKZD014_04238_TODO_23",""
 48,"TEXT_AKTKZD014_04238_TALON_000_000","<If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>，你来得正好！
-刚刚一位负责保护帝国人的救援队的同伴发来了求援申请！"
+刚刚一位负责保护帝国人的救援队的同伴发来了救援申请！"
 49,"TEXT_AKTKZD014_04238_TALON_000_001","虽然他发现了幸存者，
 但却被魔导兵器袭击受了伤。"
 50,"TEXT_AKTKZD014_04238_TALON_000_002","他目前无法行动，需要紧急救援。
@@ -69,7 +69,7 @@ int32,str,str
 都是因为我……"
 56,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_020","谢谢，你来得太及时了！
 虽然我把袭击过来的魔导兵器打倒了，
-但急救用品也被没法用了，我正发愁呢。"
+但急救用品也没法用了，我正发愁呢。"
 57,"TEXT_AKTKZD014_04238_ILSABARDSOLDIER04238_000_021","这次还多亏了这位女士提醒我魔导兵器接近，
 才让我避开了致命一击。"
 58,"TEXT_AKTKZD014_04238_GARLEANCITIZEN04238_000_022","不、不是的，

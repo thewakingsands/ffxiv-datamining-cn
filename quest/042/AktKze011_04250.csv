@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKZE011_04250_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-最佳威兔洞里的引领威有问题需要冒险者解答。"
+最佳威兔洞的引领威有问题需要冒险者解答。"
 1,"TEXT_AKTKZE011_04250_SEQ_01",""
 2,"TEXT_AKTKZE011_04250_SEQ_02",""
 3,"TEXT_AKTKZE011_04250_SEQ_03",""
@@ -52,15 +52,15 @@ int32,str,str
 47,"TEXT_AKTKZE011_04250_TODO_23",""
 48,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight>！
 我有个问题想要问你，你有时间吗？
-协助者给的资料上有个地方我不太明白……"
+帮手给的资料上有个地方我不太明白……"
 49,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_001","资料说现代的人类因为用不了创造魔法，
 所以会从各种生物上采取所需的素材，
 生产制造东西，这是真的吗？"
 50,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_002","原来是真的啊！
 那我也想要挑战一下这样制造东西……
 做衣服的话，果然还是应该试一下那个……"
-51,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_003","其实我之前就想过了，从叹息海特有的物种上采集素材的话，
-用有什么材料最合适，做成什么东西人类会更喜欢。
+51,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_003","其实我一直在想，从叹息海特有的物种上采集素材的话，
+用什么材料做成什么人类会更喜欢。
 其中我觉得比较合适的，想抓来研究看看的生物就是<Sheet(BNpcName,10458,0)/>。"
 52,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_004","可是，我并没有狩猎怪物的经验，很难获取想要的素材。
 所以我想麻烦你替我打败一只<Sheet(BNpcName,10458,0)/>，
@@ -68,7 +68,8 @@ int32,str,str
 53,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_005","你太好了，谢谢你！
 <Sheet(BNpcName,10458,0)/>的栖息地就在爱情威的花园附近。
 拜托你了。"
-54,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_006","<Sheet(BNpcName,10458,0)/>的栖息地就在爱情威的花园附近。拜托你了。"
+54,"TEXT_AKTKZE011_04250_GUIDINGWAY_000_006","<Sheet(BNpcName,10458,0)/>的栖息地就在爱情威的花园附近。
+拜托你了。"
 55,"TEXT_AKTKZE011_04250_PUBNPC04250_000_000","（★未使用／削除予定★）"
 56,"TEXT_AKTKZE011_04250_PUBNPC04250_000_001","（★未使用／削除予定★）"
 57,"TEXT_AKTKZE011_04250_PUBNPC04250_000_002","（★未使用／削除予定★）"

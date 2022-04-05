@@ -280,7 +280,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,uint16,MountFlyingC
 276,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
 277,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
 278,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
-279,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
+279,"机巧莲座",0,"",0,0,1,0,0,3472,2,1,45,15,15,1,2,110,638,"SE_Bt_Etc_Mount_Lotus_call","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_Mount_Lotus_bye",0,10,False,True,0,0,0,0,216,4098,252,100,0,0,60,0,0,True,False,False,False,False,80,80,False
 280,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
 281,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False
 282,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False

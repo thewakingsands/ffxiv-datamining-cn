@@ -115,7 +115,7 @@ int32,str,str
 76,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_090","<UIForeground>F20223</UIForeground>分一些以太给那边的<Sheet(EObj,2012177,0)/>吧。
 这样阿尔戈斯出现的条件就集齐了。<UIForeground>01</UIForeground>"
 77,"TEXT_AKTKMC102_04400_SYSTEM_000_100","出现的阿尔戈斯安静地把鼻子凑了过来。
-看样子是产生了仰慕之情……"
+看样子对你很亲近……"
 78,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_101","<UIForeground>F20223</UIForeground>你可能会以为这是新的个体，
 但既然所有阿尔戈斯都诞生于同一个术式，
 那就说明它们本质是相同的，也就是分身。<UIForeground>01</UIForeground>"
@@ -145,7 +145,7 @@ int32,str,str
 90,"TEXT_AKTKMC102_04400_YSHTOLA_000_121","或许阿尔戈斯的存在还不被大众所熟知，
 但二者同为“忠于女神的月球犬”这一点着实让人感兴趣。"
 91,"TEXT_AKTKMC102_04400_SYSTEM_000_125","一看向阿尔戈斯，它就会凑过来。
-果然是很仰慕你……"
+果然是很亲近你……"
 92,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_130","<UIForeground>F20223</UIForeground>你们需要前往大洞的对岸……
 就是刚才看到的建筑正下方的广阔空间。<UIForeground>01</UIForeground>"
 93,"TEXT_AKTKMC102_04400_WATCHEROFMOON_000_131","<UIForeground>F20223</UIForeground>只要坐在阿尔戈斯背上，它就会带你过去。<UIForeground>01</UIForeground>"

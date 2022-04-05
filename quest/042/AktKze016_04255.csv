@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_AKTKZE016_04255_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-最伟大的森林里消明威正惊慌失措地想要找冒险者帮忙。"
+最伟大的森林的消明威正惊慌失措地想要找冒险者帮忙。"
 1,"TEXT_AKTKZE016_04255_SEQ_01",""
 2,"TEXT_AKTKZE016_04255_SEQ_02",""
 3,"TEXT_AKTKZE016_04255_SEQ_03",""
@@ -53,10 +53,10 @@ int32,str,str
 48,"TEXT_AKTKZE016_04255_MOPINGWAY_000_000","哇哇哇……出大事了！
 大事不好了！怎么办怎么办！"
 49,"TEXT_AKTKZE016_04255_MOPINGWAY_000_001","哇！是<Highlight>ObjectParameter(1)</Highlight>！
-是这样！刚才水管哪里传来了“嘭”的一声……
+是这样！刚才水管那里传来了“嘭”的一声……
 该不会是<Sheet(EObj,2012601,0)/>出问题了吧！"
 50,"TEXT_AKTKZE016_04255_MOPINGWAY_000_002","这样下去河水就要逆流了！会出很多大问题的！
-可是要检查的装置实在是太多了，我一个人肯定来不及……
+可是要检查的装置实在是太多了，我自己去肯定来不及……
 能请你帮帮我吗？！"
 51,"TEXT_AKTKZE016_04255_MOPINGWAY_000_003","得救了！
 需要检查的就是那种有三个球连在一起的装置，
@@ -73,13 +73,13 @@ int32,str,str
 57,"TEXT_AKTKZE016_04255_PUBNPC04255_000_003","（★未使用／削除予定★）"
 58,"TEXT_AKTKZE016_04255_PUBNPC04255_000_004","（★未使用／削除予定★）"
 59,"TEXT_AKTKZE016_04255_PUBNPC04255_000_005","（★未使用／削除予定★）"
-60,"TEXT_AKTKZE016_04255_SYSTEM_000_010","运行时听起来没什么杂音"
+60,"TEXT_AKTKZE016_04255_SYSTEM_000_010","运行时听起来没什么杂音。"
 61,"TEXT_AKTKZE016_04255_SYSTEM_000_011","能听到大量气泡噗噗的杂音……
 恐怕是发生了故障。"
 62,"TEXT_AKTKZE016_04255_MOPINGWAY_000_020","<Highlight>ObjectParameter(1)</Highlight>，
 你负责的那边，人工河控制装置有什么问题吗？"
 63,"TEXT_AKTKZE016_04255_MOPINGWAY_000_021","东北方的那一台控制装置里能听见气泡噗噗的杂音？
-那个地方确实是……
+那个地方我记得……
 原来如此，我大概知道原因是什么了。"
 64,"TEXT_AKTKZE016_04255_MOPINGWAY_000_022","其实，为了方便人类们能够在这里也体验到钓鱼的乐趣，
 我们事先在人工河里尝试性地投放了数种鱼类。
