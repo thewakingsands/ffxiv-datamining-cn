@@ -404,7 +404,7 @@ int32,str
 294,"车式浮空炮塔变为后式自走人偶，超档车式炮塔变为超档后式人偶"
 295,"对自身附加3档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>玄冰"
-296,"发动部分魔法后，对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
+296,"发动部分魔法后，对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 当自身的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>达到最高档数时，相反属性的魔法将不消耗魔力
 但不适用于核爆"
@@ -813,7 +813,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>医术的恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>仙光的拥抱的恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>鼓舞激励之策的效果量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>抵消相当于治疗量180%的伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>士气高昂之策的效果量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>抵消相当于治疗量160%的伤害
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>士气高扬之策的效果量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>抵消相当于治疗量160%的伤害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>炽天的幕帘的恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
 494,"展开战术的复唱时间缩短到90秒"
 495,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>重抽预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态

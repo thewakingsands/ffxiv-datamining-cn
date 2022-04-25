@@ -2102,7 +2102,11 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 真理的“真眼”
 ——爱梅特赛尔克","真眼","令范围内我方宠物的攻击力增加10。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒",55,55,3,False,True,False,True,False,3
-443,"","","","","",0,0,0,False,False,False,False,False,0
+443,"召唤出宠物“王家仙人刺”。
+月面仙人刺的王族，曾不幸沦为奖品，如今已重获自由。","月面仙人刺的王族。因为变异而生出了黄金般的体色，在满目灰白的月面上十分显眼，因而生活的十分辛苦。生活的压力迫使它放弃了自由之身，选择了走进了惊奇百宝城，踏上了同时兼职观叶植物和奖品的不归路。","哦哦……这黄金般的
+光辉，真是太美了。
+　　　　　　——花芽","星光浴","令萌宠之门内宠物的体力恢复量变为2倍。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒",55,50,4,False,True,False,False,False,9
 444,"","","","","",0,0,0,False,False,False,False,False,0
 445,"","","","","",0,0,0,False,False,False,False,False,0
 446,"","","","","",0,0,0,False,False,False,False,False,0

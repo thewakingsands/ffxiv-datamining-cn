@@ -43,7 +43,7 @@ int32,str,str
 31,"TEXT_VOICEMAN_06005_000310_GRAHATIA","不然先暂时撤退吧？"
 32,"TEXT_VOICEMAN_06005_000320_ALISAIE","不行！
 我们可是答应过，
-要在<If(PlayerParameter(4))>她<Else/>他</If>不在时候保护这个世界。"
+要在<If(PlayerParameter(4))>她<Else/>他</If>不在的时候保护这个世界。"
 33,"TEXT_VOICEMAN_06005_000330_ALISAIE","我不想让这些变成野兽的人再去伤害他们的同伴……
 要抓紧一切时间打倒它们！"
 34,"TEXT_VOICEMAN_06005_000340_GRAHATIA","说的没错！

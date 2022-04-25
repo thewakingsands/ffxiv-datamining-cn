@@ -1385,8 +1385,8 @@ int32,uint16,uint16,byte,bit&01,str
 1346,57,33,0,False,"城内以太之晶“<Sheet(PlaceName,<Sheet(Aetheryte,IntegerParameter(1),9)/>,0)/>”开放。"
 1347,60,9,0,False,"已经收录到免费点中。"
 1348,60,9,0,False,"无法收录到免费点中。
-只有使用“电子口令卡”的玩家才能够使用这项服务。"
-1349,57,9,0,False,"没有开启电子口令卡服务，传送时会消耗掉相应的金币。"
+只有使用“静态密码锁”的玩家才能够使用这项服务。"
+1349,57,9,0,False,"没有开启静态密码锁服务，传送时会消耗掉相应的金币。"
 1350,57,1,0,False,"当前所在副本区为“<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/><If(GreaterThan(IntegerParameter(2),0))><If(GreaterThan(IntegerParameter(2),9))>A<Else/><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)></Case><Case(3)></Case><Case(4)></Case><Case(5)></Case><Case(6)></Case><Case(7)></Case><Case(8)></Case><Case(9)></Case></Switch></If><Else/>0</If>”。
 使用“/副本区检查”指令可以随时查看当前所在副本区。"
 1351,57,1,0,False,"当前地区暂不存在副本区。"
