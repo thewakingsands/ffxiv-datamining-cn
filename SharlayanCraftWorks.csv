@@ -15,7 +15,7 @@ int32,uint32,uint16,str
 贡献等级提升后可观看考古系新的剧情故事。
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
-但会得到更多的報酬。"
+但会得到更多的报酬。"
 1,1038525,152,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>天文系：裘德<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>刻木匠、制革匠、裁衣匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这三种职业交纳物品。
@@ -30,7 +30,7 @@ int32,uint32,uint16,str
 贡献等级提升后可观看天文系新的剧情故事。
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
-但会得到更多的報酬。"
+但会得到更多的报酬。"
 2,1039220,153,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>医学系：德布罗依<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>炼金术士、烹调师<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种职业交纳物品。
@@ -45,7 +45,7 @@ int32,uint32,uint16,str
 贡献等级提升后可观看医学系新的剧情故事。
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
-但会得到更多的報酬。"
+但会得到更多的报酬。"
 3,1038501,154,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>文化系：雏芥子<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>采矿工、园艺工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种职业交纳物品。
@@ -58,7 +58,7 @@ int32,uint32,uint16,str
 贡献等级提升后可观看文化系新的剧情故事。
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
-但会得到更多的報酬。"
+但会得到更多的报酬。"
 4,1038551,155,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>以太系：茶·拉恰·提亚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>捕鱼人<UIGlow>01</UIGlow><UIForeground>01</UIForeground>职业交纳物品。
@@ -68,4 +68,4 @@ int32,uint32,uint16,str
 贡献等级提升后可观看以太系新的剧情故事。
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
-但会得到更多的報酬。"
+但会得到更多的报酬。"

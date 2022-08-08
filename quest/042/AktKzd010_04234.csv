@@ -51,7 +51,7 @@ int32,str,str
 45,"TEXT_AKTKZD010_04234_TODO_21",""
 46,"TEXT_AKTKZD010_04234_TODO_22",""
 47,"TEXT_AKTKZD010_04234_TODO_23",""
-48,"TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_000","啊啊，太好了！
+48,"TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_000","啊，太好了！
 <If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>，我有事要拜托您！"
 49,"TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_001","为了安全护送第三站的加雷马市民，
 我们需要让附近的魔导巨兵停止行动。

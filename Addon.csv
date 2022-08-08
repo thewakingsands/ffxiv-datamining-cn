@@ -350,7 +350,7 @@ int32,str
 339,"没有搜索到符合条件的玩家。"
 340,"确定"
 341,"取消"
-342,"个人签名"
+342,"个性签名"
 343,"搜索结果最多显示200条。"
 344,"显示对应语言日语、英语、法语、德语。带有下划线的语言为当前客户端语言。"
 345,"申请好友"
@@ -625,7 +625,7 @@ int32,str
 608,"返回点没有设在<Highlight>StringParameter(1)</Highlight>。
 任务中返回会导致任务失败。
 要开始理符任务吗？"
-609,"目标地点 <Sheet(PlaceName,IntegerParameter(1),0)/>"
+609,"<If(GreaterThan(IntegerParameter(2),0))>目标地点<Else/>栖息地</If> <Highlight>StringParameter(1)</Highlight>"
 610,"采集笔记"
 611,""
 612,"种类"
@@ -1076,7 +1076,7 @@ int32,str
 1040,"技能栏"
 1041,"连击"
 1042,"<Switch(IntegerParameter(1))><Case(1)></Case><Case(2)>c</Case><Case(3)>a</Case><Case(4)>s</Case><Case(5)>ca</Case><Case(6)>cs</Case><Case(7)>as</Case><Case(8)>cas</Case></Switch><Highlight>StringParameter(2)</Highlight>"
-1043,"配置"
+1043,"热键栏"
 1044,"切换"
 1045,"<Gui(19)/>
 编辑模式"
@@ -1231,10 +1231,10 @@ int32,str
 1192,"显示上级地图。"
 1193,"开关地图上的文字。"
 1194,"非激活时地图变为半透明。"
-1195,"奋战技"
+1195,"极限技"
 1196,"打开世界地图"
 1197,"设置是否锁定地图，锁定之后地图不会在按下Esc键或<CommandIcon(10)/>键以及打开快捷指令时关闭。"
-1198,"中庸工艺馆理符发行处"
+1198,"发行处 <Highlight>StringParameter(1)</Highlight>"
 1199,"开关地图上的图标。"
 1200,"消息设置"
 1201,""
@@ -1257,7 +1257,7 @@ int32,str
 1218,"应用"
 1219,"关闭"
 1220,"名字"
-1221,"个人签名"
+1221,"个性签名"
 1222,"确定"
 1223,"取消"
 1224,"新预设栏<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>"
@@ -1520,6 +1520,7 @@ int32,str
 1485,"种类"
 1486,"<Highlight>StringParameter(1)</Highlight>"
 1487,"<Highlight>StringParameter(1)</Highlight>"
+1488,"要放弃尚未保存的改动吗？"
 1489,"设置称号"
 1490,"取消称号"
 1491,"查看成就"
@@ -1529,6 +1530,8 @@ int32,str
 1495,"按编号排列"
 1496,"调整排列顺序"
 1497,"<Value>IntegerParameter(1)</Value>-<Value>IntegerParameter(2)</Value>"
+1498,"保存"
+1499,"关闭"
 1500,"典礼方案"
 1501,""
 1502,"典礼样式"
@@ -2099,8 +2102,8 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※列表与统计数据会在每次服务器维护时清空<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 2073,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>查看市场情况 <CommandIcon(9)/>返回"
-2074,"添加到期望列表"
-2075,"从期望列表中删除"
+2074,"添加到期望列表（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
+2075,"从期望列表中删除（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
 2076,"需求情况"
 2077,"需求情况"
 2078,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>查看市场情况 <CommandIcon(9)/>返回 <CommandIcon(12)/><CommandIcon(13)/>翻页"
@@ -2112,6 +2115,8 @@ int32,str
 2084,"收藏夹中最多可收藏100件商品。
 其他人无法看到你的收藏夹。
 收藏夹在原始服务器之外也可正常使用。"
+2085,"只显示尚未学习或收录的道具"
+2086,"本页无尚未学习或收录的道具。"
 2090,"为了缓解服务器压力，“<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>”被分成了多个副本区。
 请选择准备前往的副本区。
 （所有副本区的内容没有任何区别）"
@@ -2385,8 +2390,8 @@ int32,str
 （<Highlight>StringParameter(1)</Highlight>）"
 2378,"道具管理"
 2379,"金币管理"
-2380,"出售（玩家所持物品）"
-2381,"出售（雇员所持物品）"
+2380,"<If(Equal(IntegerParameter(1),0))><Else/><Gui(63)/></If>出售（玩家所持物品）"
+2381,"<If(Equal(IntegerParameter(1),0))><Else/><Gui(63)/></If>出售（雇员所持物品）"
 2382,"查看出售记录"
 2383,"让雇员返回"
 2384,"查看雇员探险情况　[～<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
@@ -2501,6 +2506,7 @@ int32,str
 2495,"<If(GreaterThan(IntegerParameter(2),0))><UIForeground>F2023D</UIForeground><UIGlow>F2023E</UIGlow><Emphasis>物品品级 <Value>IntegerParameter(1)</Value></Emphasis><UIForeground>01</UIForeground><UIGlow>01</UIGlow><Else/>物品品级 <Value>IntegerParameter(1)</Value></If>"
 2496,"[此优质道具与普通品质道具无异]"
 2497,"染色条件：未满足"
+2498,"<If(GreaterThan(IntegerParameter(1),0))>已学习或收录<Else/>未学习或收录</If>"
 2500,"任务搜索器"
 2501,""
 2502,"<Value>IntegerParameter(1)</Value>级"
@@ -2517,7 +2523,7 @@ int32,str
 2513,"<If(Equal(IntegerParameter(1),IntegerParameter(2)))><Value>IntegerParameter(1)</Value>人用<Else/><Value>IntegerParameter(1)</Value>～<Value>IntegerParameter(2)</Value>人用</If><If(GreaterThan(IntegerParameter(2),1))>（防护职业：<Value>IntegerParameter(3)</Value>/治疗职业：<Value>IntegerParameter(4)</Value>/进攻职业：<Value>IntegerParameter(5)</Value>）<Else/></If>"
 2514,"职业：<Sheet(ClassJobCategory,IntegerParameter(1),0)/>"
 2515,"等级：<Value>IntegerParameter(1)</Value>级以上，高于<Value>IntegerParameter(2)</Value>级会被同步为<Value>IntegerParameter(2)</Value>级"
-2516,"平均品级高于<Value>IntegerParameter(1)</Value>级"
+2516,"平均品级不低于<Value>IntegerParameter(1)</Value>级"
 2517,"完成“<Highlight>StringParameter(1)</Highlight>”任务"
 2518,"完成“<Highlight>StringParameter(1)</Highlight>”"
 2519,"中途参战"
@@ -2798,6 +2804,7 @@ int32,str
 2825,""
 2826,"打开留言编辑窗口"
 2827,"打开部队公告编辑窗口"
+2829,"对应任务："
 2830,"无法参加，没有满足下列条件。"
 2831,"任务搜索封印剩余时间"
 2832,"正在申请参加任务"
@@ -3274,7 +3281,13 @@ int32,str
 3365,"货币"
 3366,"成就点"
 3367,"显示成就币帮助。"
-3368,"成就币是指在达成成就时获得的成就点积累到一定程度后，
+3368,"关于领取奖励道具
+在达成附赠道具奖励的成就后，
+点选成就中奖励道具的图标，即可领取道具。
+
+
+关于成就币
+成就币是指在达成成就时获得的成就点积累到一定程度后，
 从格里达尼亚旧街的乔纳森处领取的货币。
 
 成就币可用来交换特别的道具。"
@@ -3847,8 +3860,8 @@ int32,str
 4121,"过场字幕"
 4122,"过场语音"
 4123,"注意：根据设置不同，语音和字幕可能会有内容差异"
-4124,"接入该设备时，另该设备的震动、声音等功能生效。
-<Switch(PlayerParameter(78))><Case(1)><Gui(63)/>本机能仅供DX11使用。</Case><Case(2)>※本机能的设置变更后，在游戏重启后生效。</Case><Case(3)><Gui(63)/>本机能仅限Windows版使用。</Case></Switch>"
+4124,"接入对应设备时，令该设备的震动、声音等功能生效。
+<Switch(PlayerParameter(78))><Case(1)><Gui(63)/>本机能仅供DX11使用。</Case><Case(2)></Case><Case(3)><Gui(63)/>本机能仅限Windows版使用。</Case></Switch>"
 4125,"地图分辨率"
 4126,"玩家音效的音量"
 4127,"自身"
@@ -4055,6 +4068,10 @@ int32,str
 (<Value>IntegerParameter(1)</Value>/24)"
 4343,"请按下<Gui(17)/>键
 (<Value>IntegerParameter(1)</Value>/24)"
+4347,"与肖像关联"
+4348,"更改关联的肖像"
+4349,"解除与肖像的关联"
+4350,"<Value>IntegerParameter(1)</Value>"
 4351,"更换装备"
 4352,"保存当前套装"
 4353,"更改套装编号"
@@ -4361,6 +4378,7 @@ int32,str
 4646,"按军票由多到少排序"
 4647,"按道具种类排序"
 4648,"军票"
+4649,"确定要交纳套装列表中保存的装备吗？"
 4650,"确定要将“<Sheet(Item,IntegerParameter(1),0)/>”放入收藏柜吗？
 ·染色、队徽以及武具投影等外观效果均会消除。
 ·精炼度会变回0%，耐久度如果超过100%会变回100%。"
@@ -5214,6 +5232,8 @@ A：Assist，协助他人打倒敌人的次数"
 5505,""
 5506,"http://ff.sdo.com/message"
 5507,"http://ff.sdo.com/message"
+5508,"加时阶段"
+5509,"<38>E8020BFF022E</38>%"
 5510,"群狼盛宴（练习赛）"
 5511,"群狼盛宴（段位赛）"
 5512,"群狼盛宴（小队段位赛）"
@@ -5254,7 +5274,7 @@ A：Assist，协助他人打倒敌人的次数"
 且只能在对战区域使用。"
 5545,"可以任选3个对战用特性，
 且只会在对战区域生效。"
-5546,"快捷发言只有在参战“群狼盛宴”时才可使用。"
+5546,"快捷发言只有在参战“水晶冲突”时才可使用。"
 5547,"尝试与其他玩家进行对战吧！"
 5548,"对战是可以让玩家与玩家相互较量的游戏系统。
 
@@ -5267,8 +5287,8 @@ A：Assist，协助他人打倒敌人的次数"
 请您有时间务必来体验一下这人与人之间热血较量的对战系统！
 
 
-　　　　　　　　各对战任务的规则与对战系统的详细说明，
-　　　　　　　　可以在官方网站的特设页面进行确认！"
+各对战任务的规则与对战系统的详细说明，
+可以在官方网站的特设页面进行确认！"
 5549,"前往对战任务特设页面"
 5550,"关闭"
 5551,"尝试与其他玩家进行对战吧！"
@@ -5463,6 +5483,16 @@ A：Assist，协助他人打倒敌人的次数"
 5757,"不再流通的旧货币。
 一定时间内可找特定非玩家角色换成当前可正常使用的其他货币。"
 5758,"天穹街振兴票"
+5759,"开启货币设置"
+5760,"货币设置"
+5761,""
+5762,"设置界面上显示的持有币种"
+5763,"确定"
+5764,"取消"
+5765,"确定要放弃更改的设置吗？"
+5766,"未设置"
+5767,"可切换界面上显示的持有币种。"
+5768,"危命任务"
 5780,"当前窗口设置"
 5781,""
 5782,"当前窗口"
@@ -5533,6 +5563,10 @@ A：Assist，协助他人打倒敌人的次数"
 　·<Sheet(ActStr,IntegerParameter(2),0)/><Else/></If><If(GreaterThan(IntegerParameter(3),0))>
 　·<Sheet(ActStr,IntegerParameter(3),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
 　·<Sheet(ActStr,IntegerParameter(4),0)/><Else/></If>"
+5843,"确定要领取奖励吗？
+现在就领取将无法获得贴上9个印花后可获得的
+经验值等一系列奖励。"
+5844,"我不要贴满9个印花的奖励了"
 5860,"持有数量"
 5861,"持有数量：<Value>IntegerParameter(1)</Value>"
 5862,"继续分解"
@@ -6072,7 +6106,7 @@ A：Assist，协助他人打倒敌人的次数"
 6362,"选项"
 6363,"<Value>IntegerParameter(1)</Value>区"
 6364,"<Sheet(PlaceName,IntegerParameter(1),0)/>第<Value>IntegerParameter(2)</Value>区"
-6365,"土地竞拍"
+6365,"土地购买"
 6366,""
 6367,"价格"
 6368,"下次降价时间"
@@ -6131,6 +6165,23 @@ A：Assist，协助他人打倒敌人的次数"
 6422,"土壤与种子"
 6423,"施肥"
 6424,"<CommandIcon(10)/>取消选择"
+6425,"确定要购买部队房屋吗？
+
+※确定后，参加抽选时支付的金币将不再返还。"
+6426,"确定要搬迁部队房屋吗？
+
+※系统将返还搬走处约地价15%的金币，返还上限不会超过参加抽选时所支付的金额。
+
+返还金额：<Format(IntegerParameter(1),FF022C)/>金币"
+6427,"确定要购买个人房屋吗？
+
+※确定后，参加抽选时支付的金币将不再返还。"
+6428,"确定要搬迁个人房屋吗？
+
+※系统将返还搬走处约地价15%的金币，返还上限不会超过参加抽选时所支付的金额。
+
+返还金额：<Format(IntegerParameter(1),FF022C)/>金币"
+6429,"参加土地抽选"
 6430,"确定要雇佣<Sheet(ENpcResident,IntegerParameter(1),0)/>吗？
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>解雇时无法收回物品。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 6432,"雇佣<Sheet(ENpcResident,IntegerParameter(1),0)/>。"
@@ -6445,21 +6496,21 @@ A：Assist，协助他人打倒敌人的次数"
 6733,"<Sheet(HousingMateAuthority,5,0)/>"
 6734,"<Sheet(MateAuthorityCategory,4,0)/>"
 6735,"<Sheet(HousingMateAuthority,6,0)/>"
-6736,"<If(GreaterThan(IntegerParameter(1),1))>确定要支付<Format(IntegerParameter(1),FF022C)/>金币搬迁（个人）吗？
+6736,"<If(GreaterThan(IntegerParameter(1),1))>确定要支付<Format(IntegerParameter(1),FF022C)/>金币搬迁个人房屋吗？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※搬迁时需要支付的购买土地金额为
-　新土地的现售价减去30%的旧土地最低售价。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(LessThan(IntegerParameter(1),1))>确定要搬迁（个人）吗？
+　新土地的售价减去15%的旧土地现地价。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(LessThan(IntegerParameter(1),1))>确定要搬迁个人房屋吗？
 搬至这块土地不需要支付费用。
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※由于旧土地最低售价的30%高于新土地的现售价，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※由于旧土地现地价的15%高于新土地的售价，
 　本次搬迁将无需支付费用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>"
-6737,"<If(GreaterThan(IntegerParameter(1),1))>确定要支付<Format(IntegerParameter(1),FF022C)/>金币搬迁（部队）吗？
+6737,"<If(GreaterThan(IntegerParameter(1),1))>确定要支付<Format(IntegerParameter(1),FF022C)/>金币搬迁部队房屋吗？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※搬迁时需要支付的购买土地金额为
-　新土地的现售价减去30%的旧土地最低售价。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(LessThan(IntegerParameter(1),1))>确定要搬迁（部队）吗？
+　新土地的售价减去15%的旧土地现地价。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(LessThan(IntegerParameter(1),1))>确定要搬迁部队房屋吗？
 搬至这块土地不需要支付费用。
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※由于旧土地最低售价的30%高于新土地的现售价，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※由于旧土地现地价的15%高于新土地的售价，
 　本次搬迁将无需支付费用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>"
 6738,"<Sheet(MateAuthorityCategory,5,0)/>"
 6739,"<Sheet(HousingMateAuthority,7,0)/>"
@@ -6501,7 +6552,7 @@ A：Assist，协助他人打倒敌人的次数"
 6773,"出入房间"
 6774,"公寓房间资料"
 6775,""
-6776,"<Sheet(PlaceName,IntegerParameter(1),0)/> 第<Value>IntegerParameter(2)</Value>区 <If(Equal(IntegerParameter(1),425))><Sheet(PlaceName,1805,0)/><Else/><If(Equal(IntegerParameter(1),426))><Sheet(PlaceName,1807,0)/><Else/><If(Equal(IntegerParameter(1),427))><Sheet(PlaceName,1809,0)/><Else/><If(Equal(IntegerParameter(1),2412))><Sheet(PlaceName,1905,0)/><Else/>公寓</If></If></If></If> <If(Equal(IntegerParameter(3),129))>1号楼<Else/>2号楼</If> <Value>IntegerParameter(4)</Value>号房间"
+6776,"<Sheet(PlaceName,IntegerParameter(1),0)/> 第<Value>IntegerParameter(2)</Value>区 <If(Equal(IntegerParameter(1),425))><Sheet(PlaceName,1805,0)/><Else/><If(Equal(IntegerParameter(1),426))><Sheet(PlaceName,1807,0)/><Else/><If(Equal(IntegerParameter(1),427))><Sheet(PlaceName,1809,0)/><Else/><If(Equal(IntegerParameter(1),2412))><Sheet(PlaceName,1905,0)/><Else/><If(Equal(IntegerParameter(1),4139))><Sheet(PlaceName,3718,0)/><Else/>公寓</If></If></If></If></If> <If(Equal(IntegerParameter(3),129))>1号楼<Else/>2号楼</If> <Value>IntegerParameter(4)</Value>号房间"
 6777,"选择房间"
 6778,""
 6779,"撤除房间"
@@ -6808,6 +6859,31 @@ A：Assist，协助他人打倒敌人的次数"
 7038,"部分性能为负值，确定要更换配件吗？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>巡航速度或航行距离为负时将无法出发。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7039,"土地状况"
+7040,"部队房屋：<Switch(IntegerParameter(1))><Case(1)>○</Case><Case(2)>×</Case></Switch>"
+7041,"个人房屋：<Switch(IntegerParameter(1))><Case(1)>○</Case><Case(2)>×</Case></Switch>"
+7042," / "
+7043,"<Switch(IntegerParameter(1))><Case(1)>先到先得</Case><Case(2)>抽选购买　（当前参加人数：<Value>IntegerParameter(2)</Value>）</Case><Case(3)>准备中</Case></Switch>"
+7044,"<Switch(IntegerParameter(2))><Case(1)>抽选购买参加期：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止</Case><Case(2)>抽选结果公示期：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止</Case></Switch>"
+7045,"参加抽选"
+7046,"确定要支付<Format(IntegerParameter(1),FF022C)/>金币，参加这块土地的抽选吗？
+土地抽选同时只能参加一处，请谨慎选择。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>·此处目前是【<Switch(IntegerParameter(2))><Case(1)>部队房屋限定土地</Case><Case(2)>个人房屋限定土地</Case><Case(3)>无购买限制土地</Case></Switch>】。
+·抽选参加后将无法主动取消。
+·抽选结果公示期到来后，可在此门牌上确认抽选结果。
+·落选时可在此门牌处取回全额的参选费用。
+·当选时如果是搬迁过来，可返还搬离土地现地价15%的金币。
+ 不过此金额不会超过参选时支付的金额。
+·当选后如未在抽选结果公示期获取土地所有权，
+ 将被收取50%违约金，剩余50%参选费用可在此门牌处取回。
+·无论当选与否，金币的返还期为结果公示日起90天内，逾期将不予返还。
+·在获取完土地所有权或处理完金币返还前，将无法参加其他土地的抽选。
+·新加入部队的30天内无法为部队购买土地。
+　参加抽选后若退出部队，再度加回后同样需要重新计数30天。敬请注意。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7047,"同意注意事项，参加土地抽选"
+7048,"确定"
+7049,"取消"
 7050,"管弦乐琴播放列表"
 7051,""
 7053,"顺序播放"
@@ -6884,6 +6960,23 @@ A：Assist，协助他人打倒敌人的次数"
 有时搜索出结果需要一些时间，
 请耐心等待。"
 7121,"没搜索到任何乐谱。"
+7122,"中选号码为<Value>IntegerParameter(1)</Value>！
+恭喜您中选了！
+现在要获取土地吗？
+
+※获取期限：<Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止"
+7123,"确定要领取返还的<Format(IntegerParameter(1),FF022C)/>金币吗？
+因逾期未领取土地，返还额减低50%。
+
+※领取期限：<Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止"
+7124,"中选号码为<Value>IntegerParameter(1)</Value>，您落选了。
+现在领取返还的<Format(IntegerParameter(2),FF022C)/>金币吗？
+
+※领取期限：<Time(IntegerParameter(3))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止"
+7125,"中选结果公布后90天内未领取返还金。
+现已逾期无法领取。"
+7126,"<If(GreaterThan(IntegerParameter(1),0))>此地的中选号码为<Value>IntegerParameter(1)</Value>。<Else/>未有人参加抽选。</If>"
+7127,"确认抽选结果"
 7130,"更新存档"
 7131,"场景标记"
 7132,""
@@ -6949,7 +7042,13 @@ A：Assist，协助他人打倒敌人的次数"
 7515,"鼠标模式"
 7516,"手柄模式"
 7517,"物品设置"
+7518,"设置自动选中目标"
+7519,"无目标时自动选中目标的条件"
+7520,"发动敌对性质技能时自动选中目标"
 7523,"恢复默认设置"
+7524,"自动选中目标时的优先选中"
+7525,"镜头方向的敌人"
+7526,"最近的敌人"
 7527,"确定要改变操作模式吗？
 改变后会放弃所有已变更的设置。"
 7528,"是"
@@ -7000,7 +7099,7 @@ A：Assist，协助他人打倒敌人的次数"
 7574,"显示目标环"
 7575,"显示目标线"
 7576,"显示联系线"
-7577,"未选中目标时自动选中"
+7577,"遭受敌对性质技能时自动选中目标"
 7578,"保持视角距离（仅限传统方式下）"
 7579,"设置候选圈"
 7580,"设置分类选择内容"
@@ -7154,7 +7253,7 @@ A：Assist，协助他人打倒敌人的次数"
 7730,"他人的召唤兽"
 7731,"房屋中的家具"
 7732,"庭院中的园圃"
-7733,"群狼盛宴中敌人名牌"
+7733,"水晶冲突中敌人名牌"
 7734,"显示当前服务器名"
 7735,"纷争前线（黑涡团）"
 7736,"纷争前线（双蛇党）"
@@ -7164,7 +7263,7 @@ A：Assist，协助他人打倒敌人的次数"
 7740,"显示"
 7741,"共用"
 7742,"十字热键栏"
-7743,"扩展设置"
+7743,"十字热键栏扩展设置"
 7744,""
 7745,"队员排序设置"
 7746,"指定职能顺序"
@@ -7270,7 +7369,7 @@ A：Assist，协助他人打倒敌人的次数"
 7846,"同时显示十字热键栏和特殊热键栏"
 7847,"只显示十字热键栏"
 7848,"只显示特殊热键栏"
-7849,"坐骑有表演用特殊技能栏时自动替换技能栏1的内容"
+7849,"有表演用特殊技能栏时自动替换技能栏1的内容"
 7850,"<Gui(12)/>设置<If(GreaterThan(IntegerParameter(1),0))> L1键<Else/> LB键</If>的功能"
 7851,"<Gui(14)/>设置<If(GreaterThan(IntegerParameter(1),0))> L2键<Else/> LT键</If>的功能"
 7852,"<Gui(16)/>设置<If(GreaterThan(IntegerParameter(1),0))> L3键<Else/> 左摇杆键</If>的功能"
@@ -7540,6 +7639,9 @@ A：Assist，协助他人打倒敌人的次数"
 8158,"团队 D/E/F"
 8159,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 8160,"晓月之章"
+8161,"重生之境"
+8162,"达成时展开探索笔记"
+8163,"播放达成时的演出"
 8164,"奖励"
 8165,"挑战完成"
 8166,"完成！"
@@ -7964,6 +8066,12 @@ A：Assist，协助他人打倒敌人的次数"
 机遇任务的时间安排已经发生了改变。
 
 详细情况请前往入口广场找“来宾接待员”确认。"
+8483,"可以在游戏里试穿官网商城贩卖的装备了！
+
+通过各地旅馆<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow> 舒适的睡床<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可使用此功能。
+
+试穿时可以将套装拆分试穿！
+灵活运用新功能，探索更多穿搭，确认上架新品吧！"
 8484,"其他"
 8485,"收藏夹"
 8486,"伊修加德周边"
@@ -8250,6 +8358,7 @@ Immerse Gamepack尚未安装。
 8815,"信赖等级"
 8816,"飞空艇名"
 8817,"潜水艇名"
+8818,"土地抽选状况确认"
 8819,"时尚品鉴"
 8820,"可确认时尚品鉴的主题。"
 8821,"多玛飞地重建"
@@ -8274,6 +8383,13 @@ Immerse Gamepack尚未安装。
 8840,"［已达成］"
 8841,"不在原始服务器，无法获得该信息。"
 8842,"<Gui(63)/>信息获取失败"
+8843,"土地抽选状况确认"
+8844,"当前可参加抽选。"
+8845,"抽选结果公示中。"
+8846,"自身参加的抽选"
+8847,"<Sheet(PlaceName,IntegerParameter(1),0)/> 第<Value>IntegerParameter(2)</Value>区 <Value>IntegerParameter(3)</Value>号 [<Switch(IntegerParameter(4))><Case(1)>小</Case><Case(2)>中</Case><Case(3)>大</Case></Switch>]"
+8848,"号码凭证：<Value>IntegerParameter(1)</Value>号"
+8849,"土地用途：<Switch(IntegerParameter(1))><Case(1)>部队房屋</Case><Case(2)>个人房屋</Case></Switch>"
 8850,"职能内排序设置"
 8851,""
 8852,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设置小队列表中排序时每种职能内部各职业的顺序。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -9332,6 +9448,7 @@ Immerse Gamepack尚未安装。
 ·等级同步与品级同步将不会生效。
 ·在任务内精炼度不会提升。
 ·部分任务会为玩家提供特殊状态。
+·随时可以发动放弃任务投票。
 
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※只能在允许解除限制的任务使用。
 ※只有队长进行设定才会生效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -9395,7 +9512,7 @@ Immerse Gamepack尚未安装。
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※所有需要网络匹配的任务都会遵循此处的语言设置。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10055,"★"
 10056,"<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※注意！
-根据所选语言及数据中心内的语言使用情况不同，匹配时间有可能会变长。
+根据所选语言及大区内的语言使用情况不同，匹配时间有可能会变长。
 更改设置后，如果遇到匹配时间变得更长等问题，请更改语言设置后重新尝试。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10057,"任务情报"
 10058,"确定要关闭吗？
@@ -9413,7 +9530,8 @@ Immerse Gamepack尚未安装。
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10066,"放弃任务投票"
 10067,"发起放弃任务投票。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※只有任务开始15分钟之后才能发起投票。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※只有任务开始15分钟之后才能发起投票。
+（解除限制进入时不受此规则限制）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10068,"补充队员"
 10069,"在执行任务途中，小队人数低于任务要求时可以开始补充新队员。"
 10070,"显示详细信息"
@@ -9938,6 +10056,8 @@ Immerse Gamepack尚未安装。
 10483,"确定要进入吗？
 此存档的团灭次数不为0，将无法进入深层挑战。"
 10484,"读取此存档进入。"
+10500,"以剧情辅助器进入"
+10501,"以亲信战友进入"
 10507,"/"
 10508,"吉兆"
 10509,"<Highlight>StringParameter(1)</Highlight>: <Highlight>StringParameter(2)</Highlight>"
@@ -9945,7 +10065,7 @@ Immerse Gamepack尚未安装。
 10511,""
 10512,"参加条件"
 10513,"<Value>IntegerParameter(1)</Value><If(GreaterThan(IntegerParameter(2),IntegerParameter(1)))>～<Value>IntegerParameter(2)</Value><Else/></If>级 ※超过等级上限时会自动进行等级同步<If(GreaterThan(IntegerParameter(3),0))>
-平均品级高于 <Value>IntegerParameter(3)</Value>级<Else/></If><If(GreaterThan(IntegerParameter(4),0))>　
+平均品级不低于 <Value>IntegerParameter(3)</Value>级<Else/></If><If(GreaterThan(IntegerParameter(4),0))>　
 品级同步：<Value>IntegerParameter(4)</Value>级<Else/></If>"
 10514,"确定要进行这些部位的武具投影吗？"
 10515,"确定要将造型恢复为本次武具投影开始前的状态吗？"
@@ -10217,7 +10337,9 @@ Immerse Gamepack尚未安装。
 10829,"※设限特职只有在以规定人数组队或解除限制的状态下才能进入副本任务。"
 10830,"来自原始服务器的申请"
 10831,"段位初段以上"
-10832,"此任务暂时封锁中。"
+10832,"因对战任务正经历大幅度修改，
+此任务暂时关闭。
+随今后版本升级可能会重新开启。"
 10834,"<If(Equal(IntegerParameter(1),0))><Else/>任务缓和</If>"
 10835,"当前版本针对零式大型任务做出以下调整。
 　·各层攻略后不再记录攻略进度。
@@ -10336,7 +10458,7 @@ Immerse Gamepack尚未安装。
 10918,"每隔一段时间在消息窗口中显示“按招募条件搜索”最新有多少条搜索结果。带密码的招募不会计算进来。"
 10919,"通过设置“目的”“玩法”“招募条件”“任务搜索器设置”“分配方式”可以对搜索结果进行筛选。"
 10920,"为当前搜索结果切换升序降序排列。"
-10921,"当前地点：<Sheet(PlaceName,IntegerParameter(1),0)/>"
+10921,"当前位于：<Highlight>StringParameter(1)</Highlight>"
 10922,"招募期限：<Value>IntegerParameter(1)</Value>分"
 10923,"目的"
 10924,"无"
@@ -10475,8 +10597,8 @@ Immerse Gamepack尚未安装。
 11031,"辛苦了！<Unknown60>0261</Unknown60>"
 11032,"谢谢！<Unknown60>0262</Unknown60>"
 11033,"漂亮！<Unknown60>0262</Unknown60>"
-11034,"<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>可以使用！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>"
-11035,"奋战技<If(Equal(IntegerParameter(1),100))>可以使用！<Unknown60>0263</Unknown60><Else/>充能<Value>IntegerParameter(1)</Value>%！<Unknown60>0264</Unknown60></If>"
+11034,"<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>准备就绪！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>"
+11035,"极限技<If(Equal(IntegerParameter(1),100))>准备就绪！<Unknown60>0263</Unknown60><Else/>充能<Value>IntegerParameter(1)</Value>%！<Unknown60>0264</Unknown60></If>"
 11036,"我来瞄准攻击补给箱！<Unknown60>0265</Unknown60>"
 11037,"我来瞄准防御补给箱！<Unknown60>0265</Unknown60>"
 11038,"我来瞄准奋战补给箱！<Unknown60>0265</Unknown60>"
@@ -10491,13 +10613,13 @@ Immerse Gamepack尚未安装。
 11047,"我来拖住远程职业！<Unknown60>0267</Unknown60>"
 11048,"我来拾取战章！<Unknown60>0268</Unknown60>"
 11049,"请去拾取战章！<Unknown60>0268</Unknown60>"
-11050,"大家全力攻击！<Unknown60>0269</Unknown60>"
-11051,"先后退，观察情况！<Unknown60>0264</Unknown60>"
+11050,"大家一起进攻！<Unknown60>0269</Unknown60>"
+11051,"大家先撤退！<Unknown60>0264</Unknown60>"
 11052,"我的魔力还有<Value>IntegerParameter(1)</Value>%！<Unknown60>0263</Unknown60>"
 11053,"我的技力还有<Value>IntegerParameter(1)</Value>%！<Unknown60>0263</Unknown60>"
 11054,"我来攻击<Sheet(ClassJob,IntegerParameter(1),0)/>！<Unknown60>0266</Unknown60>"
-11055,"我来拖住<Sheet(ClassJob,IntegerParameter(1),0)/>！<Unknown60>0267</Unknown60>"
-11056,"<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>可以使用！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>"
+11055,"我来干扰<Sheet(ClassJob,IntegerParameter(1),0)/>！<Unknown60>0267</Unknown60>"
+11056,"<Sheet(Action,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>准备就绪！<Unknown60>0263</Unknown60><Else/>还有<Value>IntegerParameter(2)</Value>秒才能使用！<Unknown60>0264</Unknown60></If>"
 11057,"集中攻击<Sheet(ClassJob,IntegerParameter(1),0)/>！"
 11058,"停止集中攻击！<Unknown60>0264</Unknown60>"
 11060,"分配方式"
@@ -10594,7 +10716,7 @@ Immerse Gamepack尚未安装。
 11166,"否"
 11167,"任务未完成"
 11168,"招募条件：任务未完成"
-11169,"平均品级高于<Value>IntegerParameter(1)</Value>级"
+11169,"平均品级不低于<Value>IntegerParameter(1)</Value>级"
 11170,"任务"
 11171,"※消息通知中不包含带密码的招募。"
 11172,"招募人：<Highlight>StringParameter(1)</Highlight>"
@@ -11090,6 +11212,12 @@ Immerse Gamepack尚未安装。
 11710,"胜利"
 11711,"败北"
 11712,"不分胜负"
+11713,"是我的错！<Unknown60>0264</Unknown60>"
+11714,"我上了！<Unknown60>0269</Unknown60>"
+11715,"我先退后调整！<Unknown60>0264</Unknown60>"
+11716,"我来押运战术水晶！<Unknown60>0266</Unknown60>"
+11717,"请去押运战术水晶！<Unknown60>0269</Unknown60>"
+11718,"我来掩护<Sheet(ClassJob,IntegerParameter(1),0)/>！<Unknown60>0263</Unknown60>"
 11720,"战队公告板"
 11721,""
 11722,"战队公告板除了可用来成立战队外，
@@ -11098,10 +11226,7 @@ Immerse Gamepack尚未安装。
 11724,"战队的目的与概要"
 11725,"战队系统的解说"
 11726,"什么是战队"
-11727,"“战队”是冒险者们为了变得更强，为了在以群狼盛宴为首的对战任务中大展拳脚，从而自发成立的小团体。
-
-“战队段位积分”是战队实力的体现，该积分会在参加战队专用的段位赛时发生增减。
-战队段位积分排名靠前的战队能够获得奖励并有可能得到大赛的参赛权。
+11727,"“战队”是冒险者们为了交流提高、在水晶冲突等对战任务中大展拳脚，从而自发成立的小团体。
 
 成立战队需满足以下条件：
 　·由小队的队长发起申请
@@ -11133,13 +11258,11 @@ Immerse Gamepack尚未安装。
 11736,"关于战队成员的邀请与除名"
 11737,"想要“邀请”新成员加入战队时，可以选中目标后，从次级指令中选择“发送加入战队的邀请”。
 对方同意后即会加入战队。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※战队赛季开赛后，战队将暂时无法邀请新人加入。
-　赛季中，战队人数若低于4人，战队会失去排位资格。
-　建议在赛季开始前提前做好准备、集齐战队成员。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
 如想邀请其他服务器的玩家，请先组好跨服小队，然后从快捷指令的小队队员中选择该玩家，再从次级指令中选择“发送加入战队的邀请”。
 
 想要将玩家从战队中“除名”时，需要在战队菜单的成员列表中选择次级指令“从战队中除名”。
-※“邀请”与“除名”可由战队的战队队长或战队副队长执行。"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※“邀请”与“除名”可由战队的战队队长或战队副队长执行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 11738,"关于战队的权限"
 11739,"战队队长可以任命战队副队长。
 打开对战小队菜单，从成员列表中用次级指令即可进行任命。
@@ -11147,8 +11270,7 @@ Immerse Gamepack尚未安装。
 另外，战队队长与战队副队长还可以进行更改战队名或更改队徽等操作。"
 11740,"关于解散与退出"
 11741,"若想“解散”战队，需要战队队长打开战队菜单，从“情报”中发起“解散战队”，成员过半数同意后，战队即会解散。
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※解散战队会导致战队段位积分与成绩履历消失，请谨慎操作。
-<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
 若想“退出”战队，需要打开战队菜单，从“情报”中选择“退出战队”。
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※退出战队后将无法继续使用战队相关功能，敬请注意。<UIGlow>01</UIGlow><UIForeground>01</UIForeground> "
 11742,"关于自动转让战队队长"
@@ -11395,7 +11517,8 @@ Immerse Gamepack尚未安装。
 
 将装备变为幻影时有以下几点需要注意：
 　·制作者署名、魔晶石、以太装备的随机属性
-　　会被清除
+　 会被清除
+　·附加的武具投影与部队队徽会被清除
 　·精炼度变为0%、耐久度变为100%
 　·取出后绑定"
 12002,"1"
@@ -11928,28 +12051,56 @@ Immerse Gamepack尚未安装。
 12511,""
 12512,"原始服务器"
 12513,"其他服务器"
-12514,"　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《关于跨界传送》<UIForeground>01</UIForeground>
+12514,"<If(Equal(IntegerParameter(1),2))>　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《关于超域传送》<UIForeground>01</UIForeground>
+“超域传送”是让前往其他服务器游玩的“跨界传送”能够跨越大区的功能。超域传送时除了普通跨界传送的限制外，还会受到几条额外的限制。
+
+　　　　　　　　　　<UIForeground>F20202</UIForeground>《申请超域传送时的注意事项》<UIForeground>01</UIForeground>
+　·视服务器忙碌状况，超域传送有时会花费30分钟时间。
+　·超域传送过程无法中断，完成前账号下所有角色都无法登录。
+　·选择“前往其他大区游玩”后，游戏会退回到标题界面。
+　 超域传送完成后，需要选择目的地的大区重新登录，才能进入游戏。
+　·在返回原始大区前，在原始大区显示的角色无法进行登录等操作。
+　·超域传送中的角色无法从旅行区直接去往下一个大区旅行。
+　 需要先返回原始大区再进行下一次旅行。
+
+<Else/></If><If(LessThan(IntegerParameter(1),2))>　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《关于跨界传送》<UIForeground>01</UIForeground>
 您可以离开自己所在的服务器去往同一大区内的其他服务器游玩。在其他服务器可以照常进行和好友组队、购物、挑战副本任务等行动。
 
 　　　　　　　　　　<UIForeground>F20202</UIForeground>《申请跨界传送时的注意事项》<UIForeground>01</UIForeground>
 申请跨界传送时，根据目标服务器的拥挤程度可能会需要一定的等待时间。等待结束后传送会自动进行，届时您正在执行的所有操作都将被强制取消。
 
-　　　　　　　　　　　<UIForeground>F20202</UIForeground>《身处其他服务器时的限制》<UIForeground>01</UIForeground>
-在其他服务器游玩时存在以下限制需要注意。
+<Else/></If>　　　　　　　　　　　<UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>　《身处其他大区<Else/>《身处其他服务器</If>时的限制》<UIForeground>01</UIForeground>
+<If(Equal(IntegerParameter(1),1))>您当前正身处于非原始大区游玩。<Else/></If><If(GreaterThan(IntegerParameter(1),0))>在其他大区<Else/>在其他服务器</If>游玩时存在以下限制需要注意。
 
-<UIForeground>F20202</UIForeground>雇员<UIForeground>01</UIForeground>将受到如下限制：
-　·无法传唤、雇佣、解雇雇员。
-　·无法将道具在市场布告板出售。（但可以从市场布告板购买道具）
+<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>好友名单<UIForeground>01</UIForeground>将受到如下限制：
+　·无法和身处其他大区的好友聊天。
+　·无法和身处其他大区的好友组队。
 
-<UIForeground>F20202</UIForeground>部队<UIForeground>01</UIForeground>将受到如下限制：
+<Else/></If><UIForeground>F20202</UIForeground>部队<UIForeground>01</UIForeground>将受到如下限制：
 　·无法创建或加入部队。
 　·无法确认自身所在部队的情报。
 　·无法获得部队战绩。
 
-<UIForeground>F20202</UIForeground>通讯贝<UIForeground>01</UIForeground>将受到如下限制：
+<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>跨服通讯贝<UIForeground>01</UIForeground>将受到如下限制：
+　·无法创建跨服通讯贝。
+　·无法成为管理员。
+
+<Else/></If><UIForeground>F20202</UIForeground>通讯贝<UIForeground>01</UIForeground>将受到如下限制：
 　·无法使用通讯贝。
 　·无法确认通讯贝情报。
 　·无法创建或加入通讯贝。
+
+<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>战队<UIForeground>01</UIForeground>将受到如下限制：
+　·无法使用战队功能。
+　·无法确认战队情报。
+　·无法创建或加入战队。
+
+<UIForeground>F20202</UIForeground>同好会<UIForeground>01</UIForeground>将受到如下限制：
+　·除了在同好招募中进行搜索，其他一切功能皆无法使用。
+
+<Else/></If><UIForeground>F20202</UIForeground>雇员<UIForeground>01</UIForeground>将受到如下限制：
+　·无法传唤、雇佣、解雇雇员。
+　·无法将道具在市场布告板出售。（但可以从市场布告板购买道具）
 
 <UIForeground>F20202</UIForeground>房屋<UIForeground>01</UIForeground>将受到如下限制：
 　·无法购买土地或公寓房间。
@@ -11960,13 +12111,15 @@ Immerse Gamepack尚未安装。
 　·永结同心的任务只能在原始服务器领取。
 　·典礼请柬无法交给其他服务器的玩家。
 
-<UIForeground>F20202</UIForeground>任务与机能<UIForeground>01</UIForeground>将受到如下限制：
-　·无法参加萌宠之王大赛。
+<UIForeground>F20202</UIForeground>副本任务与功能方面<UIForeground>01</UIForeground>将受到如下限制：
+<If(GreaterThan(IntegerParameter(1),0))>　・玩家对战的各项成绩不进排名。
+　・无法参加水晶冲突段位赛。
+<Else/></If>　·无法参加萌宠之王大赛。
 　·无法参加九宫幻卡大赛。
 　·无法购买或兑奖仙人仙彩。
 　·无法使用莫古邮件。
 　·深层迷宫的积分不进排名。
-　·传送到恋人或好友身边的机能只有在两人同在一个服务器时才能使用。
+　·传送到恋人或好友身边的功能只有在两人同在一个服务器时才能使用。
 　·采矿工与园艺工无法发现未知、传说等采集点。
 "
 12515,"原始服务器"
@@ -12074,6 +12227,8 @@ Immerse Gamepack尚未安装。
 12624,"确定要移动到“<Highlight>StringParameter(1)</Highlight>”吗？
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>服务器内组队状态下无法使用此功能。
 跨服组队状态下可以使用此功能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12625,"超域旅者"
+12626,"不处于原始大区时无法显示邮件通知。"
 12630,"初级狂热怪物通缉令"
 12631,"中级狂热怪物通缉令"
 12632,"高级狂热怪物通缉令"
@@ -12127,16 +12282,7 @@ Immerse Gamepack尚未安装。
 ※个别任务会默认使用“仅限贪婪”等其他分配方式。
 ※只能够在允许变更分配方式的任务中生效。
 ※只有队长设定的分配方式能够生效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12694,"コンテンツ内で使用する言語を設定します。
-
-・選択した言語を含んだ言語設定にしているプレイヤーとマッチングされます。
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>データセンター内での使用言語状況によって、マッチング時間が長くなる
-可能性があります。設定変更後にマッチング時間が通常より長くなったなどの
-問題が発生した場合、異なる言語設定に変更してから再度お試しください。
-<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ _ が付いている言語はランチャーで選択している表示言語です。
-※言語設定はマッチングコンテンツ共有の設定になります。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12694,"//国服不使用"
 12695,"昔日重现模式中不可申请"
 12696,"等级同步"
 12697,"令任务的等级同步生效。
@@ -12146,10 +12292,6 @@ Immerse Gamepack尚未安装。
 
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※只能在解除限制时使用。
 ※只有队长进行设定才会生效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12698,"剧情"
-12699,"可以和非玩家同伴角色一起攻略主线任务中去过的迷宫。
-“剧情”模式与“幻体”模式不同，
-可以带上当时剧情中可选的非玩家角色进行攻略。"
 12700,"亲信战友"
 12701,""
 12702,"小队成员"
@@ -12162,22 +12304,6 @@ Immerse Gamepack尚未安装。
 12709,"剧情"
 12710,"亲信战友经验值"
 12711,"显示亲信战友说明"
-12712,"亲信战友"
-12713,"暗影之逆焰、晓月之终途主线任务中需要前往的迷宫
-都可选择与非玩家同伴角色一同前往。
-编成队伍时需要注意职能构成，
-构成规则与通过任务搜索器参加时一致。
-当然，也可以和从前一样选择与正常玩家组队前往。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※使用“亲信战友”系统挑战迷宫时部分宝箱中的内容会减少，
-另外击败部分怪物时将无法获得奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12714,"幻体"
-12715,"暗影之逆焰主线任务中需要前往的迷宫
-都可选择与非玩家同伴角色的幻体一同前往。
-幻体可通过攻略迷宫而获得经验、升级。"
-12716,"投影"
-12717,"等级达到80级的幻体会开放投影功能。
-可以在同伴选择画面上通过次级指令中的投影选项
-对幻体的外观进行修改。"
 12718,"亲信战友说明"
 12719,""
 12720,"等级不足"
@@ -12724,6 +12850,16 @@ Immerse Gamepack尚未安装。
 13290,"特别收获！"
 13291,"所需能力"
 13292,"--"
+13293,"撰写雇员备注"
+13294,"备注"
+13295,"雇员备注"
+13296,""
+13297,"出售品列表中存在当前版本不再能交易的道具。
+
+这类道具即便留在列表中也无法上架到市场，
+推荐将其取回。
+确定要暂不进行处理吗？"
+13298,"<Gui(63)/>"
 13300,"确定要将<Highlight>StringParameter(1)</Highlight>从同好会黑名单中删除吗？"
 13301,"确定要将<Highlight>StringParameter(1)</Highlight>踢出同好会吗？"
 13302,"确定要将会长权限移交给<Highlight>StringParameter(1)</Highlight>吗？"
@@ -13029,6 +13165,11 @@ Immerse Gamepack尚未安装。
 13660,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存的热键栏数据反映到了青魔法师的热键栏上。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 13661,"将选择的有效技能保存为“<Highlight>StringParameter(1)</Highlight>”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※当前职业并非青魔法师，无法生成青魔法师的热键栏数据。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13662,"水晶的束缚解除了！"
+13663,"火山喷发了！"
+13664,"湍流形成了！"
+13665,"<Switch(IntegerParameter(1))><Case(1)>星极队</Case><Case(2)>灵极队</Case></Switch>通过了战术点！"
+13666,"击倒"
 13670,"时尚配饰使用中"
 13671,"时尚配饰"
 13672,""
@@ -13038,6 +13179,27 @@ Immerse Gamepack尚未安装。
 13676,"请选择时尚配饰。"
 13677,"设置热键"
 13678,"执行"
+13679,"使用情感动作“改变姿势”时，做出与时尚配饰搭配的专属动作。"
+13759,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习"
+13760,"无使用条件"
+13761,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”"
+13762,"完成副本任务“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”"
+13763,"通过“<Sheet(Item,IntegerParameter(3),0)/>”学习
+<97>E803</97>
+用货币交换：<Sheet(ObjStr,IntegerParameter(1),0)/>"
+13764,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习
+<If(NotEqual(PlayerParameter(92),0))><Switch(PlayerParameter(92))><Case(1)><97>F63DEC88</97>
+用货币交换：黑涡团补给负责人</Case><Case(2)><97>F63CA772</97>
+用货币交换：双蛇党补给负责人</Case><Case(3)><97>F6379843</97>
+用货币交换：恒辉队补给负责人</Case></Switch><Else/>大国防联军军票交换</If>"
+13765,"绑定官方手机APP“随身神典石”"
+13766,"绑定官方手机APP“随身神典石”
+并购买其VIP服务"
+13767,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习"
+13768,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习"
+13769,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习
+参加官网萌新招待活动成功招待到1名玩家"
+13770,"达成成就“<Sheet(Achievement,IntegerParameter(1),1)/>”"
 13771,"收藏品交易"
 13772,""
 13773,"总数"
@@ -13407,6 +13569,8 @@ Immerse Gamepack尚未安装。
 14206,"技能的制作力消耗减半。"
 14207,"技能效果多持续2次作业时间。"
 14208,"作业的进展推动量是通常状态的1.5倍。"
+14209,"所需收藏价值"
+14210,"<Value>IntegerParameter(1)</Value>～"
 14350,"选择放生对象"
 14351,""
 14352,"一般尺寸"
@@ -13444,6 +13608,26 @@ Immerse Gamepack尚未安装。
 14419," "
 14420,"再次抽选"
 14421,"已达成！"
+14422,":"
+14423,"星极队"
+14424,"灵极队"
+14425,"胜利之星<If(GreaterThan(IntegerParameter(1),0))>（连胜奖励持续中！）<Else/>　</If>"
+14426,"<Highlight>StringParameter(1)</Highlight><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value><Else/></If><Switch(IntegerParameter(3))><Case(1)>☆☆☆</Case><Case(2)>★☆☆</Case><Case(3)>★★☆</Case><Case(4)>★★★</Case></Switch>　→　<Highlight>StringParameter(4)</Highlight><If(Equal(IntegerParameter(5),0))><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value><Else/></If><Switch(IntegerParameter(7))><Case(1)>☆☆☆</Case><Case(2)>★☆☆</Case><Case(3)>★★☆</Case><Case(4)>★★★</Case></Switch><Else/></If>"
+14427,"水晶点"
+14428,"<Value>IntegerParameter(1)</Value>　→　<Value>IntegerParameter(2)</Value>"
+14429,"当前开放场地：<Sheet(PlaceName,IntegerParameter(1),0)/>　<If(Equal(IntegerParameter(4),0))><Time(IntegerParameter(2))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>～<Time(IntegerParameter(3))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue><Else/><Time(IntegerParameter(2))/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <If(LessThan(TopLevelParameter(218),12))>a.m.<Else/>p.m.</If>～<Time(IntegerParameter(3))/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <If(LessThan(TopLevelParameter(218),12))>a.m.<Else/>p.m.</If></If>
+"
+14430,"下期开放场地：<Sheet(PlaceName,IntegerParameter(1),0)/>　<If(Equal(IntegerParameter(4),0))><Time(IntegerParameter(2))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>～<Time(IntegerParameter(3))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue><Else/><Time(IntegerParameter(2))/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <If(LessThan(TopLevelParameter(218),12))>a.m.<Else/>p.m.</If>～<Time(IntegerParameter(3))/><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> <If(LessThan(TopLevelParameter(218),12))>a.m.<Else/>p.m.</If></If>
+"
+14431,"请选择规则："
+14432,"启用场地机制"
+14433,"启用道具包"
+14434,"确定"
+14435,"取消"
+14436,"星极队"
+14437,"灵极队"
+14438,"星极队"
+14439,"灵极队"
 14440,"萨雷安魔法大学交易"
 14441,""
 14442,"酬劳"
@@ -13458,8 +13642,329 @@ Immerse Gamepack尚未安装。
 14472,"投影2"
 14475,"～<Value>IntegerParameter(1)</Value>级"
 14476,"<Value>IntegerParameter(1)</Value>级～"
-14477,"幻体的限制"
-14478,"有些幻体无法前往全部的迷宫。"
+14494,"还有<Value>IntegerParameter(1)</Value>秒停止状态解除！"
+14495,"还有<Value>IntegerParameter(1)</Value>秒开始火山喷发！"
+14496,"还有<Value>IntegerParameter(1)</Value>秒火山喷发结束"
+14497,"还有<Value>IntegerParameter(1)</Value>秒湍流形成！"
+14498,"还有<Value>IntegerParameter(1)</Value>秒湍流消失"
+14620,"幻想试穿"
+14621,""
+14622,"筛选出符合条件的商品。
+退出幻想试穿后条件筛选会恢复默认设置。"
+14623,"条件筛选"
+14624,""
+14625,"全部"
+14626,"成套商品"
+14627,"单件商品"
+14628,"男女通用"
+14629,"男性专用"
+14630,"女性专用"
+14631,"可染色"
+14632,"不可染色"
+14633,"武器/工具"
+14634,"头部"
+14635,"身体"
+14636,"腿部"
+14637,"脚部"
+14638,"项链"
+14639,"耳饰"
+14640,"戒指"
+14641,"确定"
+14642,"取消"
+14643,"前往官网商城"
+14644,"类别"
+14645,"商品列表"
+14646,"预览"
+14647,"新品"
+14648,"无商品。"
+14649,"确定要结束幻想试穿吗？"
+14650,"肖像列表"
+14651,"（测试版）"
+14652,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+14653,"人物"
+14654,"肖像设计"
+14655,"バックグラウンド"
+14656,"フレーム"
+14657,"オーナメント"
+14658,"显示冒险者铭牌"
+14659,"显示肖像的相关说明。"
+14660,"确定要删除所选肖像吗？"
+14661,"编辑肖像"
+14662,"应用于冒险者铭牌"
+14663,"与套装关联"
+14664,"上移"
+14665,"下移"
+14666,"移至最上"
+14667,"移至最下"
+14668,"删除肖像"
+14669,"新建肖像"
+14670,"复制主肖像新建"
+14671,"复制对战肖像新建"
+14672,"确定要将所选肖像用在冒险者铭牌上吗？"
+14673,"设置肖像与套装关联"
+14674,"将肖像与套装关联后，切换成该套装时，
+被关联肖像就会自动设定为对战肖像。
+对战肖像：
+对战任务“水晶冲突”开场时，
+在选手介绍环节所展示的肖像。"
+14675,"关联套装"
+14676,"设置套装与肖像关联"
+14677,"将套装与肖像关联后，切换成该套装时，
+被关联肖像就会自动设定为对战肖像。
+对战肖像：
+对战任务“水晶冲突”开场时，
+在选手介绍环节所展示的肖像。"
+14678,"关联肖像"
+14679,"更改肖像名称"
+14680,"请输入想使用的肖像名称。"
+14681,"编辑肖像"
+14682,"（测试版）"
+14683,"保存"
+14684,"肖像设计"
+14685,"人物"
+14686,"预设"
+14687,"肖像背景"
+14688,"肖像装饰框"
+14689,"肖像装饰"
+14690,"动作"
+14691,"表情"
+14692,"灯光：环境光"
+14693,"灯光：方向性灯光"
+14694,"亮度"
+14695,"水平角度"
+14696,"垂直角度"
+14697,"设置肖像背景"
+14698,"设置肖像装饰框"
+14699,"设置肖像装饰"
+14700,"设置动作"
+14701,"设置表情"
+14702,"自定义"
+14703,"确定要放弃修改直接关闭吗？"
+14704,"动作播放"
+14705,"动作暂停"
+14706,"面向镜头"
+14707,"看向镜头"
+14708,"重置镜头设置"
+14709,"重置面向"
+14710,"重置视线"
+14711,"缩放"
+14712,"旋转"
+14713,"显示肖像背景的详细列表"
+14714,"显示肖像装饰框的详细列表"
+14715,"显示肖像装饰的详细列表"
+14716,"显示动作的详细列表"
+14717,"显示表情的详细列表"
+14718,"全部显示"
+14719,"仅显示已学会"
+14720,"仅显示未学会"
+14721,"所有分类"
+14722,"情感动作"
+14723,"技能动作"
+14724,"其他"
+14725,"设定为对战肖像"
+14726,"确定要将所选肖像设定为对战肖像吗？"
+14727,"未设置"
+14728,"确定"
+14729,"取消"
+14730,"<If(Equal(PlayerParameter(80),0))>左键拖拽：镜头旋转 右键拖拽：挪动角色 滚轮上下：缩放镜头<Else/><CommandIcon(23)/>镜头旋转 <CommandIcon(20)/>挪动角色 <CommandIcon(12)/>＋<CommandIcon(24)/>镜头缩放 <CommandIcon(11)/>面向镜头 <CommandIcon(13)/>动作暂停</If>"
+14731,"重置环境光设置"
+14732,"重置方向性灯光设置"
+14733,"编辑"
+14734,"通过“编辑肖像”功能，
+玩家可以制作独属于自己的肖像画。
+从情感动作或技能动作中截取自己喜欢的瞬间，
+再配上背景和装饰框，一幅肖像就制作完毕了！
+
+制作好的肖像不仅可以用在冒险者铭牌上，
+还可以用在对战任务“水晶冲突”的开场选手介绍环节。
+
+请尝试制作出最棒的肖像吧！
+※详细解说可以查看说明。"
+14735,"当前装备与将此肖像设定为对战肖像时穿着的装备不一致。
+请以当前装备重新将此肖像设定为对战肖像。"
+14736,"确定要以当前装备编辑肖像吗？"
+14800,"与其他玩家一同进入<Sheet(InstanceContent,IntegerParameter(1),3)/> "
+14801,"与非玩家同伴一同进入<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>"
+14802,"同伴选择"
+14803,"<If(GreaterThan(IntegerParameter(1),0))>平均品级不低于<Value>IntegerParameter(1)</Value>级<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
+品级同步：<Value>IntegerParameter(2)</Value>级<Else/></If>"
+14804,"剧情辅助器"
+14805,""
+14806,"报酬"
+14807,"信息"
+14808,"显示剧情辅助器说明"
+14809,"剧情辅助器说明"
+14810,""
+14811,"任务搜索器说明"
+14812,""
+14813,"显示任务搜索器说明。"
+14814,"可更换同伴"
+14851,"随身见闻录"
+14852,""
+14853,"全部"
+14854,"人物"
+14855,"用语"
+14856,"正在获取数据。"
+14857,"<CommandIcon(24)/>詳細情報のスクロール"
+14860,"系列赛等级："
+14861,"TOTAL:<Value>IntegerParameter(1)</Value>"
+14862,"下一级：<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value><Else/>--/--</If>"
+14863,"水晶冲突"
+14864,"练习赛成绩"
+14865,"段位赛成绩"
+14866,"查看系列赛奖励"
+14867,"胜利次数："
+14868,"<Switch(IntegerParameter(1))><Case(1)>☆☆☆</Case><Case(2)>★☆☆</Case><Case(3)>★★☆</Case><Case(4)>★★★</Case></Switch>"
+14869,"<Format(IntegerParameter(1),FF022C)/>/<Format(IntegerParameter(2),FF022C)/>"
+14870,"星极队获胜！"
+14871,"灵极队获胜！"
+14872,"星极队"
+14873,"灵极队"
+14874,"推进度"
+14875,"押运时长"
+14876,"系列赛经验"
+14877,"K:<Value>IntegerParameter(1)</Value>"
+14878,"D:<Value>IntegerParameter(1)</Value>"
+14879,"A:<Value>IntegerParameter(1)</Value>"
+14880,"起点！"
+14881,"可领取"
+14882,"受け取り済み"
+14883,"下一级"
+14884,"关闭"
+14885,"查看上个赛季系列赛奖励"
+14886,"查看当前赛季系列赛奖励"
+14887,"存在尚未领取的上个赛季系列赛奖励。
+领取期限：下个赛季系列赛开始前"
+14888,"确定要领取奖励吗？"
+14889,"确定"
+14890,"取消"
+14891,"∞"
+14892,"连胜奖励触发！"
+14893,"水晶点最高纪录已刷新！"
+14894,"青铜"
+14895,"白银"
+14896,"黄金"
+14897,"白金"
+14898,"钻石"
+14899,"水晶"
+14900,"第<Value>IntegerParameter(1)</Value>轮系列赛"
+14901,"星里路标"
+14902,""
+14903,"角色情报获取失败。"
+14950,"可确认土地抽选状况。"
+14990,"特殊热键栏技能排序"
+14991,""
+14992,"十字热键栏"
+14993,"普通热键栏"
+14994,"恢复默认"
+14995,"保存"
+14996,"取消"
+14997,"确定要将技能顺序恢复默认值吗？"
+14998,"确定要放弃修改吗？"
+15000,"<Highlight>StringParameter(1)</Highlight>"
+15001,"查看个人信息"
+15002,"编辑铭牌样式"
+15003,"编辑个人信息"
+15004,"设置可见范围"
+15005,"编辑个人信息"
+15006,""
+15007,"喜爱的职业"
+15008,"喜爱的称号"
+15009,"游戏风格"
+15010,"活跃时段"
+15011,"工作日"
+15012,"休息日"
+15013,"确定要放弃修改吗？"
+15014,"编辑铭牌样式"
+15015,""
+15016,"保存"
+15017,"关闭"
+15018,"样式编辑"
+15019,"保存/读取"
+15020,"预设样式"
+15021,"铭牌底色"
+15022,"铭牌花纹"
+15023,"铭牌背衬"
+15024,"铭牌顶部装饰"
+15025,"铭牌底部装饰"
+15026,"肖像外框"
+15027,"铭牌外框"
+15028,"铭牌装饰物"
+15029,"布局"
+15030,"标准"
+15031,"反转"
+15032,"保存/读取铭牌样式"
+15033,"铭牌底色设置"
+15034,"铭牌花纹设置"
+15035,"铭牌背衬设置"
+15036,"铭牌顶部装饰设置"
+15037,"铭牌底部装饰设置"
+15038,"肖像外框设置"
+15039,"铭牌外框设置"
+15040,"铭牌装饰物设置"
+15041,"确定要放弃修改吗？"
+15042,"自定义"
+15043,"显示铭牌底色的详细列表"
+15044,"显示铭牌花纹的详细列表"
+15045,"显示铭牌背衬的详细列表"
+15046,"显示铭牌顶部装饰的详细列表"
+15047,"显示铭牌底部装饰的详细列表"
+15048,"显示肖像外框的详细列表"
+15049,"显示铭牌外框的详细列表"
+15050,"显示铭牌装饰物的详细列表"
+15051,"全部显示"
+15052,"仅显示已学会"
+15053,"仅显示未学会"
+15054,"覆盖存档"
+15055,"重命名存档"
+15056,"删除存档"
+15057,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>"
+15058,"请输入存档名。"
+15059,"确定要读取存档吗？
+读取后尚未保存的当前设置将会丢失。"
+15060,"设置可见范围"
+15061,""
+15062,"可见范围"
+15063,"仅好友可见"
+15065,"设置其他玩家是否可查看你的冒险者铭牌。
+【所有人可见】是所有玩家都可查看
+【仅好友可见】是只有好友可查看
+【仅自己可见】是只有自己可查看"
+15066,"选择自己喜爱的职业，
+所选职业会显示在冒险者铭牌上。"
+15067,"选择自己喜爱的称号，
+所选称号会显示在冒险者铭牌上。"
+15068,"选择自己的游戏风格。
+游戏风格最多可选6个。"
+15069,"<Value>IntegerParameter(1)</Value>级"
+15070,"工作日"
+15071,"休息日"
+15072,"<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue> <Switch(IntegerParameter(3))><Case(1)></Case><Case(2)>a.m.</Case><Case(3)>p.m.</Case></Switch>"
+15073,"当前的职业"
+15074,"保存"
+15075,"关闭"
+15076,"确定"
+15077,"取消"
+15078,"选择喜爱的职业"
+15079,""
+15080,"选择游戏风格"
+15081,""
+15082,"显示帮助"
+15083,"查看冒险者铭牌"
+15084,"“冒险者铭牌”是可以自定义一张漂亮的名片，
+向其他玩家介绍、展示自己的功能。
+
+如果想查看其他玩家的冒险者铭牌，
+可以选中目标后通过次级指令查看，
+通过好友名单等其他途径也可以查看。
+
+请制作只属于自己的冒险者铭牌，展示给大家看吧！
+※当前铭牌处于仅自己可见状态，请自行设定可见范围。"
+15085,"<Gui(63)/><Highlight>StringParameter(1)</Highlight>"
+15086,"<If(Equal(PlayerParameter(80),0))>次级指令<Else/><CommandIcon(10)/>次级指令</If>"
+15087,"所有人可见"
+15088,"仅自己可见"
+15089,"打开铭牌样式详细设置"
 101000,"<CommandIcon(10)/>次级指令"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/> 选择"
@@ -14019,7 +14524,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102603,"3～9个1～<Value>IntegerParameter(1)</Value>人小队"
 102604,"品级同步：<Value>IntegerParameter(1)</Value>级
 <If(GreaterThan(IntegerParameter(2),0))>※在品级同步状态下，所有的装备性能都会下调至上述品级的规格以下。<Else/>※在品级同步状态下，所有的装备性能都会调整至上述品级的规格。</If>"
-102605,"平均品级高于<Value>IntegerParameter(1)</Value>级
+102605,"平均品级不低于<Value>IntegerParameter(1)</Value>级
 品级同步：<Value>IntegerParameter(2)</Value>级
 ※在品级同步状态下，所有的装备性能都会下调至对应品级的规格。"
 102606,"等级由低到高"
@@ -14065,7 +14570,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102639,"活动时间"
 102640,"招募形式"
 102641,"工作日"
-102642,"周末"
+102642,"休息日"
 102643,"接受入队申请"
 102644,"主要活动"
 102645,"招募职业"
@@ -14073,7 +14578,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102647,"招募形式"
 102648,"提交入队申请"
 102649,"工作日"
-102650,"周末"
+102650,"休息日"
 102651,"每日"
 102652,"关闭申请"
 102653,"开放申请"
@@ -14098,7 +14603,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102670,"活动时间"
 102671,"招募形式"
 102672,"工作日"
-102673,"周末"
+102673,"休息日"
 102674,"每日"
 102675,"关闭申请"
 102676,"开放申请"

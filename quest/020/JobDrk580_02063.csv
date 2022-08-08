@@ -30,7 +30,7 @@ int32,str,str
 24,"TEXT_JOBDRK580_02063_TODO_00","和莫古力之家的莫古琪谈谈"
 25,"TEXT_JOBDRK580_02063_TODO_01","从<Sheet(EObj,2006346,0)/>获取<Sheet(EventItem,2001876,0)/>"
 26,"TEXT_JOBDRK580_02063_TODO_02","将<Sheet(EventItem,2001876,0)/>交给莫古琪"
-27,"TEXT_JOBDRK580_02063_TODO_03","在<Sheet(EObj,2006350,0)/>进行张望 讨伐<Sheet(BNpcName,4312,0)/>"
+27,"TEXT_JOBDRK580_02063_TODO_03","在<Sheet(EObj,2006350,0)/>张望 讨伐<Sheet(BNpcName,4312,0)/>"
 28,"TEXT_JOBDRK580_02063_TODO_04","和赎罪天廊的希德勒格对话"
 29,"TEXT_JOBDRK580_02063_TODO_05","再次和赎罪天廊的希德勒格对话"
 30,"TEXT_JOBDRK580_02063_TODO_06","和伊修加德的希德勒格对话"

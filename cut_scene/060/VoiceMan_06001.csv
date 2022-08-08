@@ -92,7 +92,7 @@ int32,str,str
 47,"TEXT_VOICEMAN_06001_000440_ALISAIE","净化后的灵魂会变成什么样呢？"
 48,"TEXT_VOICEMAN_06001_000450_MONTICHAIGNE","有些研究者认为灵魂会分解成纯净的以太，
 然后和其他以太结合成新的灵魂。"
-49,"TEXT_VOICEMAN_06001_000460_MONTICHAIGNE","还有一种说法认为灵魂会直接流入以太界，
+49,"TEXT_VOICEMAN_06001_000460_MONTICHAIGNE","还有一种说法认为灵魂会直接流入物质界，
 再度以某种生命的形式诞生。"
 50,"TEXT_VOICEMAN_06001_000470_MONTICHAIGNE","这两种说法都有很多支持者，
 不过我个人倒是认为这两种情况都会出现。"
@@ -971,7 +971,7 @@ int32,str,str
 你是不是在外面待久了冻傻了？"
 547,"TEXT_VOICEMAN_06001_005250_EMMANELLAIN","你得意个什么劲啊！
 又不是你这个海盗做的！"
-548,"TEXT_VOICEMAN_06001_005260_SICARD","你哪来的脸说这句话？傻冒贵族！"
+548,"TEXT_VOICEMAN_06001_005260_SICARD","你哪来的脸说这句话？傻帽贵族！"
 549,"TEXT_VOICEMAN_06001_005270_EMMANELLAIN","你敢再说一遍？"
 550,"TEXT_VOICEMAN_06001_005280_SICARD","要动手吗？"
 551,"TEXT_VOICEMAN_06001_005290_EMMANELLAIN","不打！我又打不过你！"

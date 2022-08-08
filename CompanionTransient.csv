@@ -2108,6 +2108,62 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 　　　　　　——花芽","星光浴","令萌宠之门内宠物的体力恢复量变为2倍。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒",55,50,4,False,True,False,False,False,9
 444,"","","","","",0,0,0,False,False,False,False,False,0
-445,"","","","","",0,0,0,False,False,False,False,False,0
-446,"","","","","",0,0,0,False,False,False,False,False,0
-447,"","","","","",0,0,0,False,False,False,False,False,0
+445,"召唤出宠物“袋鼠玩偶”。
+雇员偶然间得到的袋鼠玩偶，后腿强而有力不容小觑。","这只玩偶的原型是南方大陆的一种有袋类动物。雇员在采矿场附近的废弃村落里发现了这个被人遗落的玩偶，出于好心修复了它。该玩偶的育儿袋内附有一只更小的袋鼠玩偶，但受到设计上的局限，很难从育儿袋中拿出小玩偶。","肚子被踢的地方
+火辣辣地痛噗……
+　　　　　——鱼道","袋鼠踢","对范围内的敌人造成60攻击力的伤害，并且令敌人的移动速度降低70%。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒",65,50,3,False,False,False,True,False,1
+446,"召唤出宠物“原型恐慌装甲”。
+恐慌装甲的小比例概念机，大约能承载一个成年鲁加男性的重量。","古代亚拉戈帝国制造的小型军工机械。推测这台小恐慌装甲是开发过程中试作的小型原型机。它看起来虽小，却已经体现出了后来恐慌装甲成为工兵用重型机械时表现出来的惊人力量。以它的运载量，用来运货应当不成问题。","不过只是
+运货而已……
+真的合适吗？
+　　——阿莉塞","蒸汽清洗","令使用特殊技点数的宠物的防御力增加40。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒",40,40,2,False,False,True,True,False,3
+447,"召唤出宠物“门小奴”。
+门奴专属奴仆，小而勤劳的魔法人偶。","门奴，隐藏在海底遗迹深处的守护者。门小奴，隐藏在海底遗迹深处的守护者门奴的专属奴仆。门小奴是专用于维护门奴正常运转的魔法人偶。老实说，这么多年埋在海底它一直都闲得发慌，时隔多年好不容易以为有活干了，没想到入侵者竟然直接把门奴砸了个粉碎。
+门小奴彻底失业了。","工作要多少有多少，
+不用担心会失业！
+　——空力团货物调度员","总督有令！","令使用特殊技点数的宠物无敌。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒",70,80,2,False,True,False,False,False,3
+448,"召唤出宠物“吉娃汪”。
+可爱的小狗。最喜欢和冒险者玩耍了！","小小的黑狗正用它亮闪闪的小眼睛盯着你，你怎么能忍心拒绝它的请求呢？吉娃汪是一种在新大陆边境地区发现的小型犬，利姆萨·罗敏萨的水手将它带到了艾欧泽亚……虽说离开了故乡，但对小狗来说这更像是一场新冒险的开始。现在，它正跃跃欲试，等着和你一起踏上旅途。","这是一场令人
+激动的全新冒险。
+就让我们全力以赴吧！
+　　——古·拉哈·提亚","汪！汪汪！","令范围内我方宠物的特殊技点数增加10。对拥有同效果特殊技的宠物无效。",40,55,3,False,True,True,False,False,3
+449,"召唤出宠物“发条小汽车”。
+铁皮制作的加雷马玩具。画上去的驾驶员不知为何看着有些眼熟。","加雷马帝国首都玩具界的顶流，铁皮制成的魔导车辆“新500型”的模型。这辆使用发条驱动，跑起来咔哒咔哒响的小车是加雷马孩子们最喜爱的玩具。某位知名不具的天才机械师开发生产了这种兼具趣味性和益智性的玩具。","你们弄到了
+很稀有的“玩具”呢。
+　　　　　——尼禄","油门","令范围内我方宠物的移动速度提高35%。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒",85,75,4,False,True,False,True,False,3
+450,"召唤出宠物“开心彩蛋幸福兔”。
+仿照吉莉·阿里亚珀梦中出现的奇怪兔子制作的魔法人偶。","以幸福兔为原型制作的粉色魔法人偶。这个玩偶交货时不慎遗落了动力核心，不过幸运的是真正的幸福兔出现在了彩蛋狩猎的会场，它帮忙找来的辉石正巧能让魔法人偶恢复正常。带着开心彩蛋幸福兔踏上旅途吧，好运正在路上等着……呃，希望好运在等着你吧。","亲爱的诸位兔兔，
+贵安！
+　　　——生命威","幸福","令使用特殊技点数的宠物的自动攻击变为范围攻击。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒",40,40,4,False,True,False,False,False,3
+451,"召唤出宠物“迷你阿泽玛”。
+以太阳神阿泽玛为原型制作的魔法人偶。能提供发条太阳所没有的温度。","以太阳神阿泽玛为原型制作的魔法人偶。某位雕金匠为了追寻“崇高神圣的美”而彷徨于沙漠时，恍惚间偶然闯入了神域。他将眼前所见的震撼人心的美转化成魔法人偶保存下来。看着这个人偶就仿佛能感受到女神的飒爽英姿与她对人类无限的慈悲与喜爱。","你身上散发着晒过太阳
+的味道。温暖又温柔
+的味道……我很喜欢。
+　　　　　　　　——峰","太阳神之扇","令范围内我方宠物的攻击力增加20。当该宠物为“玩偶”类型时，攻击力增加40。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒",55,50,2,False,False,False,True,False,3
+452,"召唤出宠物“诸神黄昏号模型”。
+以诸神黄昏号为原型制作的模型。模型小型化难度又创新高！","无数研究员日以继夜地努力创造出的诸神黄昏号魔导船模型。无论是驾驶席还是动力系统都还原得分毫毕现、精妙绝伦。据说研发时的本意是要将这个模型作为诸神黄昏号计划圆满成功的纪念品发行，结果研究员们过于追求完美，又平白无故通宵加了许多天班。","飞吧，人类，
+超越疾风，
+飞向更高的苍穹！
+　　　　——迦楼罗","曲速飞行","将召唤宠物的复唱时间缩短一半。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒",45,50,2,False,True,True,True,False,9
+453,"召唤出宠物“蓝足鲣鸟”。
+凶名赫赫的“雾须一伙”的成员，已经金盆洗手不做海盗了。","它曾是凶名赫赫的大海盗团“雾须一伙”的成员。在战斗中，它一般会先用自己圆润可爱的大眼睛让对方放松警惕，再使用自己的鸟喙把对方啄到哭着逃跑……话虽如此，这都已经是过去的事了。雾须一伙解散之后，它一直飞翔在南海的群岛之间，悠然自得地享受退休生活。","等候在前方的
+是最凶残的野兽。
+　——古·拉哈·提亚","滑翔","令使用特殊技点数的宠物的自动攻击变为范围攻击。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒",55,55,1,False,False,False,False,True,3
+454,"","","","","",0,0,0,False,False,False,False,False,0
+455,"","","","","",0,0,0,False,False,False,False,False,0
+456,"","","","","",0,0,0,False,False,False,False,False,0
+457,"","","","","",0,0,0,False,False,False,False,False,0
+458,"","","","","",0,0,0,False,False,False,False,False,0
+459,"","","","","",0,0,0,False,False,False,False,False,0
+460,"","","","","",0,0,0,False,False,False,False,False,0
+461,"","","","","",0,0,0,False,False,False,False,False,0
+462,"","","","","",0,0,0,False,False,False,False,False,0
+463,"","","","","",0,0,0,False,False,False,False,False,0

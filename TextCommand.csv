@@ -30,10 +30,10 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 8,3,1,17,0,0,"/quickchat","/qchat","/快捷发言 快捷发言名 代名词
 /quickchat、/qchat
 进行快捷发言。
-※只能在群狼盛宴中使用。
+※只能在水晶冲突中使用。
 >>示例
-/快捷发言 全力攻击
-发送快捷发言“全力攻击”。
+/快捷发言 攻击
+发送快捷发言“攻击”。
 /快捷发言 攻击目标 <目标>
 发送快捷发言“攻击目标”加上当前所选目标的名字。","/快捷发言","/qchat",1021,0
 9,4,3,2,18,2,"/bluespellbook","","/青魔法书 子命令
@@ -229,8 +229,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 其他人为对象
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>好友<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(friend)
 好友为对象
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>群狼盛宴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(feast)
-群狼盛宴中的敌人为对象
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>水晶冲突<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(feast)
+水晶冲突中的敌人为对象
 
 >>设置代号1-4
 1:一直显示
@@ -321,6 +321,12 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /patchnote
 打开官方网站中的版本更新笔记页面。
 此时将启动浏览器。","/版本更新笔记","",32,1000
+37,1,0,0,0,0,"/portrait","","/肖像
+/portrait
+打开肖像编辑菜单。","/肖像","",32,0
+38,1,0,0,0,0,"/adventurerplate","/myplate","/冒险者铭牌
+/adventurerplate(/myplate)
+打开自己的冒险者铭牌。","/冒险者铭牌","",32,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -1098,9 +1104,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　将状态改回“在线”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在“接受镶嵌魔晶石请求”与“在线”之间切换。","/接受镶嵌魔晶石请求","/镶嵌魔晶石",36,0
-235,1,0,0,0,0,"/searchcomment","/scomment","/个人签名(/签名) 文字内容
+235,1,0,0,0,0,"/searchcomment","/scomment","/个性签名(/签名) 文字内容
 /searchcomment、/scomment
-将指定文字内容设置成搜索玩家时的签名。","/个人签名","/签名",36,0
+将指定文字内容设置成搜索玩家时的签名。","/个性签名","/签名",36,0
 236,2,1,2,0,0,"/beginnerstatus","/bstatus","/新人状态 子命令
 /beginnerstatus、/bstatus
 更改自己的新人在线状态。
@@ -1539,8 +1545,6 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 烈羽争锋：车站情报(RivalWings:Station)
 烈羽争锋：团队列表(RivalWings:Alliance)
 烈羽争锋：哥布林佣兵情报(RivalWings:Mercenary)
-群狼盛宴：我方情报(TheFeast:AllyInfo)
-群狼盛宴：敌方情报(TheFeast:EnemyInfo)
 
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2833,7 +2837,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 做出动作并显示文字提示。","/战队演武正黄三式","/正黄三式",293,0
 534,2,1,2,0,0,"/wink","/rightwink","/右飞眼(/飞眼) 子命令
 /rightwink、/wink
-抛出飞眼。
+右眼抛出飞眼。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
@@ -3201,7 +3205,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 做出动作并显示文字提示。","/思索","",293,0
 585,2,1,2,0,0,"/leftwink","","/左飞眼 子命令
 /leftwink
-抛出飞眼。
+左眼抛出飞眼。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
@@ -3571,3 +3575,75 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/吃披萨","",293,0
+634,2,1,2,0,0,"/clutchhead","","/抱头 子命令
+/clutchhead
+双手抱住脑袋。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/抱头","",293,0
+636,2,1,2,0,0,"/eategg","/egg","/吃水煮蛋 子命令
+/eategg(/egg)
+开始吃水煮蛋。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃水煮蛋","",293,0
+637,2,1,2,0,0,"/content","","/幸福 子命令
+/content
+做出幸福的表情。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/幸福","",293,0
+638,2,1,2,0,0,"/sheathe","","/收回武器 子命令
+/sheathe
+将武器收起来。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/收回武器","",293,0
+639,2,1,2,0,0,"/draw","","/亮出武器 子命令
+/draw
+将武器准备好。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/亮出武器","",293,0
+640,2,1,2,0,0,"/tea","","/饮用红茶 子命令
+/tea
+开始喝红茶。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/饮用红茶","",293,0
+641,2,1,2,0,0,"/determined","","/干劲十足 子命令
+/determined
+鼓起干劲。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/干劲十足","",293,0
+642,2,1,2,0,0,"/showright","","/展现右侧 子命令
+/showright
+展现自己右侧的事物。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/展现右侧","",293,0
+643,2,1,2,0,0,"/showleft","","/展现左侧 子命令
+/showleft
+展现自己左侧的事物。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/展现左侧","",293,0

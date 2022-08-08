@@ -2,46 +2,107 @@
 #,Image,Description
 int32,Image,str
 0,0,""
-1,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>「南方ボズヤ戦線」は、独自ルールや専用システムが多数盛り込まれたコンテンツです！
-下記の特徴を理解し、ガレマール帝国第IV軍団との戦いに勝利しましょう！！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>南方博兹雅战线是采用多个特殊规则和专用系统的任务！
+请充分理解该任务的特征，战胜加雷马帝国第四军团吧！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>0F</UIForeground>※次ページより、「南方ボズヤ戦線」の特殊ルールの解説が行われます。
-ぜひご一読の上、新たな大規模コンテンツをお楽しみください。<UIForeground>01</UIForeground>"
-2,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■コンテンツ参加ジョブはレベル80に特殊レベルシンク！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>0F</UIForeground>※下一页将介绍南方博兹雅战线的特殊规则。
+请务必仔细阅读，以便充分体验该任务。<UIForeground>01</UIForeground>"
+2,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■参加本任务时的职业等级将被同步到80级！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-「南方ボズヤ戦線」は、いずれのジョブであってもレベル71から突入可能です。
-ただし、コンテンツに突入したあとは、いずれのジョブもレベル80へと特殊レベルシンクされます。
-また、どんな装備をしていても、アイテムレベルが最適な状態に調整されますので、
-装備を整える必要はありません。
+南方博兹雅战线任务中，只要任意职业达到71级即可参加。
+在参加任务时，当前职业等级将被同步到80级。
+此外，不论现有装备如何，都将被自动调整至最合适的品级，
+因此无需提前准备装备。
 
-<UIForeground>0F</UIForeground>※コンテンツに突入したジョブは、レベル80までのすべてのアクションが使用可能になります。<UIForeground>01</UIForeground>"
-3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■戦果をあげてレジスタンスランクを上昇させよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>0F</UIForeground>※参加任务的职业可以使用当前职业80级以内（包含80级）的全部技能。<UIForeground>01</UIForeground>"
+3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■获得战果提升义军等级！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-「南方ボズヤ戦線」では、コンテンツ内でのみ適用される「レジスタンスランク」が存在します。
-戦果は、”スカーミッシュ”や”クリティカルエンゲージメント”と呼ばれる、
-大規模な作戦行動に参加し、一定以上の評価を得ることで高まります。
+南方博兹雅战线任务中专门设置了一种义军等级。
+战果可以通过参加“冲突战”、“紧急遭遇战”等大规模作战行动，
+并取得一定的评价后得到提升。
 
-<UIForeground>0F</UIForeground>※戦果は、魔獣や帝国兵などを倒すだけでは得られません。
-作戦行動のクリア時に得られますので、ご注意ください！<UIForeground>01</UIForeground>"
-4,86802,"ある程度の戦果を稼いだ場合には、拠点に駐在している、
-「レジスタンスの司令部付き将校（RANK UP）」に報告しましょう。
-一定数以上の戦果があれば、レジスタンスランクが上昇します。
+<UIForeground>0F</UIForeground>※仅打倒魔兽或帝国兵无法获得战果。
+战果将在作战行动完成时获得，敬请注意！<UIForeground>01</UIForeground>"
+4,86802,"战果积累到一定程度时，
+可以向据点内的义军司令部军官（义军等级）报告。
+当战果达到一定程度，义军等级将会提升。
 
-レジスタンスランクが上昇することで、行動範囲が広がり、クエストが進行します。
-活動を有利にするためにも、積極的にレジスタンスランクを上昇させましょう。
+随着义军等级的提升，行动的范围会越来越广，任务也会继续推进。
+为了今后更为有利地展开作战活动，请积极地提升义军等级。
 
-<UIForeground>0F</UIForeground>※レジスタンスランクを上昇させるには、必ず戦果報告が必要になります。
-戦果をある程度稼いだら、将校への報告を忘れないようにしましょう！<UIForeground>01</UIForeground>"
-5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ジョブのレベリングにも活用しよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>0F</UIForeground>※义军等级必须经过战果报告才能提升。
+当战果积累到一定程度时，请不要忘记向军官报告！<UIForeground>01</UIForeground>"
+5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■活用职业的等级同步规则！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-大規模な作戦行動である“スカーミッシュ”や“クリティカルエンゲージメント”では、
-これらのクリア時にジョブレベルアップ用の経験値も得られます。
+在完成大规模作战行动的“冲突战”以及“紧急遭遇战”时
+可以获得提升职业等级的经验值。
 
-こちらは戦果と異なり、報告を行わなくても通常時と同じように、
-規定経験値に達すると、自動的にレベルアップします。
+获得的经验值与战果不同，无需经过报告即可像通常一样，
+在积累到规定的数值时将自动提升职业等级。
 
-レベル80に達していないジョブがあるのなら、積極的にレベリングにも活用しましょう！"
-6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■わからなくなった！　そんな時は……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+如果目前还有未满80级的职业，请务必积极地活用等级同步规则！"
+6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■不知道该怎么办了！　这种时候……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-その他のルールやシステムは、コンテンツ内のNPCたちが説明してくれます。
-わからないことがあれば、積極的にNPCと話してみましょう！"
+甘戈斯的谢罗斯以及任务内的其他非玩家角色
+将会为你解说规则及系统等事项。
+如有不明，请积极地向非玩家角色询问！"
+7,86804,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>来体验新的冒险——挑战迷宫吧！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+挑战迷宫时需要和<UIForeground>0F</UIForeground>其他的玩家<UIForeground>01</UIForeground>或<UIForeground>0F</UIForeground>非玩家角色<UIForeground>01</UIForeground>合作，一路讨伐魔物、解开机关，最终<UIForeground>0F</UIForeground>打倒迷宫深处的强敌后可以获得奖励<UIForeground>01</UIForeground>。
+此外，<UIForeground>0F</UIForeground>推进部分剧情进展时，需要成功完成对应的迷宫挑战<UIForeground>01</UIForeground>。
+挑战迷宫时会设有时间限制，挑战途中无法变更职业或特职。
+下一页将说明如何进入迷宫。
+"
+8,86805,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——关于进入迷宫的两种方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+第一种是可以和<UIForeground>0F</UIForeground>辅助队员组成小队单独进入迷宫<UIForeground>01</UIForeground>，
+第二种是可以<UIForeground>0F</UIForeground>利用匹配功能与其他玩家组成小队进入迷宫<UIForeground>01</UIForeground>。
+
+当然，玩家也可以在进入迷宫前，事先与其他玩家组成小队共同参与迷宫挑战。
+<UIForeground>0F</UIForeground>不管以上述何种方式进入迷宫，均可参与迷宫挑战<UIForeground>01</UIForeground>。"
+9,86806,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——善用辅助队员挑战迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+作为玩家，你可以凭借<UIForeground>0F</UIForeground>辅助队员<UIForeground>01</UIForeground>的协助，<UIForeground>0F</UIForeground>独自挑战迷宫<UIForeground>01</UIForeground>。
+我们将这个系统称呼为<UIForeground>0F</UIForeground>剧情辅助器<UIForeground>01</UIForeground>。
+
+可以使用剧情辅助器的迷宫，在入口处会设有<UIForeground>0F</UIForeground>进入点和剧情辅助器可用的图标<UIForeground>01</UIForeground>。"
+10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——善用辅助队员挑战迷宫·续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+访问进入点，选择<UIForeground>0F</UIForeground>和辅助队员进入<UIForeground>01</UIForeground>后，
+将会打开<UIForeground>0F</UIForeground>剧情辅助器窗口<UIForeground>01</UIForeground>。
+
+<UIForeground>0F</UIForeground>辅助队员的职业或特职<UIForeground>01</UIForeground>会根据你当前的职业或特职<UIForeground>0F</UIForeground>自动调整<UIForeground>01</UIForeground>为最佳组合。
+<UIForeground>0F</UIForeground>按下进入按钮后<UIForeground>01</UIForeground>就可以与非玩家角色一同挑战迷宫了！"
+11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——与其他玩家组队挑战迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>0F</UIForeground>任务搜索器<UIForeground>01</UIForeground>是供<UIForeground>0F</UIForeground>不同玩家<UIForeground>01</UIForeground>组成小队
+一起挑战迷宫等任务的<UIForeground>0F</UIForeground>便利功能<UIForeground>01</UIForeground>。
+
+访问进入点，选择<UIForeground>0F</UIForeground>和其他的玩家进入<UIForeground>01</UIForeground>后，
+将会打开<UIForeground>0F</UIForeground>任务搜索器窗口<UIForeground>01</UIForeground>。
+<UIForeground>0F</UIForeground>勾选想要挑战的迷宫名称<UIForeground>01</UIForeground>，然后<UIForeground>0F</UIForeground>按下参加按钮<UIForeground>01</UIForeground>，
+系统就会自动地将参加相同任务的玩家组成小队。
+这个过程被称为<UIForeground>0F</UIForeground>匹配<UIForeground>01</UIForeground>。"
+12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——与其他玩家组队挑战迷宫·续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+在<UIForeground>0F</UIForeground>匹配完成<UIForeground>01</UIForeground>时会有<UIForeground>0F</UIForeground>声音提示，并弹出窗口<UIForeground>01</UIForeground>。
+<UIForeground>0F</UIForeground>按下出发按钮<UIForeground>01</UIForeground>就可以进行挑战了！
+
+通过匹配与你组成小队的是<UIForeground>0F</UIForeground>同样在这个世界展开冒险的其他玩家<UIForeground>01</UIForeground>。
+还请不要忘记向对方打声招呼问候，比如“你好”“请多关照”之类的，
+与队友齐心协力一起完成迷宫挑战吧！"
+13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>可以挑战的迷宫数量将会不断增加！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+随着你的冒险不断推进，可以挑战的迷宫数量也会不断增加。
+<UIForeground>0F</UIForeground>当前不可使用剧情辅助器的迷宫及任务<UIForeground>01</UIForeground>请多<UIForeground>0F</UIForeground>利用任务搜索器<UIForeground>01</UIForeground>参与挑战！
+
+此外成功挑战过的迷宫也可以重复进行挑战。
+可以从<UIForeground>0F</UIForeground>快捷指令<UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>任务情报<UIForeground>01</UIForeground>菜单选择<UIForeground>0F</UIForeground>任务搜索器<UIForeground>01</UIForeground>
+或<UIForeground>0F</UIForeground>剧情辅助器<UIForeground>01</UIForeground>再次进行挑战。"
+14,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>想要再次查看说明时<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+打开任务搜索器或剧情辅助器窗口，
+<UIForeground>0F</UIForeground>按下“？”按钮<UIForeground>01</UIForeground>即可查看之前说明的内容。
+
+以上两项功能对推进剧情能起到重要的帮助！
+请充分利用这些功能，享受愉快的冒险旅程吧！"

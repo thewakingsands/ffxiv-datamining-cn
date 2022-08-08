@@ -14,15 +14,15 @@ int32,str,str
 总有一天，克劳狄恩老师会向学会报告
 此次事件的始末和相关现象。"
 7,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_102","为此，我希望能留下更加详细的记录。
-尤其是那些与你在边境之狱所交战的十分危险的对手！
+尤其是那些与你在边境之狱交战的危险对手！
 还请你务必具体讲讲！"
 8,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_103","尼姆吉吉！
 你要的资料我都已经找齐了，
 不过，那些真的都是解开水晶之谜所必需的资料吗？"
 9,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104","其中还有«水生生物的生态»和«各地的不死鸟传说»等论文，
 都是和万魔殿的创造生物有关的资料啊。"
-10,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105","创造生物不是都已经被打倒、重新封印起来了吗？
-没必要再进行深入调查了吧……"
+10,"TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105","创造生物不是都已经被<Highlight>ObjectParameter(1)</Highlight>打倒、重新封印起来了吗？
+没必要再深入调查了吧……"
 11,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_106","没有的事。
 从现代研究者的视角调查存在于远古时期的创造生物，
 这可是有着重大意义的。"
@@ -53,7 +53,7 @@ int32,str,str
 啊啊，我的灵感正在源源不断地涌现！"
 22,"TEXT_CTSOPN60NEMJIJI_00732_Q1_100_100","要说什么？"
 23,"TEXT_CTSOPN60NEMJIJI_00732_A1_100_100","你要写一份充满妄想的记录？"
-24,"TEXT_CTSOPN60NEMJIJI_00732_A2_100_100","听起来很有趣！"
+24,"TEXT_CTSOPN60NEMJIJI_00732_A2_100_100","听起来很有趣"
 25,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_120","嘿嘿嘿，推测的内容我会标注上“待检验”的！
 来吧，<Highlight>ObjectParameter(1)</Highlight>，和我一起展开想象的翅膀！"
 26,"TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_400","根据克劳狄恩老师的要求，我们在向各机关报告时，

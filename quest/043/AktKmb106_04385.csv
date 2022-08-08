@@ -53,7 +53,7 @@ int32,str,str
 得赶快为他们进行治疗……"
 49,"TEXT_AKTKMB106_04385_ALISAIE_000_005","虽然很想给他们一些吃的……
 但我现在什么都没带，必须先回一趟营地。"
-50,"TEXT_AKTKMB106_04385_WEAKENEDGARLEAN_000_010","啊啊……好暖和……"
+50,"TEXT_AKTKMB106_04385_WEAKENEDGARLEAN_000_010","啊……好暖和……"
 51,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_015","我、我什么都没做……"
 52,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_020","……"
 53,"TEXT_AKTKMB106_04385_LICINIA_000_030","啊……抱歉，
@@ -101,9 +101,9 @@ int32,str,str
 70,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_091","诶，药、药水？
 闻起来有点恶心……
 这该不会是毒药吧？！"
-71,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_092","啊、啊啊，不是的，对、对不起！
-请原谅我，我一紧张就容易口不择言……
-最近实在发生了太多不好的事情……"
+71,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_092","呃、啊、没什么，我不是那个意思！
+我这个人……一紧张就口不择言……
+毕竟最近发生了太多不幸的事……"
 72,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_093","帝都如今的惨状，已经不单单是内战导致的了。
 虽然内战如今看来也是一场愚蠢的悲剧，
 但真正恐怖的是那之后发生的事情。"
@@ -116,7 +116,7 @@ int32,str,str
 即使意识清醒的幸存者上前阻止他们……
 他们也毫无应答，甚至还会用瓦砾攻击我们。"
 76,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_097","那就是如今的帝都……我们生活过的帝都……"
-77,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_100","啊啊，我不能再说了……
+77,"TEXT_AKTKMB106_04385_HUNGRYGARLEAN_000_100","唔，我不能再说了……
 再说下去，肚子会饿得受不了……"
 78,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_110","……什么事。"
 79,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_111","啊，药水啊……
@@ -143,9 +143,9 @@ int32,str,str
 87,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_119","虽然上面已经公布了陛下的讣告，
 但那一定是陛下察觉了国难到来，
 所以避其锋芒以期东山再起。"
-88,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_120","啊啊……一定是这样的……"
-89,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_130","啊啊，真想快点见到陛下……
-陛下一定很快就能解决加雷马目前的困境……"
+88,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_120","嗯……一定是这样的……"
+89,"TEXT_AKTKMB106_04385_ABSENTGARLEAN_000_130","啊，真想快点见到陛下……
+他一定能让加雷马走出当前的困境……"
 90,"TEXT_AKTKMB106_04385_LICINIA_000_140","咦，这是……药水？
 也有我的一份吗？"
 91,"TEXT_AKTKMB106_04385_LICINIA_000_141","谢谢……

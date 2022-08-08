@@ -31,7 +31,7 @@ int32,str,str
 25,"TEXT_JOBDRK520_02060_TODO_01","和云顶营地的希德勒格汇合"
 26,"TEXT_JOBDRK520_02060_TODO_02","从<Sheet(BNpcName,3495,0)/>身上获取<Sheet(EventItem,2001874,0)/>"
 27,"TEXT_JOBDRK520_02060_TODO_03","将<Sheet(EventItem,2001874,0)/>交给瓦努族咒法师"
-28,"TEXT_JOBDRK520_02060_TODO_04","在<Sheet(EObj,2006342,0)/>进行张望 讨伐敌人"
+28,"TEXT_JOBDRK520_02060_TODO_04","在<Sheet(EObj,2006342,0)/>张望 讨伐敌人"
 29,"TEXT_JOBDRK520_02060_TODO_05","和温杜属本杜集落的希德勒格对话"
 30,"TEXT_JOBDRK520_02060_TODO_06","和伊修加德的希德勒格对话"
 31,"TEXT_JOBDRK520_02060_TODO_07","无"

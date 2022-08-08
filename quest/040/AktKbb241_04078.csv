@@ -62,7 +62,7 @@ int32,str,str
 53,"TEXT_AKTKBB241_04078_LEMURESMEMBERA_000_006","赫尔敏！
 敢死队的志愿者们全部到齐了！
 其他同伴们都在外面等着呢！"
-54,"TEXT_AKTKBB241_04078_LEMURESMEMBERC_000_007","啊啊，燃烧着战魂的勇士们在此汇集！
+54,"TEXT_AKTKBB241_04078_LEMURESMEMBERC_000_007","啊，燃烧着战魂的勇士们在此汇集！
 只为拯救恩人，奋不顾身杀向残酷的恶鬼！"
 55,"TEXT_AKTKBB241_04078_HERMIN_000_008","好了，<Highlight>ObjectParameter(1)</Highlight>！
 我们出发去干掉那家伙吧！"
@@ -104,7 +104,7 @@ int32,str,str
 对于现在的我来说都像是美食一般！"
 77,"TEXT_AKTKBB241_04078_ORCUS_000_035","不过幸好我忍下来了！
 一直压制渴求灵魂的心灵，坚持到现在就是为了这一时刻！
-啊啊，我真应该好好夸奖一下自己！"
+啊，我真应该好好夸奖一下自己！"
 78,"TEXT_AKTKBB241_04078_ORCUS_000_036","来吧，<Highlight>ObjectParameter(1)</Highlight>。
 你也等不及了吧？让我们来场狂欢盛宴吧！
 看看到底是谁能收割谁的灵魂呢？"

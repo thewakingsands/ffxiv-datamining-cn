@@ -59,8 +59,8 @@ int32,str
 55,"<CommandIcon(8)/>移动到个人房间  <CommandIcon(10)/>查看个人房间资料"
 56,"<CommandIcon(8)/>训练  <CommandIcon(10)/>次级指令"
 57,"<CommandIcon(8)/>训练  <CommandIcon(10)/>次级指令"
-58,"<CommandIcon(11)/>显示探索记录"
-59,"<CommandIcon(11)/>显示风景印象"
+58,"<CommandIcon(11)/>显示探索记录 <CommandIcon(10)/>次级指令"
+59,"<CommandIcon(11)/>显示风景印象 <CommandIcon(10)/>次级指令"
 60,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>召唤"
 61,"<CommandIcon(10)/>次级指令"
 62,"<CommandIcon(11)/>切换表示方式  <CommandIcon(10)/>次级指令"
@@ -240,7 +240,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 178,"<CommandIcon(10)/>次级指令"
 179,"<CommandIcon(10)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭"
 180,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
-181,"<CommandIcon(10)/>次级指令"
+181,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>保存更改并关闭"
 182,"<CommandIcon(9)/>保存更改并关闭"
 183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
 184,"<CommandIcon(8)/>召唤"
@@ -527,7 +527,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 351,"<CommandIcon(11)/>返回战果情报"
 352,"<CommandIcon(11)/>编辑失传技能保管箱"
 353,"<CommandIcon(11)/>推荐"
-354,""
+354,"<CommandIcon(9)/>关闭"
 355,"<CommandIcon(24)/>滚动查看详细情报"
 356,"<CommandIcon(10)/>次级指令"
 357,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>交换"
@@ -572,8 +572,162 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 396,"<CommandIcon(10)/>全选/反选  <CommandIcon(11)/>开始搜索"
 397,"<CommandIcon(10)/>切换职能/单一职业"
 398,"<CommandIcon(10)/>切换该区域全选/单一地点"
-399,""
+399,"<CommandIcon(11)/>确定并关闭"
 400,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>＋<CommandIcon(10)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放 <CommandIcon(8)/>传送"
+401,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>确定参加并关闭窗口 <CommandIcon(24)/>滚动查看详细情报"
+402,"<CommandIcon(9)/>返回列表 <CommandIcon(24)/>滚动查看详细情报"
+403,"<CommandIcon(10)/>次级指令 <CommandIcon(24)/>滚动查看详细情报"
+404,"<CommandIcon(24)/>滚动查看详细情报"
+405,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+406,"<CommandIcon(11)/>确定进入并关闭窗口 <CommandIcon(10)/>编成小队"
+407,"<CommandIcon(8)/>队员选定或解除 <CommandIcon(9)/>结束编成"
+408,"亲信战友"
+409,"主线任务中需要前往的71级以上的迷宫
+都可选择与非玩家同伴角色的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幻体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一同前往。
+幻体可通过攻略迷宫而获得经验、升级。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用“亲信战友”系统挑战迷宫时部分宝箱中的内容会减少，
+另外击败部分怪物时将无法获得奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+410,"投影"
+411,"等级达到80级的幻体会开放<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>投影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能。
+可以在同伴选择画面上通过次级指令中的投影选项
+对幻体的外观进行修改。
+投影开放后，同伴的详细情报处的投影按键就会生效。"
+412,"幻体的限制"
+413,"有些幻体无法前往全部的迷宫。"
+414,"进入迷宫的两种方法"
+415,"进入迷宫有两种方法，
+第一种是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>和辅助队员组成小队单独进入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+第二种是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用匹配功能与其他玩家组成小队进入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+当然，玩家也可以在进入迷宫前，事先与其他玩家组成小队共同参与迷宫挑战。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不管以上述何种方式进入迷宫，均可参与迷宫挑战<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※和辅助队员挑战迷宫时，为了平衡报酬获得量，部分宝箱中的内容会减少，
+另外击败部分怪物时将无法获得奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+416,"剧情辅助器"
+417,"作为玩家，你可以凭借<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的协助，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>独自挑战迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+我们将这个系统称呼为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+可以使用剧情辅助器的迷宫，在入口处会设有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>进入点和剧情辅助器可用的图标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+访问进入点，选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>和辅助队员进入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
+将会打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>辅助队员的职业或特职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会根据你当前的职业或特职<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为最佳组合。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下进入按钮后<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以与非玩家角色一同挑战迷宫了！"
+418,"出发确认窗口"
+419,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>做好出发准备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>声音提示，并弹出窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出发按钮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以进行挑战了！
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若没有在限制时间内出发，将会取消参加，需要重新进行选择。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+420,"可以挑战的迷宫"
+421,"随着你的冒险不断推进，可以挑战的迷宫数量也会不断增加。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>当前不可使用剧情辅助器的迷宫及任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>请多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参与挑战！
+
+此外成功挑战过的迷宫也可以重复进行挑战。
+可以从<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次进行挑战。"
+422,"编成小队"
+423,"主线任务中需要前往的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>71级以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的迷宫
+都可在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一览中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编成小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>并出发挑战。
+
+可以通过点击小队成员来打开该迷宫<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可同行的辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。"
+424,""
+425,""
+426,""
+427,""
+428,"任务搜索器"
+429,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是供<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不同玩家<UIGlow>01</UIGlow><UIForeground>01</UIForeground>组成小队
+一起挑战迷宫等任务的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>便利功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+访问进入点，选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>和其他的玩家进入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
+将会打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+430,"申请参加任务"
+431,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>勾选想要挑战的迷宫名称<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，然后<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下参加按钮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+系统就会自动地将参加相同任务的玩家组成小队。
+这个过程被称为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※最多只能同时申请参加5个任务。
+
+※带有锁头图案的任务表示当前状态没有完全符合参加条件，无法申请参加。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+432,"申请的预约状况"
+433,"开始申请之后，目的列表中会出现搜索器的图标，可以随时查看<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>预约状况<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+预约状况窗口中会显示当前的队伍情况和服务器预约情况。"
+434,"出发确认窗口"
+435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>声音提示，并弹出窗口<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出发按钮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以进行挑战了！
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若没有在限制时间内出发，将会取消参加，需要重新进行选择。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+436,"可以挑战的迷宫"
+437,"随着你的冒险不断推进，可以挑战的迷宫数量也会不断增加。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>当前不可使用剧情辅助器的迷宫及任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>请多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参与挑战！
+
+此外成功挑战过的迷宫也可以重复进行挑战。
+可以从<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次进行挑战。"
+438,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+439,"<CommandIcon(10)/>次级指令"
+440,"<CommandIcon(10)/> 次级指令"
+441,""
+442,""
+443,""
+444,""
+445,""
+446,""
+447,""
+448,""
+449,""
+450,""
+451,""
+452,""
+453,""
+454,""
+455,""
+456,""
+457,""
+458,""
+459,""
+460,""
+461,""
+462,""
+463,""
+464,""
+465,""
+466,""
+467,""
+468,""
+469,""
+470,""
+471,""
+472,""
+473,""
+474,""
+475,""
+476,""
+477,""
+478,""
+479,""
+480,""
+481,""
+482,""
+483,""
+484,""
+485,""
+486,""
+487,""
+488,""
+489,""
+490,""
+491,""
+492,""
+493,""
+494,""
+495,""
+496,""
+497,""
+498,""
+499,""
+500,""
 1000,"报告发送失败。
 请重新发送。"
 1001,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>

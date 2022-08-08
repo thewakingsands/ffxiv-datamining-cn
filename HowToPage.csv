@@ -532,7 +532,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 通过快捷指令打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>项目下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口，之后用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鼠标右键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>点击自己的名字，之后选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编辑信息<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，即可打开个人信息窗口进行编辑。","",""
 213,1,0,150634,0,"
-搜索情报中还可以编辑在线状态和个人签名。
+搜索情报中还可以编辑在线状态和个性签名。
 
 职业和等级虽然会按照当前的职业为准，不过也可以自行编辑<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>希望组队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时的职业，这样在他人搜索时同样也会作为目标对象显示在列表中。","",""
 214,1,0,150635,0,"
@@ -1152,11 +1152,11 @@ int32,byte,byte,Image,byte,str,str,str
 570,1,0,150681,0,"
 与委托人交谈会打开交易窗口，将目标道具从背包<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>到交易窗口里，或右键点击道具再选择“递交”，之后点击窗口中的“递交”按钮便可以完成任务。
 
-交纳优质道具还可以领取到额外的追加报酬。","",""
+能工巧匠在交纳优质道具后还可以领取到额外的追加报酬。","",""
 571,1,0,150682,0,"
 与委托人交谈会打开交易窗口，在背包中选中目标道具，之后点击窗口中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“递交”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮便可以完成任务。
 
-交纳优质道具还可以领取到额外的追加报酬。","",""
+能工巧匠在交纳优质道具后还可以领取到额外的追加报酬。","",""
 572,0,0,0,0,"","",""
 573,0,0,0,0,"","",""
 574,0,0,0,0,"","",""
@@ -1172,6 +1172,8 @@ int32,byte,byte,Image,byte,str,str,str
 581,1,0,150692,0,"
 捕鱼人接受采集系理符任务的流程与制作理符一样。
 
+可以通过日志的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地图<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮
+确认指定鱼类的栖息地域。
 首先和委托人对话，之后交纳任务指定的道具。","",""
 582,0,0,0,0,"","",""
 583,0,0,0,0,"","",""
@@ -2312,9 +2314,11 @@ int32,byte,byte,Image,byte,str,str,str
 1248,0,0,0,0,"","",""
 1249,0,0,0,0,"","",""
 1250,1,0,151211,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“狼狱水上竞技场”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放！
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“水晶冲突”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放！
 
-这座竞技场是三城邦同盟为了加强战斗力而设置的，冒险者们可以在这里进行对抗战。前往水上竞技场可以在接待处获得更多情报。","",""
+水晶冲突是艾欧泽亚城邦军事同盟以强化自身战力为目的举办的冒险者对抗战。
+
+前往狼狱停船场可以在古恩吉·佐尔恩吉处获得更多情报。","",""
 1251,0,0,0,0,"","",""
 1252,0,0,0,0,"","",""
 1253,0,0,0,0,"","",""
@@ -2448,15 +2452,15 @@ int32,byte,byte,Image,byte,str,str,str
 1328,0,0,0,0,"","",""
 1329,0,0,0,0,"","",""
 1330,1,0,151531,0,"
-在玩家对战中，参加战斗的玩家可以获得相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战经验值”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+在玩家对战中，参加战斗的玩家可以获得以下3种报酬。
 
-积累对战经验值可以提升<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-
-对战等级得到提升后，可以获得所属大国防联军的成就。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>对战经验值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼印战绩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>系列赛经验值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1331,1,0,151532,0,"
-另外，参加玩家对战可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼印战绩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+另外，参加玩家对战还可以获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>系列赛报酬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>战利水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等任务外奖励。
 
-可以使用狼印战绩和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狼狱停船场<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的士兵们<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>换取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>各种各样的道具。","",""
+前往狼狱停船场可以在贝尔克雅正漩尉处获得更多情报。","",""
 1332,1,0,151533,0,"
 有关玩家对战的信息可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“对战资料”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中进行查看。
 
@@ -2513,9 +2517,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 上面记有土地所有者的情况。","",""
 1361,1,0,151562,0,"
-如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土地竞拍”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>尝试购买土地。
+如果没有显示土地所有者的情报，而是显示的土地标价，则说明这块土地还没有人购买，可以尝试购买土地。
 
-具体的出价方法和规则可以到各个冒险者住宅区的管理人那里听取详细说明。土地的价格每经过6小时会有一次下调，根据自己手中的钱看好机会就出手吧。","",""
+购买土地共分为“先到先得”和“抽选购买”的两种形式。具体的购买方法和规则可以到各个冒险者住宅区的管理人那里听取详细说明。","",""
 1362,0,0,0,0,"","",""
 1363,0,0,0,0,"","",""
 1364,0,0,0,0,"","",""
@@ -2855,7 +2859,7 @@ int32,byte,byte,Image,byte,str,str,str
 1561,1,0,151762,0,"
 在进行投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只有能够穿上的装备才可以进行投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※用于投影的装备必须与被投影装备的等级、职业、种族、性别相匹配。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1562,1,0,151763,0,"
 变幻外型之后的装备品无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -2923,7 +2927,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 探险币可以利用军票从所属军队交换，也可以在执行理符任务或蛮族任务时获得。","",""
 1602,1,0,151803,0,"
-另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。","",""
+另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※玩家可以中途取消雇员探险，但不会退还已支付的探险币。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1603,0,0,0,0,"","",""
 1604,0,0,0,0,"","",""
 1605,0,0,0,0,"","",""
@@ -3592,7 +3598,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 另外，收藏品如果为可以“使用”的道具的话，虽然可以直接使用，但是不能够作为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作素材来使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。收藏品与普通的道具有着不一样的用法，请多注意。","",""
 2122,1,0,152303,0,"
-另外，制作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收藏品制作专用”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的道具后，必定会变为“收集品”。
+另外，制作<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收藏品制作专用”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的道具后，必定会变为“收藏品”。
 
 道具品质越高，收藏价值也就越高。
 
@@ -3911,7 +3917,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 烈羽争锋是冒险者分成两个阵营，使用哥布林族制造的兵器互相对战的竞技任务。
 
-前往狼狱水上竞技场可以在索伏特诺克斯处获得更多情报。","",""
+前往狼狱停船场可以在索伏特诺克斯处获得更多情报。","",""
 2340,1,0,152521,0,"
 开放了“刺鱼”。
 
@@ -4003,7 +4009,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 准备各种用途的投影模板，轻松享受时尚吧！
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只能在城内使用幻影模板进行武具投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※只能在城内或休息区使用幻影模板进行武具投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2440,1,0,152631,0,"
 可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“魔素板”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>了！
 
@@ -4267,9 +4273,9 @@ int32,byte,byte,Image,byte,str,str,str
 
 先试着使用一下技能，撑起伞吧。","",""
 2541,1,0,152842,0,"
-在装备状态中再次使用
-伞等时尚配饰时，
-将会重新收起该时尚配饰。
+如果想要收起装备状态中的时尚配饰
+除了再次使用时尚配饰以外，
+还可以从特殊热键栏中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“收回”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※不论使用多少次，
 时尚配饰均不会被消耗。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""

@@ -262,7 +262,7 @@ int32,str,str
 157,"TEXT_AKTKBA321_04116_WHEISKAET_000_177","看来短时间内也没法让你完全了解我们的特点。
 不过既然是代理团长的命令，也只能尽量适应了。"
 158,"TEXT_AKTKBA321_04116_MERLWYB_000_178","已经分配好任务了吗？
-为了方便联系，我会为各位准备通讯贝。
+为了方便联系，我会为各位准备通讯珠。
 回程的路上去黑涡团总部领取即可。"
 159,"TEXT_AKTKBA321_04116_WHEISKAET_000_179","那我们就暂时解散吧。
 有事的话再联系。"
@@ -287,7 +287,7 @@ int32,str,str
 170,"TEXT_AKTKBA321_04116_WHEISKAET_000_230","你以前做过指挥工作吗？"
 171,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_250","<Highlight>ObjectParameter(1)</Highlight>阁下，辛苦了。
 事情我从提督那里听说了。"
-172,"TEXT_AKTKBA321_04116_MERLWYB_000_251","也给<If(PlayerParameter(4))>她<Else/>他</If>一个和海雄旅团一样的通讯贝。"
+172,"TEXT_AKTKBA321_04116_MERLWYB_000_251","也给<If(PlayerParameter(4))>她<Else/>他</If>一个和海雄旅团一样的通讯珠。"
 173,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_252","是。"
 174,"TEXT_AKTKBA321_04116_LIMSASIGNALLER_000_253","海雄旅团的各位已经发来了联络。"
 175,"TEXT_AKTKBA321_04116_LANDENEL_000_254","(-朗德内尔的声音-)喂喂，代理团长！
@@ -297,7 +297,7 @@ int32,str,str
 178,"TEXT_AKTKBA321_04116_LIMSASECRETARY_000_257","这群人真的没问题吗……"
 179,"TEXT_AKTKBA321_04116_MERLWYB_000_258","那就要看<Highlight>ObjectParameter(1)</Highlight>的了。
 拜托你了，代理团长阁下。"
-180,"TEXT_AKTKBA321_04116_MERLWYB_000_259","好了，事情有了进展的话就通过通讯贝联系吧。
+180,"TEXT_AKTKBA321_04116_MERLWYB_000_259","好了，事情有了进展的话就通过通讯珠联系吧。
 不过有了海雄旅团的各位，说不定很快就有进展了。
 有事的话，我继续让书记官联络你的。"
 181,"TEXT_AKTKBA321_04116_MERLWYB_000_260","我会和融合派的鱼人族们一同搜索海啸派的藏身地。"
