@@ -603,7 +603,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 当然，玩家也可以在进入迷宫前，事先与其他玩家组成小队共同参与迷宫挑战。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>不管以上述何种方式进入迷宫，均可参与迷宫挑战<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※和辅助队员挑战迷宫时，为了平衡报酬获得量，部分宝箱中的内容会减少，
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※和辅助队员挑战迷宫时，为了平衡报酬获得量，部分宝箱中的内容会减少。
 另外击败部分怪物时将无法获得奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 416,"剧情辅助器"
 417,"作为玩家，你可以凭借<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的协助，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>独自挑战迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
