@@ -306,7 +306,7 @@ int32,str
 244,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>捕鱼人之计<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>获得大尺寸的鱼时（一定几率）<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>
 钓鱼与刺鱼的发动几率不同<Else/></If><Else/></If>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10档"
 245,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>斗气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态的几率上升到100%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>战技暴击时"
 246,"暴乱剑与深奥之灵可恢复魔力"
@@ -405,7 +405,7 @@ int32,str
 295,"对自身附加3档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>玄冰"
 296,"发动部分魔法后，对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1档　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 当自身的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>达到最高档数时，相反属性的魔法将不消耗魔力
 但不适用于核爆"
 297,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以积累到2档"
@@ -501,7 +501,7 @@ int32,str
 368,"除自动攻击外的技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍"
 369,"除自动攻击外的技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍"
 370,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇胆<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 每隔20秒获得一档蛇胆
 陷入无法战斗状态不影响获得蛇胆"
 371,"部分技能的威力提高
@@ -515,7 +515,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>均衡注药的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40"
 373,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡诊断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>因吸收到足够的伤害而消失时"
 374,"注药变为注药II
 发炎变为发炎II
@@ -575,28 +575,28 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>神秘环发动时"
 388,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 389,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 390,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 391,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 392,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 393,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 394,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 395,"提高品质成功时，自身便会附加“内静”
 内静档数每上升1档，提升品质的技能效率提升10%
-最大档数：10"
+最大档数：10档"
 396,"模范制作的效率提高到180"
 397,"模范制作的效率提高到180"
 398,"模范制作的效率提高到180"
@@ -773,7 +773,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 481,"火神召唤变为火神召唤II，土神召唤变为土神召唤II，风神召唤变为风神召唤II"
 482,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3档
 当魔元集累积3档时，赤闪雷与赤震雷变为赤核爆
 当学会赤神圣后，赤疾风与赤烈风变为赤神圣
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔回刺、魔交击斩、魔连攻、魔划圆斩命中时"
@@ -867,7 +867,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>迅连斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120"
 508,"武神枪的威力提高至260，死者之岸的威力提高至360
 另外，在使用龙眼雷电与龙眼苍穹时，对自身附加1档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2档"
 509,"天语的效果量提高到20%"
 510,"自生变为自生II"
 511,"英雄的掠影发动攻击的威力提高至300"

@@ -244,7 +244,7 @@ int32,str,str
 成功完成了修复作业。"
 100,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_501","唔唔嗯……<If(PlayerParameter(4))>妈妈<Else/>爸爸</If>？"
 101,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_502","……啊，<Highlight>ObjectParameter(1)</Highlight>？！
-哇啊啊啊，对不起！
+哇——对不起！
 我……我好像睡迷糊了……"
 102,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_503","嗯，多亏了你制作的素材，
 阿马罗的装备已经修复完了！"

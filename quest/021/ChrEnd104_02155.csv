@@ -117,8 +117,8 @@ int32,str,str
 小雀斑太烦人了，我正发愁呢。
 能把他带到别处去吗？"
 75,"TEXT_CHREND104_02155_RYOUMIN2154_000_029","你也想打扰我和他的甜蜜时光吗？！"
-76,"TEXT_CHREND104_02155_THEOMOCENT_000_030","啊啊，<Highlight>ObjectParameter(1)</Highlight>。
-克拉姆瓦根本不听我说。
+76,"TEXT_CHREND104_02155_THEOMOCENT_000_030","啊，<Highlight>ObjectParameter(1)</Highlight>。
+克拉姆瓦根本听不进我的话。
 能请您帮忙说说吗？"
 77,"TEXT_CHREND104_02155_RYOUMIN2154_000_031","真是的，又来了个奇怪的家伙！
 你也是这个小雀斑的同伴啊？！
@@ -135,7 +135,7 @@ int32,str,str
 82,"TEXT_CHREND104_02155_CRAMMEVOIX_000_036","那就这样，我走啦。
 小雀斑，好好地挣分数哦。
 因为说不定你、说不定你可以的哦。"
-83,"TEXT_CHREND104_02155_THEOMOCENT_000_037","啊啊，他走掉了……
+83,"TEXT_CHREND104_02155_THEOMOCENT_000_037","啊，他走掉了……
 克拉姆瓦好像朝基础层去了……
 <Highlight>ObjectParameter(1)</Highlight>，我们追上去吧！"
 84,"TEXT_CHREND104_02155_CRAMMEVOIX_000_039","啊哈哈，这真是咎由自取啊……"

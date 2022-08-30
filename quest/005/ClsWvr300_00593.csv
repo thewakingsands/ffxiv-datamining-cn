@@ -63,8 +63,7 @@ int32,str,str
 那个孩子想要委托我做服饰。"
 52,"TEXT_CLSWVR300_00593_REDOLENTROSE_004","我想他在采矿工行会附近，
 请你去找他谈谈吧。"
-53,"TEXT_CLSWVR300_00593_WAWARUKKA_010","啊啊，
-你愿意接受我的委托吗？
+53,"TEXT_CLSWVR300_00593_WAWARUKKA_010","啊，你愿意接受我的委托吗？
 事不宜迟，请你制作<Sheet(ItemHQ,3823,0)/>。"
 54,"TEXT_CLSWVR300_00593_WAWARUKKA_011","呵呵，其实，我爱上了一个女孩。
 而且是一见钟情……"
@@ -91,7 +90,7 @@ int32,str,str
 现在我也打扮好了，去向可可摩告白啦！
 谢谢你为我做鞋子！"
 64,"TEXT_CLSWVR300_00593_REDOLENTROSE_034","唯一的好衣服……瓦瓦鲁卡，
-等等啊啊啊啊啊！"
+等等——"
 65,"TEXT_CLSWVR300_00593_REDOLENTROSE_035","为什么他会搭配格斗服啊……
 明明是那么高档的高跟鞋！"
 66,"TEXT_CLSWVR300_00593_REDOLENTROSE_036","啊……辛苦你了。

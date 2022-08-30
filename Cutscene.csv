@@ -2867,8 +2867,8 @@ int32,str,byte,byte,bit&01,int32,int32,int32,int32,uint16
 2863,"",0,0,False,0,0,0,0,0
 2864,"",0,0,False,0,0,0,0,0
 2865,"",0,0,False,0,0,0,0,0
-2866,"",0,0,False,0,0,0,0,0
-2867,"",0,0,False,0,0,0,0,0
+2866,"ex4/bosnid/bosnid00210/bosnid00210",1,1,True,0,0,0,0,0
+2867,"ex4/bosnid/bosnid00220/bosnid00220",1,1,True,0,0,0,0,0
 2868,"ex4/aktkmh/aktkmh10705/aktkmh10705",1,1,True,0,0,0,0,0
 2869,"ex4/aktkmh/aktkmh10715/aktkmh10715",1,1,True,0,0,0,0,0
 2870,"ffxiv/pvpmks/pvpmks06000/pvpmks06000",1,1,True,0,0,0,0,0
