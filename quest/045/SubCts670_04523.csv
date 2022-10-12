@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_SUBCTS670_04523_SEQ_00","露天集市的佣人风貌的女性正在寻人。"
+0,"TEXT_SUBCTS670_04523_SEQ_00","露天集市的佣人风貌的女性正在找人。"
 1,"TEXT_SUBCTS670_04523_SEQ_01",""
 2,"TEXT_SUBCTS670_04523_SEQ_02",""
 3,"TEXT_SUBCTS670_04523_SEQ_03",""
@@ -64,8 +64,8 @@ int32,str,str
 54,"TEXT_SUBCTS670_04523_AMELIANCE_000_010","(-？？？？-)<Highlight>ObjectParameter(1)</Highlight>！
 是梅丽尔德请你过来的吧！
 很高兴再次见到你！"
-55,"TEXT_SUBCTS670_04523_FLHAMINN_000_011","你最近怎么样        ？
-呵呵，没想到能在这种遇到我？
+55,"TEXT_SUBCTS670_04523_FLHAMINN_000_011","你最近怎么样？
+呵呵，没想到能在这种地方遇到我？
 其实我和阿梅莉安丝是好友，我们经常写信来往。"
 56,"TEXT_SUBCTS670_04523_ROWENA_000_012","真是巧啊。
 ……你这表情是什么意思？"
@@ -73,7 +73,7 @@ int32,str,str
 58,"TEXT_SUBCTS670_04523_A1_000_001","突然感觉有些胃疼……"
 59,"TEXT_SUBCTS670_04523_A1_000_002","突然想起有急事要做……"
 60,"TEXT_SUBCTS670_04523_ROWENA_000_014","你在那瞎紧张些什么。
-今天就是芙·拉敏介绍我过来打个招呼。"
+今天只是芙·拉敏介绍我过来打个招呼。"
 61,"TEXT_SUBCTS670_04523_AMELIANCE_000_015","这一定会是一场很棒的茶会！
 请留下来享用一杯茶再走吧！"
 62,"TEXT_SUBCTS670_04523_ROWENA_000_016","……哦？
@@ -136,7 +136,7 @@ int32,str,str
 所有物资，必须是由<Highlight>ObjectParameter(1)</Highlight>提供的才行。"
 88,"TEXT_SUBCTS670_04523_AMELIANCE_000_041","哎呀，罗薇娜女士你竟然答应了！
 我真是太幸运了，孩子们也太幸运了！
-你简直想象不到你这一句话救了多少孩子的人生啊！"
+你根本想象不到你这一句话救了多少孩子的人生啊！"
 89,"TEXT_SUBCTS670_04523_AMELIANCE_000_042","<Highlight>ObjectParameter(1)</Highlight>，你觉得怎么样？
 虽然看你百忙之中实在有些不忍心……"
 90,"TEXT_SUBCTS670_04523_AMELIANCE_000_043","啊啊，真是太好了！
@@ -204,5 +204,5 @@ int32,str,str
 120,"TEXT_SUBCTS670_04523_AMELIANCE_000_086","等留学生们陆续安顿下来以后，
 应该就会在课堂上互相认识吧。
 如果你能在那之前准备好入学所需要的东西就好了。"
-121,"TEXT_SUBCTS670_04523_AMELIANCE_000_087","露天集市的杂货商辛诺芙会帮你进购需要的素材。
+121,"TEXT_SUBCTS670_04523_AMELIANCE_000_087","露天集市的素材商辛诺芙会帮你进购需要的素材。
 那就麻烦你了，<Highlight>ObjectParameter(1)</Highlight>！"

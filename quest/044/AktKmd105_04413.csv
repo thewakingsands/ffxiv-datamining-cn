@@ -63,7 +63,7 @@ int32,str,str
 55,"TEXT_AKTKMD105_04413_ALPHINAUD_000_040","这里的村民就交给我吧，
 你去帮帮摩提夏。"
 56,"TEXT_AKTKMD105_04413_ALPHINAUD_000_050","你去帮帮摩提夏吧，
-他不会使用治愈魔法，遇到这种事一定很无措。"
+他不会使用治疗魔法，遇到这种事一定很无措。"
 57,"TEXT_AKTKMD105_04413_MATSYA_000_060","啊……<Highlight>ObjectParameter(1)</Highlight>！"
 58,"TEXT_AKTKMD105_04413_MATSYA_000_061","这是波洛伽护法村的村长耶如维特先生，
 虽然受了些伤，不过目前没有大碍！"

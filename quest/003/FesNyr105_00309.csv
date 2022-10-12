@@ -178,8 +178,8 @@ int32,str,str
 97,"TEXT_FESNYR105_00309_BRASSBLADECAPTAIN_000_081","哦哟，你是刚才去跑腿的<If(PlayerParameter(4))>小姐<Else/>小哥</If>吧。
 我叫的酒怎么样了？
 唔……你手上的是什么？"
-98,"TEXT_FESNYR105_00309_BRASSBLADECAPTAIN_000_082","这，我，这副眼镜是……是她、她的眼镜！
-呜呜呜……呜啊啊啊！可恶！可恶啊！
+98,"TEXT_FESNYR105_00309_BRASSBLADECAPTAIN_000_082","这、我、这副眼镜是……是她、她的眼镜！
+呜呜呜……呜呜呜……可恶！可恶啊！
 为什么丢下我一个人，自己先走了啊！"
 99,"TEXT_FESNYR105_00309_BRASSBLADECAPTAIN_000_083","呜呜呜……呜呜。
 ……对，这是我老婆的。

@@ -233,8 +233,8 @@ int32,str,Item,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,Te
 20228,"这种凶猛的古代鱼因为其锐利的牙齿而得到了现在的名字。它强而有力的冲刺能帮助它以极快的速度冲出海面，宛如飞翔一般抓住猎物。这种猎物甚至包括飞行高度不够的海鸟。",36546,554,False,False,27,957,0,True,False,False
 20229,"主要栖息在海底，行动缓慢的鲨鱼。铠鲨作为一种深海鱼皮肤比较坚硬，能帮助它顶住深海的水压，但实际上并没有硬到足以称为铠甲的程度。",36580,560,False,False,12,613,0,True,False,False
 20230,"主要栖息在猎船岛附近，喜欢生活在珊瑚礁等地方的小型热带鱼。雄性一般生有鲜艳的蓝色和黄色用于求偶，雌性则一般是接近黑色的晦暗保护色。",36535,560,False,True,25,957,0,True,False,False
-20231,"",0,0,False,False,0,0,0,False,False,False
-20232,"",0,0,False,False,0,0,0,False,False,False
+20231,"在栖息于盐湖的乌贼类中属于小型种，但是墨袋很大。因为能产出高级墨水，所以在基拉巴尼亚属于贵重品种。体内含有大量盐水，味道非常咸。",36659,495,False,False,20,621,0,True,False,False
+20232,"贝壳内外散发着美丽的光辉，有如神话中女神登场时的极光一般。作为螺钿工艺品的素材非常有名，装饰在食器上时，会感觉食物都变好吃了。",36661,500,False,False,10,613,0,True,False,False
 20233,"",0,0,False,False,0,0,0,False,False,False
 20234,"",0,0,False,False,0,0,0,False,False,False
 20235,"",0,0,False,False,0,0,0,False,False,False

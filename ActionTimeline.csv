@@ -10570,7 +10570,7 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,WeaponTimeline,byte,byte,byte,bit
 10566,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss3_gimmick02",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10567,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss3_gimmick03",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10568,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss3_gimmick04",0,0,0,0,0,False,0,False,False,0,False,False,True,0
-10569,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
+10569,0,3,False,0,0,1,"mount_sp/m0778/mon_sp001",0,0,1,0,1,False,0,False,True,0,False,False,True,0
 10570,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss_gimmick03",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10571,0,3,False,0,0,0,"mon_sp/gimmick/m5d4_cyuboss1_gimmick03",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10572,0,3,False,0,0,0,"mon_sp/gimmick/m5d4_cyuboss1_gimmick04",0,0,0,0,0,False,0,False,False,0,False,False,True,0
@@ -10578,9 +10578,9 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,WeaponTimeline,byte,byte,byte,bit
 10574,0,3,False,0,0,1,"human_sp/c0101/human_sp_moe_add01",0,1,1,1,0,False,0,False,False,0,False,False,True,0
 10575,0,3,False,0,0,1,"human_sp/c0101/human_sp_moe_add02",0,1,1,1,0,False,0,False,False,0,False,False,True,0
 10576,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss4_gimmick09",0,0,0,0,0,False,0,False,False,0,False,False,True,0
-10577,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
-10578,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
-10579,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
+10577,0,3,False,0,0,1,"mount_sp/m0778/mon_sp002",0,0,1,0,1,False,0,False,True,0,False,False,True,0
+10578,0,3,False,0,0,1,"mount_sp/m0778/mon_sp003",0,0,1,0,1,False,0,False,True,0,False,False,True,0
+10579,0,3,False,0,0,1,"mount_sp/m0778/mon_sp004",0,0,1,0,1,False,0,False,True,0,False,False,True,0
 10580,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss4_gimmick10",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10581,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss4_gimmick11",0,0,0,0,0,False,0,False,False,0,False,False,True,0
 10582,0,3,False,0,0,0,"mon_sp/gimmick/z5r1_boss4_gimmick12",0,0,0,0,0,False,0,False,False,0,False,False,True,0

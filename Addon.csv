@@ -1742,7 +1742,7 @@ int32,str
 1694,"商店贩售价格<If(GreaterThan(IntegerParameter(2),0))><Else/>[普通]</If>:<Format(IntegerParameter(1),FF022C)/>(有购买条件)"
 1695,"当前显示：<Highlight>StringParameter(1)</Highlight>"
 1696,"分组人数：<Value>IntegerParameter(1)</Value>"
-1697,"通过跨界传送去往其他服务器时无法使用通讯贝。"
+1697,"通过跨界传送或超域传送去往其他服务器时无法使用通讯贝。"
 1700,"配方搜索"
 1701,"履历"
 1702,"无履历"
@@ -4338,7 +4338,7 @@ int32,str
 <If(GreaterThan(IntegerParameter(1),0))>
 　·军票<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
 　·亚拉戈神典石<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
-　·蛮族友好度<Else/></If>"
+　·部族友好度<Else/></If>"
 4610,"取回失物"
 4611,""
 4612,"道具名"
@@ -14293,7 +14293,7 @@ Immerse Gamepack尚未安装。
 102259,"当前职业为<Sheet(ClassJobCategory,IntegerParameter(1),0)/>"
 102260,"<Value>IntegerParameter(1)</Value>级以上"
 102261,"完成<Sheet(InstanceContent,IntegerParameter(1),3)/>"
-102262,"之前受理的蛮族日常任务需要激活"
+102262,"本日前领取的蛮族日常任务尚未完成"
 102263,"本日蛮族日常任务受理限额"
 102264,"活动期间"
 102265,"必须已购买房屋或公寓房间或与他人共享房屋
@@ -14451,7 +14451,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102512,"评价"
 102513,"最优队员推荐"
 102514,"<Value>IntegerParameter(1)</Value>"
-102515,"蛮族友好度"
+102515,"部族友好度"
 102516,"<Highlight>StringParameter(1)</Highlight>"
 102517,"<Sheet(BeastTribe,IntegerParameter(1),9)/>"
 102518,"<UIForeground>E803</UIForeground><Value>IntegerParameter(1)</Value>.<If(Equal(IntegerParameter(3),0))><Sheet(BeastReputationRank,IntegerParameter(1),1)/><Else/><Sheet(BeastReputationRank,IntegerParameter(1),2)/></If><UIForeground>01</UIForeground>"

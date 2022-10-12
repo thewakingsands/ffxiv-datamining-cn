@@ -66,7 +66,7 @@ int32,str,str
 今天的世界也依然流光溢彩……<UIForeground>01</UIForeground>"
 56,"TEXT_LUCKMI106_03776_GREENCRYSTAL_000_014","(-深绿色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>为了善良的同胞们，运用我们的智慧吧。
 其为盛大的欢喜……其乃无可替代的骄傲……<UIForeground>01</UIForeground>"
-57,"TEXT_LUCKMI106_03776_GRAYCRYSTAL_000_015","(-银灰色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>啊啊，希望所有人的幸福能够持久下去……<UIForeground>01</UIForeground>"
+57,"TEXT_LUCKMI106_03776_GRAYCRYSTAL_000_015","(-银灰色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>啊，希望所有人的幸福能够延续下去……<UIForeground>01</UIForeground>"
 58,"TEXT_LUCKMI106_03776_SYSTEM_000_016","这座大厅里好像已经没有水晶了。
 最好也到议事堂的外面看看吧。"
 59,"TEXT_LUCKMI106_03776_SYSTEM_000_020","又找到了2块水晶。"
@@ -88,8 +88,8 @@ int32,str,str
 69,"TEXT_LUCKMI106_03776_SKYBLUECRYSTAL_000_041","(-天蓝色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>……到了抵抗毁灭之时。
 用我们的意志再塑行星之理……<UIForeground>01</UIForeground>"
 70,"TEXT_LUCKMI106_03776_COLORLESSCRYSTAL_000_042","(-无色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>请将救赎的希望赐予从这生命中诞生的婴儿吧……<UIForeground>01</UIForeground>"
-71,"TEXT_LUCKMI106_03776_PINKCRYSTAL_000_043","(-浅红色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>灵魂被逐渐浸染……我第一次开始畏惧自己的力量……
-不过……啊啊……即便如此……<UIForeground>01</UIForeground>"
+71,"TEXT_LUCKMI106_03776_PINKCRYSTAL_000_043","(-浅红色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>灵魂不断被浸染……我生平第一次畏惧自己的力量……
+不过……啊……即便如此……<UIForeground>01</UIForeground>"
 72,"TEXT_LUCKMI106_03776_SYSTEM_000_044","前面的水晶里也有某人的记忆吗？"
 73,"TEXT_LUCKMI106_03776_SYSTEM_000_050","发现了第12块水晶。"
 74,"TEXT_LUCKMI106_03776_SCARLETCRYSTAL_000_051","(-深绯色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>……末日已过。

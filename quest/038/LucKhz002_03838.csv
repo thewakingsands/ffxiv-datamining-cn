@@ -51,8 +51,8 @@ int32,str,str
 47,"TEXT_LUCKHZ002_03838_TODO_23",""
 48,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_000","你就是<Highlight>ObjectParameter(1)</Highlight>对吧？!
 没想到居然能在这种地方遇见憧憬的英雄，真不敢相信！"
-49,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_001","啊啊，抱歉突然和你搭话。
-我一直期待着有机会能和你说话。"
+49,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_001","啊，恕我冒昧，
+我一直期待着能和你谈谈。"
 50,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_002","我们和你一样，也是冒险者。
 在见证过你与赫利·博尔达的对决后，
 就对你产生了憧憬……我们还接受过“拂晓“的任务呢！"
@@ -88,7 +88,7 @@ int32,str,str
 65,"TEXT_LUCKHZ002_03838_HWDADVENTURERB03838_000_027","是<Highlight>ObjectParameter(1)</Highlight>找到的吧？
 谢谢你！"
 66,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_028","不愧是英雄，寻人找物的能力非同一般啊！"
-67,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_030","啊啊，真是好久不见了！
+67,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_030","啊，好久不见了！
 你也真是见外，都不跟我们联络！"
 68,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_031","抱歉啊，我这边忙着皇都的重建，接了不少的委托。
 不过看到你们都很精神，真是太好了。"

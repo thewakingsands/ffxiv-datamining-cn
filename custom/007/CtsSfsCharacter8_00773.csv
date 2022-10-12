@@ -55,7 +55,7 @@ int32,str,str
 分为能工巧匠、采矿工与园艺工、捕鱼人三种，
 并且需要所有物品均为“收藏品”。"
 29,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_003_000","制作委托品的必要材料，
-可以在旧萨雷安的露天集市前的杂货商辛诺芙处购买。"
+可以在旧萨雷安的露天集市前的素材商辛诺芙处购买。"
 30,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_000","能工巧匠制作出来的产品的“收藏价值”
 会随制作时物品品质的提高而上升。
 因此，尽量提高品质后做出成品是尤为重要的。"
@@ -99,7 +99,7 @@ int32,str,str
 执行次级指令“搜索制作道具的配方”，
 就可以打开制作笔记，看到制作配方。"
 47,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_003","制作委托品的必要材料，
-可以在旧萨雷安的露天集市前的杂货商辛诺芙处购买。"
+可以在旧萨雷安的露天集市前的素材商辛诺芙处购买。"
 48,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_004","采矿工或园艺工分类的委托品，只需要在打开列表的状态下，
 执行次级指令“搜索采集方法”，
 就可以打开采集笔记，看到采集地点。"
@@ -315,7 +315,7 @@ int32,str,str
 142,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_011","我……回到故乡以后准备进一步钻研炼金术。"
 143,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_012","通过学习治疗魔法，我感觉到了魔法与炼金术的差异，
 以及这两者各自的优点与不足。"
-144,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_013","我想要是能同时掌握炼金术和治愈魔法的话，
+144,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_013","我想要是能同时掌握炼金术和治疗魔法的话，
 就能结合两者的优点并弥补不足之处……"
 145,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_014","所以阿梅莉安丝夫人，
 等我钻研完炼金术，我一定会回到旧萨雷安的！"
@@ -433,7 +433,7 @@ int32,str,str
 呵呵，今后也请多多关照哦！"
 197,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_000","<Highlight>ObjectParameter(1)</Highlight>，能占用你一点时间吗？
 我想重新好好谢谢你。"
-198,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_001","不仅是感谢你作为老主顾为我提供的这些不计回报的帮助，
+198,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_001","不仅是感谢你为我这个老主顾提供的这些不计回报的帮助，
 我更想为了阿尔菲诺和阿莉塞以及富尔什诺感谢你。
 谢谢你守护了我人生中最重要的人们。"
 199,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_002","多亏了你，我才能在这里安心等待。

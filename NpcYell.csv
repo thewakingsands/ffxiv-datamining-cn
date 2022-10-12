@@ -5538,7 +5538,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 我的原初之魂！"
 4750,0,False,False,False,2,3,False,False,1,25,"这就是我的一切！"
 4751,0,False,False,False,2,3,False,False,1,25,"呀！！"
-4752,0,False,False,False,2,3,False,False,1,25,"哦呀！！"
+4752,0,False,False,False,2,3,False,False,1,25,"喝！"
 4753,0,False,False,False,2,3,False,False,1,25,"再来一次！"
 4754,0,False,False,False,2,3,False,False,1,25,"最后一击！"
 4755,0,False,False,False,2,3,False,False,1,25,"吃我这招！"
@@ -14202,7 +14202,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 11169,0,False,False,False,2,3,False,False,1,25,"嘿！"
 11170,0,False,False,False,2,3,False,False,1,25,"哈！"
 11171,0,False,False,False,2,3,False,False,1,25,"绝不能退却！"
-11172,0,False,False,False,2,3,False,False,1,25,"哦呀！"
+11172,0,False,False,False,2,3,False,False,1,25,"嘿呀！"
 11173,0,False,False,False,2,3,False,False,1,25,"别小看我们！"
 11174,0,False,False,False,2,3,False,False,1,25,"冲啊、冲啊！
 我们就是狂暴的云海之风！"

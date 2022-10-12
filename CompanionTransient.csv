@@ -2107,7 +2107,11 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 光辉，真是太美了。
 　　　　　　——花芽","星光浴","令萌宠之门内宠物的体力恢复量变为2倍。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒",55,50,4,False,True,False,False,False,9
-444,"","","","","",0,0,0,False,False,False,False,False,0
+444,"召唤出宠物“悌阳象族人偶”。
+仿照悌阳象族制作的魔法人偶。当然穿着衣服！","与遗烈乡合力制作的悌阳象族魔法人偶，是送给河马骑手团常客的礼品。人偶穿着萨维奈岛的传统服装，作为当地特产也备受欢迎。新港的商人认为，这么好的商品不拿去卖实在太可惜了。","能跟这么强的悌阳象族人相遇，
+我顿时来了精神！
+　　　　　　　　　　——斡兀立","特制炼金药","对范围内的敌人每秒造成10点持续伤害。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒",30,70,2,False,True,False,False,False,1
 445,"召唤出宠物“袋鼠玩偶”。
 雇员偶然间得到的袋鼠玩偶，后腿强而有力不容小觑。","这只玩偶的原型是南方大陆的一种有袋类动物。雇员在采矿场附近的废弃村落里发现了这个被人遗落的玩偶，出于好心修复了它。该玩偶的育儿袋内附有一只更小的袋鼠玩偶，但受到设计上的局限，很难从育儿袋中拿出小玩偶。","肚子被踢的地方
 火辣辣地痛噗……

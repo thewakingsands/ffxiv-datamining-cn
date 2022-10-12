@@ -102,9 +102,9 @@ int32,str,str
 65,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_026","这两样东西恐怕都不太容易获得。
 但如果不弄到它们，特殊物质就只能是梦中泡影……
 麻烦你了。"
-66,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_027","……啊啊啊，没错，这就是<Sheet(Item,9542,0)/>！
-品质也不坏，用它应该就没问题。
-下面去找来<Sheet(EventItem,2001532,0)/>和<Sheet(EventItem,2001533,0)/>吧。"
+66,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_027","……啊，没错，这就是<Sheet(Item,9542,0)/>！
+品质也不错，用它应该就没问题。
+然后把<Sheet(EventItem,2001532,0)/>和<Sheet(EventItem,2001533,0)/>找来吧。"
 67,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_028","<Sheet(EventItem,2001532,0)/>是在黄金谷，
 <Sheet(EventItem,2001533,0)/>应该能在妖异众多的地方找到。"
 68,"TEXT_JOBREL012_00358_GUIDINGSTAR_000_029","虽然想取得它们会有一些难度，

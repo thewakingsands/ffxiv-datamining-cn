@@ -463,7 +463,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 459,4,0,0,0,0,False,29155,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,0,0,0,-1,0,0,0,False,False
 460,1,3532,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,2.8,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 461,1,3594,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,2.8,False,False,True,False,False,0,0,29579,-1,0,0,0,False,False
-462,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+462,5,0,0,0,2438,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,True,True,False,False,1148,1148,0,-1,0,0,0,False,False
 463,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 464,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 465,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
