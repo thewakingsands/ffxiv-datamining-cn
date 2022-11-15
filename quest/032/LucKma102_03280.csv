@@ -212,7 +212,7 @@ int32,str,str
 119,"TEXT_LUCKMA102_03280_BRAGI_000_107","嗯？
 我说的话很奇怪吗？"
 120,"TEXT_LUCKMA102_03280_BRAGI_000_108","嗯？
-没听过这种叫法啊……是哪儿的方言吗？"
+没听过这种叫法啊……是哪的方言吗？"
 121,"TEXT_LUCKMA102_03280_BRAGI_000_109","站在那边说话的两个人里，
 个子矮的那个<Switch(PlayerParameter(71))><Case(1)>和你一样</Case><Case(2)></Case><Case(3)></Case><Case(4)></Case><Case(5)></Case><Case(6)></Case><Case(7)></Case><Case(8)></Case></Switch>是尘族……"
 122,"TEXT_LUCKMA102_03280_BRAGI_000_110","个子高的<Switch(PlayerParameter(71))><Case(1)></Case><Case(2)>和你一样</Case><Case(3)></Case><Case(4)></Case><Case(5)></Case><Case(6)></Case><Case(7)></Case><Case(8)></Case></Switch>是菁灵族……"

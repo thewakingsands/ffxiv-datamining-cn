@@ -105,8 +105,8 @@ int32,str,str
 71,"TEXT_LUCKBC013_03222_KYOKUHO_000_066","你这样说也太没礼貌了……
 老师一直在为使命而奔波，现在终于告一段落，
 怎么说她也是个女孩子……怎么就不能有点恋爱的小烦恼呢！"
-72,"TEXT_LUCKBC013_03222_KYOKUHO_000_067","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，就让我们来帮老师解决烦恼吧！
-说来老师去哪儿了？"
+72,"TEXT_LUCKBC013_03222_KYOKUHO_000_067","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，就让我们为老师排忧解难吧！
+说来老师去哪了？"
 73,"TEXT_LUCKBC013_03222_KYOKUHO_000_068","……原来如此，去建国十二骑士像了啊。
 那我们也过去吧！"
 74,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_070","蕾薇瓦老师恋爱了……
@@ -158,7 +158,7 @@ int32,str,str
 97,"TEXT_LUCKBC013_03222_KYOKUHO_000_120","哎，真不愧是蕾薇瓦老师……
 我还说什么为她解决烦恼，
 真是自以为是……"
-98,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_121","你奔出占星院的气势都去哪儿了？"
+98,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_121","你奔出占星院的气势都去哪了？"
 99,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_122","既然老师的烦恼不是关于恋爱的，
 那比起在这想破脑子，还是直接去问她来的比较快。"
 100,"TEXT_LUCKBC013_03222_JANNEQUINARD_000_123","<Highlight>ObjectParameter(1)</Highlight>，能拜托你去巨龙首营地，

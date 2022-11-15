@@ -444,14 +444,14 @@ int32,str,str
 才能够达到哲学家议会所要求的往返时间。"
 258,"TEXT_VOICEMAN_06005_002490_KOKKOLDANKKOL","可现在偏偏就是差这么6%！
 简并引擎已经使用了最优质的素材和最精准的设计，
-哪儿那么简单就能提升这6%啊……"
+哪那么简单就能提升这6%啊……"
 259,"TEXT_VOICEMAN_06005_002500_URIANGER","这个问题您与兔兔族商量过了吗？"
 260,"TEXT_VOICEMAN_06005_002510_FOURCHENAULT","是的，他们的技师也在想办法，
 不过短时间内好像无法得出结论。"
 261,"TEXT_VOICEMAN_06005_002520_FOURCHENAULT","据他们所说，月球上倒是拥有高性能的动力系统，
 可那是供月球使用的，从各方面来说都十分庞大。"
 262,"TEXT_VOICEMAN_06005_002530_FOURCHENAULT","我们这小小的“玩具方舟”恐怕是无法运用这种大型技术。"
-263,"TEXT_VOICEMAN_06005_002540_KOKKOLDANKKOL","啊啊，到底怎么办才好啊！
+263,"TEXT_VOICEMAN_06005_002540_KOKKOLDANKKOL","啊，到底怎么办才好啊！
 要是能再搞到点特级精金就好了……
 不然就肯定没戏啊！"
 264,"TEXT_VOICEMAN_06005_002550_GRAHATIA","特级精金？亚拉戈用的那个？"
@@ -1005,7 +1005,7 @@ int32,str,str
 全都只是痴人说梦！"
 550,"TEXT_VOICEMAN_06005_005320_AMON","唔……"
 551,"TEXT_VOICEMAN_06005_005330_AMON","该死……我的灵魂在逐渐衰弱……
-啊啊，真是可恨……"
+啊，真是可恨……"
 552,"TEXT_VOICEMAN_06005_005340_ALPHINAUD","交给<If(PlayerParameter(4))>她<Else/>他</If>吧。"
 553,"TEXT_VOICEMAN_06005_005350_AMON","怎么……你打算亲手了结我吗？"
 554,"TEXT_VOICEMAN_06005_005360_AMON","呵……正合我意。

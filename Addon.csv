@@ -3859,7 +3859,7 @@ int32,str
 4120,"语言设置"
 4121,"过场字幕"
 4122,"过场语音"
-4123,"注意：根据设置不同，语音和字幕可能会有内容差异"
+4123,"注意：根据设置不同，语音和字幕之间可能存在内容差异"
 4124,"接入对应设备时，令该设备的震动、声音等功能生效。
 <Switch(PlayerParameter(78))><Case(1)><Gui(63)/>本机能仅供DX11使用。</Case><Case(2)></Case><Case(3)><Gui(63)/>本机能仅限Windows版使用。</Case></Switch>"
 4125,"地图分辨率"
@@ -9569,8 +9569,8 @@ Immerse Gamepack尚未安装。
 10096,"确定要开始任务吗？
 您的进度落后于队长，若选择开始，<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>您将跳过中间内容，并在本周失去取得该部分奖励的机会<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 10097,"指定练习阶段"
-10098,"进度（查看大型任务搜索器帮助可了解详细内容）"
-10099,"显示大型任务搜索器帮助。"
+10098,"进度（查看大型任务搜索器说明可了解详细内容）"
+10099,"显示大型任务搜索器说明。"
 10100,"分配方式：通常"
 10101,"分配方式：仅限贪婪"
 10102,"分配方式：队长分配"
@@ -9627,7 +9627,7 @@ Immerse Gamepack尚未安装。
 10155,"1人用"
 10156,"职业：<Sheet(ClassJobCategory,IntegerParameter(1),0)/>"
 10157,"等级：<Value>IntegerParameter(1)</Value>级"
-10158,"大型任务搜索器帮助"
+10158,"大型任务搜索器说明"
 10159,""
 10160,"<UIForeground>F20202</UIForeground>※当前版本针对零式大型任务做出以下调整
 · 各层攻略后不再记录攻略进度。
@@ -13783,8 +13783,8 @@ Immerse Gamepack尚未安装。
 14735,"当前装备与将此肖像设定为对战肖像时穿着的装备不一致。
 请以当前装备重新将此肖像设定为对战肖像。"
 14736,"确定要以当前装备编辑肖像吗？"
-14800,"与其他玩家一同进入<Sheet(InstanceContent,IntegerParameter(1),3)/> "
-14801,"与非玩家同伴一同进入<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>"
+14800,"与其他玩家一同进入“<Sheet(InstanceContent,IntegerParameter(1),3)/>”"
+14801,"与非玩家同伴一同进入“<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>”"
 14802,"同伴选择"
 14803,"<If(GreaterThan(IntegerParameter(1),0))>平均品级不低于<Value>IntegerParameter(1)</Value>级<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
 品级同步：<Value>IntegerParameter(2)</Value>级<Else/></If>"

@@ -82,7 +82,7 @@ int32,str,str
 我却弄丢了重要的宝物，总觉得高兴不起来……"
 59,"TEXT_FESPDY402_03085_Q1_000_000","要说什么？"
 60,"TEXT_FESPDY402_03085_A1_000_001","就交给<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>我吧！"
-61,"TEXT_FESPDY402_03085_A1_000_002","你记得宝物丢在哪儿了吗？"
+61,"TEXT_FESPDY402_03085_A1_000_002","你记得宝物丢在哪了吗？"
 62,"TEXT_FESPDY402_03085_NAMELESSGIRL03085_000_015","诶……难道<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>你能去帮我找我的宝物吗？"
 63,"TEXT_FESPDY402_03085_NAMELESSGIRL03085_100_015","弄丢东西的地方我还记得，
 但是爸爸妈妈说，因为很危险，

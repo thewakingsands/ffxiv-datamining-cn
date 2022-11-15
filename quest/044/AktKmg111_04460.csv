@@ -122,7 +122,7 @@ int32,str,str
 如果发现举动异常的奥密克戎，
 按下<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>进行监视吧！"
 82,"TEXT_AKTKMG111_04460_GRAHATIA_000_111","有个家伙在漫无目的地闲逛？
-在哪儿？！"
+在哪里？！"
 83,"TEXT_AKTKMG111_04460_GRAHATIA_000_112","看到了，是它吧！"
 84,"TEXT_AKTKMG111_04460_GRAHATIA_000_113","它离开奥密克戎基地了。
 快追！"

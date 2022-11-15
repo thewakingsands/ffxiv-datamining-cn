@@ -262,7 +262,7 @@ int32,str,str
 123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>不过你还真是能折腾。
 我好不容易配合拉哈布雷亚，将神灵降临在人身上，
 你却那么简单轻松地干掉了。<UIForeground>01</UIForeground>"
-124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","呀啊啊啊啊！"
+124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","呀——"
 125,"TEXT_VOICEMAN_02500_500190_MOENBRYDA","什么？！"
 126,"TEXT_VOICEMAN_02500_500200_MOENBRYDA","唔！"
 127,"TEXT_VOICEMAN_02500_500210_NABRIALES","<UIForeground>F20223</UIForeground>都说了别那么凶嘛。<UIForeground>01</UIForeground>"
@@ -587,7 +587,7 @@ int32,str,str
 希望能够尽早解决吧。"
 295,"TEXT_VOICEMAN_02500_H00120_ALPHINAUD","我能够理解各国首领的想法。
 但是，我要用我自己的想法引领艾欧泽亚。"
-296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","倒是我们的大英雄去哪儿了？
+296,"TEXT_VOICEMAN_02500_H00130_ALPHINAUD","倒是我们的大英雄去哪了？
 怎么都见不到人呢？"
 297,"TEXT_VOICEMAN_02500_H00140_MINFILIA","好像到流沙屋找莫莫蒂去了。
 如果没什么麻烦事情，应该快回来了吧。"
@@ -736,7 +736,7 @@ int32,str,str
 385,"TEXT_VOICEMAN_02500_P00190_ILBERD","娜娜莫陛下在房间里被人毒杀了，
 侍女也能做见证。"
 386,"TEXT_VOICEMAN_02500_P00200_RAUBAHN","这怎么可能……"
-387,"TEXT_VOICEMAN_02500_P00210_RAUBAHN","娜娜莫陛下……呜啊啊啊啊啊！"
+387,"TEXT_VOICEMAN_02500_P00210_RAUBAHN","娜娜莫陛下……啊——"
 388,"TEXT_VOICEMAN_02500_Q00010_TELEDJIADELEDJI","王党派根本就没有保卫国家的资格！
 乌尔达哈应该交给我们共和派来管理。
 以后的事也不用你操心了，顶多让你去为陛下准备国葬吧。"
@@ -757,7 +757,7 @@ int32,str,str
 竟然还斩杀了沙蝎众的成员！"
 398,"TEXT_VOICEMAN_02500_Q00110_LOLORITO","……难不成，你是拂晓的同谋？！"
 399,"TEXT_VOICEMAN_02500_Q00120_RAUBAHN","罗罗力特！你这混蛋！你也是同伙吗！！"
-400,"TEXT_VOICEMAN_02500_Q00130_RAUBAHN","啊啊啊啊啊！！"
+400,"TEXT_VOICEMAN_02500_Q00130_RAUBAHN","啊——"
 401,"TEXT_VOICEMAN_02500_Q00140_MERLWYB","你们在干什么！"
 402,"TEXT_VOICEMAN_02500_Q00150_KANESENNA","劳班总帅！！"
 403,"TEXT_VOICEMAN_02500_Q00160_GUARD02500","(-黑涡团护卫-)提督，使不得！"

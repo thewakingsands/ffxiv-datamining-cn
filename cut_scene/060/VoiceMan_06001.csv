@@ -1140,7 +1140,7 @@ int32,str,str
 应该还没有轮到尤卢斯。"
 640,"TEXT_VOICEMAN_06001_006120_LUCIA","放心吧，我们一定会尽全力帮助他的。
 你们快去寻找最关键的人吧。"
-641,"TEXT_VOICEMAN_06001_006130_ESTINIEN","那家伙到底去哪儿了……"
+641,"TEXT_VOICEMAN_06001_006130_ESTINIEN","那家伙到底去哪了……"
 642,"TEXT_VOICEMAN_06001_006140_THANCRED","<If(PlayerParameter(4))>她<Else/>他</If>应该是第一次以太放射之后离开的，
 可能突然有什么紧急情况吧。"
 643,"TEXT_VOICEMAN_06001_006150_THANCRED","那时候营地里特别混乱，

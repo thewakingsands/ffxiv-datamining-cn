@@ -65,7 +65,7 @@ int32,str,str
 51,"TEXT_JOBAST700_02413_KYOKUHO_000_009","如你所见，我被麻烦的家伙缠上了，
 我会随便应付应付他们的，<If(PlayerParameter(4))>师姐<Else/>师兄</If>快去找群云老爷子吧。"
 52,"TEXT_JOBAST700_02413_KYOKUHO_000_010","<If(PlayerParameter(4))>师姐<Else/>师兄</If>，找到群云了吗？"
-53,"TEXT_JOBAST700_02413_KYOKUHO_000_011","没找到吗……他到底去了哪儿？
+53,"TEXT_JOBAST700_02413_KYOKUHO_000_011","没找到吗……他到底去了哪里？
 祠堂的结界也变得十分不稳定……
 再这样下去真的危险了！"
 54,"TEXT_JOBAST700_02413_UDOKU_000_012","哎哟，什么危险不危险的，

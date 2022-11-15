@@ -1501,7 +1501,6 @@ int32,uint16,uint16,byte,bit&01,str
 1460,57,1,0,False,"<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow><Sheet(Hud,IntegerParameter(1),ADDONHUD_NAME)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
 请阅读说明了解详情！"
 1461,57,1,0,False,"<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow><Sheet(Hud,IntegerParameter(1),ADDONHUD_NAME)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的解说更新了！
-
 请阅读说明了解详情！"
 1462,57,1,0,False,"<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow><Sheet(Hud,IntegerParameter(1),ADDONHUD_NAME)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow><Sheet(Hud,IntegerParameter(2),ADDONHUD_NAME)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>开放了！
 请阅读说明了解详情！"

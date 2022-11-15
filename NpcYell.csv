@@ -844,7 +844,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 788,0,False,False,False,3,5,False,False,1,25,"泽泽卢恩，饿坏了！"
 789,0,False,False,False,3,5,False,False,1,25,"吃饭，吃饭，要快！"
 790,0,False,False,False,3,5,False,False,1,25,"宴会，泽泽卢恩，开吃！"
-791,0,False,False,False,3,5,False,False,1,25,"这里是哪儿呼啾？
+791,0,False,False,False,3,5,False,False,1,25,"这里是哪呼啾？
 能给我带路吗呼啾？"
 792,0,False,False,False,3,5,False,False,1,25,"暂留地在哪边呢呼啾？"
 793,0,False,False,False,3,5,False,False,1,25,"还没到吗呼啾？"
@@ -857,7 +857,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 798,0,False,False,False,3,5,False,False,1,25,"护卫朋友，拜托你了库啵！"
 799,0,False,False,False,3,5,False,False,1,25,"莫古的人气很高的库啵！"
 800,0,False,False,False,3,5,False,False,1,25,"护卫工作辛苦了库啵！
-不过莫古的支持者们都去哪儿了库啵？"
+不过莫古的支持者都去哪了库啵？"
 801,0,False,False,False,3,5,False,False,1,25,"谁来谁来保护？"
 802,0,False,False,False,3,5,False,False,1,25,"讨厌讨厌触手。"
 803,0,False,False,False,3,5,False,False,1,25,"好了好了，前进前进。"
@@ -1091,7 +1091,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 1021,0,False,False,False,3,5,False,False,1,25,"上吧，我的朋友！"
 1022,0,False,False,False,3,5,False,False,1,25,"出来吧，我的朋友！"
 1023,0,False,False,False,3,5,False,False,1,25,"在龙之力面前颤抖吧！"
-1024,0,False,False,False,3,5,False,False,1,25,"我的生命就到这儿了吗……
+1024,0,False,False,False,3,5,False,False,1,25,"我的生命走到尽头了吗……
 我也要……回到巨龙怀抱……"
 1025,0,False,False,False,3,5,False,False,1,25,"我要沿着天梯登上苍天之塔!"
 1026,0,False,False,False,3,5,False,False,1,25,"吃东西的时间到了！
@@ -1449,7 +1449,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 1373,0,False,False,False,3,5,False,False,1,25,"为、为什么会有哈帕利特？"
 1374,0,False,False,False,3,5,False,False,1,25,"朝这边过来了！"
 1375,0,False,False,False,3,5,False,False,1,25,"唉……怎么这么倒霉。"
-1376,0,False,False,False,3,5,False,False,1,25,"让我喘口气儿吧……"
+1376,0,False,False,False,3,5,False,False,1,25,"让我喘口气吧……"
 1377,0,False,False,False,2,5,False,False,1,25,"什么？有哈帕利特？"
 1378,0,False,False,False,2,5,False,False,1,25,"怎么样？知道厉害了吧？"
 1379,0,False,False,False,2,5,False,False,1,25,"总、总之我们先撤退吧……"
@@ -1738,7 +1738,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 1661,0,False,False,False,2,3,False,False,1,25,"咕哎！"
 1662,0,False,False,False,3,3,False,False,1,25,"嗯？又怎么了？"
 1663,0,False,False,False,2,3,False,False,1,25,"咕哎！咕哎！"
-1664,0,False,False,False,3,3,False,False,1,25,"喂喂，到底出什么事儿了？"
+1664,0,False,False,False,3,3,False,False,1,25,"喂喂，到底出什么事了？"
 1665,0,False,False,False,3,3,False,False,1,25,"是地灵族！这可糟了……"
 1666,0,False,False,False,2,3,False,False,1,25,"咕哎！"
 1667,0,False,False,False,3,3,False,False,1,25,"你这不是能跑嘛！"
@@ -1746,7 +1746,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 1669,0,False,False,False,3,5,False,False,1,25,"陆行鸟不知跑哪里去了，
 希望没事……"
 1670,0,False,False,False,2,5,False,False,1,25,"我身上什么都没有的！"
-1671,0,False,False,False,2,5,False,False,1,25,"货物都在陆行鸟那儿呢！"
+1671,0,False,False,False,2,5,False,False,1,25,"货物都在陆行鸟那边呢！"
 1672,0,False,False,False,2,5,False,False,1,25,"我都说了身上没藏东西了！"
 1673,0,False,False,False,2,5,False,False,1,25,"请饶我一命啊！"
 1674,0,False,False,False,2,5,False,False,1,25,"该死的陆行鸟，
@@ -1800,7 +1800,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 1715,0,False,False,False,3,5,False,False,1,25,"鬼哭队需要大家的协助！"
 1716,0,False,False,False,3,5,False,False,1,25,"感谢大家帮忙！"
 1717,0,False,False,False,3,5,False,False,1,25,"结果还是不够啊……"
-1718,0,False,False,False,3,3,False,False,1,25,"完事儿了就赶紧走人！"
+1718,0,False,False,False,3,3,False,False,1,25,"完事了就赶紧走人！"
 1719,0,False,False,False,3,3,False,False,1,25,"可能会有追兵。"
 1720,0,False,False,False,3,3,False,False,1,25,"快点！都给我走快点！"
 1721,0,False,False,False,3,3,False,False,1,25,"你们将接受火神的祝福！"
@@ -5403,7 +5403,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 4633,0,False,False,False,2,3,False,False,1,25,"不闪开我就动手了！"
 4634,0,False,False,False,2,3,False,False,1,25,"要上了！"
 4635,0,False,False,False,2,3,False,False,1,25,"厉、厉害……"
-4636,0,False,False,False,2,3,False,False,1,25,"没想到居然这么强……"
+4636,0,False,False,False,2,3,False,False,1,25,"居然这么强……"
 4637,0,False,False,False,2,3,False,False,1,25,"怎么会！"
 4638,0,False,False,False,2,3,False,False,1,25,"饿狼雪风！"
 4639,0,False,False,False,2,3,False,False,1,25,"饿狼月光！"
@@ -5594,7 +5594,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 4802,0,False,False,False,2,3,False,False,1,25,"虽然我不想战斗……"
 4803,0,False,False,False,2,3,False,False,1,25,"我跟你们无冤无仇，
 原谅我……"
-4804,0,False,False,False,2,3,False,False,1,25,"没想到居然有狼人族……
+4804,0,False,False,False,2,3,False,False,1,25,"居然有狼人族……
 下一个！"
 4805,0,False,False,False,2,3,False,False,1,25,"该结束了……"
 4806,0,False,False,False,2,3,False,False,1,25,"为了恒辉队！"
@@ -6918,7 +6918,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 5950,0,False,False,False,0,0,False,False,0,0,""
 5951,0,False,False,False,0,0,False,False,0,0,""
 5952,0,False,False,False,0,0,False,False,0,0,""
-5953,0,False,False,False,2,3,False,False,1,25,"没想到居然陷入苦战……"
+5953,0,False,False,False,2,3,False,False,1,25,"居然会陷入苦战……"
 5954,0,False,False,False,0,0,False,False,0,0,""
 5955,0,False,False,False,0,0,False,False,0,0,""
 5956,0,False,False,False,0,0,False,False,0,0,""
@@ -7510,7 +7510,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 6443,0,False,False,False,5,1,False,False,5,25,"再见啦，再见啦！"
 6444,0,False,False,False,5,1,False,False,5,25,"你们让我很不爽！"
 6445,0,False,False,False,5,1,False,False,5,25,"哟呵呵！
-可爱的小妹妹都去哪儿了？"
+可爱的小妹妹都去哪了？"
 6446,0,False,False,False,3,5,False,False,1,25,"今天绝对会大丰收！
 要不要鱼饵啊？"
 6447,0,False,False,False,3,3,False,False,1,25,"给我来一个。"
@@ -13320,7 +13320,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 10564,0,False,False,False,2,4,False,False,1,25,"真是不想变老呢……
 我就先走一步了哦？"
 10565,0,False,False,False,5,1,False,False,4,25,"本以为你们只是靠着数量优势才打到了这里……
-没想到居然这么难缠！"
+没想到这么难缠！"
 10566,0,False,False,False,5,1,False,False,4,25,"萨托瓦尔！
 阿尔贝雷欧阁下传令说要进入下一阶段了！"
 10567,0,False,False,False,5,1,False,False,4,25,"嗯……要结束野战了吗……
@@ -16368,7 +16368,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 12687,0,False,False,False,3,5,False,False,1,25,"这条路
 可真是合适埋伏……"
 12688,0,False,False,False,3,5,False,False,1,25,"还要继续向上吗？
-找找看路在哪儿……"
+找找看路在哪里……"
 12689,0,False,False,False,3,5,False,False,1,25,"这个感觉是……"
 12690,0,False,False,False,3,5,False,False,1,25,"这个感觉……
 是在佐特塔时感觉到的……"
@@ -17239,7 +17239,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 13191,0,False,False,False,3,4,False,False,1,25,"没有魔物……
 这是什么？"
 13192,0,False,False,False,2,4,False,False,1,25,"小使魔！
-来！到我这儿来！"
+来！到我这里来！"
 13193,0,False,False,False,5,1,False,False,5,25,"那么，接下来就由我来向你展示我的创造生物新作！
 请你一定要尽全力和它打一场！"
 13194,0,False,False,False,5,1,False,False,5,25,"这是我观察过许多生物战斗的姿态之后，
