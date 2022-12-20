@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA103_01496_TODO_00","在私语巨木击退敌人
 从<Sheet(EObj,2004456,0)/>中获取<Sheet(EventItem,2001379,0)/>"
 25,"TEXT_BANIXA103_01496_TODO_01","将<Sheet(EventItem,2001379,0)/>交给私语巨木鸟栏的内勒蒙"
-26,"TEXT_BANIXA103_01496_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务1级：制作<Sheet(Item,　8093,0)/><Else/>将<Sheet(Item,　8093,0)/>交给劳动者雅泽尔·阿华坦</If>"
+26,"TEXT_BANIXA103_01496_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务1级：制作<Sheet(Item,　8093,0)/><Else/>将<Sheet(Item,　8093,0)/>交给劳动者雅泽尔·阿华坦</If>"
 27,"TEXT_BANIXA103_01496_TODO_03",""
 28,"TEXT_BANIXA103_01496_TODO_04",""
 29,"TEXT_BANIXA103_01496_TODO_05",""

@@ -135,7 +135,7 @@ int32,str,str
 想要除去那些甲壳类生物，只有潜入水中才行。"
 91,"TEXT_LUCKMH108_03768_URIANGER_000_081","可是，非常遗憾，众所周知，
 我这个人实在是不中用……"
-92,"TEXT_LUCKMH108_03768_ALISAIE_000_082","啊啊！别绕弯子了！
+92,"TEXT_LUCKMH108_03768_ALISAIE_000_082","啊——别绕弯子了！
 只要潜下去除掉<Sheet(EObj,2010278,0)/>就行吧？！
 那就我和<Highlight>ObjectParameter(1)</Highlight>去呗！"
 93,"TEXT_LUCKMH108_03768_ALISAIE_000_083","我们身上有着甲人族施加的法术！

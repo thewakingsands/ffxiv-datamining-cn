@@ -90,7 +90,7 @@ int32,str,str
 65,"TEXT_LUCKHZ007_04005_EDILAUDE_000_071","那就太好了！
 绽放时的颜色已经很漂亮了，
 之后的课题就是怎样才能做出更大的烟花了！"
-66,"TEXT_LUCKHZ007_04005_EDILAUDE_000_072","啊啊，我还没告诉<If(PlayerParameter(4))>小姐<Else/>小哥</If>理由，
+66,"TEXT_LUCKHZ007_04005_EDILAUDE_000_072","啊，我还没告诉<If(PlayerParameter(4))>小姐<Else/>小哥</If>理由，
 就让你去帮忙了，真是抱歉。
 你来看看这个。"
 67,"TEXT_LUCKHZ007_04005_EDILAUDE_000_073","这门四管对龙加农炮就是我的搭档。

@@ -62,7 +62,7 @@ int32,str,str
 我们也前往圣雷马诺大圣堂吧。"
 52,"TEXT_AKTKBA521_04128_AYMERIC_000_010","<Highlight>ObjectParameter(1)</Highlight>，你来了啊。"
 53,"TEXT_AKTKBA521_04128_ARTOIREL_000_015","瓦尔缇诺瓦主教不在吗？"
-54,"TEXT_AKTKBA521_04128_CLEM_000_020","啊啊，难得你们都来了，真是抱歉。"
+54,"TEXT_AKTKBA521_04128_CLEM_000_020","啊，真是抱歉，让你们跑一趟。"
 55,"TEXT_AKTKBA521_04128_CLEM_000_021","虽然我的确向瓦尔缇诺瓦主教大人
 传达了你们想要觐见的事情……"
 56,"TEXT_AKTKBA521_04128_CLEM_000_022","可就在你们过来之前，
@@ -76,7 +76,7 @@ int32,str,str
 60,"TEXT_AKTKBA521_04128_ARTOIREL_000_035","<Highlight>ObjectParameter(1)</Highlight>阁下也来了吗。
 我找到瓦尔缇诺瓦主教了。"
 61,"TEXT_AKTKBA521_04128_CLEM_000_040","主教大人还没有回到圣堂这边……"
-62,"TEXT_AKTKBA521_04128_VARTINOIX_000_050","啊、啊啊，英雄阁下也在啊……
+62,"TEXT_AKTKBA521_04128_VARTINOIX_000_050","呃、啊……英雄阁下也在啊……
 到底有什么事吗？"
 63,"TEXT_AKTKBA521_04128_ARTOIREL_000_051","瓦尔缇诺瓦主教，
 我们不是应该约好见面了吗，
@@ -114,8 +114,8 @@ int32,str,str
 让伊修加德重新回归神权统治！"
 77,"TEXT_AKTKBA521_04128_VARTINOIX_000_113","这、这是怎么回事……
 怎么什么也没有发生……"
-78,"TEXT_AKTKBA521_04128_VAINDREAU_000_114","啊、啊啊……陛下……教皇陛下……
-我必须要守护……啊、啊……"
+78,"TEXT_AKTKBA521_04128_VAINDREAU_000_114","啊、啊……陛下……教皇陛下……
+我必须要守护……啊……啊……"
 79,"TEXT_AKTKBA521_04128_VARTINOIX_000_115","这简直就是废物……
 我们想要的圆桌骑士可不是这样！"
 80,"TEXT_AKTKBA521_04128_VARTINOIX_000_116","可恶，该死的失败品！
@@ -140,7 +140,7 @@ int32,str,str
 我拒绝接受没有教皇治理的皇都！"
 90,"TEXT_AKTKBA521_04128_VARTINOIX_000_126",""
 91,"TEXT_AKTKBA521_04128_VARTINOIX_000_127","我诅咒没有正教的未来！！"
-92,"TEXT_AKTKBA521_04128_CLEM_000_128","啊啊……
+92,"TEXT_AKTKBA521_04128_CLEM_000_128","啊——
 主教大人！！"
 93,"TEXT_AKTKBA521_04128_ARTOIREL_000_129","抱歉，艾默里克阁下。
 虽说变成他那样的话已经没救了，

@@ -327,6 +327,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 38,1,0,0,0,0,"/adventurerplate","/myplate","/冒险者铭牌
 /adventurerplate(/myplate)
 打开自己的冒险者铭牌。","/冒险者铭牌","",32,0
+39,1,0,0,0,0,"//resetSettingCWLS","","","","",32,1000
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -841,7 +842,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /gearset、/gs
 进行套装相关的操作。
 >>子命令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 套装编号 投影模板编号(1-15)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 套装编号 投影模板编号(1-20)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　装备指定编号的套装，如果输入了投影模板编号，则同时对套装进行投影。投影模板编号可省略。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>查看(view) 套装编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　查看指定编号套装的内容。
@@ -1149,8 +1150,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　在“角色扮演中”与“在线”之间切换。","/角色扮演中","/roleplaying",36,0
 251,3,2,3,2,0,"/action","/ac","/技能 技能名 代名词
 /action、/ac
-对指定目标使用指定技能。以自己为目标的技能可以省略输入代名词。
-如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
+对指定目标使用指定技能。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
 
 在技能会使用到地面目标的情况下，为技能名后设定子命令可以指定操作模式。
 代名词
@@ -1280,7 +1280,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 解除当前职业所设置的额外技能。","/额外技能","",36,1000
 273,3,2,10,2,0,"/generalaction","/gaction","/共通技能 共通技能名 代名词
 /generalaction、/gaction
-对指定的玩家发动指定的共通技能。对于可以以自身为目标的共通技能可以省略代名词。处于无法发动共通技能的环境中指令无效，没有学会的共通技能也无法发动。
+对指定的玩家发动指定的共通技能。处于无法发动共通技能的环境中指令无效，没有学会的共通技能也无法发动。
 
 在技能会使用到地面目标的情况下，为技能名后设定子命令可以指定操作模式。
 代名词
@@ -1306,13 +1306,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 解除强化效果“舍身”。","/解除状态","",36,0
 276,3,0,0,0,0,"/addpvpaction","/apa","/对战额外技能 对战额外技能1 对战额外技能2
 /addpvpaction、/apa
-在对战技能中设置要追加的额外技能。需要同时设置两个技能。
->>示例
-/对战额外技能 武器投掷 全力挥打
-设置“武器投掷”和“全力挥打”这两个技能。","/对战额外技能","",36,1000
+曾经被认为是可以设定对战额外技能的功能。
+※因系统调整现在已无法使用。","/对战额外技能","",36,1000
 277,3,2,16,2,0,"/pvpaction","/pvpac","/对战技能 对战技能名 代名词
 /pvpaction、/pvpac
-对指定目标使用指定对战技能。以自己为目标的技能可以省略输入代名词。向目标攻击类技能必须使用代名词。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
+对指定目标使用指定对战技能。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
 
 在技能会使用到地面目标的情况下，为技能名后设定子命令可以指定操作模式。
 代名词
@@ -3583,6 +3581,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/抱头","",293,0
+635,2,1,2,0,0,"/eatchocolate","/choco","/吃恋人巧克力 子命令
+/eatchocolate(/choco)
+开始吃恋人巧克力。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃恋人巧克力","",293,0
 636,2,1,2,0,0,"/eategg","/egg","/吃水煮蛋 子命令
 /eategg(/egg)
 开始吃水煮蛋。
@@ -3647,3 +3653,27 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/展现左侧","",293,0
+646,2,1,2,0,0,"/deride","/pagaga","/叛逆精神 子命令
+/deride(/pagaga)
+展现叛逆精神。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/叛逆精神","",293,0
+648,2,1,2,0,0,"/eatpumpkincookie","/cookie","/吃南瓜曲奇 子命令
+/eatpumpkincookie(/cookie) 
+开始吃南瓜曲奇。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃南瓜曲奇","",293,0
+649,2,1,2,0,0,"/spirit","","/观战 子命令
+/spirit 
+开始观战。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/观战","",293,0

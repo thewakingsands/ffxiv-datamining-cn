@@ -33,7 +33,7 @@ int32,str,str
 16,"TEXT_JOBDEFNIN_00015_YOUMEI_000_024","但如果调动气时出现了失误，
 名为“密西迪亚兔”的小动物就会被不知从哪里通灵出来。"
 17,"TEXT_JOBDEFNIN_00015_YOUMEI_000_025","每当结印失败时看到那兔子悠哉的表情……
-啊啊啊……简直是地狱。"
+啊……简直是地狱。"
 18,"TEXT_JOBDEFNIN_00015_YOUMEI_000_090","<Highlight>ObjectParameter(1)</Highlight>大人！
 请问找我有什么事？"
 19,"TEXT_JOBDEFNIN_00015_YOUMEI_030_099","胧大人最近总是唉声叹气的……"
@@ -117,4 +117,4 @@ int32,str,str
 56,"TEXT_JOBDEFNIN_00015_YOUMEI_000_124","但如果调动气时出现了失误，
 名为“密西迪亚兔”的小动物就会被不知从哪里通灵出来。"
 57,"TEXT_JOBDEFNIN_00015_YOUMEI_000_125","每当结印失败时看到那兔子悠哉的表情……
-啊啊啊……简直是地狱。"
+啊……简直是地狱。"

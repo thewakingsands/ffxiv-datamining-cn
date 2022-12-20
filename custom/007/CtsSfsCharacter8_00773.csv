@@ -336,7 +336,7 @@ int32,str,str
 不论是这套衣服还是在这里获得的经验，
 都是我一生的宝物！"
 153,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_004_022","弥剌狄恩小姐，差不多到该出发的时间了。"
-154,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_023","啊啊……收到了如此美好的礼物，
+154,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_023","啊……收到了如此美好的礼物，
 我越来越舍不得与你们告别了。"
 155,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_024","各位……大家……我会想你们的，
 真的……真的谢谢你们！"
@@ -404,8 +404,8 @@ int32,str,str
 如果列表中有上述物品，就积极交货吧。"
 183,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_004","另外，今后可以对阿梅莉安丝进行武具投影了。"
 184,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_000","<Highlight>ObjectParameter(1)</Highlight>，感谢你一直以来的帮助。"
-185,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_001","感觉真是不可思议啊，
-没想到居然和我家孩子最为重要的伙伴结下了这样合作的关系。
+185,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_001","真是不可思议啊，
+居然和我家孩子最为重要的伙伴结下了这样合作的关系。
 今后也请多多关照哦！"
 186,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_000","感谢你这周准备了如此多的物资！"
 187,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_001","要是富尔什诺现在回来看到你和我的关系这么好，

@@ -38,7 +38,7 @@ int32,str,str
 26,"TEXT_BANIXA402_01499_TODO_02","将<Sheet(EventItem,2001391,0)/>与<Sheet(EventItem,2001392,0)/>
 交给秋瓜浮村的个体贸易商"
 27,"TEXT_BANIXA402_01499_TODO_03","将<Sheet(EventItem,2001390,0)/>交给秋瓜浮村的休德耶德"
-28,"TEXT_BANIXA402_01499_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务4级：制作<Sheet(ItemHQ,　8106,0)/><Else/>将<Sheet(ItemHQ,　8106,0)/>交给学者塔泽尔·梅耶安</If>"
+28,"TEXT_BANIXA402_01499_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务4级：制作<Sheet(ItemHQ,　8106,0)/><Else/>将<Sheet(ItemHQ,　8106,0)/>交给学者塔泽尔·梅耶安</If>"
 29,"TEXT_BANIXA402_01499_TODO_05","空"
 30,"TEXT_BANIXA402_01499_TODO_06","空"
 31,"TEXT_BANIXA402_01499_TODO_07","空"

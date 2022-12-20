@@ -38,7 +38,7 @@ int32,str,str
 23,"TEXT_BANIXA006_01491_SEQ_23",""
 24,"TEXT_BANIXA006_01491_TODO_00","和林场水车的盖罗尔特对话"
 25,"TEXT_BANIXA006_01491_TODO_01","将<Sheet(EventItem,2001369,0)/>交给德雷克"
-26,"TEXT_BANIXA006_01491_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务5级：制作<Sheet(ItemHQ,　8132,0)/><Else/>将<Sheet(ItemHQ,　8132,0)/>交给盖罗尔特</If>"
+26,"TEXT_BANIXA006_01491_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务5级：制作<Sheet(ItemHQ,　8132,0)/><Else/>将<Sheet(ItemHQ,　8132,0)/>交给盖罗尔特</If>"
 27,"TEXT_BANIXA006_01491_TODO_03","和塔塔拉姆对话"
 28,"TEXT_BANIXA006_01491_TODO_04","和赛兹尔·托托罗克对话"
 29,"TEXT_BANIXA006_01491_TODO_05",""
@@ -222,7 +222,7 @@ int32,str,str
 112,"TEXT_BANIXA006_01491_SYSTEM_000_100","与鸟人族“长风空力团”之间的关系程度到达了“尊敬”，
 面对突如其来的危机，与他们的羁绊愈加坚固了。"
 113,"TEXT_BANIXA006_01491_SYSTEM_000_101","今后可以在长风实验场的工匠多扎尔·梅耶安处，
-接受新的蛮族日常任务。"
+接受新的友好部族日常任务。"
 114,"TEXT_BANIXA006_01491_SYSTEM_000_102","并且可以在“鸟人族杂用商人”处购入要求“关系程度：尊敬”的商品。"
 115,"TEXT_BANIXA006_01491_SYSTEM_000_103","另外，获得了特殊的货币“栎木币”。
 用栎木币也可以在“鸟人族杂用商人”处交易商品。

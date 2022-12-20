@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA203_01506_TODO_00","讨伐桤木泉的<Sheet(BNpcName,　30,0)/>
 并对<Sheet(BNpcName,2988,0)/>使用<Sheet(EventItem,2001384,0)/> 将其讨伐获取材料"
 25,"TEXT_BANIXA203_01506_TODO_01","将<Sheet(EventItem,2001383,0)/>交给秋瓜浮村的休德耶德"
-26,"TEXT_BANIXA203_01506_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务2级：制作<Sheet(ItemHQ,　8097,0)/><Else/>将<Sheet(ItemHQ,　8097,0)/>交给大姐头梅图里·卡特兰</If>"
+26,"TEXT_BANIXA203_01506_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务2级：制作<Sheet(ItemHQ,　8097,0)/><Else/>将<Sheet(ItemHQ,　8097,0)/>交给大姐头梅图里·卡特兰</If>"
 27,"TEXT_BANIXA203_01506_TODO_03",""
 28,"TEXT_BANIXA203_01506_TODO_04",""
 29,"TEXT_BANIXA203_01506_TODO_05",""

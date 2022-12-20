@@ -61,7 +61,7 @@ int32,str,str
 51,"TEXT_LUCKBB202_03250_RANAAMIHGO_000_021","真是难以置信！
 没想到舞团居然加入了这么厉害可靠的新同伴！"
 52,"TEXT_LUCKBB202_03250_NASHMEIRA_000_022","呵呵呵，这回真是我看走眼了。
-没想到居然收到了一个如此有天赋的新人！
+居然收到了一个如此有天赋的新人！
 这样一来，那个条件也……"
 53,"TEXT_LUCKBB202_03250_NASHMEIRA_000_023","总之，既然有了新团员<Highlight>ObjectParameter(1)</Highlight>加入，
 我就再说明一遍这次来艾欧泽亚演出的详情吧。"
@@ -281,7 +281,7 @@ int32,str,str
 157,"TEXT_LUCKBB202_03250_GEGERUJU_BATTLETALK_000_791","两名舞者同台演出居然如此有冲击力！"
 158,"TEXT_LUCKBB202_03250_GEGERUJU_BATTLETALK_000_792","看遍了各种舞蹈的我都在不知不觉间看呆了……
 实在是太美了！"
-159,"TEXT_LUCKBB202_03250_GEGERUJU_BATTLETALK_000_793","呜啊啊啊啊！水射到眼睛里了！"
+159,"TEXT_LUCKBB202_03250_GEGERUJU_BATTLETALK_000_793","啊——水射到眼睛里了！"
 160,"TEXT_LUCKBB202_03250_GEGERUJU_BATTLETALK_000_850","噢噢噢噢！！真是太棒了！！"
 161,"TEXT_LUCKBB202_03250_RANAAMIHGO_BATTLETALK_000_860","舞技你已经渐渐熟悉起来了吧？
 作为阻挡在你面前的敌人，我也得让观众吃上一惊才行！"

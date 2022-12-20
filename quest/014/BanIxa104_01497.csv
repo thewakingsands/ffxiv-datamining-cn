@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA104_01497_TODO_00","在“说话”频道下输入“乘风而起”
 对元灵幼树的空力团货物运送员说暗号"
 25,"TEXT_BANIXA104_01497_TODO_01","将<Sheet(EventItem,2001380,0)/>交给私语巨木鸟栏的内勒蒙"
-26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务1级：制作<Sheet(Item,　8094,0)/><Else/>将<Sheet(Item,　8094,0)/>交给劳动者雅泽尔·阿华坦</If>"
+26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务1级：制作<Sheet(Item,　8094,0)/><Else/>将<Sheet(Item,　8094,0)/>交给劳动者雅泽尔·阿华坦</If>"
 27,"TEXT_BANIXA104_01497_TODO_03",""
 28,"TEXT_BANIXA104_01497_TODO_04",""
 29,"TEXT_BANIXA104_01497_TODO_05",""

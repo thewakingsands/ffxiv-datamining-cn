@@ -1190,6 +1190,8 @@ int32,byte,byte,Image,byte,str,str,str
 　·在指定地区的所有采集点进行采集。
 　·采集指定数量的目标道具。","",""
 591,1,0,150702,0,"
+按照要求的等级采集目标道具后
+可以获得高评价，随着评价提高会获得额外报酬。
 任务指定的采集地点会在名牌上显示出理符任务的图标。
 
 在导向地图中也会显示出目的地的方向。","",""
@@ -2299,7 +2301,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 通过特殊热键栏中的指令可以对召唤兽下达各种命令。","",""
 1242,1,0,151433,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会立刻进入战斗状态。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“截击”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命令可以令召唤兽与召唤者共同战斗，在攻击敌人或被敌人攻击之后会自动做出行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“等待指示”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会令召唤兽在召唤者手动下达具体命令之前不会采取任何行动。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“回收”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>则会收回已经召唤出的召唤兽。","",""
 1243,0,0,0,0,"","",""
@@ -2646,15 +2648,15 @@ int32,byte,byte,Image,byte,str,str,str
 1438,0,0,0,0,"","",""
 1439,0,0,0,0,"","",""
 1440,1,0,151641,0,"
-蛮族任务是指从生活在各地的蛮族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与蛮族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+友好部族任务是指从生活在各地的友好部族手中接受的各种任务，每天的任务都有所不同。完成任务之后会提高与友好部族的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 关系变得亲密之后会提高相应的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“友好关系等级”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1441,1,0,151642,0,"
-每天能够接受12个蛮族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
+每天能够接受12个友好部族任务。一天过后可以接受的任务会有所更换，不过前一天的任务没有完成时无法接受新的任务。","",""
 1442,1,0,151643,0,"
-与各个蛮族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
+与各个友好部族的友好度及友好关系等级可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“角色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“评价”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一栏中查看。
 
-友好关系等级越高，对蛮族的生活和习性也会了解得更多。","",""
+友好关系等级越高，对友好部族的生活和习性也会了解得更多。","",""
 1443,0,0,0,0,"","",""
 1444,0,0,0,0,"","",""
 1445,0,0,0,0,"","",""
@@ -2663,11 +2665,11 @@ int32,byte,byte,Image,byte,str,str,str
 1448,0,0,0,0,"","",""
 1449,0,0,0,0,"","",""
 1450,1,0,151651,0,"
-完成蛮族任务可以提高发行任务的蛮族的友好度。
+完成友好部族任务可以提高发行任务的友好部族的友好度。
 
-友好度提升到一定程度之后会提升蛮族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
+友好度提升到一定程度之后会提升友好部族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
 1451,1,0,151652,0,"
-提升蛮族的友好关系等级之后可以在蛮族的专用商店购买一些蛮族相关的道具。","",""
+提升友好部族的友好关系等级之后可以在友好部族的专用商店购买一些友好部族相关的道具。","",""
 1452,1,0,151653,0,"
 友好关系等级越高，能够购买的道具种类也会越多。尽量提升等级去购买特殊的道具吧！","",""
 1453,0,0,0,0,"","",""
@@ -2925,7 +2927,7 @@ int32,byte,byte,Image,byte,str,str,str
 1601,1,0,151802,0,"
 对雇员委托工作时，需要向他们支付相应的“探险币”。
 
-探险币可以利用军票从所属军队交换，也可以在执行理符任务或蛮族任务时获得。","",""
+探险币可以利用军票从所属军队交换，也可以在执行理符任务或友好部族任务时获得。","",""
 1602,1,0,151803,0,"
 另外，即使在接受委托外出探险的情况下，雇员还是会听从传唤铃的召唤，并且也可以继续在市场上出售道具。
 
@@ -3234,7 +3236,7 @@ int32,byte,byte,Image,byte,str,str,str
 1778,0,0,0,0,"","",""
 1779,0,0,0,0,"","",""
 1780,1,0,151971,0,"
-只有在能工巧匠职业下才能够接受及完成鸟人族的蛮族任务。
+只有在能工巧匠职业下才能够接受及完成鸟人族的友好部族任务。
 
 在任务中需要装备“长风护手”，并在特定的状态下才能够进行制作。","",""
 1781,1,0,151972,0,"
@@ -3248,7 +3250,7 @@ int32,byte,byte,Image,byte,str,str,str
 1791,1,0,151982,0,"
 交纳任何物品都可以满足任务的要求，左侧的图标表示交纳物品时会获得经验值的职业，针对自己的需要交纳相应职业的物品，也是提升等级的一种好方法。","",""
 1792,1,0,151983,0,"
-与其他蛮族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
+与其他友好部族日常不同，放弃鸟人族的供应任务之后，在下一次日常更新之前无法再次接受。
 
 另外，供应任务所指定的物品会在每天的<ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点更新。过了时间就会更换指定物品，一定要注意。","",""
 1800,1,0,151991,0,"
@@ -4356,8 +4358,29 @@ int32,byte,byte,Image,byte,str,str,str
 2563,0,0,0,0,"","",""
 2564,0,0,0,0,"","",""
 2565,0,0,0,0,"","",""
-2566,0,0,0,0,"","",""
-2567,0,0,0,0,"","",""
-2568,0,0,0,0,"","",""
-2569,0,0,0,0,"","",""
+2566,1,0,152921,0,"
+部分配方中的道具需要满足一定的品质才可以完成制作。
+否则即便是进展到最后也有可能失败。
+
+可以从制作笔记中确认完成制作所需的品质。
+活用“加工”等技能努力提高品质完成制作吧！","",""
+2567,1,0,152931,0,"
+收藏品当中存在具有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“不定性”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>性质的物品。
+
+具有不定性性质的收藏品在收藏价值达到最大值的状态下
+通过精选可以有一定几率获得稀有的道具。","",""
+2568,1,0,152932,0,"
+此外在收藏价值达到最大值的状态下，
+采集具有不定性性质的收藏品时
+有可能会引发<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>升华<UIGlow>01</UIGlow><UIForeground>01</UIForeground>现象。
+
+对升华后的收藏品进行精选后
+必定会获得稀有道具。","",""
+2569,1,0,152933,0,"
+收藏品升华的几率与玩家的获得力有关，
+获得力越高升华的几率也会随之提升。
+
+努力提升获得力，
+通过升华具有不定性性质的收藏品
+获取稀有的道具吧！","",""
 2570,0,0,0,0,"","",""

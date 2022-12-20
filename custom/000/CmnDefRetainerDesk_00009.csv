@@ -201,8 +201,8 @@ int32,str,str
 145,"TEXT_CMNDEFRETAINERDESK_00009_ASK_REMOVE_NO","否"
 146,"TEXT_CMNDEFRETAINERDESK_00009_RETAINER_REMOVE_SUCCESS","已解雇雇员<Highlight>StringParameter(1)</Highlight>。"
 147,"TEXT_CMNDEFRETAINERDESK_00009_RETAINER_REMOVE_FAILED_INVENTORY","由于您的装备、物品与金币还在雇员手中，
-因此无法解雇雇员。
-在办理手续之前请您收回所有的装备、物品与金币。"
+或正在市场出售，因此无法解雇雇员。
+在办理手续之前请您收回所有的道具与金币。"
 148,"TEXT_CMNDEFRETAINERDESK_00009_RETAINER_REMOVE_CANCEL","取消了解雇手续。
 如果您想解雇雇员，请再来找我。"
 149,"TEXT_CMNDEFRETAINERDESK_00009_JOB_MENU_TITLE","要做什么？"

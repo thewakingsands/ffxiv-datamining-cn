@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA301_01514_TODO_00","成为捕鱼人 从库尔札斯河钓<Sheet(EventItem,2001398,0)/>"
 25,"TEXT_BANIXA301_01514_TODO_01","将<Sheet(EventItem,2001398,0)/>和<Sheet(EventItem,2001397,0)/>
 交给阿德内尔占星台的坦普尔顿"
-26,"TEXT_BANIXA301_01514_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务3级：制作<Sheet(ItemHQ,　8100,0)/><Else/>将<Sheet(ItemHQ,　8100,0)/>交给财务官罗佐尔·卡特兰</If>"
+26,"TEXT_BANIXA301_01514_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务3级：制作<Sheet(ItemHQ,　8100,0)/><Else/>将<Sheet(ItemHQ,　8100,0)/>交给财务官罗佐尔·卡特兰</If>"
 27,"TEXT_BANIXA301_01514_TODO_03",""
 28,"TEXT_BANIXA301_01514_TODO_04",""
 29,"TEXT_BANIXA301_01514_TODO_05",""

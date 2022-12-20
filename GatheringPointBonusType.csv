@@ -25,3 +25,5 @@ int32,str
 21,"<If(IntegerParameter(2))>可以采集收藏品<Else/>不可采集收藏品</If>"
 22,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%"
 23,"额外采集奖励发生率＋<Value>IntegerParameter(1)</Value>%（上升型）"
+24,"收藏价值最大时：升华率＋<Value>IntegerParameter(1)</Value>%"
+25,"收藏价值最大时：升华率＋<Value>IntegerParameter(1)</Value>%（上升型）"

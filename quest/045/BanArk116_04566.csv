@@ -65,8 +65,8 @@ int32,str,str
 52,"TEXT_BANARK116_04566_SYSTEM_000_009","河马正在舒爽地沐浴着。"
 53,"TEXT_BANARK116_04566_DELIVERER04566_000_010","是<Highlight>ObjectParameter(1)</Highlight>啊。
 有什么事吗？"
-54,"TEXT_BANARK116_04566_DELIVERER04566_000_011","啊啊，你把肥皂带过来了啊！
-用它清洗河马身体的话，相信它的心情肯定会格外舒畅的。"
+54,"TEXT_BANARK116_04566_DELIVERER04566_000_011","哦，你把肥皂带过来了啊！
+用它给河马洗澡的话，河马的心情一定会格外舒畅的。"
 55,"TEXT_BANARK116_04566_DELIVERER04566_000_012","这很简单的，你要不要来试一下？
 就对正在沐浴的河马使用<Sheet(EventItem,2003401,0)/>，
 帮它好好洗洗吧。"

@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_LUCKHZ002_03838_TODO_22",""
 47,"TEXT_LUCKHZ002_03838_TODO_23",""
 48,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_000","你就是<Highlight>ObjectParameter(1)</Highlight>对吧？!
-没想到居然能在这种地方遇见憧憬的英雄，真不敢相信！"
+居然能在这种地方遇见憧憬的英雄，真不敢相信！"
 49,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_001","啊，恕我冒昧，
 我一直期待着能和你谈谈。"
 50,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_002","我们和你一样，也是冒险者。
@@ -131,7 +131,7 @@ int32,str,str
 多亏了你呢。"
 87,"TEXT_LUCKHZ002_03838_HWDADVENTURERC03838_000_050","按他所说，这里有很多的工作和委托。
 我提议暂时将这里作为据点如何？"
-88,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_051","啊啊，大家在一起的话，就可靠多了。
+88,"TEXT_LUCKHZ002_03838_HWDADVENTURERD03838_000_051","啊，大家在一起的话，就可靠多了。
 谢谢你们！"
 89,"TEXT_LUCKHZ002_03838_HWDADVENTURERA03838_000_052","<Highlight>ObjectParameter(1)</Highlight>，也感谢你！
 我们为了今后能成为像你这样的冒险者，

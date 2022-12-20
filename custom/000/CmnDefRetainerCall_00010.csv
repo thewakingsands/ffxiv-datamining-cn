@@ -470,7 +470,7 @@ int32,str,str
 试着委托雇员进行冒险吧。"
 380,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_1","委托雇员冒险需要“探险币”。"
 381,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_2","可以用军票交换获得探险币，
-也可以通过完成蛮族日常任务、行会理符任务获得探险币。"
+也可以通过完成友好部族日常任务、行会理符任务获得探险币。"
 382,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_3","探险币证书可以在失物管理人或雇员处换成探险币。"
 383,"TEXT_CMNDEFRETAINERCALL_00010_CLASS_EXPLAIN_START","<Highlight>StringParameter(1)</Highlight>的当前职业是<Sheet(ClassJob,IntegerParameter(2),0)/>。"
 384,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_1","“雇员探险”中，有可以筹备指定道具的“筹集委托”，
@@ -484,7 +484,7 @@ int32,str,str
 另外，每次只能委托雇员到一个地点进行冒险。"
 388,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_5","委托雇员冒险需要“探险币”。"
 389,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_6","可以用军票交换获得探险币，
-也可以通过完成蛮族日常任务、行会理符任务获得探险币。"
+也可以通过完成友好部族日常任务、行会理符任务获得探险币。"
 390,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_1","委托<Highlight>StringParameter(1)</Highlight>进行探险。"
 391,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_2","这次探险所需时间为<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>。
 在<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小时<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分钟<Else/>1分钟</If></If>后再来确认情况吧。"

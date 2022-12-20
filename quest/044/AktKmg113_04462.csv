@@ -98,7 +98,7 @@ int32,str,str
 74,"TEXT_AKTKMG113_04462_SYSTEM_000_103","在同行状态下，切换区域或选择“解除同行状态”，
 都将会解除同行的状态。"
 75,"TEXT_AKTKMG113_04462_SYSTEM_000_104","同行状态解除后，
-只要和同行者对话，就能再次进入同行状态。"
+只要和回到了起点的同行者对话，就能再次进入同行状态。"
 76,"TEXT_AKTKMG113_04462_A3_000_110","<UIForeground>F20224</UIForeground>遥望满天繁星<UIForeground>01</UIForeground>"
 77,"TEXT_AKTKMG113_04462_A3_000_111","<UIForeground>F20224</UIForeground>寂静侧耳倾听<UIForeground>01</UIForeground>"
 78,"TEXT_AKTKMG113_04462_A3_000_112","<UIForeground>F20224</UIForeground>回望登高来处<UIForeground>01</UIForeground>"

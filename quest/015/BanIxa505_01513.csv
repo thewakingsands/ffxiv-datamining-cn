@@ -38,7 +38,7 @@ int32,str,str
 获取<Sheet(EventItem,2001420,0)/>"
 26,"TEXT_BANIXA505_01513_TODO_02","将<Sheet(EventItem,2001420,0)/>和<Sheet(EventItem,2001419,0)/>
 交给丧灵钟的菲厄布瑞达"
-27,"TEXT_BANIXA505_01513_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务5级：制作<Sheet(ItemHQ,8117,0)/><Else/>将<Sheet(ItemHQ,8117,0)/>交给工匠多扎尔·梅耶安</If>"
+27,"TEXT_BANIXA505_01513_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务5级：制作<Sheet(ItemHQ,8117,0)/><Else/>将<Sheet(ItemHQ,8117,0)/>交给工匠多扎尔·梅耶安</If>"
 28,"TEXT_BANIXA505_01513_TODO_04","空"
 29,"TEXT_BANIXA505_01513_TODO_05","空"
 30,"TEXT_BANIXA505_01513_TODO_06","空"

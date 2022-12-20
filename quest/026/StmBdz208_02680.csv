@@ -54,8 +54,8 @@ int32,str,str
 49,"TEXT_STMBDZ208_02680_KAIZAN_000_001","冲之岩西边有<Sheet(BNpcName,5738,0)/>。
 请把3匹<Sheet(BNpcName,5738,0)/>的体力削弱到一定程度后，
 使用<Sheet(EventItem,2002281,0)/>将其捕获。"
-50,"TEXT_STMBDZ208_02680_KAIZAN_000_002","本来想拜托我们这儿的能人，
-结果所有人都因为害怕<Sheet(BNpcName,5738,0)/>的毒，不愿接下工作。
+50,"TEXT_STMBDZ208_02680_KAIZAN_000_002","本来想拜托我们这里的能人，
+但他们都害怕<Sheet(BNpcName,5738,0)/>的毒，不愿接下工作。
 真是的，一群没胆量的家伙……"
 51,"TEXT_STMBDZ208_02680_KAIZAN_000_003","冲之岩西边有<Sheet(BNpcName,5738,0)/>。
 请把3匹<Sheet(BNpcName,5738,0)/>的体力削弱到一定程度后，

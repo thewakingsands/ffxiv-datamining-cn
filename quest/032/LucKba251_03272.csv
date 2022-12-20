@@ -55,7 +55,7 @@ int32,str,str
 51,"TEXT_LUCKBA251_03272_A1_000_002","你个大哥布林养的丑八怪！！"
 52,"TEXT_LUCKBA251_03272_GIOTT_000_003","？！"
 53,"TEXT_LUCKBA251_03272_GIOTT_000_004","啦、啦哩吼！！"
-54,"TEXT_LUCKBA251_03272_GIOTT_100_004","没想到居然要你来提醒我矮人的生存之道！"
+54,"TEXT_LUCKBA251_03272_GIOTT_100_004","居然要你来提醒我矮人的生存之道！"
 55,"TEXT_LUCKBA251_03272_GIOTT_000_005","你、你、你……你说什么？！
 你骂我就算了，干嘛攻击我的长相！
 <Switch(PlayerParameter(71))><Case(1)>没心没肺的尘族</Case><Case(2)>傲慢的菁灵</Case><Case(3)>丢人的矮人</Case><Case(4)>长得像猫的猫秘</Case><Case(5)>肌肉硬邦邦的迦震</Case><Case(6)>浑身鳞片的朵龙</Case><Case(7)>死脑筋的隆索</Case><Case(8)>长着兔耳朵的维斯</Case></Switch>混蛋<If(PlayerParameter(4))>丫头<Else/>小子</If>！！"
@@ -150,9 +150,9 @@ int32,str,str
 105,"TEXT_LUCKBA251_03272_GIOTT_BATTLETALK_000_105","我不能败在这里！
 <Highlight>ObjectParameter(1)</Highlight>，现在正是关键时刻！"
 106,"TEXT_LUCKBA251_03272_GIOTT_BATTLETALK_000_106","这种纸老虎，没什么可怕的！"
-107,"TEXT_LUCKBA251_03272_GIOTT_000_152","现在就是好机会啊啊啊！"
+107,"TEXT_LUCKBA251_03272_GIOTT_000_152","现在就是好机会——"
 108,"TEXT_LUCKBA251_03272_GIOTT_000_153","戴上这个！！"
-109,"TEXT_LUCKBA251_03272_GIOTT_000_154","呜啊啊啊啊！"
+109,"TEXT_LUCKBA251_03272_GIOTT_000_154","哇——"
 110,"TEXT_LUCKBA251_03272_GIOTT_000_155","多、多谢你……"
 111,"TEXT_LUCKBA251_03272_GIOTT_000_156","可是，最后的头盔在刚才的冲击下坏掉了。"
 112,"TEXT_LUCKBA251_03272_GIOTT_000_157","她似乎也完全复活了。

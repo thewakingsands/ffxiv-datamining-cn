@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"
-2,"<CommandIcon(12)/>+<CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
 3,"<CommandIcon(8)/>改变队员排列顺序  <CommandIcon(10)/>次级指令"
 4,"<CommandIcon(11)/>开始搜索"
 5,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>购买 <CommandIcon(11)/>选择要出售的道具"
@@ -18,8 +18,8 @@ int32,str
 14,"<CommandIcon(13)/>"
 15,"<CommandIcon(10)/>设置热键  <CommandIcon(8)/>发动"
 16,"<CommandIcon(10)/>装备栏次级指令"
-17,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
-18,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>＋<CommandIcon(10)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
+17,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
+18,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+ <CommandIcon(10)/>切换  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(8)/>切换地图"
 19,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 20,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 21,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
@@ -44,7 +44,7 @@ int32,str
 40,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>确定  <CommandIcon(9)/>关闭"
 41,"<CommandIcon(13)/>"
 42,"<CommandIcon(12)/>"
-43,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(8)/>传送"
+43,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(8)/>传送"
 44,"<CommandIcon(10)/>次级指令"
 45,"<CommandIcon(8)/><CommandIcon(10)/> 次级指令"
 46,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>编辑宏指令  <CommandIcon(24)/>滚动查看详细情报"
@@ -52,7 +52,7 @@ int32,str
 48,"<CommandIcon(8)/>解除选择  <CommandIcon(11)/>切换到物品窗口"
 49,"<CommandIcon(11)/>切换到物品窗口"
 50,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>搜索道具"
-51,"<CommandIcon(20)/>移动  <CommandIcon(25)/>旋转  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+51,"<CommandIcon(20)/>移动  <CommandIcon(25)/>旋转  <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 52,"<CommandIcon(12)/><CommandIcon(13)/>切换列表"
 53,"<CommandIcon(24)/>滚动查看详细情报"
 54,"<CommandIcon(10)/>取消选择"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(2)/>切换所选分栏  <CommandIcon(11)/>放大消息窗口"
 73,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
 74,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
-75,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+<CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(GreaterThan(PlayerParameter(75),0))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If> "
+75,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(PlayerParameter(94))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If>"
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前进  <CommandIcon(13)/>定型文"
 77,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
 78,"<CommandIcon(11)/>应用  <CommandIcon(10)/>删除设置　"
@@ -142,8 +142,8 @@ int32,str
 138,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>家具列表"
 139,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>物品 <CommandIcon(14)/><CommandIcon(15)/>切换已布置/仓库"
 140,"<CommandIcon(11)/>移动"
-141,"<CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
-142,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+141,"<CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
+142,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 143,"<CommandIcon(10)/>设置热键"
 144,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(2)/>切换所选分栏"
 145,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
@@ -151,7 +151,7 @@ int32,str
 147,"<CommandIcon(12)/><CommandIcon(13)/>切换消息栏"
 148,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
 149,"<CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
-150,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放"
+150,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放"
 151,"<CommandIcon(10)/>次级指令"
 152,"<CommandIcon(9)/>返回"
 153,"<CommandIcon(1)/>选择消息窗口  <CommandIcon(2)/>切换所选分栏"
@@ -163,9 +163,9 @@ int32,str
 159,"<CommandIcon(10)/>次级指令"
 160,"<CommandIcon(10)/>次级指令"
 161,"<CommandIcon(10)/>次级指令"
-162,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+<CommandIcon(24)/>缩放"
-163,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
-164,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>＋<CommandIcon(10)/>切换  <CommandIcon(12)/>+<CommandIcon(23)/>缩放  <CommandIcon(12)/>+<CommandIcon(13)/>地图链接"
+162,"<CommandIcon(10)/>装备栏次级指令  <CommandIcon(20)/>移动  <CommandIcon(25)/>转向  <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
+163,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(12)/>+ <CommandIcon(13)/>地图链接"
+164,"<CommandIcon(23)/>滚动  <CommandIcon(11)/>切换地图类型  <CommandIcon(12)/>＋ <CommandIcon(10)/>切换  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(12)/>+ <CommandIcon(13)/>地图链接"
 165,"<CommandIcon(11)/>随机选择号码"
 166,"<CommandIcon(10)/>次级指令"
 167,"<CommandIcon(10)/>次级指令"
@@ -239,7 +239,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出发"
 178,"<CommandIcon(10)/>次级指令"
 179,"<CommandIcon(10)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭"
-180,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+180,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
 181,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>保存更改并关闭"
 182,"<CommandIcon(9)/>保存更改并关闭"
 183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
@@ -288,7 +288,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·选择单个宠物
-　　　<CommandIcon(12)/>＋<CommandIcon(7)/>　：选择宠物小队列表中的宠物
+　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：选择宠物小队列表中的宠物
 　　·选择多个宠物
 　　　<CommandIcon(11)/>　　　：打开选择圈并选中圈内的宠物
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -296,18 +296,18 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　　<Gui(17)/>　　　：切换萌宠之门
 　　　<CommandIcon(15)/>　　　：切换显示宠物小队列表
 　　　<Gui(16)/>　　　：选择召唤预约列表
-　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
-　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
-　　　<CommandIcon(13)/>＋<Gui(16)/>  ：重置光标指针的位置
+　　　<CommandIcon(12)/>+ <Gui(10)/>　：发动特殊技
+　　　<CommandIcon(13)/>+ <CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(13)/>+ <Gui(16)/>  ：重置光标指针的位置
 　　　<CommandIcon(18)/>　：显示游戏内帮助
 　　·选择宠物的操作
-　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
-　　　<CommandIcon(12)/>＋<Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
-　　　<CommandIcon(12)/>＋<Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
+　　　<CommandIcon(12)/>+ <Gui(11)/>　：选择当前选中宠物附近的同种类宠物
+　　　<CommandIcon(12)/>+ <Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
+　　　<CommandIcon(12)/>+ <Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
 　　·小地图操作
 　　　按住<CommandIcon(14)/>　：记忆地图跳跃点（松开后会移动到该地点）
-　　　<CommandIcon(14)/>＋<CommandIcon(23)/>　：移动地图跳跃点
-　　　<CommandIcon(14)/>＋<Gui(17)/>　：重置地图跳跃点
+　　　<CommandIcon(14)/>+ <CommandIcon(23)/>　：移动地图跳跃点
+　　　<CommandIcon(14)/>+ <Gui(17)/>　：重置地图跳跃点
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鼠标操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -325,7 +325,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·选择单个宠物
-　　　<CommandIcon(12)/>＋<CommandIcon(7)/>　：选择宠物小队列表中的宠物
+　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：选择宠物小队列表中的宠物
 　　·选择多个宠物
 　　　<CommandIcon(11)/>　　　：打开选择圈并选中圈内的宠物
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜特殊功能＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -333,18 +333,18 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　　<Gui(17)/>　　　：切换萌宠之门
 　　　<CommandIcon(15)/>　　　：切换显示宠物小队列表
 　　　<Gui(16)/>　　　：选择召唤预约列表
-　　　<CommandIcon(12)/>＋<Gui(10)/>　：发动特殊技
-　　　<CommandIcon(13)/>＋<CommandIcon(20)/>　：移动地图上的光标指针
-　　　<CommandIcon(13)/>＋<Gui(16)/>  ：重置光标指针的位置
+　　　<CommandIcon(12)/>+ <Gui(10)/>　：发动特殊技
+　　　<CommandIcon(13)/>+ <CommandIcon(20)/>　：移动地图上的光标指针
+　　　<CommandIcon(13)/>+ <Gui(16)/>  ：重置光标指针的位置
 　　　<CommandIcon(18)/>　：显示游戏内帮助
 　　·选择宠物的操作
-　　　<CommandIcon(12)/>＋<Gui(11)/>　：选择当前选中宠物附近的同种类宠物
-　　　<CommandIcon(12)/>＋<Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
-　　　<CommandIcon(12)/>＋<Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
+　　　<CommandIcon(12)/>+ <Gui(11)/>　：选择当前选中宠物附近的同种类宠物
+　　　<CommandIcon(12)/>+ <Gui(8)/>　：选择当前选中宠物附近的所有我方宠物
+　　　<CommandIcon(12)/>+ <Gui(9)/>　：选择与当前选中宠物同种类的所有我方宠物
 　　·小地图操作
 　　　按住<CommandIcon(14)/>　：记忆地图跳跃点（松开后会移动到该地点）
-　　　<CommandIcon(14)/>＋<CommandIcon(23)/>　：移动地图跳跃点
-　　　<CommandIcon(14)/>＋<Gui(17)/>　：重置地图跳跃点
+　　　<CommandIcon(14)/>+ <CommandIcon(23)/>　：移动地图跳跃点
+　　　<CommandIcon(14)/>+ <Gui(17)/>　：重置地图跳跃点
 </If>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>键盘快捷键<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在萌宠之王中可以对以下功能进行键位设置。
@@ -366,8 +366,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 195,"<CommandIcon(12)/><CommandIcon(13)/>选择分类 <CommandIcon(8)/>设为房屋背景乐曲 <CommandIcon(10)/>次级指令"
 196,"<CommandIcon(8)/>回购"
 197,"<CommandIcon(10)/>装备栏次级指令"
-198,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
-199,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+198,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
+199,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 200,"<CommandIcon(8)/>选择 <CommandIcon(11)/>开始 <CommandIcon(24)/>滚动查看详细情报"
 201,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
 202,"<CommandIcon(8)/><CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>切换选择列表"
@@ -391,7 +391,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 220,"<CommandIcon(8)/>移动到公寓房间  <CommandIcon(10)/>查看公寓房间资料"
 221,"<CommandIcon(10)/>次级指令"
 222,"<CommandIcon(10)/>次级指令"
-223,"<CommandIcon(23)/>滚动  <CommandIcon(12)/>＋<CommandIcon(23)/>缩放  <CommandIcon(13)/>切换固定视角"
+223,"<CommandIcon(23)/>滚动  <CommandIcon(12)/>+ <CommandIcon(23)/>缩放  <CommandIcon(13)/>切换固定视角"
 224,"<CommandIcon(10)/>次级指令"
 225,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>环境切换"
 226,"<CommandIcon(9)/>关闭 <CommandIcon(24)/>滚动"
@@ -399,7 +399,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 228,"<CommandIcon(10)/>次级指令"
 229,"<CommandIcon(10)/>次级指令"
 230,"<CommandIcon(10)/>装备栏次级指令"
-231,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+231,"<CommandIcon(10)/>装备栏次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 232,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 233,"<CommandIcon(10)/>次级指令"
 234,"<CommandIcon(10)/>次级指令"
@@ -407,7 +407,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 236,"<CommandIcon(8)/>设置对战额外技能"
 237,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>选择"
 238,"<CommandIcon(3)/><CommandIcon(4)/>移动 <CommandIcon(8)/>确定"
-239,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>＋<CommandIcon(10)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放"
+239,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>+ <CommandIcon(10)/>切换 <CommandIcon(12)/>+ <CommandIcon(23)/>缩放"
 240,"<CommandIcon(8)/>设置对战特性"
 241,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 242,"<CommandIcon(9)/>选择放弃按钮"
@@ -436,7 +436,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 260,"<CommandIcon(10)/> 次级指令"
 261,"<CommandIcon(9)/> 返回投影模板"
 262,"<CommandIcon(10)/>次级指令　<CommandIcon(9)/>返回投影模板"
-263,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+263,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 264,"<CommandIcon(10)/> 次级指令"
 265,"<CommandIcon(10)/>次级指令"
 266,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
@@ -453,12 +453,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>编辑宠物热键栏"
 278,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中宠物的位置"
 279,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-280,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+<CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+280,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
 281,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
 282,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 283,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中坐骑的位置"
 284,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-285,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+<CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+285,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
 286,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 287,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>确定 <CommandIcon(9)/>取消"
 288,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
@@ -478,7 +478,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,"<CommandIcon(10)/>次级指令"
 303,"<CommandIcon(8)/><CommandIcon(10)/>查看个人房间资料"
 304,"<CommandIcon(8)/><CommandIcon(10)/>查看公寓房间资料"
-305,"<CommandIcon(10)/>删除<If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>软键盘<Else/></If>"
+305,"<CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 307,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 <CommandIcon(11)/>编辑宠物热键栏"
 308,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 "
@@ -559,7 +559,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/>快速滚动 <CommandIcon(10)/>次级指令"
-386,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>软键盘<Else/></If>"
+386,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/></If>"
 387,"<CommandIcon(8)/>领取奖励  <CommandIcon(10)/>次级指令"
 388,"<CommandIcon(10)/>次级指令"
 389,"<CommandIcon(10)/>次级指令"
@@ -573,12 +573,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 397,"<CommandIcon(10)/>切换职能/单一职业"
 398,"<CommandIcon(10)/>切换该区域全选/单一地点"
 399,"<CommandIcon(11)/>确定并关闭"
-400,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>＋<CommandIcon(10)/>切换 <CommandIcon(12)/>＋<CommandIcon(23)/>缩放 <CommandIcon(8)/>传送"
+400,"<CommandIcon(23)/>滚动 <CommandIcon(11)/>切换地图类型 <CommandIcon(12)/>+ <CommandIcon(10)/>切换 <CommandIcon(12)/>+ <CommandIcon(23)/>缩放 <CommandIcon(8)/>传送"
 401,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>确定参加并关闭窗口 <CommandIcon(24)/>滚动查看详细情报"
 402,"<CommandIcon(9)/>返回列表 <CommandIcon(24)/>滚动查看详细情报"
 403,"<CommandIcon(10)/>次级指令 <CommandIcon(24)/>滚动查看详细情报"
 404,"<CommandIcon(24)/>滚动查看详细情报"
-405,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+405,"<CommandIcon(10)/> 次级指令 <CommandIcon(20)/>移动 <CommandIcon(25)/>转向 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 406,"<CommandIcon(11)/>确定进入并关闭窗口 <CommandIcon(10)/>编成小队"
 407,"<CommandIcon(8)/>队员选定或解除 <CommandIcon(9)/>结束编成"
 408,"亲信战友"
@@ -620,18 +620,18 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出发按钮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以进行挑战了！
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>若没有在限制时间内出发，将会取消参加，需要重新进行选择。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-420,"可以挑战的迷宫"
-421,"随着你的冒险不断推进，可以挑战的迷宫数量也会不断增加。
+420,"可以挑战的任务"
+421,"随着你的冒险不断推进，可以挑战的迷宫、讨伐歼灭战的数量也会不断增加。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>当前不可使用剧情辅助器的迷宫及任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>请多<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>利用任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>参与挑战！
 
-此外成功挑战过的迷宫也可以重复进行挑战。
+此外成功挑战过的迷宫、讨伐歼灭战也可以重复进行挑战。
 可以从<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次进行挑战。"
 422,"编成小队"
-423,"主线任务中需要前往的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>71级以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的迷宫
+423,"主线任务中需要前往的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>71级以上<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的迷宫、讨伐歼灭战
 都可在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一览中<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编成小队<UIGlow>01</UIGlow><UIForeground>01</UIForeground>并出发挑战。
 
-可以通过点击小队成员来打开该迷宫<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可同行的辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。"
+可以通过点击小队成员来打开该任务<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可同行的辅助队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口。"
 424,""
 425,""
 426,""
@@ -665,32 +665,149 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 此外成功挑战过的迷宫也可以重复进行挑战。
 可以从<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次进行挑战。"
-438,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
+438,"<CommandIcon(20)/>移动 <CommandIcon(25)/>旋转 <CommandIcon(12)/>+ <CommandIcon(24)/>缩放"
 439,"<CommandIcon(10)/>次级指令"
 440,"<CommandIcon(10)/> 次级指令"
-441,""
-442,""
-443,""
-444,""
-445,""
-446,""
-447,""
-448,""
-449,""
-450,""
-451,""
+441,"任务回顾中的基本操作"
+442,"※键位设置中可更改对应键盘鼠标的按键。
+<If(Equal(PlayerParameter(78),99))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/>键／[Z]键（拔出/收回武器）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/>键／[R]键、键（自动前进）
+<Else/>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[Z]键（拔出/收回武器）／ <Gui(16)/>键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>"
+443,"任务记录方法"
+444,"想要将攻略任务的过程记录下来，需要满足以下条件。
+　1.任务记录设置设为开启
+　2.进入的任务适用任务回顾功能
+　3.以规定人数进入任务
+　4.进行记录准备确认
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.任务记录设置设为开启<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+设定是否对任务过程进行记录。
+将本设置设为开启后，满足其他条件时即会对任务过程进行记录。
+将本设置设为关闭后，满足其他条件时自身角色不会对任务过程进行记录。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2.进入的任务适用任务回顾功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+任务回顾功能仅对部分任务适用。
+因此需要进入适用的任务才可进行记录。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>3.以规定人数进入任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只有以规定人数进入任务时才能对任务进行记录。
+※规定人数以下组队匹配进任务时无法进行记录。
+※解除限制后，即便以规定人数进入任务也不会进行记录。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>4.进行记录准备确认<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+开始记录任务前需要通过记录准备确认来确认队友们是否同意进行记录。
+只有全员同意时才能开始记录。
+※记录准备确认需要在进入任务后5分钟内发起。
+
+满足上述条件后即会对任务过程进行记录。
+记录已满时，新的记录会覆盖最老的记录。
+※可锁定最多2条记录禁止覆盖。
+"
+445,"回顾记录的方法"
+446,"回顾记录需要满足以下条件。
+　1.在旅馆中
+　2.任务记录为最新版本
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.在旅馆中<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只有在旅馆中能回顾记录好的任务。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2.任务记录为最新版本<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+任务回顾仅能回顾最新版本的记录。
+不只大版本更新，小版本或补丁也会导致从前的记录失效，敬请注意。"
+447,"任务回顾中的基本操作"
+448,"※键位设置中可更改对应键盘鼠标的按键。
+<If(Equal(PlayerParameter(78),99))>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<Gui(16)/>键／[Z]键（拔出/收回武器）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<CommandIcon(10)/>键／[R]键、键（自动前进）
+<Else/>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[Z]键（拔出/收回武器）／ <Gui(16)/>键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>"
+449,"操作菜单上的机能"
+450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+暂停或继续进行回顾。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>章节选择<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+显示记录时设定的章节列表，选择其中任意章节后可跳至该章节进行回顾。
+※跳转所需时间根据所选章节不同会有所差距。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>上一个章节<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+跳到先前的章节。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>下一个章节<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+跳到之后的章节。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>显示／隐藏界面<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+将各种界面在显示与隐藏间切换。
+※选为隐藏后在下次回顾时会自动隐藏界面开始回顾。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>设定／解除焦点目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+将注视目标设为焦点目标。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>结束回顾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+结束回顾退出。"
+451,"<CommandIcon(10)/> 次级指令"
 452,""
 453,""
 454,""
-455,""
-456,""
-457,""
-458,""
-459,""
+455,"<CommandIcon(10)/> 次级指令"
+456,"<CommandIcon(8)/>放养宠物  <CommandIcon(10)/>次级指令 <CommandIcon(11)/>变更宠物"
+457,"<CommandIcon(10)/> 次级指令"
+458,"<CommandIcon(10)/> 次级指令"
+459,"<CommandIcon(10)/> 次级指令"
 460,""
-461,""
-462,""
-463,""
+461,"<CommandIcon(5)/>移动 <CommandIcon(8)/>放养宠物 <CommandIcon(10)/>次级指令"
+462,"<CommandIcon(8)/>放养宠物 <CommandIcon(10)/>次级指令"
+463,"<CommandIcon(10)/> 次级指令"
 464,""
 465,""
 466,""
@@ -1101,8 +1218,19 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 这些技能均可通过热键栏使用，
 请运用这些技能，高效地采集收藏品。"
-1045,""
-1046,""
+1045,"不定性道具与升华"
+1046,"具有不定性性质的收藏品在收藏价值达到最大值的状态下
+通过精选可以有一定几率获得稀有的道具。
+
+此外在收藏价值达到最大值的状态下，
+采集具有不定性性质的收藏品时
+有可能会引发升华现象。
+
+对升华后的收藏品进行精选后
+必定会获得稀有道具。
+
+收藏品升华的几率与玩家的获得力有关，
+获得力越高升华的几率也会随之提升。"
 1047,""
 1048,""
 1049,""
@@ -1117,4 +1245,43 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1058,""
 1059,""
 1060,""
+1061,""
+1062,""
+1063,""
+1064,""
+1065,""
+1066,""
+1067,""
+1068,""
+1069,""
+1070,""
+1071,""
+1072,""
+1073,""
+1074,""
+1075,""
+1076,""
+1077,""
+1078,""
+1079,""
+1080,""
+1081,""
+1082,""
+1083,""
+1084,""
+1085,""
+1086,""
+1087,""
+1088,""
+1089,""
+1090,""
+1091,""
+1092,""
+1093,""
+1094,""
+1095,""
+1096,""
+1097,""
+1098,""
+1099,""
 2000,""

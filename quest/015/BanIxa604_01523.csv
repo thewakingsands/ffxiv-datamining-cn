@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA604_01523_TODO_00","和塔塔拉姆对话"
 25,"TEXT_BANIXA604_01523_TODO_01","将<Sheet(EventItem,2001428,0)/>交给大审门皇都的贸易商人"
 26,"TEXT_BANIXA604_01523_TODO_02","将<Sheet(EventItem,2001429,0)/>交给巨龙首营地的诺贝托"
-27,"TEXT_BANIXA604_01523_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务6级：制作<Sheet(ItemHQ,　8123,0)/><Else/>将<Sheet(ItemHQ,　8123,0)/>交给二把手杰兹尔·阿华坦</If>"
+27,"TEXT_BANIXA604_01523_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务6级：制作<Sheet(ItemHQ,　8123,0)/><Else/>将<Sheet(ItemHQ,　8123,0)/>交给二把手杰兹尔·阿华坦</If>"
 28,"TEXT_BANIXA604_01523_TODO_04","空"
 29,"TEXT_BANIXA604_01523_TODO_05","空"
 30,"TEXT_BANIXA604_01523_TODO_06","空"

@@ -67,7 +67,7 @@ int32,str,str
 54,"TEXT_AKTKZC007_04216_SYSTEM_000_013","在同行状态下，切换区域或选择“解除同行状态”，
 都将会解除同行的状态。"
 55,"TEXT_AKTKZC007_04216_SYSTEM_000_014","同行状态解除后，
-只要和同行者对话，就能再次进入同行状态。"
+只要和回到了起点的同行者对话，就能再次进入同行状态。"
 56,"TEXT_AKTKZC007_04216_Q1_000_000","要做什么？"
 57,"TEXT_AKTKZC007_04216_A1_000_001","<UIForeground>F20224</UIForeground>关于山脉对面的伟大冰原<UIForeground>01</UIForeground>"
 58,"TEXT_AKTKZC007_04216_A1_000_002","<UIForeground>F20224</UIForeground>关于青磷水冰岩<UIForeground>01</UIForeground>"

@@ -120,10 +120,8 @@ http://sqex.to/Msp"
 13227,"“返回原始大区”处理超时。"
 13228,"组队情况下无法“返回原始大区”。"
 13229,"“返回原始大区”功能临时维护中。"
-13230,"发生错误，服务器无响应。即将结束游戏。<If(GreaterThan(IntegerParameter(1),0))>
-[<Value>IntegerParameter(1)</Value>]<Else/></If>"
-13231,"<If(GreaterThan(IntegerParameter(2),0))>“返回原始大区”<Else/>“前往其他大区游玩”</If>处理失败。即将结束游戏。<If(GreaterThan(IntegerParameter(1),0))>
-[<Value>IntegerParameter(1)</Value>]<Else/></If>"
+13230,"发生错误，服务器无响应。即将结束游戏。"
+13231,"超域传送处理失败。即将结束游戏。"
 13300,"发生错误，备份中断。"
 13301,"发生错误，备份中断。"
 13302,"备份功能暂时停止服务中，连接备份服务器失败。"
