@@ -32,7 +32,7 @@ int32,str,str
 23,"TEXT_BANMOG604_02316_SEQ_23",""
 24,"TEXT_BANMOG604_02316_TODO_00","和工兵长希尔德丝对话"
 25,"TEXT_BANMOG604_02316_TODO_01","从管理员莫古昂那里获取<Sheet(Item,15769,0)/>"
-26,"TEXT_BANMOG604_02316_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,15743,0)/><Else/>将<Sheet(Item,15743,0)/>交给工兵长希尔德丝</If>"
+26,"TEXT_BANMOG604_02316_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,15743,0)/><Else/>将<Sheet(Item,15743,0)/>交给工兵长希尔德丝</If>"
 27,"TEXT_BANMOG604_02316_TODO_03","将<Sheet(EventItem,2002000,0)/>交给莫古力们"
 28,"TEXT_BANMOG604_02316_TODO_04","向机灵的莫古艾克报告"
 29,"TEXT_BANMOG604_02316_TODO_05",""

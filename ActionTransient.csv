@@ -31444,7 +31444,7 @@ int32,str
 发动时恢复最大体力的10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 25868,"一定时间内，为自身及周围队员附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>疾风之计<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>怒涛之计<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之计效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提高目标的移动速度
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之计效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>提高目标的移动速度
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>怒涛之计效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>受到的伤害减轻10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
@@ -32517,7 +32517,8 @@ int32,str
 26872,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>刺鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 渔叉尖放出电击，捕获所有出现的鱼
 开始刺鱼后，鱼群警惕度上升
-警惕度的上升速度随着连刺数的增加而降低每个渔场只能发动1次
+警惕度的上升速度随着连刺数的增加而降低
+每个渔场只能发动1次
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>连刺数<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10次"
 26873,""
 26874,""
@@ -35345,7 +35346,7 @@ int32,str
 29152,""
 29153,""
 29154,""
-29155,"抛网捉兔"
+29155,"挥网捉兔"
 29156,""
 29157,""
 29158,""
@@ -37027,8 +37028,9 @@ int32,str
 29715,""
 29716,"対象の被ダメージを10％増加させ、ガードの被ダメージ軽減効果を25％減少させる。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>効果時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 29717,""
-29718,""
-29719,""
+29718,"释放出充满能量的雷电"
+29719,"释放出充满能量的雷电
+演出技能，没有任何实际效果"
 29720,"创造礼物的幻影
 演出技能，没有任何实际效果"
 29721,""
@@ -37039,12 +37041,27 @@ int32,str
 29726,""
 29727,""
 29728,""
-29729,""
-29730,""
-29731,""
-29732,""
-29733,""
-29734,""
+29729,"恢复目标的体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>14000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令目标体力持续恢复
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4200　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目标处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>体力持续恢复<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态时恢复力变为2倍
+该技能的效果量不受属性影响"
+29730,"令周围敌人对自身的仇恨变为最高
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒
+同时一段时间内大幅提升自身仇恨
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒"
+29731,"令无法战斗的目标以衰弱状态重新振作起来
+该魔法有单独计算的复唱时间，不受其他战技与魔法的复唱时间影响"
+29732,"对目标及其周围敌人附加持续伤害状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2040
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+该技能的效果量不受属性与状态效果影响"
+29733,"一定时间内，将自身所受的伤害减轻20%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
+同时为自身附加能够抵御一定伤害的防护罩
+该防护罩能够抵消相当于21000恢复力的伤害量
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒"
+29734,"令无法战斗的目标以衰弱状态重新振作起来
+该技能不受限制复活影响"
 29735,"自身所受的伤害减轻90%
 同时，能通过净化解除的异常状态和击退、吸引效果失效　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
 持续时间结束，或持续时间内再次使用此技能，或发动其他技能，则会解除防御
@@ -38015,7 +38032,7 @@ int32,str
 30682,""
 30683,""
 30684,""
-30685,""
+30685,"AA"
 30686,""
 30687,""
 30688,""
@@ -38441,7 +38458,7 @@ int32,str
 31106,""
 31107,""
 31108,""
-31109,""
+31109,"AA"
 31110,""
 31111,""
 31112,""

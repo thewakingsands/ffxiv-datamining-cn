@@ -38,7 +38,7 @@ int32,str,str
 26,"TEXT_BANMOG003_02322_TODO_02","和天极白垩宫的维伊·亚福对话"
 27,"TEXT_BANMOG003_02322_TODO_03","和团长莫古京对话"
 28,"TEXT_BANMOG003_02322_TODO_04","和贪吃的莫古姆力对话"
-29,"TEXT_BANMOG003_02322_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(ItemHQ,15721,0)/><Else/>将<Sheet(ItemHQ,15721,0)/>交给团长莫古京</If>"
+29,"TEXT_BANMOG003_02322_TODO_05","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15721,0)/><Else/>将<Sheet(ItemHQ,15721,0)/>交给团长莫古京</If>"
 30,"TEXT_BANMOG003_02322_TODO_06","和维伊·亚福对话"
 31,"TEXT_BANMOG003_02322_TODO_07","向塔雷松报告"
 32,"TEXT_BANMOG003_02322_TODO_08",""

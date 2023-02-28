@@ -32,7 +32,7 @@ int32,str,str
 23,"TEXT_BANMOG504_02310_SEQ_23",""
 24,"TEXT_BANMOG504_02310_TODO_00","和喜欢雕刻的莫古力族对话"
 25,"TEXT_BANMOG504_02310_TODO_01","和善于经商的莫古力族对话"
-26,"TEXT_BANMOG504_02310_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(ItemHQ,15739,0)/><Else/>将<Sheet(ItemHQ,15739,0)/>交给喜欢雕刻的莫古力族</If>"
+26,"TEXT_BANMOG504_02310_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15739,0)/><Else/>将<Sheet(ItemHQ,15739,0)/>交给喜欢雕刻的莫古力族</If>"
 27,"TEXT_BANMOG504_02310_TODO_03","向机灵的莫古艾克报告"
 28,"TEXT_BANMOG504_02310_TODO_04",""
 29,"TEXT_BANMOG504_02310_TODO_05",""

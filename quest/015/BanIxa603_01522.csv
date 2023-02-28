@@ -38,7 +38,7 @@ int32,str,str
 26,"TEXT_BANIXA603_01522_TODO_02","将<Sheet(EventItem,2001426,0)/>和<Sheet(EventItem,2001427,0)/>
 交给巨龙首营地乐天的酒保商人"
 27,"TEXT_BANIXA603_01522_TODO_03","将<Sheet(EventItem,2001434,0)/>交给巨龙首营地的诺贝托"
-28,"TEXT_BANIXA603_01522_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务6级：制作<Sheet(ItemHQ,　8122,0)/><Else/>将<Sheet(ItemHQ,　8122,0)/>交给二把手杰兹尔·阿华坦</If>"
+28,"TEXT_BANIXA603_01522_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务16级：制作<Sheet(ItemHQ,　8122,0)/><Else/>将<Sheet(ItemHQ,　8122,0)/>交给二把手杰兹尔·阿华坦</If>"
 29,"TEXT_BANIXA603_01522_TODO_05","空"
 30,"TEXT_BANIXA603_01522_TODO_06","空"
 31,"TEXT_BANIXA603_01522_TODO_07","空"

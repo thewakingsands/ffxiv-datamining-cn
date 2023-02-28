@@ -31,7 +31,7 @@ int32,str,str
 22,"TEXT_BANMOG304_02301_SEQ_22",""
 23,"TEXT_BANMOG304_02301_SEQ_23",""
 24,"TEXT_BANMOG304_02301_TODO_00","和希尔德丝对话"
-25,"TEXT_BANMOG304_02301_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(ItemHQ,15734,0)/><Else/>将<Sheet(ItemHQ,15734,0)/>交给神殿骑士团熟练工兵</If>"
+25,"TEXT_BANMOG304_02301_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15734,0)/><Else/>将<Sheet(ItemHQ,15734,0)/>交给神殿骑士团熟练工兵</If>"
 26,"TEXT_BANMOG304_02301_TODO_02","在<Sheet(EObj,2007234,0)/>等待"
 27,"TEXT_BANMOG304_02301_TODO_03","和神殿骑士团熟练工兵对话"
 28,"TEXT_BANMOG304_02301_TODO_04","向机灵的莫古艾克报告"

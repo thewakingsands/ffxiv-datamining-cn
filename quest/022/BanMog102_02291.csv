@@ -31,7 +31,7 @@ int32,str,str
 22,"TEXT_BANMOG102_02291_SEQ_22",""
 23,"TEXT_BANMOG102_02291_SEQ_23",""
 24,"TEXT_BANMOG102_02291_TODO_00","和寻找材料的莫古力族对话"
-25,"TEXT_BANMOG102_02291_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,15726,0)/><Else/>将<Sheet(Item,15726,0)/>交给机灵的莫古艾克</If>"
+25,"TEXT_BANMOG102_02291_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,15726,0)/><Else/>将<Sheet(Item,15726,0)/>交给机灵的莫古艾克</If>"
 26,"TEXT_BANMOG102_02291_TODO_02",""
 27,"TEXT_BANMOG102_02291_TODO_03",""
 28,"TEXT_BANMOG102_02291_TODO_04",""

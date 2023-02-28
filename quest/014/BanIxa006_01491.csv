@@ -38,7 +38,7 @@ int32,str,str
 23,"TEXT_BANIXA006_01491_SEQ_23",""
 24,"TEXT_BANIXA006_01491_TODO_00","和林场水车的盖罗尔特对话"
 25,"TEXT_BANIXA006_01491_TODO_01","将<Sheet(EventItem,2001369,0)/>交给德雷克"
-26,"TEXT_BANIXA006_01491_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务5级：制作<Sheet(ItemHQ,　8132,0)/><Else/>将<Sheet(ItemHQ,　8132,0)/>交给盖罗尔特</If>"
+26,"TEXT_BANIXA006_01491_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务15级：制作<Sheet(ItemHQ,　8132,0)/><Else/>将<Sheet(ItemHQ,　8132,0)/>交给盖罗尔特</If>"
 27,"TEXT_BANIXA006_01491_TODO_03","和塔塔拉姆对话"
 28,"TEXT_BANIXA006_01491_TODO_04","和赛兹尔·托托罗克对话"
 29,"TEXT_BANIXA006_01491_TODO_05",""

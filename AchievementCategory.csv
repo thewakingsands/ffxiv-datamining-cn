@@ -76,4 +76,4 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 72,"北洋地域",11,True,False,12
 73,"伊尔萨巴德大陆",11,True,False,13
 74,"其他",11,True,False,99
-75,"",0,False,False,0
+75,"曼德维尔武器",4,True,False,12

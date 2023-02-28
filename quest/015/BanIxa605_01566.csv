@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA605_01566_TODO_00","前往魔胃洞讨伐<Sheet(BNpcName,　2918,0)/>
 从现身的<Sheet(BNpcName,2992,0)/>身上获取<Sheet(EventItem,2001430,0)/>"
 25,"TEXT_BANIXA605_01566_TODO_01","将<Sheet(EventItem,2001430,0)/>交给巨龙首营地的诺贝托"
-26,"TEXT_BANIXA605_01566_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务6级：制作<Sheet(ItemHQ,　8125,0)/><Else/>将<Sheet(ItemHQ,　8125,0)/>交给二把手杰兹尔·阿华坦</If>"
+26,"TEXT_BANIXA605_01566_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务16级：制作<Sheet(ItemHQ,　8125,0)/><Else/>将<Sheet(ItemHQ,　8125,0)/>交给二把手杰兹尔·阿华坦</If>"
 27,"TEXT_BANIXA605_01566_TODO_03","空"
 28,"TEXT_BANIXA605_01566_TODO_04","空"
 29,"TEXT_BANIXA605_01566_TODO_05","空"

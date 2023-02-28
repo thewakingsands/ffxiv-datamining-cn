@@ -399,7 +399,7 @@ int32,str,str
 180,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_001","今后的委托将每周从至今为止的委托品中随机选择一次。"
 181,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_002","和<Sheet(ENpcResident,IntegerParameter(1),0)/>对话，
 选择交纳委托品，查看交货列表。"
-182,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_003","另外，支援学习用的发放品、支援学习用发放品的素材、灰白珊瑚
+182,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_003","另外，辅助学习用品、辅助学习用品的素材、灰白珊瑚
 可以得到较多报酬。
 如果列表中有上述物品，就积极交货吧。"
 183,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_004","另外，今后可以对阿梅莉安丝进行武具投影了。"

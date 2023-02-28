@@ -413,7 +413,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 因此，为了避免出现所持装备过多导致背包的容量紧张的情况发生，每名冒险者都会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“兵装库”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来专门存放各种装备。","",""
 161,1,0,151142,0,"
-从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备品都会直接存放到兵装库中，而不会对背包有丝毫影响。
+从商店购买商品装备，做任务获得报酬装备，从身上脱下装备，这些装备都会直接存放到兵装库中，而不会对背包有丝毫影响。
 
 所以当获得新装备想要查看一下详情时，请打开兵装库而不是背包进行查看。","",""
 162,1,0,151143,0,"
@@ -2857,13 +2857,13 @@ int32,byte,byte,Image,byte,str,str,str
 1560,1,0,151761,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能开放了！
 
-在装备品的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备品的外型完全变成另一种形象。","",""
+在装备的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备的外型完全变成另一种形象。","",""
 1561,1,0,151762,0,"
 在进行投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※用于投影的装备必须与被投影装备的等级、职业、种族、性别相匹配。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1562,1,0,151763,0,"
-变幻外型之后的装备品无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+变幻外型之后的装备无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 通过武具投影功能，可以随时将喜欢的装备保留在自己身上，随时随地都能够保持最好的容姿！","",""
 1563,0,0,0,0,"","",""
@@ -3074,7 +3074,7 @@ int32,byte,byte,Image,byte,str,str,str
 1688,0,0,0,0,"","",""
 1689,0,0,0,0,"","",""
 1690,1,0,151881,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备品的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“修理工”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>能够将装备的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“耐久度”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>修理到与全新装备一样的100%，不过如果由自己亲手修理装备，则可以令装备的“耐久度”超过100%，从而达到比全新装备更持久耐用的程度。","",""
 1691,1,0,151882,0,"
 在进行修理时，只要对应的修理职业满足等级条件，即使不更换职业也能够同时修理多种装备。
 
@@ -3166,7 +3166,7 @@ int32,byte,byte,Image,byte,str,str,str
 1748,0,0,0,0,"","",""
 1749,0,0,0,0,"","",""
 1750,1,0,151951,0,"
-现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备品等道具分解成各种各样的素材了。
+现在可以使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“道具分解”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能将装备等道具分解成各种各样的素材了。
 
 要使用这项技能首先需要将道具对应的职业升到30级以上，之后便可以在次级指令中选择“道具分解”这项指令。","",""
 1751,1,0,151952,0,"

@@ -394,6 +394,7 @@ int32,str,byte,byte,bit&01,byte,uint16,byte,str
 514,"MENU_BANNER_LIST",255,255,False,3,5,0,"肖像列表"
 515,"MENU_SDS",255,255,False,3,41,0,"剧情辅助器"
 516,"MENU_CHARA_CARD",255,255,False,3,4,0,"冒险者铭牌"
+517,"MENU_VVD",255,255,False,3,40,0,"特殊迷宫探索器"
 550,"CMD_BEGINNER",255,255,False,4,32,5,"临时切换到新人频道"
 551,"CMD_BEGINNER_ALWAYS",255,255,False,4,132,5,"切换到新人频道"
 552,"PVPTEAM_CHAT",255,255,False,4,11,5,"临时切换到战队频道"

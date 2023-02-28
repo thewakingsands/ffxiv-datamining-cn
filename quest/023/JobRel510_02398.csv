@@ -107,7 +107,7 @@ int32,str,str
 只要主人不赶我走，我绝对不会离开主人半步。"
 74,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_028","嗯，当然。
 只要主人同意，我愿意一直陪在主人身边。"
-75,"TEXT_JOBREL510_02398_ROWENA_000_029","你们聊得蛮开心嘛。"
+75,"TEXT_JOBREL510_02398_ROWENA_000_029","你们聊得很开心嘛。"
 76,"TEXT_JOBREL510_02398_ROWENA_000_030","<Highlight>ObjectParameter(1)</Highlight>已经都告诉我了，
 这孩子就是人造元灵吧？"
 77,"TEXT_JOBREL510_02398_BUKINOSEIREI_000_031","初次见面，我是<Highlight>ObjectParameter(1)</Highlight>的搭档。"

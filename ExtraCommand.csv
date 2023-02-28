@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,,,,
-int32,str,str,int32,sbyte
+#,Name,Description,Icon,Order
+int32,str,str,Image,sbyte
 0,"","",0,0
 1,"集体动作（拍照模式）","启动集体动作（拍照模式）。自己和小队队员、好友会重复使用最后使用过的情感动作或技能。可以将动作分别定格、调整镜头位置、照明等。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>文本指令：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>/集体动作

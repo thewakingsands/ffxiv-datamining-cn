@@ -60,7 +60,7 @@ int32,str,str
 难道是把犏牛肉做成肉馅蒸包子用吗？"
 25,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_036","不、不是用来吃的！
 我是要用这家伙来拖犁耕田的。
-把土壤弄得越细腻越柔软，水稻才能长更得好嘛。"
+把土壤弄得越细腻越柔软，水稻才能长得更好嘛。"
 26,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_037","上等的好米，本身就非常美味。
 特别是用刚出锅的米饭，再撒上一点点的盐做成的饭团……
 那才叫好吃啊。"
@@ -98,7 +98,7 @@ int32,str,str
 40,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_IHASE_000_050","你、你说的我不太明白……
 我还有妻子呢，再说我除了水稻种植以外对别的也没兴趣。
 要我搬到没法种水稻的地方住，那我可受不了。"
-41,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_051","农耕地发展的很顺利。
+41,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_051","农耕地发展得很顺利。
 帮忙种植水稻的人手也变多了，
 即将开始准备插秧。"
 42,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_052","今后也请将物资放进<Sheet(EObj,2009567,0)/>，
@@ -186,7 +186,7 @@ int32,str,str
 77,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MINAZUKI_000_092","仅仅是这一点，我就对你已经感激不尽了。
 不光如此，你还愿意支援建设学舍……"
 78,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_MINAZUKI_000_093","真是太感谢你了。
-今后也你多多帮忙。"
+今后也请你多多帮忙。"
 79,"TEXT_CTSDOMRECONSTRUCTIHASE_00527_SYSTEM_000_093","农耕地建设完成，
 开始进行新的栗斋学堂的重建工作。
 今后请继续提供物资，为了完成重建工作而努力吧！"

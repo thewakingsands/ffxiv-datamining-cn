@@ -33,7 +33,7 @@ int32,str,str
 24,"TEXT_BANMOG001_02320_TODO_00","和莫古库尔对话"
 25,"TEXT_BANMOG001_02320_TODO_01","和神殿骑士团总部的昂德卢对话"
 26,"TEXT_BANMOG001_02320_TODO_02","和宝杖大街的塔雷松对话"
-27,"TEXT_BANMOG001_02320_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,15720,0)/><Else/>将<Sheet(Item,15720,0)/>交给塔雷松</If>"
+27,"TEXT_BANMOG001_02320_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,15720,0)/><Else/>将<Sheet(Item,15720,0)/>交给塔雷松</If>"
 28,"TEXT_BANMOG001_02320_TODO_04","和忆念广场的塔雷松对话"
 29,"TEXT_BANMOG001_02320_TODO_05","在天极白垩宫附近寻找团长莫古京"
 30,"TEXT_BANMOG001_02320_TODO_06","和塔雷松对话"

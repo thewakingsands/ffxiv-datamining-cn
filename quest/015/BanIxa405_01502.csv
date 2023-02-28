@@ -37,7 +37,7 @@ int32,str,str
 25,"TEXT_BANIXA405_01502_TODO_01","和荣耀溪的卢恩族坏蛋对话
 若被袭击 则将他们击败后获取<Sheet(EventItem,2001395,0)/>"
 26,"TEXT_BANIXA405_01502_TODO_02","将<Sheet(EventItem,2001395,0)/>交给秋瓜浮村的休德耶德"
-27,"TEXT_BANIXA405_01502_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务4级：制作<Sheet(ItemHQ,　8109,0)/><Else/>将<Sheet(ItemHQ,　8109,0)/>交给学者塔泽尔·梅耶安</If>"
+27,"TEXT_BANIXA405_01502_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务10级：制作<Sheet(ItemHQ,　8109,0)/><Else/>将<Sheet(ItemHQ,　8109,0)/>交给学者塔泽尔·梅耶安</If>"
 28,"TEXT_BANIXA405_01502_TODO_04","空"
 29,"TEXT_BANIXA405_01502_TODO_05","空"
 30,"TEXT_BANIXA405_01502_TODO_06","空"

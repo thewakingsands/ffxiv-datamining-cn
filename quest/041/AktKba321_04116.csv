@@ -160,7 +160,7 @@ int32,str,str
 103,"TEXT_AKTKBA321_04116_MERLWYB_000_119","需要团长指挥吗……"
 104,"TEXT_AKTKBA321_04116_MERLWYB_000_120","让<Highlight>ObjectParameter(1)</Highlight>暂代团长怎么样？
 我认为<If(PlayerParameter(4))>她<Else/>他</If>完全有能力胜任。"
-105,"TEXT_AKTKBA321_04116_SHAMANILOHMANI_000_121","这个提议倒是蛮出人意料。
+105,"TEXT_AKTKBA321_04116_SHAMANILOHMANI_000_121","这个提议还真出人意料。
 不过，统帅需要拥有力量、胆量、技巧、头脑与坚定的心智……
 <If(PlayerParameter(4))>她<Else/>他</If>的确是兼具这些素质的人。"
 106,"TEXT_AKTKBA321_04116_BRAYFLOX_000_122","呼哧……呼哧……

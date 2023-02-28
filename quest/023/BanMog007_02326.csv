@@ -40,7 +40,7 @@ int32,str,str
 28,"TEXT_BANMOG007_02326_TODO_04","将<Sheet(EventItem,2001981,0)/>交给团长莫古京"
 29,"TEXT_BANMOG007_02326_TODO_05","和团长莫古京对话"
 30,"TEXT_BANMOG007_02326_TODO_06","和贪吃的莫古姆力对话"
-31,"TEXT_BANMOG007_02326_TODO_07","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(ItemHQ,15724,0)/><Else/>将<Sheet(ItemHQ,15724,0)/>交给塔雷松</If>"
+31,"TEXT_BANMOG007_02326_TODO_07","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15724,0)/><Else/>将<Sheet(ItemHQ,15724,0)/>交给塔雷松</If>"
 32,"TEXT_BANMOG007_02326_TODO_08",""
 33,"TEXT_BANMOG007_02326_TODO_09",""
 34,"TEXT_BANMOG007_02326_TODO_10",""

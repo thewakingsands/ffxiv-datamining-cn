@@ -334,7 +334,7 @@ int32,str,str
 177,"TEXT_VOICEMAN_05005_001610_BISMARCK","呼……"
 178,"TEXT_VOICEMAN_05005_001620_BISMARCK","(-俾斯麦的声音-)<Emphasis>“世界已步入黄昏，走向灭亡。我只想在此沉睡。”</Emphasis>"
 179,"TEXT_VOICEMAN_05005_001630_ALISAIE","虽然听不懂……
-但感觉谈的并不顺利啊……"
+但感觉谈得并不顺利啊……"
 180,"TEXT_VOICEMAN_05005_Q5_000_001_NONE_VOICE","要说什么？"
 181,"TEXT_VOICEMAN_05005_A5_000_001_NONE_VOICE","对了！"
 182,"TEXT_VOICEMAN_05005_A5_000_002_NONE_VOICE","菲奥！"
@@ -895,7 +895,7 @@ int32,str,str
 他们认为不应再将生命献给佐迪亚克，
 应该将全新的世界交给新生的生命自己掌管。<UIForeground>01</UIForeground>"
 532,"TEXT_VOICEMAN_05005_004900_HYTHLODAEUS","<UIForeground>F20223</UIForeground>于是他们就用自己的生命创造出了与佐迪亚克相对的海德林。
-人类第一次化分成两个阵营，并且展开了战争……
+人类第一次划分成两个阵营，并且展开了战争……
 你知道结局是什么吗？<UIForeground>01</UIForeground>"
 533,"TEXT_VOICEMAN_05005_004910_HYTHLODAEUS","<UIForeground>F20223</UIForeground>……这样啊。<UIForeground>01</UIForeground>"
 534,"TEXT_VOICEMAN_05005_004920_HYTHLODAEUS","<UIForeground>F20223</UIForeground>爱梅特赛尔克他们，还以佐迪亚克之名行动呢吧。<UIForeground>01</UIForeground>"

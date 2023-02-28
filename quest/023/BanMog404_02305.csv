@@ -34,7 +34,7 @@ int32,str,str
 25,"TEXT_BANMOG404_02305_TODO_01","和莫古力族设计师对话"
 26,"TEXT_BANMOG404_02305_TODO_02","从<Sheet(EObj,2007244,0)/>上获取<Sheet(EventItem,2001989,0)/>"
 27,"TEXT_BANMOG404_02305_TODO_03","将<Sheet(EventItem,2001989,0)/>交给莫古力族设计师"
-28,"TEXT_BANMOG404_02305_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(ItemHQ,15737,0)/><Else/>将<Sheet(ItemHQ,15737,0)/>交给莫古力族设计师学徒</If>"
+28,"TEXT_BANMOG404_02305_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(ItemHQ,15737,0)/><Else/>将<Sheet(ItemHQ,15737,0)/>交给莫古力族设计师学徒</If>"
 29,"TEXT_BANMOG404_02305_TODO_05","向机灵的莫古艾克报告"
 30,"TEXT_BANMOG404_02305_TODO_06",""
 31,"TEXT_BANMOG404_02305_TODO_07",""

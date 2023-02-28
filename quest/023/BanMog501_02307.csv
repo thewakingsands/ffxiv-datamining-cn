@@ -31,7 +31,7 @@ int32,str,str
 22,"TEXT_BANMOG501_02307_SEQ_22",""
 23,"TEXT_BANMOG501_02307_SEQ_23",""
 24,"TEXT_BANMOG501_02307_TODO_00","和喜欢烹调的莫古力族对话"
-25,"TEXT_BANMOG501_02307_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 蛮族任务：制作<Sheet(Item,15738,0)/><Else/>将<Sheet(Item,15738,0)/>交给莫古力族烹调助手</If>"
+25,"TEXT_BANMOG501_02307_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 友好部族任务：制作<Sheet(Item,15738,0)/><Else/>将<Sheet(Item,15738,0)/>交给莫古力族烹调助手</If>"
 26,"TEXT_BANMOG501_02307_TODO_02","将<Sheet(EventItem,2001990,0)/>交给希尔德丝"
 27,"TEXT_BANMOG501_02307_TODO_03","向机灵的莫古艾克报告"
 28,"TEXT_BANMOG501_02307_TODO_04",""
