@@ -92,7 +92,7 @@ int32,str,str
 64,"TEXT_LUCKZA104_03374_EUELISS_000_015","不过，叔叔的心情我也是非常理解的。
 所以真的很抱歉，要让你作出艰难的决定……"
 65,"TEXT_LUCKZA104_03374_SAILEWQ_000_016","不，没事的……
-我也有错，把所有事情都硬推你去做，对不起了。"
+我也有错，把所有事情都硬推给你去做，对不起了。"
 66,"TEXT_LUCKZA104_03374_EUELISS_000_017","没关系的，我有叔叔你在身边就行了。
 好了，一直待在这里是很危险的，咱们回村子吧！"
 67,"TEXT_LUCKZA104_03374_EUELISS_000_018","<Highlight>ObjectParameter(1)</Highlight>，
@@ -139,7 +139,7 @@ int32,str,str
 就叫上家里人和塞·琉柯叔叔，
 还有村里的人们一起……来干杯……"
 89,"TEXT_LUCKZA104_03374_SAILEWQ_000_048","……"
-90,"TEXT_LUCKZA104_03374_EUELISS_000_049","塞·琉柯叔叔"
+90,"TEXT_LUCKZA104_03374_EUELISS_000_049","塞·琉柯叔叔。"
 91,"TEXT_LUCKZA104_03374_EUELISS_000_050","还有<Highlight>ObjectParameter(1)</Highlight>。
 等到那时候，能跟我一起干杯吗？"
 92,"TEXT_LUCKZA104_03374_SAILEWQ_000_051","啊……那是当然……"

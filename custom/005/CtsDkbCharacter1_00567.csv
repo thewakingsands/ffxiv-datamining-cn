@@ -270,11 +270,11 @@ int32,str,str
 以前父亲总是担心他为卫兵团制作的铠甲无法承受魔法攻击，
 他在去世前，还都在忙着对铠甲进行改良呢。"
 122,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_559","所以这回新商品的企划能不能交给我呢？
-我想请你用蕴含魔力的宝玉制作出<Sheet(ItemHQ,27235,0)/>……
+我想请你用蕴含魔力的宝玉制作出<Sheet(Item,27235,0)/>……
 这样就可以弥补那种铠甲的弱点了！"
 123,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_560","谢谢你，<Highlight>ObjectParameter(1)</Highlight>！
 那就请你试着做下咱们合作开发的
-最后的新商品——<Sheet(ItemHQ,27235,0)/>！"
+最后的新商品——<Sheet(Item,27235,0)/>！"
 124,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_562","接到了新的委托，交货列表已经更新。
 和伊奥拉对话，查看新的交货列表。"
 125,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_600","你完成这次的开发后，

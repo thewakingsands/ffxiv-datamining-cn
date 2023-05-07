@@ -327,7 +327,36 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 38,1,0,0,0,0,"/adventurerplate","/myplate","/冒险者铭牌
 /adventurerplate(/myplate)
 打开自己的冒险者铭牌。","/冒险者铭牌","",32,0
-39,1,0,0,0,0,"//resetSettingCWLS","","","","",32,1000
+39,2,1,2,0,0,"/rclickpc","","/右键不可选中玩家 子命令
+/rclickpc 
+设置右键不可选中玩家角色作为目标。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　启用右键不可选中玩家设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭右键不可选中玩家设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与关闭之间切换。","/右键不可选中玩家","",36,0
+40,2,1,2,0,0,"/rclickbattlenpc","","/右键不可选中非玩家角色 子命令
+/rclickbattlenpc 
+设置右键不可选中敌方或我方非玩家角色作为目标。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　启用右键不可选中非玩家设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭右键不可选中非玩家设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与关闭之间切换。","/右键不可选中非玩家角色","",36,0
+41,2,1,2,0,0,"/rclickminion","","/右键不可选中宠物 子命令
+/rclickminion 
+设置右键不可选中宠物作为目标。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　启用右键不可选中宠物设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　关闭右键不可选中宠物设置。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启与关闭之间切换。","/右键不可选中宠物","",36,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -683,9 +712,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　在当前所指位置直接设置标记。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear)或关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　撤除所有设置中的标记。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存(save) 存档编号1-5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存(save) 存档编号1-30<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　保存当前设置的场景标记配置。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>预设(preset) 存档编号1-5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>预设(preset) 存档编号1-30<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　读取保存好的场景标记配置。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略标记名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　从A开始顺次设置尚未使用的标记。所有标记都设置完毕的状态下无法使用。指定代名词时无法省略标记名。
@@ -927,21 +956,21 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 执行集体动作。
 >>功能内操作
 显示镜头设置窗口
-<CommandIcon(10)/>/R键、小键盘*/鼠标滚轮
+<CommandIcon(10)/>/<If(Equal(PlayerParameter(78),3))>r<Else/>R</If>键、小键盘*/鼠标滚轮
 角色面朝镜头方向(开/关)
 <CommandIcon(11)/>/空格键
 镜头位置打光
-<CommandIcon(13)/>/X键
+<CommandIcon(13)/>/<If(Equal(PlayerParameter(78),3))>x<Else/>X</If>键
 全体动作暂停
 <CommandIcon(14)/>/1键
 目标动作暂停
 <CommandIcon(15)/>/2键
 切换注视目标
-<CommandIcon(6)/>/Tab、Shift+Tab键
+<CommandIcon(6)/>/<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>键
 调整镜头
-<CommandIcon(20)/>/W、A、S、D、Q、E键
+<CommandIcon(20)/>/<If(Equal(PlayerParameter(78),3))>w,a,s,d,q,e<Else/>W,A,S,D,Q,E</If>键
 重置镜头
-<Gui(16)/>/Z键","/集体动作","",160,0
+<Gui(16)/>/<If(Equal(PlayerParameter(78),3))>z<Else/>Z</If>键","/集体动作","",160,0
 220,2,0,0,0,0,"/itemsearch","/isearch","/道具检索 关键词
 /itemsearch、/isearch
 只能在对话栏中输入。可以通过输入关键词对所持物品进行检索。
@@ -955,15 +984,15 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 代名词可以省略。在指定了代名词的情况下，摄像机镜头将会锁定该目标进行观景。如果指定的目标无法作为锁定目标进行观景，则会随机进行观景。
 >>功能内操作
 显示镜头设置窗口
-<CommandIcon(10)/>/R键、小键盘*/鼠标滚轮
+<CommandIcon(10)/>/<If(Equal(PlayerParameter(78),3))>r<Else/>R</If>键、小键盘*/鼠标滚轮
 暂时停止或继续进行观景视角的切换
 <CommandIcon(8)/>/小键盘0/左键单击
 切换场景
-<CommandIcon(6)/>/Tab、Shift+Tab键
+<CommandIcon(6)/>/<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>键
 调整镜头
-<CommandIcon(20)/>/W、A、S、D、Q、E键
+<CommandIcon(20)/>/<If(Equal(PlayerParameter(78),3))>w,a,s,d,q,e<Else/>W,A,S,D,Q,E</If>键
 重置镜头
-<Gui(16)/>/Z键
+<Gui(16)/>/<If(Equal(PlayerParameter(78),3))>z<Else/>Z</If>键
 >>示例
 /观景视角
 随机选择对象执行观景。
@@ -1265,19 +1294,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 骑上坐骑“专属陆行鸟”。","/坐骑","",36,0
 272,3,2,3,2,0,"/additionalaction","/aaction","/额外技能 技能名 子命令
 /additionalaction、/aaction
-将指定的“额外技能（仅限大地使者）”设置到当前职业上。技能名使用“撤除(clear)”时会解除当前设定的所有已选技能。
->>子命令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　设置指定技能。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除指定技能。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在设置或解除技能中切换。
->>示例
-/额外技能 三角测量 开
-将“三角测量”设置为当前职业的额外技能。
-/额外技能 撤除
-解除当前职业所设置的额外技能。","/额外技能","",36,1000
+曾经被认为是可以设定额外技能的功能。
+※因系统调整现在已无法使用。","/额外技能","",36,1000
 273,3,2,10,2,0,"/generalaction","/gaction","/共通技能 共通技能名 代名词
 /generalaction、/gaction
 对指定的玩家发动指定的共通技能。处于无法发动共通技能的环境中指令无效，没有学会的共通技能也无法发动。
@@ -1326,7 +1344,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 对所指的位置直接执行技能“缩地”。","/对战技能","",4,0
 279,3,2,18,2,0,"/blueaction","","/青魔法技能 青魔法名 代名词
 /blueaction
-对指定目标使用指定青魔法技能。
+对指定目标使用指定青魔法技能。身处无法使用技能的环境或发动未学习的技能时无法执行该命令。
 
 在技能会使用到地面目标的情况下，为技能名后设定子命令可以指定操作模式。
 代名词
@@ -3661,14 +3679,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/叛逆精神","",293,0
-647,2,1,2,0,0,"/wow","","/两眼发光 子命令
+647,2,1,2,0,0,"/wow","","/两眼放光 子命令
 /wow
-两眼发出光芒。
+两眼放出光芒。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/两眼发光","",293,0
+做出动作并显示文字提示。","/两眼放光","",293,0
 648,2,1,2,0,0,"/eatpumpkincookie","/cookie","/吃南瓜曲奇 子命令
 /eatpumpkincookie(/cookie) 
 开始吃南瓜曲奇。
@@ -3685,3 +3703,35 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/观战","",293,0
+650,2,1,2,0,0,"/magictrick","","/魔术 子命令
+/magictrick
+表演魔术。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/魔术","",293,0
+651,2,1,2,0,0,"/littleladiesdance","/ladance","/公主之舞 子命令
+/littleladiesdance(/ladance)
+跳起公主之舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/公主之舞","",293,0
+652,2,1,2,0,0,"/linkpearl","","/通讯珠 子命令
+/linkpearl
+用通讯珠交流。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/通讯珠","",293,0
+657,2,1,2,0,0,"/frighten","","/吓唬人 子命令
+/frighten
+吓唬人。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吓唬人","",293,0

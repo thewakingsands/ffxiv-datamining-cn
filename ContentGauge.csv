@@ -67,8 +67,13 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 63,0,"饱食度",2,False,"",30,1,3,50,1,1,0
 64,0,"外层魔法障壁的耐久度",2,False,"",30,1,3,70,1,1,0
 65,0,"露琪亚等人的体力",2,False,"",30,1,3,70,1,1,0
-66,0,"",0,False,"",0,0,0,0,0,0,0
+66,0,"凯纳槽的魔力",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 67,0,"中层魔法障壁的耐久度",2,False,"",30,1,3,70,1,1,0
 68,0,"内层魔法障壁的耐久度",2,False,"",30,1,3,70,1,1,0
-69,0,"",0,False,"",0,0,0,0,0,0,0
-70,0,"",0,False,"",0,0,0,0,0,0,0
+69,0,"卢比坎特的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+70,0,"安杜马利乌士的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+71,0,"至尊无影的魔力",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+72,0,"哈罗妮的寒气",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+73,0,"梅茵菲娜的魔力",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+74,0,"",0,False,"",0,0,0,0,0,0,0
+75,0,"",0,False,"",0,0,0,0,0,0,0

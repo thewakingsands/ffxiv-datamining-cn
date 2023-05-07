@@ -480,4 +480,19 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜游魂状态中，变为虚无收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜游魂且交错收割预备状态中，变为交错收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 60,""
-61,""
+61,"单体攻击用连击技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>增盈切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地狱切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
+62,"范围攻击用连击技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>旋转钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>噩梦钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
+63,""
+64,""
+65,""

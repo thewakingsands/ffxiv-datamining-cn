@@ -57,7 +57,7 @@ int32,str,str
 请从那里采些<Sheet(EventItem,2002399,0)/>回来！"
 49,"TEXT_BANKJN302_02980_ZUKIN_000_001","不过，文镇长老嘱咐过我们不可以破坏海洋的生态环境——
 所以，按照规定，我们一次只能采集3个贝壳里的珍珠——
-怎么样鉴别出哪一个贝壳里有大珍珠，就你看的本事了——"
+怎么样鉴别出哪一个贝壳里有大珍珠，就看你的本事了——"
 50,"TEXT_BANKJN302_02980_ZUKIN_000_002","商会那边好像很急着用，
 采到以后请直接送到东阿尔迪纳德商会伙计那里——
 他应该在红玉炮台那边等着呢，之后就拜托了哦！"
@@ -85,13 +85,13 @@ int32,str,str
 59,"TEXT_BANKJN302_02980_MERCHANT02980_100_018","这回真是非常感谢。
 你能加急拿来珍珠，真是帮大忙了。
 今后还望能继续合作！"
-60,"TEXT_BANKJN302_02980_ZUKIN_000_010","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，交易的顺利吗？"
+60,"TEXT_BANKJN302_02980_ZUKIN_000_010","<Highlight>ObjectParameter(1)</Highlight><If(PlayerParameter(4))>大姐<Else/>大哥</If>，交易得顺利吗？"
 61,"TEXT_BANKJN302_02980_ZUKIN_000_012","原来发生了这种事——
 报酬也多给了，我们也很满足——"
 62,"TEXT_BANKJN302_02980_ZUKIN_000_013","不过，你居然能轻松采到<Sheet(EventItem,2002399,0)/>，
 <If(PlayerParameter(4))>大姐<Else/>大哥</If>果然深受海之神眷恋啊！"
 63,"TEXT_BANKJN302_02980_ZUKIN_000_014","珍珠是神明放入贝壳中的礼物——，
-下次还有订单的时候也拜托了你了啊！
+下次还有订单的时候也拜托你了啊！
 你真是很可靠！"
 64,"TEXT_BANKJN302_02980_ZUKIN_000_015","（★未使用／削除予定★）"
 65,"TEXT_BANKJN302_02980_ZUKIN_000_016","（★未使用／削除予定★）"

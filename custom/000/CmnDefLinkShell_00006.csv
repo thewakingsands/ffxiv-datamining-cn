@@ -102,7 +102,7 @@ int32,str,str
 66,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_002","另外，“管理员”可以选择自己通讯贝中的成员，
 任命为“队长”。"
 67,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_003","“队长”拥有和“管理员”同样的邀请、删除成员的权利。
-可是说是“管理员”的助手。"
+可以说是“管理员”的助手。"
 68,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_001","可以随时退出通讯贝。"
 69,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_002_SYS","从通讯贝列表中选择想要退出的通讯贝，
 点击次级指令中的“退出”，

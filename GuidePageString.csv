@@ -237,9 +237,10 @@ int32,str
 120,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇胆<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇胆量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以显示当前蛇胆的数量。
 蛇胆会在经过一定时间后自动附加。
 通过消耗蛇胆可以使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵橡清汁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和50级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>坚角清汁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
-121,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，蛇胆量谱上会出现<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的量值。
-使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡诊断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会对目标附加护盾，当护盾因吸收伤害而消失时，会附加一档蛇刺。
-通过消耗蛇刺可以使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和82级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
+121,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，蛇胆量谱上会显示<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的档数。
+当使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡诊断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标附加的护盾因吸收伤害而消失，
+或使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡预后<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身附加的护盾因吸收伤害而消失时，可获得一档蛇刺。
+通过消耗蛇刺可以使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或82级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 122,"バランスゲージ/マナスタックシンボル"
 123,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔法剑效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 魔元可以通过使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔回刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔交击斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、

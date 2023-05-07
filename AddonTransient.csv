@@ -513,7 +513,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 337,"<CommandIcon(10)/>次级指令"
 338,"<CommandIcon(10)/>次级指令  <CommandIcon(8)/>选择"
 339,"<CommandIcon(11)/>应用"
-340,"<CommandIcon(10)/>次级指令"
+340,"<CommandIcon(10)/>次级指令 <CommandIcon(12)/><CommandIcon(13)/>翻页"
 341,"<CommandIcon(10)/>次级指令"
 342,"<CommandIcon(9)/>返回玩具箱"
 343,"<CommandIcon(9)/>选择关闭按钮"
@@ -818,12 +818,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 471,""
 472,""
 473,""
-474,""
-475,""
-476,""
-477,""
-478,""
-479,""
+474,"<CommandIcon(11)/>确定探索目的地"
+475,"<CommandIcon(10)/>设置热键 <CommandIcon(12)/><CommandIcon(13)/>翻页"
+476,"<CommandIcon(12)/><CommandIcon(13)/>翻页"
+477,"<CommandIcon(8)/>显示典型渔场"
+478,"<CommandIcon(10)/>次级指令"
+479,"<CommandIcon(10)/>次级指令"
 480,""
 481,""
 482,""
@@ -1231,8 +1231,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 收藏品升华的几率与玩家的获得力有关，
 获得力越高升华的几率也会随之提升。"
-1047,""
-1048,""
+1047,"收藏价值"
+1048,"收藏价值是一个体现收藏品所具价值的数值。
+
+采集收藏品时显示的“所需收藏价值”正是交货时需要的收藏价值基准，
+请以此数值为目标，提升收藏价值后进行采集。
+
+※对于能够进行精选的收藏品，
+只有达到“所需收藏价值”后，精选时才能获取到水晶以外的道具。"
 1049,""
 1050,"探索特殊迷宫的方法"
 1051,"和专用的非玩家角色对话，或者选择快捷指令“任务情报”内的

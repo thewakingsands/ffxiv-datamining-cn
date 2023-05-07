@@ -66,7 +66,7 @@ int32,str,str
 如果发现了大祭的靶子，在瞄准后
 点击<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>鼠标左键<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>键/<CommandIcon(8)/>键</If>进行射击。"
 54,"TEXT_BANNAM602_03124_GYOBI_000_020","哇哦……真是厉害噗！
-要怎样做才能射的那么准呢噗？"
+要怎样做才能射得那么准呢噗？"
 55,"TEXT_BANNAM602_03124_Q1_000_000","如何精准射箭？"
 56,"TEXT_BANNAM602_03124_A1_000_001","屏住呼吸"
 57,"TEXT_BANNAM602_03124_A1_000_002","集中精神"

@@ -55,8 +55,8 @@ int32,Image,str
 "
 8,86805,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宫吧——关于进入迷宫的两种方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-第一种是可以和<UIForeground>0F</UIForeground>辅助队员组成小队单独进入迷宫<UIForeground>01</UIForeground>，
-第二种是可以<UIForeground>0F</UIForeground>利用匹配功能与其他玩家组成小队进入迷宫<UIForeground>01</UIForeground>。
+第一种是<UIForeground>0F</UIForeground>和辅助队员组成小队单独进入迷宫<UIForeground>01</UIForeground>，
+第二种是<UIForeground>0F</UIForeground>利用匹配功能与其他玩家组成小队进入迷宫<UIForeground>01</UIForeground>。
 
 当然，玩家也可以在进入迷宫前，事先与其他玩家组成小队共同参与迷宫挑战。
 <UIForeground>0F</UIForeground>不管以上述何种方式进入迷宫，均可参与迷宫挑战<UIForeground>01</UIForeground>。"

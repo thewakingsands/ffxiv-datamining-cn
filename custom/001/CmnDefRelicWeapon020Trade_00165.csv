@@ -25,7 +25,7 @@ int32,str,str
 13,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_036","把12种“魂晶”和“上古武器·天极”交给加尔赞之后，
 可以将武器强化为“上古武器·魂晶”。"
 14,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_100_036","不过，“骑士”需要准备剑与盾两样“上古武器·天极”。"
-15,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_037","另外，可以打开“日志”的“已完成”，选择“支线剧情任务”，
+15,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_SYSTEM_000_037","另外，可以打开“日志”的“已完成”，选择“武器强化支线任务”，
 在任务“寻找英雄的武器”中再次查看所需“魂晶”的情报。"
 16,"TEXT_CMNDEFRELICWEAPON020TRADE_00165_JALZAHN_000_040","如果你能找来12种“魂晶”，
 那么我就可以给你强化“上古武器”。"

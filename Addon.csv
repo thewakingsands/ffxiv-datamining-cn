@@ -699,7 +699,7 @@ int32,str
 683,"职业技能"
 684,"特职技能"
 685,"职业特性"
-686,"额外技能"
+686,"职能技能"
 687,"共通技能"
 688,"所选额外技能"
 689,"<Sheet(ActStr,IntegerParameter(1),0)/>
@@ -2424,6 +2424,8 @@ int32,str
 2402,"确定要将宝箱数量定在<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>个吗？"
 2404,"是"
 2405,"否"
+2406,"雇员武具投影"
+2407,"雇员道具染色"
 2408,"宝箱确定投票"
 2411,"解除染色预览"
 2412,"染色预览"
@@ -2457,6 +2459,7 @@ int32,str
 2437,"确定要交换吗？
 该装备为专用装备，当前角色无法穿戴。"
 2438,"交换"
+2439,"雇员试穿"
 2440,"返回"
 2445,"风脉泉"
 2446,""
@@ -3029,9 +3032,9 @@ int32,str
 3068,"任务回顾帮助"
 3069,""
 3070,"<Value>IntegerParameter(1)</Value>/2"
-3071,"·<Sheet(ContentFinderCondition,295,39)/>"
+3071,"·<Sheet(ContentFinderCondition,295,41)/>"
 3072,"<UIForeground>F20202</UIForeground>支持任务回顾功能的任务<UIForeground>01</UIForeground>"
-3073,"·<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>"
+3073,"·<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>"
 3074,"暂无任务支持该功能。"
 3075,"·未开放任务"
 3079,"[<Value>IntegerParameter(1)</Value>] <ZeroPaddedValue(2)>IntegerParameter(2)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(3)</ZeroPaddedValue>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue> <If(GreaterThan(IntegerParameter(5),0))><Switch(IntegerParameter(5))><Case(1)>开始/重新开始</Case><Case(2)>战斗内事件</Case></Switch><Else/>战斗开始倒计时</If>"
@@ -3496,6 +3499,7 @@ int32,str
 3641,"音阶名"
 3642,"快捷发言名"
 3643,"时尚配饰名"
+3644,"目标"
 3650,"物品"
 3651,"任务道具及水晶"
 3652,"物品(1-100)"
@@ -3571,6 +3575,10 @@ int32,str
 3727,"无法解除投影，缺少所需的触媒。"
 3728,"对<Sheet(Item,IntegerParameter(1),0)/>进行投影会附加绑定属性。"
 3729,"只有当前职业能够装备的物品才可以进行武具投影。"
+3730,"雇员装备中"
+3731,"雇员所持物品"
+3732,"物品/兵装库/装备中"
+3733,"雇员装备中/雇员所持物品"
 3740,"确定要将<Sheet(Hud,IntegerParameter(1),ADDONHUD_NAME)/>的界面设置恢复原样吗？"
 3743,"个别恢复初期设置"
 3756,"界面设置储存功能"
@@ -3634,15 +3642,17 @@ int32,str
 3816,"鱼竿/渔叉切换显示"
 3820,"鱼类图鉴"
 3821,""
-3822,"总数：<Format(IntegerParameter(1),FF022C)/>"
-3823,"典型钓场"
-3824,"<Highlight>StringParameter(1)</Highlight>
-<Highlight>StringParameter(2)</Highlight>"
+3822,"<If(Equal(IntegerParameter(2),0))>钓鱼成功次数<Else/>刺鱼获得鱼数</If> <Format(IntegerParameter(1),FF022C)/>"
+3823,"<If(Equal(IntegerParameter(1),0))>典型钓场<Else/>典型渔场</If>"
+3824,"<If(Equal(IntegerParameter(4),0))>？？？？<Else/><Highlight>StringParameter(1)</Highlight>
+<Highlight>StringParameter(2)</Highlight>
+<If(Equal(IntegerParameter(5),0))>？？？？<Else/><Highlight>StringParameter(3)</Highlight></If></If>"
 3825,"没有任何情报
 没有过钓鱼记录"
 3826,"追加情报"
 3827,"可采集为收藏品"
 3828,"采集需求：<If(Equal(IntegerParameter(3),0))>鱼类传承录·？？？篇<Else/><Sheet(Item,IntegerParameter(1),0)/>（<If(Equal(IntegerParameter(2),0))>未获得<Else/>已获得</If>）</If>"
+3829,"<Sheet(GatheringSubCategory,IntegerParameter(1),5)/>（<If(Equal(IntegerParameter(2),0))>未获得<Else/>已获得</If>）"
 3830,"记录"
 3831,""
 3832,"暂无钓鱼数据"
@@ -3932,12 +3942,12 @@ int32,str
 4191,"确定要将当前分类中的设置恢复为初期设置吗？"
 4192,"是"
 4193,"否"
-4194,"此为经典样本。"
+4194,"此为最终幻想经典样本。"
 4195,"要应用当前分辨率吗？
 <Value>IntegerParameter(1)</Value>秒后恢复为原本的设置。"
 4196,"是"
 4197,"否"
-4198,"クラシック"
+4198,"此为浅蓝样本。"
 4200,"最高品质"
 4201,"高品质"
 4202,"标准品质"
@@ -3963,10 +3973,11 @@ int32,str
 4231,"低"
 4232,"深色"
 4233,"浅色"
-4234,"经典"
-4235,"各向异性"
-4236,"三线性"
-4237,"双线性"
+4234,"最终幻想经典"
+4235,"浅蓝"
+4236,"各向异性"
+4237,"三线性"
+4238,"双线性"
 4240,"x16"
 4241,"x8"
 4242,"x4"
@@ -4421,6 +4432,8 @@ int32,str
 4681,"物品：装备"
 4682,"物品：外部装潢/家具/庭具"
 4683,"房屋建材"
+4685,"雇员所持物品：装备"
+4686,"雇员所持物品：外部装潢/家具/庭具"
 4687,"反映到试穿"
 4688,"选择其他物品"
 4689,"染色条件：完成“<Highlight>StringParameter(2)</Highlight>”
@@ -5440,7 +5453,7 @@ A：Assist，协助他人打倒敌人的次数"
 5706,"<Value>IntegerParameter(1)</Value>～"
 5707,"所持数量"
 5708,"<Value>IntegerParameter(1)</Value>"
-5709,"查看详情"
+5709,"老主顾交易（<Highlight>StringParameter(1)</Highlight>）"
 5710,"收藏价值"
 5711,"<Value>IntegerParameter(1)</Value><If(Equal(IntegerParameter(2),IntegerParameter(1)))><Else/>～<If(Equal(IntegerParameter(2),0))><Else/><Value>IntegerParameter(2)</Value></If></If>"
 5712,"交纳期限 : <Value>IntegerParameter(1)</Value>小时<Value>IntegerParameter(2)</Value>分后<Time(IntegerParameter(3))/>[<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
@@ -5485,6 +5498,8 @@ A：Assist，协助他人打倒敌人的次数"
 5745,"确定要放弃更改，结束本次武具投影吗？"
 5746,"<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>触媒不足，无法进行武具投影。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 5747,"用于投影的外观装备会在投影后绑定。"
+5748,"显示入手场所"
+5749,"<If(Equal(IntegerParameter(2),0))>[钓鱼]<Else/>[刺鱼]</If> 老主顾交易：<Sheet(ENpcResident,IntegerParameter(1),0)/>"
 5750,"友好部族"
 5751,"兽人货币"
 5752,"重生之境"
@@ -6634,7 +6649,7 @@ A：Assist，协助他人打倒敌人的次数"
 6823,"预览"
 6824,""
 6825,"关闭"
-6826,"<If(Equal(IntegerParameter(1),1))>探索笔记<Else/><If(Equal(IntegerParameter(1),2))>绝色美景<Else/></If></If>"
+6826,"<If(Equal(IntegerParameter(1),1))>探索笔记<Else/><If(Equal(IntegerParameter(1),2))>绝色美景<Else/><If(Equal(IntegerParameter(1),3))>人物肖像<Else/></If></If></If>"
 6827,"确定要使用<Sheet(Item,IntegerParameter(1),0)/>吗？"
 6828,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>与当前展示中的作品相同。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -6904,7 +6919,7 @@ A：Assist，协助他人打倒敌人的次数"
 7043,"<Switch(IntegerParameter(1))><Case(1)>先到先得</Case><Case(2)>抽选购买　（当前参加人数：<Value>IntegerParameter(2)</Value>）</Case><Case(3)>准备中</Case></Switch>"
 7044,"<Switch(IntegerParameter(2))><Case(1)>抽选购买参加期：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止</Case><Case(2)>抽选结果公示期：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止</Case></Switch>"
 7045,"参加抽选"
-7046,"确定要支付<Format(IntegerParameter(1),FF022C)/>金币，参加这块土地的抽选吗？
+7046,"确定要支付<Format(IntegerParameter(1),FF022C)/>金币，<If(Equal(IntegerParameter(2),3))><If(Equal(IntegerParameter(3),0))>以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>个人<UIGlow>01</UIGlow><UIForeground>01</UIForeground>身份<Else/>代表<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>部队<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/></If>参加这块土地的抽选吗？
 土地抽选同时只能参加一处，请谨慎选择。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>·此处目前是【<Switch(IntegerParameter(2))><Case(1)>部队房屋限定土地</Case><Case(2)>个人房屋限定土地</Case><Case(3)>无购买限制土地</Case></Switch>】。
@@ -6917,8 +6932,9 @@ A：Assist，协助他人打倒敌人的次数"
  将被收取50%违约金，剩余50%参选费用可在此门牌处取回。
 ·无论当选与否，金币的返还期为结果公示日起90天内，逾期将不予返还。
 ·在获取完土地所有权或处理完金币返还前，将无法参加其他土地的抽选。
-·新加入部队的30天内无法为部队购买土地。
-　参加抽选后若退出部队，再度加回后同样需要重新计数30天。敬请注意。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<If(Equal(IntegerParameter(2),1))>·新加入部队的30天内无法为部队购买土地。
+　参加抽选后若退出部队，再度加回后同样需要重新计数30天。敬请注意。<Else/><If(Equal(IntegerParameter(2),3))><If(Equal(IntegerParameter(3),1))>·新加入部队的30天内无法为部队购买土地。
+　参加抽选后若退出部队，再度加回后同样需要重新计数30天。敬请注意。<Else/></If><Else/></If></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7047,"同意注意事项，参加土地抽选"
 7048,"确定"
 7049,"取消"
@@ -7028,6 +7044,7 @@ A：Assist，协助他人打倒敌人的次数"
 场景标记的保存、读取功能只在部分战斗副本中有效。"
 7138,"覆盖存档"
 7139,"删除存档"
+7140,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 7141,"开始游戏"
 7142,"再次挑战"
 7143,"结束游戏"
@@ -7138,7 +7155,7 @@ A：Assist，协助他人打倒敌人的次数"
 7575,"显示目标线"
 7576,"显示联系线"
 7577,"遭受敌对性质技能时自动选中目标"
-7578,"保持视角距离（仅限传统方式下）"
+7578,"保持视角距离"
 7579,"设置候选圈"
 7580,"设置分类选择内容"
 7581,"拔出和收回武器时启用不同的分类设置"
@@ -7167,6 +7184,7 @@ A：Assist，协助他人打倒敌人的次数"
 7604,"自动收回武器"
 7605,"自动收回武器的时间"
 7606,"物品设置"
+7607,"固定视角修正"
 7608,"获得装备时自动收纳到兵装库中"
 7609,"制作所得的装备收纳到物品栏中"
 7610,"商店设置"
@@ -7305,8 +7323,8 @@ A：Assist，协助他人打倒敌人的次数"
 7744,""
 7745,"队员排序设置"
 7746,"指定职能顺序"
-7747,""
-7748,""
+7747,"角色预览时旋转角色"
+7748,"角色预览时平移角色"
 7749,""
 7750,"热键栏显示设置"
 7751,"热键栏1"
@@ -9350,9 +9368,9 @@ Immerse Gamepack尚未安装。
 9778,"只显示未获得"
 9779,"无符合条件的幻卡。"
 9780,"引导教学"
-9781,"<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>"
-9782,"<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>"
-9783,"<Sheet(ContentFinderCondition,IntegerParameter(2),39)/>
+9781,"<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>"
+9782,"<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>"
+9783,"<Sheet(ContentFinderCondition,IntegerParameter(2),41)/>
 <Sheet(Fate,IntegerParameter(1),0)/>"
 9784,"<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(2),5)/>,0)/>
 <Sheet(Fate,IntegerParameter(1),0)/>"
@@ -9367,7 +9385,7 @@ Immerse Gamepack尚未安装。
 9789,"<97>E803</97>
 用货币交换：<Sheet(ObjStr,IntegerParameter(1),0)/>"
 9790,"<Sheet(Achievement,IntegerParameter(1),1)/>"
-9791,"<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>
+9791,"<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>
 幸福兔财宝"
 9792,"？？？？"
 9793,"最终成绩"
@@ -9956,6 +9974,14 @@ Immerse Gamepack尚未安装。
 10319,"全展开：DX9环境下无法使用"
 10320,"全展开：Mac环境下无法使用"
 10321,"战斗对白显示说话人头像"
+10322,"任务用肖像"
+10323,"副本任务开始时显示队员介绍"
+10324,"推荐最优队员时显示肖像"
+10325,"显示队员介绍的通知"
+10326,"右键不可选中玩家角色作为目标"
+10327,"右键不可选中敌方或我方非玩家角色作为目标"
+10328,"显示状态效果的剩余时间"
+10329,"右键不可选中宠物作为目标"
 10350,"妖怪大辞典"
 10351,""
 10352,"打开宠物一览"
@@ -10030,7 +10056,7 @@ Immerse Gamepack尚未安装。
 10416,"强化值"
 10417,"<If(GreaterThan(IntegerParameter(1),0))>+<Else/> </If><Value>IntegerParameter(1)</Value>"
 10418,"再生石冢"
-10419,"转移石冢"
+10419,"传送石冢"
 10420,"金宝箱"
 10421,"银宝箱"
 10422,"铜宝箱"
@@ -10046,7 +10072,7 @@ Immerse Gamepack尚未安装。
 10432,"打开角色情报窗口"
 10433,"设置是否锁定角色情报，锁定之后角色情报不会在按下Esc键或<CommandIcon(9)/>键以及打开快捷指令时关闭。"
 10434,"显示再生石冢的启动情况。"
-10435,"显示转移石冢的启动情况。"
+10435,"显示传送石冢的启动情况。"
 10436,"设置是否锁定地图，锁定之后地图不会在按下Esc键、<CommandIcon(9)/>键、<Gui(10)/>键以及打开快捷指令时关闭。"
 10437,"在深层迷宫中发现的财宝。
 上面施有魔法，处理不好会受到诅咒。"
@@ -10091,14 +10117,16 @@ Immerse Gamepack尚未安装。
 10475,"魔石"
 10476,"感知到这层存在着埋藏的宝藏。"
 10477,"再生灯笼"
-10478,"转移灯笼"
+10478,"传送灯笼"
 10479,"显示再生灯笼的启动情况。"
-10480,"显示转移灯笼的启动情况。"
+10480,"显示传送灯笼的启动情况。"
 10481,"抵达层数"
 10482,"未从<If(Equal(IntegerParameter(1),0))>地下1层<Else/>1层</If>进入，不会获得单人挑战对应的成就。"
 10483,"确定要进入吗？
 此存档的团灭次数不为0，将无法进入深层挑战。"
 10484,"读取此存档进入。"
+10490,"官网指南"
+10491,"查看深层迷宫解说"
 10500,"以剧情辅助器进入"
 10501,"以亲信战友进入"
 10507,"/"
@@ -10352,7 +10380,7 @@ Immerse Gamepack尚未安装。
 10807,"可对战次数"
 10808,"参加大赛"
 10809,"大赛对战受理期"
-10810,"<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>"
+10810,"<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>"
 10811,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※匹配条件中的“任务已完成”只有在曾经完成过对应任务时才能选择。 
 ※指定练习阶段并不表示可以直接跳过其他阶段。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10812,"不可与其他任务同时搜索"
@@ -11483,6 +11511,8 @@ Immerse Gamepack尚未安装。
 11913,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 11914,"删除"
 11915,"确定要删除投影台保存的<Sheet(Item,IntegerParameter(1),0)/>的幻影吗？"
+11916,"升序"
+11917,"降序"
 11918,"幻影化"
 11919,""
 11920,"选择装备"
@@ -11495,6 +11525,13 @@ Immerse Gamepack尚未安装。
 11927,"兵装库：腕部/戒指"
 11928,"幻象棱晶数量：<Value>IntegerParameter(1)</Value>"
 11929,"隐去套装中的物品"
+11930,"升序或降序排列。"
+11931,"道具搜索"
+11932,"搜索"
+11933,"输入关键字搜索相关道具。
+有时搜索出结果需要一些时间，
+请耐心等待。"
+11934,"没搜索到相应道具。"
 11935,"无可幻影化的装备。"
 11936,"幻影化"
 11939,"编辑投影模板"
@@ -11759,6 +11796,11 @@ Immerse Gamepack尚未安装。
 12173,"将在线用户排在列表顶部"
 12174,"跨服贝频道号变更"
 12175,""
+12176,"重置频道号"
+12177,"将当前本地保存的跨服通讯贝频道号重置回初始状态。
+重置后频道号有可能发生改变，使用文本指令指定发言频道时需要注意。
+本操作对已加入的每个大区的跨服贝都会生效。"
+12178,"重置"
 12180,"解除武具投影部位选择"
 12181,""
 12182,"投影模板"
@@ -12076,7 +12118,7 @@ Immerse Gamepack尚未安装。
 12490,"等级 <Value>IntegerParameter(1)</Value>"
 12491,"成绩"
 12492,"关卡"
-12493,"<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>. <Sheet(ContentFinderCondition,IntegerParameter(2),39)/>"
+12493,"<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>. <Sheet(ContentFinderCondition,IntegerParameter(2),41)/>"
 12494,"用时"
 12495,"<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
 12496,"加分项"
@@ -12979,7 +13021,7 @@ Immerse Gamepack尚未安装。
 13400,"通常
 通常状态。"
 13401,"高品质
-品质上升量是通常状态的1.5倍。"
+品质上升量是通常状态的<38>E80265FF022E01</38>倍。"
 13402,"最高品质
 品质上升量是通常状态的4倍。"
 13403,"低品质
@@ -13104,6 +13146,20 @@ Immerse Gamepack尚未安装。
 
 雇员当前持有金币：<Format(IntegerParameter(1),FF022C)/>
 "
+13522,"同类道具合并递交"
+13523,"此功能可以从您现持有的物品中找出能与雇员已持有的物品进行合并的部分，并一口气全交给雇员保管。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※仅对可以堆叠合并的道具生效。
+※可以通过取消勾选，在合并递交时不递交某种道具。
+※道具种类较多时可能会花费一些时间。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13524,"递交道具：<Value>IntegerParameter(1)</Value>种"
+13525,"确定"
+13526,"取消"
+13527,"同类道具合并递交中……"
+13528,"同类道具合并递交成功。"
+13529,"中止"
+13530,"关闭"
+13531,"从您现持有的物品中找出能与雇员已持有的物品进行合并的部分，并一口气全交给雇员保管。"
 13550,"小图"
 13551,"偶尔会出现"
 13552,"中图"
@@ -13227,6 +13283,26 @@ Immerse Gamepack尚未安装。
 13677,"设置热键"
 13678,"执行"
 13679,"使用情感动作“改变姿势”时，做出与时尚配饰搭配的专属动作。"
+13680,"雨天时自动使用"
+13681,"取消自动使用"
+13682,"通过次级指令可以设置一把阳伞在位于<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>生效区域<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时自动使用。
+下雨时，角色可以自动撑起这把阳伞。雨停或移动到房屋等不下雨的地方时，伞会自动收起。
+※同时只能设置一把伞自动使用。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>生效区域<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+·城市
+·住宅区
+·苍穹街
+·无人岛"
+13754,"通过“<Sheet(Item,IntegerParameter(3),0)/>”学习
+副本任务“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”获得"
+13755,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习<Switch(PlayerParameter(70))><Case(1)>
+<97>F63F38E6</97>
+用货币交换：班戈·赞戈</Case><Case(2)>
+<97>F6227367</97>
+用货币交换：麦森塔</Case><Case(3)>
+<97>F63E116C</97>
+用货币交换：劳力士</Case></Switch>"
 13756,"学会“乐器演奏”"
 13757,"系列赛奖励
 通过“<Sheet(Item,IntegerParameter(1),0)/>”学习"
@@ -13236,7 +13312,7 @@ Immerse Gamepack尚未安装。
 13759,"通过“<Sheet(Item,IntegerParameter(1),0)/>”学习"
 13760,"无使用条件"
 13761,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”"
-13762,"完成副本任务“<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>”"
+13762,"完成副本任务“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”"
 13763,"通过“<Sheet(Item,IntegerParameter(3),0)/>”学习
 <97>E803</97>
 用货币交换：<Sheet(ObjStr,IntegerParameter(1),0)/>"
@@ -13619,7 +13695,7 @@ Immerse Gamepack尚未安装。
 14180,"所需收藏价值"
 14181,"<Value>IntegerParameter(1)</Value>～"
 14200,"通常状态。"
-14201,"品质上升量是通常状态的1.5倍。"
+14201,"品质上升量是通常状态的<38>E80265FF022E01</38>倍。"
 14202,"品质上升量是通常状态的4倍。"
 14203,"品质上升量是通常状态的一半。"
 14204,"技能成功率提高25%。"
@@ -13712,7 +13788,7 @@ Immerse Gamepack尚未安装。
 14326,"托管种植每日需要花费<Value>IntegerParameter(1)</Value>枚谢尔达莱青船币。
 托管中从播种到收获都会由魔法人偶进行，
 最多可积累50个收获物。
-费用会在启用托管时或每日<ResetTime>12</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点点自动扣除。
+费用会在启用托管时或每日<ResetTime>12</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）自动扣除。
 已支付过当日费用就不会再扣一次。
 
 确定要开始托管种植吗？
@@ -13722,7 +13798,8 @@ Immerse Gamepack尚未安装。
 　·谢尔达莱青船币不足以支付费用
 　·收获数到达50个
 ※重新满足以上条件后，托管会自动再次开启，
-　再次开启时会扣除费用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+　再次开启时会扣除费用。
+※托管魔法人偶进行收获时无法获得开拓经验值。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 14327,"确定"
 14328,"取消"
 14329,"确定要领取<Value>IntegerParameter(2)</Value>个<Sheet(Item,IntegerParameter(1),0)/>吗？
@@ -13767,6 +13844,32 @@ Immerse Gamepack尚未安装。
 14364,"[大尺寸]"
 14365,"还没有捕获到任何鱼。"
 14366,"结束！"
+14367,"<If(Equal(IntegerParameter(1),0))>典型钓饵<Else/>轮廓尺寸</If>"
+14368,"<Highlight>StringParameter(1)</Highlight>"
+14369,"筛选"
+14370,"筛选"
+14371,""
+14372,"条件"
+14373,"区域"
+14374,"全部区域"
+14375,"传承录"
+14376,"不设限"
+14377,"钓场之王"
+14378,"收藏品"
+14380,"重置条件"
+14381,"确定"
+14382,"取消"
+14383,"请输入关键字进行搜索。
+最多可以显示100条搜索结果。
+在输入栏按上下键可以查看搜索履历。"
+14384,"没搜索到相应的鱼。"
+14385,""
+14386,"以小钓大"
+14387,"小型"
+14388,"中型"
+14389,"大型"
+14390,"？？？？"
+14391,"？？？？"
 14401,"按编号排列"
 14402,"按名字排列"
 14403,"搜索"
@@ -14019,8 +14122,13 @@ Immerse Gamepack尚未安装。
 14756,"取消"
 14757,"<ZeroPaddedValue(2)>IntegerParameter(1)</ZeroPaddedValue> <Highlight>StringParameter(2)</Highlight>"
 14758,"动作播放中无法保存。"
+14759,"从冒险者铭牌的肖像复制各项内容"
+14760,"从冒险者铭牌的肖像上复制各项内容设置。
+
+※若含有不符合职业的动作，部分内容将被初始化。"
+14761,"冒险者铭牌"
 14800,"与其他玩家一同进入“<Sheet(InstanceContent,IntegerParameter(1),3)/>”"
-14801,"与非玩家同伴一同进入“<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>”"
+14801,"与非玩家同伴一同进入“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”"
 14802,"同伴选择"
 14803,"<If(GreaterThan(IntegerParameter(1),0))>平均品级不低于<Value>IntegerParameter(1)</Value>级<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
 品级同步：<Value>IntegerParameter(2)</Value>级<Else/></If>"
@@ -14035,7 +14143,7 @@ Immerse Gamepack尚未安装。
 14812,""
 14813,"显示任务搜索器说明。"
 14814,"可更换同伴"
-14815,"与非玩家同伴一同进入<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>将在今后开放"
+14815,"与非玩家同伴一同进入<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>将在今后开放"
 14816,"将在今后的版本中开放。"
 14851,"随身见闻录"
 14852,""
@@ -14091,6 +14199,10 @@ Immerse Gamepack尚未安装。
 14903,"角色情报获取失败。"
 14904,"<Sheet(ClassJob,IntegerParameter(1),0)/> - 我要发动极限技了！<Unknown60>0263</Unknown60>"
 14905,"我们集合吧！<Unknown60>0264</Unknown60>"
+14906,"机关狂欢还有<Value>IntegerParameter(1)</Value>秒开始！"
+14907,"机关狂欢开始了！"
+14908,"第<Value>IntegerParameter(1)</Value>赛季开赛中"
+14909,"季前赛开赛中"
 14910,"确认内容"
 14911,""
 14912,"所选道具"
@@ -14098,6 +14210,10 @@ Immerse Gamepack尚未安装。
 14914,"关闭"
 14915,"确认内容"
 14916,"可确认内容"
+14918,"第<Value>IntegerParameter(1)</Value>赛季开赛中
+"
+14919,"季前赛开赛中
+"
 14920,"修理委托"
 14921,"修理委托"
 14922,""
@@ -14122,6 +14238,12 @@ Immerse Gamepack尚未安装。
 14941,"<Value>IntegerParameter(1)</Value>级:"
 14942,"<Highlight>StringParameter(1)</Highlight>"
 14943,"缺少所需触媒，确定要<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>使用上级触媒代替<UIGlow>01</UIGlow><UIForeground>01</UIForeground>吗？"
+14945,"显示队员介绍"
+14946,"队员介绍"
+14947,"队员介绍"
+14948,"任务菜单"
+14949,"以可编辑模式打开在任务开始时显示的队员介绍。
+※在部分任务中无效。"
 14950,"可确认土地抽选状况。"
 14990,"特殊热键栏技能排序"
 14991,""
@@ -14288,7 +14410,7 @@ Immerse Gamepack尚未安装。
 15129,"所需数量"
 15130,"持有数量"
 15131,"制定生产计划"
-15132,"<Value>IntegerParameter(1)</Value>(<Value>IntegerParameter(2)</Value>)"
+15132,""
 15133,"确定要删除当前生产日中制定的全部生产计划吗？"
 15134,"删除"
 15135,"预设生产计划"
@@ -14384,19 +14506,20 @@ Immerse Gamepack尚未安装。
 15220,"结束托管饲养"
 15221,"回收素材并继续托管"
 15222,"放生"
-15223,"饲养托管每日需要花费<Value>IntegerParameter(1)</Value>枚谢尔达莱青船币。
+15223,"托管饲养每日需要花费<Value>IntegerParameter(1)</Value>枚谢尔达莱青船币。
 托管中从喂食到收获都会由魔法人偶进行，
 最多可积累20个收获物。
-费用会在启用托管时或每日<ResetTime>12</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点点自动扣除。
+费用会在启用托管时或每日<ResetTime>12</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）自动扣除。
 已支付过当日费用就不会再扣一次。
 
-确定要开始饲养托管吗？
+确定要开始托管饲养吗？
 
 托管后发生如下情况时，托管将会停止：
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　·谢尔达莱青船币不足以支付费用
 　·收获数到达20个
 ※重新满足以上条件后，托管会自动再次开启，
-　再次开启时会扣除费用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+　再次开启时会扣除费用。
+※托管魔法人偶进行收获时无法获得开拓经验值。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 15224,"确定"
 15225,"取消"
 15226,"确定要领取下列道具吗？"
@@ -14459,9 +14582,9 @@ Immerse Gamepack尚未安装。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※放生后无法找回。
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-15266,"稀少开拓素材"
-15267,"开拓作物"
-15268,"畜牧素材"
+15266,"寻找更高的目标"
+15267,""
+15268,""
 15269,"道具名"
 15270,"价格"
 15271,"持有数量"
@@ -14503,7 +14626,7 @@ Immerse Gamepack尚未安装。
 15304,"确定要改建地标吗？"
 15305,"<Gui(116)/><Highlight>StringParameter(1)</Highlight>"
 15306,"开拓工房预定消耗的材料"
-15307,"将允许入岛的玩家置顶"
+15307,"将允许自己入场的玩家置顶"
 15308,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 15309,"无符合条件的玩家。"
 15310,"确定要前往<Highlight>StringParameter(1)</Highlight>的小岛吗？"
@@ -14541,10 +14664,10 @@ Immerse Gamepack尚未安装。
 15339,"回收作物并继续托管"
 15340,"开拓无人岛设置"
 15341,""
-15342,"入岛许可设置"
-15343,"允许好友入岛"
-15344,"允许部队成员入岛"
-15345,"允许小队成员入岛"
+15342,"入场许可设置"
+15343,"允许好友入场"
+15344,"允许部队成员入场"
+15345,"允许小队成员入场"
 15346,"应用"
 15347,"关闭"
 15348,"名字"
@@ -14592,6 +14715,17 @@ Immerse Gamepack尚未安装。
 15386,"确定要删除所选预设吗？"
 15387,"消耗触媒"
 15388,"状态/<If(GreaterThan(IntegerParameter(1),0))>扩大中：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue><Else/>待验收</If>"
+15389,"请前往开拓工房的管理板完成建造。"
+15390,"请前往屯货仓库的管理板完成建造。"
+15391,"开拓采集"
+15392,"入场许可"
+15393,"导向地图上采集物显示设置"
+15394,"显示植物图标"
+15395,"显示木材图标"
+15396,"显示岩石与矿石图标"
+15397,"显示砂土图标"
+15398,"显示水产品图标"
+15399,"价格变动值"
 15400,"特殊迷宫探索器"
 15401,""
 15402,"多变迷宫"
@@ -14630,8 +14764,8 @@ Immerse Gamepack尚未安装。
 15428,"特殊迷宫探索器说明"
 15429,""
 15430,"确定要独自进入吗？"
-15431,""
-15432,""
+15431,"战斗状态或复唱时间结束前多变技能无法被更换。"
+15432,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”后才能阅读已发现的故事。"
 15433,""
 15434,""
 15435,""
@@ -14649,6 +14783,58 @@ Immerse Gamepack尚未安装。
 15447,""
 15448,""
 15449,""
+15470,"队员介绍设置"
+15471,"副本任务开始时显示队员介绍"
+15472,"显示队员介绍的通知"
+15473,"肖像靠下显示"
+15474,"确定"
+15475,"取消"
+15476,"显示队员介绍说明。"
+15477,"打开设置"
+15500,"全部领取"
+15501,"确定要领取托管饲养收获的所有素材吗？
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※领取后托管不会中断。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15502,"部分素材超出持有上限。
+要将超出的部分舍弃吗？"
+15503,"确定要结束“<Highlight>StringParameter(1)</Highlight>”的托管饲养并将其放生吗？
+（收获的素材可自动获取，但超出的部分将遭到舍弃。）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※放生后无法找回。
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15504,"全部领取"
+15505,"确定要领取托管种植收获的所有素材吗？
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※领取后托管不会中断。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15506,"部分素材超出持有上限。
+要将超出的部分舍弃吗？"
+15507,"所需时间"
+15508,"受欢迎度："
+15509,"当前市场需求："
+15510,"此前需求变化："
+15511,"下周期受欢迎度预测："
+15512,"确定要结束“<Sheet(BNpcName,IntegerParameter(1),0)/>”的托管饲养并将其放生吗？
+（收获的素材可自动获取，但超出的部分将遭到舍弃。）
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※放生后无法找回。
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15513,"在开拓据点周边播放"
+15600,"筛选"
+15601,""
+15602,"条件"
+15603,"装备等级"
+15604,"等级"
+15605," 1"
+15606,"性别"
+15607,"不设限"
+15608,"男性"
+15609,"女性"
+15610,"关键字"
+15611,"条件重置"
+15612,"确定"
+15613,"取消"
+15614,"筛选显示的装备。"
+15615,"符合当前性别"
 101000,"<CommandIcon(10)/>次级指令"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/> 选择"
@@ -15159,6 +15345,8 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102546,"https://ff.web.sdo.com/web8/index.html#/patchnote"
 102547,"访问"
 102548,"寻找同好"
+102549,"推荐最优队员设置"
+102550,""
 102551,"投票驱逐"
 102552,"对是否驱逐<Highlight>StringParameter(1)</Highlight>进行投票。"
 102553,"请选择驱逐理由。"
@@ -15175,12 +15363,18 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102564,"是"
 102565,"否"
 102566,"<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>警告：使用不正当理由发起驱逐投票会导致您自身受到处罚。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+102567,"打开设置"
+102568,"可以设置是否在推荐最优队员时显示肖像。
+※已有成员退出时，设置将在下次生效。"
+102569,"推荐最优队员时显示肖像"
 102570,"推荐最优队员"
 102571,""
 102572,"请选择一位您认为在执行任务途中表现得最好的队员。"
 102573,"确定"
 102574,"取消"
 102575,"推荐最优队员"
+102576,"确定"
+102577,"取消"
 102578,"确定要辞退吗？
 
 排到任务后选择辞退或超时不出发会受到惩罚，

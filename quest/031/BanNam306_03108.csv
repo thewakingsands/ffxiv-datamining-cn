@@ -71,7 +71,7 @@ int32,str,str
 50,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_002","因此，我想给居住在附近洞穴中的维亚吉儿部准备一些礼品，
 希望<Highlight>ObjectParameter(1)</Highlight>你能够帮忙。"
 51,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_003","亲切的鲶鱼精已经去乔尔艾恩石环做准备了，你去看看情况吧。
-我总有些不好的预感……拜托你了"
+我总有些不好的预感……拜托你了。"
 52,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_010","是光风院霁月找你来的吗噗？
 得救了噗，其实我正发愁呢噗……"
 53,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_011","我拿着礼品去找过维亚吉儿部的人了，
@@ -79,13 +79,13 @@ int32,str,str
 不能收噗！"
 54,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_012","因此我想再重新准备一些别的东西，
 希望你能帮忙噗。"
-55,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_013","请你能制作一些用作<Sheet(Item,22729,0)/>的朴素的容器噗。
+55,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_013","请你制作一些用作<Sheet(Item,22729,0)/>的朴素的容器噗。
 素材的话这个货箱里面放了许多，
 你不用客气尽管用就好噗！"
-56,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_014","请你能制作一些用作<Sheet(Item,22729,0)/>的朴素的布料噗。
+56,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_014","请你制作一些用作<Sheet(Item,22729,0)/>的朴素的布料噗。
 素材的话这个货箱里面放了许多，
 你不用客气尽管用就好噗！"
-57,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_015","请你能制作一些用作<Sheet(Item,22729,0)/>的朴素的染料噗。
+57,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_015","请你制作一些用作<Sheet(Item,22729,0)/>的朴素的染料噗。
 素材的话这个货箱里面放了许多，
 你不用客气尽管用就好噗！"
 58,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_016","为了制作朴素的金属容器需要<Sheet(Item,22625,0)/>噗。

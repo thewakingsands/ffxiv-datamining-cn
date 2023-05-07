@@ -53,7 +53,7 @@ int32,str,str
 其实天钢机工房目前正在寻找手艺高超的工匠……"
 49,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_005","啊，这不是<Highlight>ObjectParameter(1)</Highlight>吗？！
 虽然我不是机工士，
-不过我曾经在工房看见斯特凡尼维安少爷和你相处的不错呢。"
+不过我曾经在工房看见斯特凡尼维安少爷和你相处得不错呢。"
 50,"TEXT_LUCKHT001_03848_STUDIOCRAFTSMAN03848_000_015","啊，<If(PlayerParameter(4))>小姐<Else/>老爷</If>你莫非就是<Highlight>ObjectParameter(1)</Highlight>？
 那位拯救了皇都的大英雄？！
 这还真是让我碰见了一位大人物呢！"

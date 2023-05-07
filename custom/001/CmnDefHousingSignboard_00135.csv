@@ -17,5 +17,7 @@ int32,str,str
 6,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED","参与了<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> 第<Value>IntegerParameter(2)</Value>区 <Value>IntegerParameter(3)</Value>号的抽选。
 申请号码为<Value>IntegerParameter(4)</Value>号。
 结果可于<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>之后进行确认。"
-7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","若返还金币后所持金币超过上限，则无法返还。
+7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2","另外可以在快捷指令“任务情报”的“房屋”标签页中
+确认抽选土地、申请号码及土地用途。"
+8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","若返还金币后所持金币超过上限，则无法返还。
 请减少所持金币数量后再试。"
