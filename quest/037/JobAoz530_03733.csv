@@ -72,7 +72,7 @@ int32,str,str
 请你在他们面前打倒这个人偶。"
 57,"TEXT_JOBAOZ530_03733_MARTYN_000_012","你要是准备好了，就跟我说一声，
 我来启动斗场维京人偶。"
-58,"TEXT_JOBAOZ530_03733_MARTYN_000_013","都睁大眼睛看好了，你们师兄是怎样战斗的！
+58,"TEXT_JOBAOZ530_03733_MARTYN_000_013","都睁大眼睛看好了，你们<If(PlayerParameter(4))>师姐<Else/>师兄</If>是怎样战斗的！
 然后给我好好学习青魔法的真谛！！"
 59,"TEXT_JOBAOZ530_03733_NUTIBABUNTIBA_000_016","<Highlight>ObjectParameter(1)</Highlight>，请你加油！"
 60,"TEXT_JOBAOZ530_03733_PYANDIH_000_017","能在这么近距离观看你的战斗，

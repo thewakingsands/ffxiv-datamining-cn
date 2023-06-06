@@ -139,7 +139,7 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 165,"s-guttata","陆行鸟s-guttata",2,101,101,False
 166,"Moogle","莫古力",2,0,0,False
 167,"chs-contents2","chs-contents2",2,0,0,False
-168,"Namazu","Namazu",2,0,0,False
+168,"Namazu","鲶鱼精",2,0,0,False
 169,"chs-contents3","chs-contents3",2,0,0,False
 170,"s-poliogenys","s-poliogenys",2,101,101,False
 171,"s-haematina","陆行鸟s-haematina",2,101,101,False
@@ -161,6 +161,8 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 187,"s-bicolor","莫古力s-bicolor",2,101,102,False
 188,"s-contents5","s-contents5",2,0,0,False
 189,"s-contents6","s-contents6",2,0,0,False
+190,"Mameshiba","豆豆柴",2,0,0,False
+191,"chs-contents4","chs-contents4",2,0,0,False
 201,"Nacontents01","Nacontents01",1,0,0,False
 202,"Nacontents02","Nacontents02",1,0,0,False
 203,"Nacontents03","Nacontents03",1,0,0,False

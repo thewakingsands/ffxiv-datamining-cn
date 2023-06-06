@@ -1,7 +1,7 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_SUBCTS630_03177_SEQ_00","田园郡盖姆隆纳有话要对冒险者说。"
+0,"TEXT_SUBCTS630_03177_SEQ_00","田园郡盖姆隆娜有话要对冒险者说。"
 1,"TEXT_SUBCTS630_03177_SEQ_01",""
 2,"TEXT_SUBCTS630_03177_SEQ_02",""
 3,"TEXT_SUBCTS630_03177_SEQ_03",""
@@ -63,13 +63,13 @@ int32,str,str
 能不能在路过的时候顺便去看看崖畔亭的亚德基拉？"
 54,"TEXT_SUBCTS630_03177_GEIMLONA_000_006","你要是方便的话，
 能不能在路过的时候顺便去看看崖畔亭的亚德基拉？"
-55,"TEXT_SUBCTS630_03177_ADKIRAGH_000_010","……嗯？这可真稀客啊。
+55,"TEXT_SUBCTS630_03177_ADKIRAGH_000_010","……嗯？这可是真稀客啊。
 不过你看上去也不像我们崖畔亭的客人，
 找我这个可爱的老板亚德基拉有什么事吗？"
 56,"TEXT_SUBCTS630_03177_ZHLOEALIAPOH_000_011","肯定是因为亚德基拉先生最近看上去有什么心事，
 <Highlight>ObjectParameter(1)</Highlight>很担心才过来看看的！"
 57,"TEXT_SUBCTS630_03177_ZHLOEALIAPOH_000_012","对吧，<Highlight>ObjectParameter(1)</Highlight>？"
-58,"TEXT_SUBCTS630_03177_ADKIRAGH_000_013","哼……我这老板做的一帆风顺，
+58,"TEXT_SUBCTS630_03177_ADKIRAGH_000_013","哼……我这老板做得一帆风顺，
 怎么会有烦心事？
 来看我这圆溜溜的大眼睛，根本就没有任何烦恼嘛！"
 59,"TEXT_SUBCTS630_03177_ZHLOEALIAPOH_000_014","对了，刚才亚德基拉先生是在看崖畔亭账簿吧？

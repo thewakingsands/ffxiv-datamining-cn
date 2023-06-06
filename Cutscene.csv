@@ -3031,8 +3031,8 @@ int32,str,byte,byte,bit&01,int32,int32,int32,int32,uint16
 3027,"ex4/bossop/bossop00220/bossop00220",1,1,True,0,0,0,0,0
 3028,"ex4/bosrub/bosrub00110/bosrub00110",1,1,True,0,0,0,0,0
 3029,"ex4/bosrub/bosrub00120/bosrub00120",1,1,True,0,0,0,0,0
-3030,"",0,0,False,0,0,0,0,0
-3031,"",0,0,False,0,0,0,0,0
+3030,"ex4/bosomg/bosomg00210/bosomg00210",1,1,True,0,0,0,0,0
+3031,"ex4/bosomg/bosomg00220/bosomg00220",1,1,True,0,0,0,0,0
 3032,"ex4/trehnt/trehnt06310/trehnt06310",1,1,True,0,0,0,0,0
 3033,"",0,0,False,0,0,0,0,0
 3034,"",0,0,False,0,0,0,0,0

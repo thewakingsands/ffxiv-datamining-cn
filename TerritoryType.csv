@@ -1021,7 +1021,7 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,byte,Cont
 1119,"m5d5_event","ex4/02_mid_m5/dun/m5d5/level/m5d5",1,3703,3741,4270,826,21,0,15,0,False,0,False,1,True,False,True,False,573,-1,-1,854655,0,172,-1,0,-1,False,4,0,0,0,0,False,False,0,False,False,False,False,False,0
 1120,"ec048","ex4/02_mid_m5/fld/m5f2/level/m5f2",1,3703,4138,3710,697,21,1,29,910,False,58,False,0,True,False,False,False,1001,-1,-1,0,0,0,1200,682,-1,False,4,0,0,0,0,False,False,0,False,False,True,False,True,0
 1121,"a2fe_3","ex1/03_abr_a2/fld/a2fe/level/a2fe",1,497,510,2265,334,7,2,10,926,False,69,False,0,True,False,False,False,1001,122019,124166,0,0,0,-1,680,-1,False,4,0,0,0,0,False,False,0,False,False,False,False,True,0
-1122,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,0
+1122,"z3oz","ex2/05_zon_z3/ome/z3oz/level/z3oz",1,2405,519,4288,821,1,2,17,908,False,150,False,0,True,False,False,False,1001,122016,124477,0,0,0,-1,687,-1,False,4,0,0,0,0,False,True,0,False,False,True,False,True,0
 1123,"n5c1","ex4/01_nvt_n5/cnt/n5c1/level/n5c1",1,3705,3743,4287,818,27,3,33,909,False,0,False,0,True,False,False,False,1001,122031,124772,0,0,0,-1,664,-1,False,4,0,0,0,0,False,False,0,False,False,True,False,True,0
 1124,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,0
 1125,"m5e6","ex4/02_mid_m5/evt/m5e6/level/m5e6",1,3703,3741,4293,825,23,0,15,0,False,0,False,0,True,False,False,False,904,-1,-1,854660,0,169,-1,0,-1,False,4,0,0,0,0,False,False,0,False,False,False,False,False,0

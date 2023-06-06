@@ -941,8 +941,8 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 947,"",0,False,False,False,0,0
 948,"",0,False,False,False,0,0
 949,"music/ex4/BGM_EX4_Ban_08.scd",1,False,False,True,90,0
-950,"",0,False,False,False,0,0
-951,"",0,False,False,False,0,0
+950,"music/ex4/BGM_EX4_Ban_09.scd",1,False,False,True,90,0
+951,"music/ex4/BGM_EX4_Ban_10.scd",1,False,False,True,90,0
 952,"music/ex4/BGM_EX4_Dan_D11.scd",1,False,False,True,90,0
 953,"",0,False,False,False,0,0
 954,"",0,False,False,False,0,0
@@ -953,6 +953,6 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 959,"music/ex4/BGM_EX4_MoE_07.scd",1,False,False,True,90,0
 960,"music/ex4/BGM_EX4_MoE_08.scd",1,False,False,True,90,0
 961,"music/ffxiv/BGM_Ride_Rubi.scd",1,False,False,True,90,2
-962,"",0,False,False,False,0,0
-963,"",0,False,False,False,0,0
-964,"",0,False,False,False,0,0
+962,"music/ex4/BGM_EX4_Ban_11.scd",1,False,False,True,90,0
+963,"music/ex4/BGM_EX4_Ban_12.scd",1,False,False,True,90,0
+964,"music/ex4/BGM_EX4_Ban_13.scd",1,False,False,True,90,0

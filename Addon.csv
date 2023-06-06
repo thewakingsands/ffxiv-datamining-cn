@@ -5986,7 +5986,7 @@ A：Assist，协助他人打倒敌人的次数"
 6220,"设置是否开启网格移动调整功能。"
 6221,"移动选中的物品。"
 6222,"旋转选中的物品。"
-6223,"撤除选中的物品。"
+6223,"将选中的物品撤回背包。"
 6224,"将选中的物品收入仓库。"
 6227,"开启网格移动调整功能"
 6228,"放在桌台上"
@@ -13292,7 +13292,7 @@ Immerse Gamepack尚未安装。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>生效区域<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ·城市
 ·住宅区
-·苍穹街
+·天穹街
 ·无人岛"
 13754,"通过“<Sheet(Item,IntegerParameter(3),0)/>”学习
 副本任务“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”获得"
