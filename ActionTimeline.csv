@@ -8095,7 +8095,7 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,WeaponTimeline,byte,byte,byte,bit
 8091,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
 8092,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
 8093,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
-8094,0,0,False,0,0,0,"",0,0,0,0,0,False,0,False,False,0,False,False,False,0
+8094,0,1,False,0,0,3,"emote_sp/sp50",0,2,1,2,0,True,0,True,True,0,False,False,True,0
 8095,0,1,False,0,0,2,"emote/act_emot30",0,2,1,2,0,True,0,True,True,0,False,False,True,0
 8096,0,1,False,0,0,2,"emote/act_emot31",0,2,1,2,0,True,0,True,True,0,False,False,True,0
 8097,0,1,False,0,0,2,"emote/act_emot32",0,2,1,2,0,True,0,True,True,0,False,False,True,0

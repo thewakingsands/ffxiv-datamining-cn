@@ -79,4 +79,4 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 75,"曼德维尔武器",4,True,False,12
 76,"主线任务",8,True,False,2
 77,"职业任务",8,True,False,3
-78,"",0,False,False,0
+78,"莫雯卓越工具",4,True,False,52

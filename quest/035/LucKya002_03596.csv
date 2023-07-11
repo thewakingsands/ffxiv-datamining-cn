@@ -114,8 +114,8 @@ int32,str,str
 72,"TEXT_LUCKYA002_03596_A1_000_002","魔物出逃，一片混乱"
 73,"TEXT_LUCKYA002_03596_A1_000_003","没想到拉哈布雷亚居然是研究者"
 74,"TEXT_LUCKYA002_03596_A1_000_004","没有值得报告的事情"
-75,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_061","<UIForeground>F20223</UIForeground>那个应该是变身魔法吧。
-可能是现在正在研究的新创造魔法的研究成果。<UIForeground>01</UIForeground>"
+75,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_061","<UIForeground>F20223</UIForeground>那个应该不是变身魔法，
+很可能是现在正在研究的新创造魔法的研究成果。<UIForeground>01</UIForeground>"
 76,"TEXT_LUCKYA002_03596_ACADEMYGATEKEEPER03596_000_062","<UIForeground>F20223</UIForeground>变身只是暂时性的效果。
 那个创造魔法会将自身的生命转换成以太使用，
 从而将强韧而又伟大的理念变为现实。<UIForeground>01</UIForeground>"

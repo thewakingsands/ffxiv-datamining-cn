@@ -96,8 +96,8 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1051,"秘籍：第10卷",1,90,255,0,1,True,True,True,True,True,True,True,True,True
 1052,"装饰品2",3,73,255,0,4,False,False,False,False,False,False,False,True,False
 1053,"安登",6,80,255,0,9,False,True,True,True,True,True,True,True,True
-1054,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
-1055,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1054,"兔兔族",5,80,255,0,5,False,True,True,True,True,True,True,True,True
+1055,"莫雯卓越工具",7,90,255,70266,2,False,True,True,True,True,True,True,True,True
 1056,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"库尔札斯",10,255,50,0,9,False,True,True,True,True,True,True,True,True
 2001,"龙堡",10,255,50,0,8,False,True,True,True,True,True,True,True,True
@@ -113,5 +113,5 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 2011,"星外天域",10,255,80,69932,2,False,True,True,True,True,True,True,True,True
 2012,"古代世界",10,255,80,69956,1,False,True,True,True,True,True,True,True,True
 2013,"81-90",9,255,80,67631,1,False,True,True,True,True,True,True,True,True
-2014,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+2014,"莫雯卓越工具",11,255,90,70266,1,False,True,True,True,True,True,True,True,True
 2015,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False

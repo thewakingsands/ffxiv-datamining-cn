@@ -47,9 +47,9 @@ int32,str,str
 不，请向最高的水晶段位发出冲击！"
 26,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_025","恭喜你到达了水晶段位！
 期待你在新的赛季也能有同样精彩的表现！"
-27,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_026","你在上一赛季中并未达到青铜以上的段位，
-所以很遗憾，没有能给你的奖励。
-请在新的赛季中再加把劲吧！"
+27,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_026","你在上一赛季中并未进行段位赛，
+或是在上一赛季中并未达到至少青铜段位。
+所以很遗憾，没有能给你的奖励。"
 28,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_030","根据成绩统计方法的不同，
 我们准备了“排名奖励”和“段位奖励”这两种奖励。"
 29,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_031","所谓排名奖励，
