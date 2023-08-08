@@ -12147,6 +12147,10 @@ int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01
 2012930,False,False,False,False,False,False,False,False,2,0,0,30335,False,False,True,0,False,0,False,False
 2012931,False,False,False,False,False,False,False,False,2,0,0,30921,False,False,True,0,False,0,False,False
 2012932,False,False,False,False,False,False,False,False,2,0,0,5574,False,False,True,0,False,0,False,False
+2012933,False,False,False,False,False,False,False,False,3,70080,7,2075,True,False,True,0,False,0,False,False
+2012934,False,False,False,False,False,False,False,False,3,70080,7,28752,False,False,True,0,False,0,False,False
+2012935,False,False,False,False,False,False,False,False,3,70080,7,28752,False,False,True,0,False,0,False,False
+2012937,False,False,False,False,False,False,False,False,3,70080,7,15936,False,False,True,0,False,0,False,False
 2012938,False,False,False,False,False,False,False,False,3,70078,7,30086,False,False,True,0,False,0,False,False
 2012939,False,False,False,False,False,False,False,False,3,70078,7,30086,False,False,True,0,False,0,False,False
 2012940,False,False,False,False,False,False,False,False,3,70078,7,29918,False,False,True,0,False,0,False,False

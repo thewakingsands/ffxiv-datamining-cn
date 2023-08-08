@@ -2862,9 +2862,9 @@ int32,str,byte,byte,bit&01,int32,int32,int32,int32,uint16
 2858,"ffxiv/pvpmks/pvpmks06010/pvpmks06010",1,1,True,0,0,0,0,0
 2859,"ffxiv/pvpmks/pvpmks06020/pvpmks06020",1,1,True,0,0,0,0,0
 2860,"ffxiv/pvpmks/pvpmks06030/pvpmks06030",1,1,True,0,0,0,0,0
-2861,"",0,0,False,0,0,0,0,0
-2862,"",0,0,False,0,0,0,0,0
-2863,"",0,0,False,0,0,0,0,0
+2861,"ffxiv/anvwil/anvwil00910/anvwil00910",1,1,True,0,0,0,0,0
+2862,"ffxiv/anvwil/anvwil00920/anvwil00920",1,1,True,0,0,0,0,0
+2863,"ffxiv/anvwil/anvwil00930/anvwil00930",1,1,True,0,0,0,0,0
 2864,"",0,0,False,0,0,0,0,0
 2865,"ex4/qstomg/qstomg06110/qstomg06110",1,1,True,0,0,0,0,0
 2866,"ex4/bosnid/bosnid00210/bosnid00210",1,1,True,0,0,0,0,0
@@ -2872,7 +2872,7 @@ int32,str,byte,byte,bit&01,int32,int32,int32,int32,uint16
 2868,"ex4/aktkmh/aktkmh10705/aktkmh10705",1,1,True,0,0,0,0,0
 2869,"ex4/aktkmh/aktkmh10715/aktkmh10715",1,1,True,0,0,0,0,0
 2870,"ffxiv/pvpmks/pvpmks06000/pvpmks06000",1,1,True,0,0,0,0,0
-2871,"",0,0,False,0,0,0,0,0
+2871,"ffxiv/anvwil/anvwil00940/anvwil00940",1,1,True,0,0,0,0,0
 2872,"ex4/chrhdb/chrhdb81140/chrhdb81140",1,1,True,0,0,0,0,0
 2873,"ffxiv/manfst/manfst50342/manfst50342",1,1,True,0,0,0,0,0
 2874,"ffxiv/manfst/manfst50125/manfst50125",1,1,True,0,0,0,0,0
