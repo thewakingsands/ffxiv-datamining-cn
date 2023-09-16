@@ -292,22 +292,27 @@ int32,byte,byte,Image,byte,str,str,str
 职业是根据当前<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>主手<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上的装备决定的。
 
 更换主手装备便可轻松完成<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>转职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
-111,0,0,0,0,"","",""
+111,1,0,150112,0,"学会了新职业之后，请务必记得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存新加的套装<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+使用套装功能，
+即可瞬间更换全身
+包括主手装备在内的装备。","",""
 112,0,0,0,0,"","",""
 113,0,0,0,0,"","",""
 114,0,0,0,0,"","",""
-115,1,0,150391,0,"
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>套装<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能能够将各种装备的搭配分别保存下来。
+115,1,0,150101,0,"开放了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“职业转换系统”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
+前往其他职业的行会，与接待员对话后
+即可领取学会新职业
+所需的任务。","",""
+116,1,0,150102,0,"在艾欧泽亚，除了战斗职业之外，
+还有能制作道具的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>制作职业<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+以及能在地图上收集到各种
+生产素材的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>采集职业<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-转职的时候使用套装功能，可以同时变更全身所有装备。
-
-只要事先将对应的装备准备好，便可以随时随地瞬间更换装备。","",""
-116,1,0,150392,0,"
-设置套装配置可以在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>角色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>窗口中进行。
-
-按下<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>＋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮便可以将当前身上穿戴的装备作为套装保存下来。
-
-利用套装，无论是职业特定的装备还是各种混搭的漂亮装备都可以随时记录下来并瞬间转换完毕。","",""
+请在熟悉了现在
+所使用的职业之后，
+再学习其他的职业，
+进一步探索这个世界吧。","",""
 117,0,0,0,0,"","",""
 118,0,0,0,0,"","",""
 119,0,0,0,0,"","",""
@@ -601,13 +606,16 @@ int32,byte,byte,Image,byte,str,str,str
 260,1,0,150991,0,"
 获得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>灵魂水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>！
 
-灵魂水晶是能够开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。每个特职所对应的灵魂水晶均不相同，进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职转换<UIGlow>01</UIGlow><UIForeground>01</UIForeground>只能转为对应的特职。","",""
+灵魂水晶是能够开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的重要道具。
+装备对应不同职业的不同武器和灵魂水晶之后，即可进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职转换<UIGlow>01</UIGlow><UIForeground>01</UIForeground>转为对应的特职。","",""
 261,1,0,150992,0,"
 转为特职后，除了可以使用职业状态时的技能之外，还可以学习和使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职专用技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 262,1,0,150993,0,"
-特职状态下，等级、经验值均和其基础职业共通。
+如果该特职有对应的基础职业，
+那么特职的等级、经验值均和其基础职业共通。
 
-职业状态下升级时，特职的等级也会随之提高，反过来，特职状态下升级时也是同样的效果。","",""
+没有对应基础职业的特职，
+玩家也可以从特定的等级开始游玩。","",""
 263,0,0,0,0,"","",""
 264,0,0,0,0,"","",""
 265,0,0,0,0,"","",""
@@ -4395,7 +4403,12 @@ int32,byte,byte,Image,byte,str,str,str
 
 将想要使用的技能添加到热键栏，
 出发去寻找采集地点吧！","",""
-2573,0,0,0,0,"","",""
+2573,1,0,152454,0,"要想改变召唤兽的外貌，
+需要完成对应任务。
+召唤师需要完成任务“召唤兽变形”
+学者需要完成任务“小仙女变形”
+完成各自特职对应的任务后，
+即可使用任务对应的召唤兽外貌。","",""
 2574,0,0,0,0,"","",""
 2575,0,0,0,0,"","",""
 2576,0,0,0,0,"","",""

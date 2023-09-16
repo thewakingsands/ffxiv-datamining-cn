@@ -48,7 +48,7 @@ int32,str
 26,"异想量谱"
 27,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太契约<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前小仙女的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异想以太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值。在自身处于战斗状态且小仙女处于同行状态时，使用消耗以太超流的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>生命活性法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>深谋远虑之策<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能可以增加异想以太量值，积累的异想以太量值可以用来发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太契约<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 28,"异想量谱"
-29,"学会并使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天召唤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，可以暂时召唤出<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天使<UIGlow>01</UIGlow><UIForeground>01</UIForeground>替代朝日小仙女和夕月小仙女。
+29,"学会并使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天召唤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，可以暂时召唤出<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽天使<UIGlow>01</UIGlow><UIForeground>01</UIForeground>替代朝日小仙女。
 异想量谱会显示炽天使的剩余存在时间。"
 30,"奥秘量谱"
 31,"发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽卡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>奥秘量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前抽出的卡片。使用抽出的卡片可以获得各种各样的效果，同时卡片效果会临时取代<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>出卡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"

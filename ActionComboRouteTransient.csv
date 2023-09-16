@@ -475,8 +475,7 @@ int32,str
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>增盈切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地狱切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖异之镰状态中，变为绞决。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖异之镰且缢杀预备状态中，变为缢杀。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※妖异之镰状态中，变为断首。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜游魂状态中，变为虚无收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※夜游魂且交错收割预备状态中，变为交错收割。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 60,"绅士的连击技能。

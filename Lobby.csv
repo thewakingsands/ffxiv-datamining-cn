@@ -1048,7 +1048,13 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 820,0,0,0,"“服务器”即是您的角色所在的世界。
 选定服务器之后，没有特殊情况无法变更。
 如果想和朋友一起体验«最终幻想14»的乐趣，
-请一定要在同一个世界里创建角色。","",""
+请一定要在同一个世界里创建角色。
+<If(Equal(IntegerParameter(2),2))>
+
+<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>该服务器中现在对新角色进行了限制。
+请等待限制解除后再开始创建，或到其他服务器中创建新角色。
+在其他服务器中创建新角色开始游戏之后，
+可以通过跨界传送或超域传送去往其他服务器游玩。<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>","",""
 821,0,0,0,"(Skipped)","",""
 822,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/>♂</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/>♀</Case></Switch>の外見やクラス・名前などのキャラクターメイクデータを一時保存データスロット<Value>IntegerParameter(3)</Value>に保存します。","",""
 823,0,0,0,"读取在<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>保存的<Value>IntegerParameter(2)</Value>号<Switch(IntegerParameter(4))><Case(1)><Sheet(Tribe,IntegerParameter(3),0)/>男</Case><Case(2)><Sheet(Tribe,IntegerParameter(3),1)/>女</Case></Switch>人物形象数据。","",""
@@ -1443,7 +1449,7 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 尽情享受超域传送带来的乐趣吧！
 
 ※通过超域传送去往其他服务器时无法使用原始大区的通讯贝和部队，此外还有其他部分限制，敬请谅解。","",""
-1156,0,0,0,"データセンタートラベルの注意事項を確認","",""
+1156,0,0,0,"查看超域传送的注意事项","",""
 1157,0,0,0,"注意事項について了承しました","",""
 1158,0,0,0,"选择服务器","",""
 1159,0,0,0,"取消","",""
@@ -1550,9 +1556,11 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 登陆时将会从角色创建时所选城邦的以太之光进入游戏。","",""
 1232,0,0,0,"此角色需要返回原始服务器修改姓名后才可使用“移动到空闲服务器”功能。","",""
 1233,0,0,0,"此角色需要返回原始服务器修改雇员姓名后才可使用“移动到空闲服务器”功能。","",""
-1234,0,0,0,"","",""
-1235,0,0,0,"","",""
-1236,0,0,0,"","",""
+1234,0,0,0,"您此前从未连接过<Highlight>StringParameter(1)</Highlight>服务器所在的<Highlight>StringParameter(2)</Highlight>，无法进行超域传送。
+请退出游戏，在登陆器中选择<Highlight>StringParameter(2)</Highlight>后开始游戏，直到进入该大区的角色选择界面。此后就可以向该大区进行超域传送了。","",""
+1235,0,0,0,"您在<Highlight>StringParameter(1)</Highlight>服务器所在的<Highlight>StringParameter(2)</Highlight>中创建的角色数量已达到上限，无法使用超域传送前往该大区。
+只有创建在目标服务器所在大区的角色数量未达到上限时，才能通过超域传送前往目标服务器。请调整<Highlight>StringParameter(2)</Highlight>的角色数量后，再次尝试超域传送。","",""
+1236,0,0,0,"该账号正在游戏中。请在经过一段时间后，通过次级指令再次尝试。","",""
 1237,0,0,0,"","",""
 1238,0,0,0,"","",""
 1239,0,0,0,"","",""
@@ -2118,8 +2126,8 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 1799,0,0,0,"","",""
 1800,0,0,0,"确定要取消登录吗？","",""
 1801,0,0,0,"一段时间内没有进行任何操作，已经自动登出游戏。","",""
-1802,0,0,0,"","",""
-1803,0,0,0,"","",""
+1802,0,0,0,"<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>选择此种族需要玩家持有“<Sheet(ExVersion,IntegerParameter(1),0)/>”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1803,0,0,0,"RGB : <Value>IntegerParameter(1)</Value>,<Value>IntegerParameter(2)</Value>,<Value>IntegerParameter(3)</Value>","",""
 1804,0,0,0,"","",""
 1805,0,0,0,"","",""
 1806,0,0,0,"","",""
@@ -2270,8 +2278,12 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 1951,0,0,0,"请选择角色部族。","",""
 1952,0,0,0,"请选择角色性别。","",""
 1953,0,0,0,"请设置角色特征。","",""
-1954,0,0,0,"请设置角色命名日期。","",""
-1955,0,0,0,"请选择角色守护神。","",""
+1954,0,0,0,"请设置角色命名日期。
+
+<UIForeground>02</UIForeground><UIGlow>25</UIGlow>角色的生日对游戏进程没有任何影响。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1955,0,0,0,"请选择角色守护神。
+
+<UIForeground>02</UIForeground><UIGlow>25</UIGlow>角色的守护神对游戏进程没有任何影响。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1956,0,0,0,"请选择开始游戏时的职业。","",""
 1957,0,0,0,"请选择角色所在服务器。","",""
 1958,0,0,0,"请设置角色姓名。","",""
@@ -2507,7 +2519,8 @@ PlayStation™Storeで「製品版」をご購入ください。<Else/>モグス
 2173,0,0,0,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>保存","",""
 2174,0,0,0,"临时数据栏<Value>IntegerParameter(1)</Value>","",""
 2175,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/>男</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/>女</Case></Switch>","",""
-2176,0,0,0,"要保存目前的形象吗？","",""
+2176,0,0,0,"要保存目前的形象吗？
+今后创建新角色时，可以读取已保存的角色形象，快速完成角色的创建。","",""
 2177,0,0,0,"是","",""
 2178,0,0,0,"否","",""
 2179,0,0,0,"无法读取已有的形象数据，文件格式错误或文件已损坏。","",""

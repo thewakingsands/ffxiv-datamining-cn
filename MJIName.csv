@@ -1,0 +1,10 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
+0,"",0,"0",0,0,1,0,0
+1,"草原",0,"0",0,0,1,0,0
+2,"溪流",0,"0",0,0,1,0,0
+3,"森林",0,"0",0,0,1,0,0
+4,"沙滩",0,"0",0,0,1,0,0
+5,"山",0,"0",0,0,1,0,0
+6,"洞窟",0,"0",0,0,1,0,0

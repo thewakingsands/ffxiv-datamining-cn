@@ -151,3 +151,11 @@ int32,str,str
 87,"TEXT_JOBSMN300_01091_QIB_001_YMHITRA_BATTLETALK_05","好，破坏掉红莲之楔了！
 一鼓作气！<Highlight>ObjectParameter(1)</Highlight>！"
 88,"TEXT_JOBSMN300_01091_QIB_001_YMHITRA_BATTLETALK_DEAD","对不起……我的力量、太弱了……"
+89,"TEXT_JOBSMN300_01091_SYSTEM_000_060","学会了新特职！
+通过装备领取的灵魂水晶，
+可以转换特职。"
+90,"TEXT_JOBSMN300_01091_SYSTEM_000_061","转换特职后，
+可以尝试保存套装！
+这样当前的装备便会被记录下来，能实现立刻换装。"
+91,"TEXT_JOBSMN300_01091_SYSTEM_000_062","套装的保存和变更装备一样，
+可以在角色画面进行。"

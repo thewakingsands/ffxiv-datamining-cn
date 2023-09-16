@@ -266,6 +266,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 迦楼罗之灵
 泰坦之灵
 伊弗利特之灵
+朝日小仙女
 >>外貌
 宝石兽
 绿宝石兽
@@ -274,11 +275,19 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 伊弗利特之灵
 泰坦之灵
 迦楼罗之灵
+夕月小仙女
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌处输入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召唤兽会恢复原状。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+显示召唤兽的外貌设定列表。
+
 >>示例
 /召唤兽投影 迦楼罗之灵 红宝石兽
-将迦楼罗之灵的外貌变成红宝石兽。","/召唤兽投影","/petmirage",36,0
+将迦楼罗之灵的外貌变成红宝石兽。
+/召唤兽投影 迦楼罗之灵
+将迦楼罗之灵的外貌恢复原状。
+/召唤兽投影
+显示召唤兽的外貌设定列表。","/召唤兽投影","/petmirage",36,0
 34,3,2,7,2,0,"/petsize","","/召唤兽尺寸 召唤兽的名字 尺寸
 /petsize
 变更特定召唤兽的尺寸。
@@ -600,8 +609,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /marking、/mk
 给指定角色加上指定的标记。省略代名词可以将标记加到当前选中的目标上。
 >>标记种类
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击(attack)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击1～5(attack1～5)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　设置攻击1～5的标记。不指定数值则会标记当前未使用的最小数值攻击标记。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击(attack)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击1～8(attack1～8)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　设置攻击1～8的标记。不指定数值则会标记当前未使用的最小数值攻击标记。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>止步(bind)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>止步1～3(bind1～3)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置止步1～3的标记。不指定数值则会标记当前未使用的最小数值止步标记。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>禁止(stop)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>禁止1～2(stop1～2)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1038,6 +1047,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 迦楼罗之灵
 泰坦之灵
 伊弗利特之灵
+朝日小仙女
 >>外貌
 宝石兽
 绿宝石兽
@@ -1046,11 +1056,19 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 迦楼罗之灵
 泰坦之灵
 伊弗利特之灵
+夕月小仙女
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌处输入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召唤兽会恢复原状。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+显示召唤兽的外貌设定列表。
+
 >>示例
 /召唤兽投影 迦楼罗之灵 红宝石兽
-将迦楼罗之灵的外貌变成红宝石兽。","/召唤物投影","/egimirage",36,0
+将迦楼罗之灵的外貌变成红宝石兽。
+/召唤兽投影 迦楼罗之灵
+将迦楼罗之灵的外貌恢复原状。
+/召唤兽投影
+显示召唤兽的外貌设定列表。","/召唤物投影","/egimirage",36,0
 227,3,1,2,0,0,"/title","","/称号 子命令
 /title
 改变称号。
@@ -1406,7 +1424,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　在开启和关闭之间切换","/联系线","",36,0
 306,2,1,2,0,0,"/autotarget","","/自动选中 子命令
 /autotarget
-开启“未选中目标时自动选中”的功能。
+开启“遭受敌对性质技能时自动选中目标”的功能。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　开启自动选中功能。
@@ -3743,3 +3761,90 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/吓唬人","",293,0
+658,2,1,2,0,0,"/adventoflight","/advent","/威光降临 子命令
+/adventoflight(/advent)
+威猛地从天而降。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/威光降临","",293,0
+659,2,1,2,0,0,"/jumpforjoy1","/jj1","/雀跃1 子命令
+/jumpforjoy1(/jj1)
+开心地跳了起来，动作格外可爱。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/雀跃1","",293,0
+660,2,1,2,0,0,"/jumpforjoy2","/jj2","/雀跃2 子命令
+/jumpforjoy2(/jj2)
+开心地跳了起来，动作格外欢乐。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/雀跃2","",293,0
+661,2,1,2,0,0,"/jumpforjoy3","/jj3","/雀跃3 子命令
+/jumpforjoy3(/jj3)
+开心地跳了起来，跳得格外的高。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/雀跃3","",293,0
+662,2,1,2,0,0,"/jumpforjoy4","/jj4","/雀跃4 子命令
+/jumpforjoy4(/jj4)
+开心地跳了起来，动作格外舒展。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/雀跃4","",293,0
+663,2,1,2,0,0,"/jumpforjoy5","/jj5","/雀跃5 子命令
+/jumpforjoy5(/jj5)
+开心地跳了起来，动作好像仙人刺。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/雀跃5","",293,0
+664,2,1,2,0,0,"/handtoheart","","/手抚胸 子命令
+/handtoheart
+以手抚胸。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/手抚胸","",293,0
+665,2,1,2,0,0,"/cheeronbright","/cheerbright","/声援小白 子命令
+ /cheeronbright(/cheerbright)
+做出声援小白的动作。
+ >>子命令
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小白","",293,0
+666,2,1,2,0,0,"/cheerwaveviolet","/cheerviolet","/声援小紫 子命令
+ /cheerwaveviolet(/cheerviolet)
+做出声援小紫的动作。
+ >>子命令
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小紫","",293,0
+667,2,1,2,0,0,"/cheerjumpgreen","/cheergreen","/声援小绿 子命令
+ /cheerjumpgreen(/cheergreen
+做出声援小绿的动作。
+ >>子命令
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/声援小绿","",293,0
+668,2,1,2,0,0,"/allsaintscharm","","/allsaintscharm サブコマンド
+守護天節のおまじないをかける。
+>>サブコマンド
+motion
+　…モーションのみ、感情表現テキストは表示しない。
+※サブコマンド省略
+　…モーションと感情表現テキストを表示する。","","",293,0

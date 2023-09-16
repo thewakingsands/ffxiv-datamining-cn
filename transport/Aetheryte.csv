@@ -9,62 +9,64 @@ int32,str,str
 5,"TEXT_AETHERYTE_REGISTER_HOME_POINT","<Gui(69)/> 设置返回点"
 6,"TEXT_AETHERYTE_REGISTER_FAVORITE_CHECKED","<Gui(68)/> 添加到收藏夹"
 7,"TEXT_AETHERYTE_REGISTER_FAVORITE","<Gui(69)/> 添加到收藏夹"
-8,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED","<Gui(67)/> 添加到免费点"
-9,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE","<Gui(69)/> 添加到免费点"
-10,"TEXT_AETHERYTE_MOVE_INSTANCE","<Gui(69)/> 切换副本区"
-11,"TEXT_AETHERYTE_MENU_CANCEL","<Gui(69)/> 取消"
-12,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE","请选择目的地。
+8,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED","<If(PlayerParameter(103))><Gui(67)/><Else/><Gui(120)/></If> 添加到免费点（静态密码锁）"
+9,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE","<Gui(69)/> 添加到免费点（静态密码锁）"
+10,"TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE_CHECKED","<If(PlayerParameter(104))><If(Equal(PlayerParameter(78),99))><Gui(123)/><Else/><Gui(121)/></If><Else/><If(Equal(PlayerParameter(78),99))><Gui(63)/><Else/><Gui(122)/></If></If> 添加到<If(Equal(PlayerParameter(78),99))>免费点PS Plus<Else/>免费点</If>"
+11,"TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE","<If(Equal(PlayerParameter(78),99))><Gui(123)/><Else/><Gui(121)/></If> 添加到<If(Equal(PlayerParameter(78),99))>免费点PS Plus<Else/>免费点</If>"
+12,"TEXT_AETHERYTE_MOVE_INSTANCE","<Gui(69)/> 切换副本区"
+13,"TEXT_AETHERYTE_MENU_CANCEL","<Gui(69)/> 取消"
+14,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE","请选择目的地。
 当前地点：<Highlight>StringParameter(1)</Highlight>"
-13,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE","
+15,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE","
 
 没有可移动的城内以太之晶。
 
 "
-14,"TEXT_AETHERYTE_AETHERNET_DEST_NAME","<Sheet(PlaceName,IntegerParameter(1),0)/>"
-15,"TEXT_AETHERYTE_AETHERNET_MENU_CANCEL","取消"
-16,"TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL","<Sheet(Addon,102345,0)/>"
-17,"TEXT_AETHERYTE_FIRST_OPEN_01","开放了城内以太之晶！"
-18,"TEXT_AETHERYTE_FIRST_OPEN_02","接触城内以太之晶后，
+16,"TEXT_AETHERYTE_AETHERNET_DEST_NAME","<Sheet(PlaceName,IntegerParameter(1),0)/>"
+17,"TEXT_AETHERYTE_AETHERNET_MENU_CANCEL","取消"
+18,"TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL","<Sheet(Addon,102345,0)/>"
+19,"TEXT_AETHERYTE_FIRST_OPEN_01","开放了城内以太之晶！"
+20,"TEXT_AETHERYTE_FIRST_OPEN_02","接触城内以太之晶后，
 可使用自由来往城内以太之晶的都市传送网。"
-19,"TEXT_AETHERYTE_FULL_OPEN_FST","开放了格里达尼亚的所有城内以太之晶！
+21,"TEXT_AETHERYTE_FULL_OPEN_FST","开放了格里达尼亚的所有城内以太之晶！
 作为奖励，以后也可传送到青貉门和黄蛇门，
 以及格里达尼亚飞艇坪！"
-20,"TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE","开放了格里达尼亚的所有城内以太之晶！
+22,"TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE","开放了格里达尼亚的所有城内以太之晶！
 作为奖励，以后也可传送到青貉门、黄蛇门和白狼门，
 以及格里达尼亚飞艇坪！"
-21,"TEXT_AETHERYTE_FULL_OPEN_SEA","开放了利姆萨·罗敏萨的所有城内以太之晶！
+23,"TEXT_AETHERYTE_FULL_OPEN_SEA","开放了利姆萨·罗敏萨的所有城内以太之晶！
 作为奖励，以后也可传送到和风陆门和暴风陆门，
 以及利姆萨·罗敏萨飞艇坪！"
-22,"TEXT_AETHERYTE_FULL_OPEN_WIL","开放了乌尔达哈的所有城内以太之晶！
+24,"TEXT_AETHERYTE_FULL_OPEN_WIL","开放了乌尔达哈的所有城内以太之晶！
 作为奖励，以后也可传送到纳尔之门、札尔之门和娜娜莫新门，
 以及乌尔达哈飞艇坪！"
-23,"TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER","开放了金碟游乐场的所有城内以太之晶！"
-24,"TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC","开放了伊修加德的所有城内以太之晶！
+25,"TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER","开放了金碟游乐场的所有城内以太之晶！"
+26,"TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC","开放了伊修加德的所有城内以太之晶！
 作为奖励，以后也可传送到圣徒门！"
-25,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE","开放了田园郡的所有城内以太之晶！
+27,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE","开放了田园郡的所有城内以太之晶！
 作为奖励，以后也可以传送到后记门！"
-26,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP","开放了田园郡的所有城内以太之晶！
+28,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP","开放了田园郡的所有城内以太之晶！
 作为奖励，以后也可以传送到后记门和序言门！"
-27,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE","开放了黄金港的所有城内以太之晶！
+29,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE","开放了黄金港的所有城内以太之晶！
 作为奖励，以后也可以传送到黄金港飞艇坪！"
-28,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP","开放了黄金港的所有城内以太之晶！
+30,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP","开放了黄金港的所有城内以太之晶！
 作为奖励，以后也可以传送到红玉海和黄金港飞艇坪！"
-29,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH","开放了神拳痕的所有城内以太之晶！
+31,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH","开放了神拳痕的所有城内以太之晶！
 作为奖励，以后也可以传送到边区！"
-30,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP","开放了神拳痕的所有城内以太之晶！
+32,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP","开放了神拳痕的所有城内以太之晶！
 作为奖励，以后也可以传送到边区和山区！"
-31,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE","开放了多玛飞地的所有城内以太之晶！
+33,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE","开放了多玛飞地的所有城内以太之晶！
 作为奖励，以后也可以传送到无二江流域（延夏方面）！"
-32,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","开放了多玛飞地的所有城内以太之晶！
+34,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","开放了多玛飞地的所有城内以太之晶！
 作为奖励，以后也可以传送到
 无二江流域（延夏方面）和甘戈斯了！"
-33,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","开放了水晶都的所有城内以太之晶！
+35,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","开放了水晶都的所有城内以太之晶！
 作为奖励，以后也可以传送到雷克兰德！"
-34,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","开放了游末邦的所有城内以太之晶！
+36,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","开放了游末邦的所有城内以太之晶！
 作为奖励，以后也可以传送到珂露西亚岛！"
-35,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN","开放了旧萨雷安的所有城内以太之晶！"
-36,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP","开放了旧萨雷安的所有城内以太之晶！
+37,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN","开放了旧萨雷安的所有城内以太之晶！"
+38,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP","开放了旧萨雷安的所有城内以太之晶！
 作为奖励，以后也可以传送到迷津！"
-37,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN","开放了拉札罕的所有城内以太之晶！"
-38,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP","开放了拉札罕的所有城内以太之晶！
+39,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN","开放了拉札罕的所有城内以太之晶！"
+40,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP","开放了拉札罕的所有城内以太之晶！
 作为奖励，以后也可以传送到萨维奈岛！"

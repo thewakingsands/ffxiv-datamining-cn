@@ -1,13 +1,15 @@
 ﻿key,0,1,2
 #,,,
 int32,uint32,uint16,str
-0,1039203,151,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
+0,1039203,151,"“萨雷安魔法大学交易”的物品交纳界面上
+显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>考古系：露露夏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>锻铁匠、铸甲匠、雕金匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这三种职业交纳物品。
 
 另外，考古系需要的物品
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>锻铁匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>铸甲匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>雕金匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在达到等级要求后皆可以制作。
-可打开制作笔记，在特殊配方的职业故事里选择魔法大学交易来查看配方，
+可打开制作笔记，在“特殊配方”的“职业任务”项中，
+选择“魔法大学交易”查看配方，
 通过市场等途径获取材料进行制作。
 
 交纳物品可获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
@@ -16,13 +18,15 @@ int32,uint32,uint16,str
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的报酬。"
-1,1038525,152,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
+1,1038525,152,"“萨雷安魔法大学交易”的物品交纳界面上
+显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>天文系：裘德<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>刻木匠、制革匠、裁衣匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这三种职业交纳物品。
 
 另外，天文系需要的物品
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>刻木匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>制革匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>裁衣匠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在达到等级要求后皆可以制作。
-可打开制作笔记，在特殊配方的职业故事里选择魔法大学交易来查看配方，
+可打开制作笔记，在“特殊配方”的“职业任务”项中，
+选择“魔法大学交易”查看配方，
 通过市场等途径获取材料进行制作。
 
 交纳物品可获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
@@ -31,13 +35,15 @@ int32,uint32,uint16,str
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的报酬。"
-2,1039220,153,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
+2,1039220,153,"“萨雷安魔法大学交易”的物品交纳界面上
+显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>医学系：德布罗依<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>炼金术士、烹调师<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种职业交纳物品。
 
 另外，医学系需要的物品
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>炼金术士<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>烹调师<UIGlow>01</UIGlow><UIForeground>01</UIForeground>在达到等级要求后皆可以制作。
-可打开制作笔记，在特殊配方的职业故事里选择魔法大学交易来查看配方，
+可打开制作笔记，在“特殊配方”的“职业任务”项中，
+选择“魔法大学交易”查看配方，
 通过市场等途径获取材料进行制作。
 
 交纳物品可获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
@@ -46,7 +52,8 @@ int32,uint32,uint16,str
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的报酬。"
-3,1038501,154,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
+3,1038501,154,"“萨雷安魔法大学交易”的物品交纳界面上
+显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>文化系：雏芥子<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>采矿工、园艺工<UIGlow>01</UIGlow><UIForeground>01</UIForeground>这两种职业交纳物品。
 
@@ -59,7 +66,8 @@ int32,uint32,uint16,str
 
 另外，交纳高收藏价值的物品时虽然获得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>贡献度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不会增加，
 但会得到更多的报酬。"
-4,1038551,155,"“萨雷安魔法大学交易”的物品交纳界面上显示着对应学系需要的物品。
+4,1038551,155,"“萨雷安魔法大学交易”的物品交纳界面上
+显示着对应学系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>以太系：茶·拉恰·提亚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>处可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>捕鱼人<UIGlow>01</UIGlow><UIForeground>01</UIForeground>职业交纳物品。
 
