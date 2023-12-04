@@ -3841,10 +3841,19 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/声援小绿","",293,0
-668,2,1,2,0,0,"/allsaintscharm","","/allsaintscharm サブコマンド
-守護天節のおまじないをかける。
->>サブコマンド
-motion
-　…モーションのみ、感情表現テキストは表示しない。
-※サブコマンド省略
-　…モーションと感情表現テキストを表示する。","","",293,0
+668,2,1,2,0,0,"/allsaintscharm","","/守护天节的魔咒 子命令
+ /allsaintscharm
+施展守护天节的魔咒。
+ >>子命令
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/守护天节的魔咒","",293,0
+671,2,1,2,0,0,"/reference","","/比对文献 子命令
+ /reference
+比对文献。
+ >>子命令
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/比对文献","",293,0

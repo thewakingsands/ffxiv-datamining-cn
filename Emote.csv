@@ -268,10 +268,10 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 264,"声援小白",8087,8086,0,0,0,0,0,False,False,False,2,67,False,True,False,False,False,10027,665,64439,8269,8268,454,640
 265,"声援小紫",8089,8088,0,0,0,0,0,False,False,False,2,68,False,True,False,False,False,10026,666,64440,8271,8270,455,640
 266,"声援小绿",8091,8090,0,0,0,0,0,False,False,False,2,69,False,True,False,False,False,10025,667,64441,8273,8272,456,640
-267,"守護天節のおまじない",8104,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3112,668,64442,8275,8274,457,640
+267,"守护天节的魔咒",8104,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3112,668,64442,8275,8274,457,640
 268,"",8105,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,0,0,64442,8275,8274,457,640
 269,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-270,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
+270,"比对文献",8109,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,6061,671,64444,8277,8276,459,645
 271,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 272,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 273,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
