@@ -2,11 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ310_01802_SEQ_00","不洁三塔的艾斯·卡斯正在打量冒险者。"
-1,"TEXT_HEAVNZ310_01802_SEQ_01","艾斯·卡斯委托冒险者去和幼龙战斗。和龙堡参天高地阿瓦隆尼亚古陆的<Sheet(BNpcName,4273,0)/>对话。"
+1,"TEXT_HEAVNZ310_01802_SEQ_01","艾斯·卡斯委托冒险者去和幼龙战斗。和龙堡参天高地阿瓦隆尼亚古陆的<Sheet(BNpcName,4273,0)/>谈谈。"
 2,"TEXT_HEAVNZ310_01802_SEQ_02","和<Sheet(BNpcName,4273,0)/>进行了交谈。和阿瓦隆尼亚古陆的<Sheet(BNpcName,4273,0)/>对战。"
-3,"TEXT_HEAVNZ310_01802_SEQ_03","战胜了<Sheet(BNpcName,4273,0)/>。<Sheet(BNpcName,4274,0)/>比<Sheet(BNpcName,4273,0)/>更强，和阿瓦隆尼亚古陆的<Sheet(BNpcName,4274,0)/>对话。"
+3,"TEXT_HEAVNZ310_01802_SEQ_03","战胜了<Sheet(BNpcName,4273,0)/>。<Sheet(BNpcName,4274,0)/>比<Sheet(BNpcName,4273,0)/>更强，和阿瓦隆尼亚古陆的<Sheet(BNpcName,4274,0)/>谈谈。"
 4,"TEXT_HEAVNZ310_01802_SEQ_04","和<Sheet(BNpcName,4274,0)/>进行了交谈。和阿瓦隆尼亚古陆的<Sheet(BNpcName,4274,0)/>对战。"
-5,"TEXT_HEAVNZ310_01802_SEQ_05","战胜了<Sheet(BNpcName,4274,0)/>。<Sheet(BNpcName,4275,0)/>比<Sheet(BNpcName,4274,0)/>更强，和阿瓦隆尼亚古陆的<Sheet(BNpcName,4275,0)/>对话。"
+5,"TEXT_HEAVNZ310_01802_SEQ_05","战胜了<Sheet(BNpcName,4274,0)/>。<Sheet(BNpcName,4275,0)/>比<Sheet(BNpcName,4274,0)/>更强，和阿瓦隆尼亚古陆的<Sheet(BNpcName,4275,0)/>谈谈。"
 6,"TEXT_HEAVNZ310_01802_SEQ_06","和<Sheet(BNpcName,4275,0)/>进行了交谈。和阿瓦隆尼亚古陆的<Sheet(BNpcName,4275,0)/>对战。"
 7,"TEXT_HEAVNZ310_01802_SEQ_07","战胜了<Sheet(BNpcName,4275,0)/>。科姆·库尔它们无法相信自己会输给人类。向不洁三塔的艾斯·卡斯报告。"
 8,"TEXT_HEAVNZ310_01802_SEQ_08","向艾斯·卡斯报告完毕。艾斯·卡斯之所以让冒险者与幼龙对战，并不是因为想引发争端，而是因为年轻的龙之中有不少都看不起人类，艾斯·卡斯想借此机会告诫它们人类中也有强者。"

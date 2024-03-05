@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANVAN403_02191_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
 　需要与接受任务时的职业相同才可继续进行任务。
 
-穆纳瓦努想要借助冒险者的力量提升衮杜族的地位。和西风岛的群云利努瓦努对话。"
+穆纳瓦努想要借助冒险者的力量提升衮杜族的地位。和西风岛的群云利努瓦努谈谈。"
 2,"TEXT_BANVAN403_02191_SEQ_02","利努瓦努委托冒险者去恐怖的瓦魔蛾的栖息地采集<Sheet(EventItem,2001918,0)/>。前往尊杜集落的南边，获取4个<Sheet(EventItem,2001918,0)/>。"
 3,"TEXT_BANVAN403_02191_SEQ_03","获得了<Sheet(EventItem,2001918,0)/>。将<Sheet(EventItem,2001918,0)/>交给西风岛的群云利努瓦努。"
 4,"TEXT_BANVAN403_02191_SEQ_04","将<Sheet(EventItem,2001918,0)/>交给了利努瓦努。他下决心要用虫茧织出让温杜族退让三分的豪华衣服。作为谢礼，他差点把茧中的幼虫送给冒险者……下次一定要在他开口前就拒绝他。"

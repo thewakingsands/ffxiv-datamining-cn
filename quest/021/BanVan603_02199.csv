@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANVAN603_02199_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
 　需要与接受任务时的职业相同才可继续进行任务。
 
-穆纳瓦努希望冒险者去找利努瓦努。和西风岛的群云利努瓦努对话。"
+穆纳瓦努希望冒险者去找利努瓦努。和西风岛的群云利努瓦努谈谈。"
 2,"TEXT_BANVAN603_02199_SEQ_02","利努瓦努希望冒险者协助他平息先祖英灵的怒火。先前往曲石祭坛，获取<Sheet(EventItem,2001927,0)/>。"
 3,"TEXT_BANVAN603_02199_SEQ_03","获得了<Sheet(EventItem,2001927,0)/>。再前往衮杜集落，向<Sheet(EObj,2006695,0)/>献上<Sheet(EventItem,2001927,0)/>。"
 4,"TEXT_BANVAN603_02199_SEQ_04","献好了<Sheet(EventItem,2001927,0)/>。最后对着<Sheet(EObj,2006696,0)/>献上情感动作“太阳之舞”。"

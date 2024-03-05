@@ -10,7 +10,7 @@ int32,str,str
 ※可以通过任务搜索器参加。
 ※此任务需要在成为战士的状态下完成。"
 5,"TEXT_JOBWAR001_01119_SEQ_05","获得了<Sheet(EventItem,2000997,0)/>。将<Sheet(EventItem,2000997,0)/>交给北部林区林场水车的盖罗尔特。"
-6,"TEXT_JOBWAR001_01119_SEQ_06","将<Sheet(EventItem,2000997,0)/>交给了盖罗尔特。和摩杜纳丧灵钟的罗薇娜对话。"
+6,"TEXT_JOBWAR001_01119_SEQ_06","将<Sheet(EventItem,2000997,0)/>交给了盖罗尔特。和摩杜纳丧灵钟的罗薇娜谈谈。"
 7,"TEXT_JOBWAR001_01119_SEQ_07","和罗薇娜进行了交谈。突破南部林区的邪教驻地无限城古堡，获取<Sheet(EventItem,2001006,0)/>。
 
 ※可以通过任务搜索器参加。
@@ -18,11 +18,11 @@ int32,str,str
 8,"TEXT_JOBWAR001_01119_SEQ_08","获得了<Sheet(EventItem,2001006,0)/>。将<Sheet(EventItem,2001006,0)/>交给摩杜纳丧灵钟的罗薇娜。"
 9,"TEXT_JOBWAR001_01119_SEQ_09","将<Sheet(EventItem,2001006,0)/>交给了罗薇娜。将<Sheet(EventItem,2001015,0)/>交给北部林区林场水车的盖罗尔特。"
 10,"TEXT_JOBWAR001_01119_SEQ_10","将<Sheet(EventItem,2001015,0)/>交给了盖罗尔特。装备上<Sheet(Item,1805,0)/>，前往拉诺西亚外地的武伽玛罗武装矿山，讨伐<Sheet(BNpcName,1833,0)/>、<Sheet(BNpcName,1832,0)/>和<Sheet(BNpcName,1834,0)/>各8名。"
-11,"TEXT_JOBWAR001_01119_SEQ_11","成功讨伐了魔物。和北部林区林场水车的盖罗尔特对话。"
+11,"TEXT_JOBWAR001_01119_SEQ_11","成功讨伐了魔物。和北部林区林场水车的盖罗尔特谈谈。"
 12,"TEXT_JOBWAR001_01119_SEQ_12","和盖罗尔特进行了交谈。调查东萨纳兰日影地修炼所的<Sheet(EObj,2003994,0)/>，开放海德拉讨伐战。装备上<Sheet(Item,1805,0)/>，完成海德拉讨伐战。
 
 ※可以通过任务搜索器参加。"
-13,"TEXT_JOBWAR001_01119_SEQ_13","成功讨伐了<Sheet(BNpcName,2161,0)/>。和北部林区林场水车的盖罗尔特对话。"
+13,"TEXT_JOBWAR001_01119_SEQ_13","成功讨伐了<Sheet(BNpcName,2161,0)/>。和北部林区林场水车的盖罗尔特谈谈。"
 14,"TEXT_JOBWAR001_01119_SEQ_14","和盖罗尔特进行了交谈。将<Sheet(Item,1805,0)/>交给北部林区林场水车的盖罗尔特。"
 15,"TEXT_JOBWAR001_01119_SEQ_15","将<Sheet(Item,1805,0)/>交给了盖罗尔特。参加伊弗利特歼灭战，从蛮神伊弗利特身上得到<Sheet(EventItem,2001024,0)/>。
 

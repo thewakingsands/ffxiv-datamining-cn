@@ -53,7 +53,7 @@ int32,str,str
 30,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_230_001","向部队合建设备交纳素材的话，
 会随机提升制品的品质。"
 31,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_230_002","品质越接近100，
-那么在接下来的工程中就越容易获得好的结果。"
+在工程有所进展或者完成时就越容易获得好的结果。"
 32,"TEXT_CMNDEFWORKSHOPGUIDE_00263_MAMMET00263_240_000","把某个工程中、所需的素材、全都交齐之后、
 就下来、就该开始、推进工程进展了。"
 33,"TEXT_CMNDEFWORKSHOPGUIDE_00263_SYSTEM_240_001","（★未使用／削除予定★）"

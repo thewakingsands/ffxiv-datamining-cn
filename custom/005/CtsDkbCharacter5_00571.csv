@@ -308,3 +308,11 @@ int32,str,str
 请整理背包后再次和弗里斯利克对话。"
 125,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_590","要和水生资源部进行交易，
 职业必须为捕鱼人。"
+126,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_600","啊！是<Highlight>ObjectParameter(1)</Highlight>！
+我听说你去帮忙做了那个莫雯卓越工具，对吧？
+其实我也代表我们水生资源部给你们提了意见呢。"
+127,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_601","因为这也是我们干活要用的工具嘛……
+听说你们潜心开发出了能让人一直用下去的工具，
+我真得跟你们说一声谢谢。"
+128,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_602","等这么好的工具流通开了，
+雷克兰德的捕鱼人肯定会天天笑得合不拢嘴的！"

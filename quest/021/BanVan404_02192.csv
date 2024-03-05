@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANVAN404_02192_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
 　需要与接受任务时的职业相同才可继续进行任务。
 
-穆纳瓦努委托冒险者去帮木工奇努瓦努解决困难。和西风岛的木工奇努瓦努对话。"
+穆纳瓦努委托冒险者去帮木工奇努瓦努解决困难。和西风岛的木工奇努瓦努谈谈。"
 2,"TEXT_BANVAN404_02192_SEQ_02","木工奇努瓦努委托冒险者捉来活蹦乱跳的风筝猫。前往云顶营地，对周边的<Sheet(EventItem,2001919,0)/>使用<Sheet(EventItem,2001934,0)/>，捕获5只。"
 3,"TEXT_BANVAN404_02192_SEQ_03","捕获了<Sheet(EventItem,2001919,0)/>。将<Sheet(EventItem,2001919,0)/>交给西风岛的木工奇努瓦努。"
 4,"TEXT_BANVAN404_02192_SEQ_04","将<Sheet(EventItem,2001919,0)/>交给了木工奇努瓦努。衮杜族有个习俗，那就是放风筝猫在天上飞，以它们飞去的方向占卜吉凶。不知这些被冒险者抓来的风筝猫会有怎样的命运……"

@@ -15,9 +15,7 @@ int32,str,str
 积累贡献度！"
 9,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_030","你在安穆·艾兰找到<Sheet(Item,26752,0)/>了吗？
 鉴定的工作就交给我吧，呜呵呵！"
-10,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_050","这个碎片是……身形比较小的生物的指甲吗？
-不对，我感觉还混杂着没见过的东西……
-我拿去好好分析一下，谢谢你了！"
+10,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_050","（★未使用／削除予定★）"
 11,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_055","嗯嗯，这是……体型相当巨大的生物的指甲呢！
 我拿去分析看看是不是跟萨迈尔有关的未知生物！
 感谢你把这个采集回来！"
@@ -117,9 +115,7 @@ int32,str,str
 多收集点<Sheet(Item,26753,0)/>回来！"
 50,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_100_181","所以我希望<Highlight>ObjectParameter(1)</Highlight>到不渴岸滩那边，
 多收集点<Sheet(Item,26753,0)/>回来！"
-51,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_200","一点都没错，这绝对是生物的遗留物！谢谢你啦！
-我相信着萨迈尔是实际存在的，
-赶紧将这个拿给雅拉娜去分析一下吧！"
+51,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_200","（★未使用／削除予定★）"
 52,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_201","谢谢你啊，真的是很新鲜的遗留物呢！
 我相信着萨迈尔是实际存在的，
 赶紧将这个拿给雅拉娜去分析一下吧！"
@@ -238,9 +234,7 @@ int32,str,str
 98,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_330","只要能证明桃色睡床附近有<Sheet(Item,26754,0)/>……
 现在萨迈尔的存在慢慢变得有真实性了！
 "
-99,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_350","谢谢你，这么大的进食痕迹……
-看来应该是萨迈尔造成的！
-得赶紧给雅拉娜送过去，要不然又要被说了！"
+99,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_350","（★未使用／削除予定★）"
 100,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_355","谢谢你，这么巨大的进食痕迹……
 看来一定是萨迈尔造成的！
 得赶紧给雅拉娜送过去！"
@@ -302,9 +296,7 @@ int32,str,str
 123,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_460","我想看萨迈尔、看萨迈尔、看萨迈尔啊！！
 为此，需要在拉凯提卡大森林的伊奇丝玛雅艾禁林里
 找到<Sheet(Item,26755,0)/>才行！这是绝对的前提！"
-124,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_480","哦哦哦！这正是<Sheet(Item,26755,0)/>！
-究竟能从这里面获得什么样的情报呢……
-我已经等不及要看分析结果了！"
+124,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_480","（★未使用／削除予定★）"
 125,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_485","这是……真是让人感到沉醉的<Sheet(Item,26755,0)/>！
 这么大的话一定能获得很多的情报……
 我已经等不及要看分析结果了！"
@@ -375,3 +367,12 @@ int32,str,str
 请整理背包后再次和科希·芮对话。"
 154,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_560","要和大地资源部进行交易，
 职业必须为采矿工或是园艺工。"
+155,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_570","哎呀！这不是<Highlight>ObjectParameter(1)</Highlight>嘛！
+听说你为了改良莫雯卓越工具，
+交易了好多的稀有材料啊！"
+156,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_571","这样一个无与伦比的工具，
+简直就像是把世间的宝物都凝聚其中了一样！
+而且还会成为开拓诺弗兰特的力量！真是太棒了！"
+157,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_572","今后，世界各地的工匠会用你们制作出的这些工具，
+制作出无数优秀的作品来吧。
+我很期待这样一天的到来！"

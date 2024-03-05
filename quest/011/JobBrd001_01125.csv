@@ -10,7 +10,7 @@ int32,str,str
 ※可以通过任务搜索器参加。
 ※此任务需要在成为吟游诗人的状态下完成。"
 5,"TEXT_JOBBRD001_01125_SEQ_05","获得了<Sheet(EventItem,2001003,0)/>。将<Sheet(EventItem,2001003,0)/>交给北部林区林场水车的盖罗尔特。"
-6,"TEXT_JOBBRD001_01125_SEQ_06","将<Sheet(EventItem,2001003,0)/>交给了盖罗尔特。和摩杜纳丧灵钟的罗薇娜对话。"
+6,"TEXT_JOBBRD001_01125_SEQ_06","将<Sheet(EventItem,2001003,0)/>交给了盖罗尔特。和摩杜纳丧灵钟的罗薇娜谈谈。"
 7,"TEXT_JOBBRD001_01125_SEQ_07","和罗薇娜进行了交谈。突破南部林区的邪教驻地无限城古堡，获取<Sheet(EventItem,2001012,0)/>。
 
 ※可以通过任务搜索器参加。
@@ -18,11 +18,11 @@ int32,str,str
 8,"TEXT_JOBBRD001_01125_SEQ_08","获得了<Sheet(EventItem,2001012,0)/>。将<Sheet(EventItem,2001012,0)/>交给摩杜纳丧灵钟的罗薇娜。"
 9,"TEXT_JOBBRD001_01125_SEQ_09","将<Sheet(EventItem,2001012,0)/>交给了罗薇娜。将<Sheet(EventItem,2001021,0)/>交给北部林区林场水车的盖罗尔特。"
 10,"TEXT_JOBBRD001_01125_SEQ_10","将<Sheet(EventItem,2001021,0)/>交给了盖罗尔特。装备上<Sheet(Item,1944,0)/>，前往库尔札斯中央高地的风扬殖民地，讨伐<Sheet(BNpcName,1843,0)/>、<Sheet(BNpcName,1845,0)/>和<Sheet(BNpcName,1842,0)/>各8名。"
-11,"TEXT_JOBBRD001_01125_SEQ_11","成功讨伐了魔物。和北部林区林场水车的盖罗尔特对话。"
+11,"TEXT_JOBBRD001_01125_SEQ_11","成功讨伐了魔物。和北部林区林场水车的盖罗尔特谈谈。"
 12,"TEXT_JOBBRD001_01125_SEQ_12","和盖罗尔特进行了交谈。调查东萨纳兰日影地修炼所的<Sheet(EObj,2003994,0)/>，开放海德拉讨伐战。装备上<Sheet(Item,1944,0)/>，完成海德拉讨伐战。
 
 ※可以通过任务搜索器参加。"
-13,"TEXT_JOBBRD001_01125_SEQ_13","成功讨伐了<Sheet(BNpcName,2161,0)/>。和北部林区林场水车的盖罗尔特对话。"
+13,"TEXT_JOBBRD001_01125_SEQ_13","成功讨伐了<Sheet(BNpcName,2161,0)/>。和北部林区林场水车的盖罗尔特谈谈。"
 14,"TEXT_JOBBRD001_01125_SEQ_14","和盖罗尔特进行了交谈。将<Sheet(Item,1944,0)/>交给北部林区林场水车的盖罗尔特。"
 15,"TEXT_JOBBRD001_01125_SEQ_15","将<Sheet(Item,1944,0)/>交给了盖罗尔特。参加伊弗利特歼灭战，从蛮神伊弗利特身上得到<Sheet(EventItem,2001030,0)/>。
 

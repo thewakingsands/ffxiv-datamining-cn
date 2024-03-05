@@ -1575,7 +1575,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 十字热键栏(Crosshotbar)
 主线向导(ScenarioGuide)
 高压以太(CompressedAether)
+水晶冲突：进度情报(CConflict:Progress)
+水晶冲突：我方情报(CConflict:Ally)
+水晶冲突：敌方情报(CConflict:Enemy)
+水晶冲突：战场通告(CConflict:Log)
+水晶冲突：导向地图(CConflict:Map)
 纷争前线：战意槽(Frontline:BattleGauge)
+纷争前线：情报值(Frontline:Score)
+烈羽争锋：防御塔与核心情报(RivalWings:Gauge)
 烈羽争锋：车站情报(RivalWings:Station)
 烈羽争锋：团队列表(RivalWings:Alliance)
 烈羽争锋：哥布林佣兵情报(RivalWings:Mercenary)
@@ -3857,3 +3864,43 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/比对文献","",293,0
+672,2,1,2,0,0,"/eatchicken","","/吃炸鸡 子命令
+/eatchicken
+开始吃炸鸡。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃炸鸡","",293,0
+673,2,1,2,0,0,"/sundering","/exodus","/众生离绝 子命令
+/sundering(/exodus) 
+发动众生离绝。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/众生离绝","",293,0
+674,2,1,2,0,0,"/slump","","/垂头丧气 子命令
+/slump 
+做出垂头丧气的样子。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/垂头丧气","",293,0
+675,2,1,2,0,0,"/loveheart","/heart","/比心 子命令
+/loveheart(/heart) 
+通过比心传达爱意。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/比心","",293,0
+678,2,1,2,0,0,"/fryegg","","/煎蛋 子命令
+/fryegg 
+烹制美味的煎蛋。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/煎蛋","",293,0

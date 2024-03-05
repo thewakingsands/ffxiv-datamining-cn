@@ -411,7 +411,7 @@ int32,str,str
 你认识这个城市里与他有过生意往来的商人吗？"
 220,"TEXT_STMBDR601_04586_OMEGA_000_235","沙沙……鲁维达纺丝局的及纳巴哈吗。
 设定目标，我们过去拜访他吧。"
-221,"TEXT_STMBDR601_04586_A6_000_240","<UIForeground>F20224</UIForeground>关于桓娑<UIForeground>01</UIForeground>"
+221,"TEXT_STMBDR601_04586_A6_000_240","<UIForeground>F20224</UIForeground>关于桓娑鸟<UIForeground>01</UIForeground>"
 222,"TEXT_STMBDR601_04586_OMEGA_000_241","目标：于鲁维达纺丝局与及纳巴哈见面。
 明明两人境遇相似，为何喀尔扎尔变成了伪神兽，
 可及纳巴哈却活了下来？"
@@ -425,7 +425,7 @@ int32,str,str
 不过它偶尔会因为缺乏计划性导致补给不足，
 出现移动困难的情况。"
 227,"TEXT_STMBDR601_04586_ALPHA_000_246","咕哎哎，咕哎咕哎哎？！"
-228,"TEXT_STMBDR601_04586_SYSTEM_000_247","阿尔法的视线在欧米茄与畜产局的桓娑间飘忽不定。
+228,"TEXT_STMBDR601_04586_SYSTEM_000_247","阿尔法的视线在欧米茄与畜产局的桓娑鸟间飘忽不定。
 它好像是在担心欧米茄。"
 229,"TEXT_STMBDR601_04586_DJINABAHA_000_250","咦，你是……"
 230,"TEXT_STMBDR601_04586_DJINABAHA_000_251","咦，你是……

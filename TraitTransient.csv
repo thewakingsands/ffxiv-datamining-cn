@@ -797,13 +797,13 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔回刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤震雷的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤烈风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤火炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤飞石的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤火炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤飞石的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔交击斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔连攻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>震荡的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>310
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>震荡的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冲击的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>210
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔续斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔续斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 485,"促进变为积蓄技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 486,"魔元化的最大档数增加至6档"

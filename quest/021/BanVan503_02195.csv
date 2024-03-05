@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_BANVAN503_02195_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整（限定职业）任务，
 　需要与接受任务时的职业相同才可继续进行任务。
 
-穆纳瓦努那里有一件只有冒险者才能胜任的工作。和西风岛的群云利努瓦努对话，听取详情。"
+穆纳瓦努那里有一件只有冒险者才能胜任的工作。和西风岛的群云利努瓦努谈谈，听取详情。"
 2,"TEXT_BANVAN503_02195_SEQ_02","为了和人类搞好关系，利努瓦努委托冒险者去帮忙送东西。前往玫瑰园，将<Sheet(EventItem,2001922,0)/>交给拉妮艾特。"
 3,"TEXT_BANVAN503_02195_SEQ_03","将<Sheet(EventItem,2001922,0)/>交给了拉妮艾特。她委托冒险者再将礼物交给她的部下。前往沃仙曦染，将<Sheet(EventItem,2001922,0)/>交给困倦的骑兵和悠闲的骑兵，再前往危步台，将<Sheet(EventItem,2001922,0)/>交给怕麻烦的骑兵。"
 4,"TEXT_BANVAN503_02195_SEQ_04","将<Sheet(EventItem,2001922,0)/>交给了拉妮艾特的部下们。向西风岛的群云利努瓦努报告。"

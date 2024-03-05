@@ -295,8 +295,7 @@ int32,byte,byte,Image,byte,str,str,str
 111,1,0,150112,0,"学会了新职业之后，请务必记得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>保存新加的套装<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 使用套装功能，
-即可瞬间更换全身
-包括主手装备在内的装备。","",""
+即可瞬间更换全身的装备。","",""
 112,0,0,0,0,"","",""
 113,0,0,0,0,"","",""
 114,0,0,0,0,"","",""
@@ -467,7 +466,7 @@ int32,byte,byte,Image,byte,str,str,str
 185,1,0,150902,0,"
 加入小队之后，画面左上会显示出<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小队列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通过列表可以直观地确认队员们的情况。另外也可以方向键的上下来选中队友，这样一来帮助同伴恢复体力时就可以免去很多复杂的操作了。","",""
+通过列表可以直观地确认队员们的情况。另外也可以<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>的上下来选中队友，这样一来帮助同伴恢复体力时就可以免去很多复杂的操作了。","",""
 186,0,0,0,0,"","",""
 187,0,0,0,0,"","",""
 188,0,0,0,0,"","",""
@@ -482,7 +481,7 @@ int32,byte,byte,Image,byte,str,str,str
 在画面下方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>十字热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以设置各种对战斗有利的相关指令。","",""
 192,1,0,150933,0,"
 设置在十字热键中的技能需要通过组合键来发动。
-按住<Gui(14)/>或<Gui(15)/>键的同时按下四个方向键或<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>可以发动对应位置的技能。
+按住<Gui(14)/>或<Gui(15)/>键的同时按下四个<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>或<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>可以发动对应位置的技能。
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※新学会的技能会自动添加到技能栏中。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 193,1,0,150934,0,"
@@ -2363,7 +2362,7 @@ int32,byte,byte,Image,byte,str,str,str
 1273,1,0,151502,0,"
 另外，在右侧的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“目的列表”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中也可以使用任务道具。
 
-在选中敌人的状态下，通过<CommandIcon(19)/>切换到目的列表上，再用方向键选中边上的道具图标，按下<CommandIcon(8)/>键，便可以很快速地使用了。","",""
+在选中敌人的状态下，通过<CommandIcon(19)/>切换到目的列表上，再用<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>选中边上的道具图标，按下<CommandIcon(8)/>键，便可以很快速地使用了。","",""
 1274,0,0,0,0,"","",""
 1275,0,0,0,0,"","",""
 1276,0,0,0,0,"","",""
@@ -2393,7 +2392,7 @@ int32,byte,byte,Image,byte,str,str,str
 移动鼠标将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再点击左键即可达到目的。","",""
 1291,1,0,151472,0,"这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
 
-通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用方向键选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
+通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
 
 之后再将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再按下<CommandIcon(8)/>键即可达到目的。","",""
 1292,0,0,0,0,"","",""

@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 3,"<CommandIcon(8)/>改变队员排列顺序  <CommandIcon(10)/>次级指令"
 4,"<CommandIcon(11)/>开始搜索"
 5,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>购买 <CommandIcon(11)/>选择要出售的道具"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(2)/>切换所选分栏  <CommandIcon(11)/>放大消息窗口"
 73,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
 74,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
-75,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <CommandIcon(13)/>定型文<If(PlayerParameter(94))>  <CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+75,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <CommandIcon(13)/>定型文 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前进  <CommandIcon(13)/>定型文"
 77,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
 78,"<CommandIcon(11)/>应用  <CommandIcon(10)/>删除设置　"
@@ -239,7 +239,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出发"
 178,"<CommandIcon(10)/>次级指令"
 179,"<CommandIcon(10)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭"
-180,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/><Indent/></If>"
+180,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 181,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>保存更改并关闭"
 182,"<CommandIcon(9)/>保存更改并关闭"
 183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
@@ -453,12 +453,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>编辑宠物热键栏"
 278,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中宠物的位置"
 279,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-280,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
+280,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 281,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
 282,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 283,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中坐骑的位置"
 284,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-285,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
+285,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 286,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 287,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>确定 <CommandIcon(9)/>取消"
 288,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
@@ -478,7 +478,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,"<CommandIcon(10)/>次级指令"
 303,"<CommandIcon(8)/><CommandIcon(10)/>查看个人房间资料"
 304,"<CommandIcon(8)/><CommandIcon(10)/>查看公寓房间资料"
-305,"<CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/>软键盘<Else/></If>"
+305,"<CommandIcon(10)/>删除<If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))> <CommandIcon(11)/>软键盘<Else/> <CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 307,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 <CommandIcon(11)/>编辑宠物热键栏"
 308,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 "
@@ -559,7 +559,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/>快速滚动 <CommandIcon(10)/>次级指令"
-386,"<CommandIcon(5)/>履历  <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴  <CommandIcon(10)/>删除  <If(PlayerParameter(94))><CommandIcon(11)/>软键盘<Else/></If>"
+386,"<CommandIcon(5)/>履历 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
 387,"<CommandIcon(8)/>领取奖励  <CommandIcon(10)/>次级指令"
 388,"<CommandIcon(10)/>次级指令"
 389,"<CommandIcon(10)/>次级指令"
@@ -669,37 +669,37 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 439,"<CommandIcon(10)/>次级指令"
 440,"<CommandIcon(10)/> 次级指令"
 441,"任务回顾中的基本操作"
-442,"※键位设置中可更改对应键盘鼠标的按键。
-<If(Equal(PlayerParameter(78),99))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/>键／[Z]键（拔出/收回武器）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/>键／[R]键、键（自动前进）
-<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z]键（拔出/收回武器）／ <Gui(16)/>键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>"
+442,"※键盘鼠标模式显示的是初始默认键位。
+ <If(Equal(PlayerParameter(75),0))> 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [W,A,S,D]键（移动）／ <CommandIcon(20)/>摇杆
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [Z]键（拔出/收回武器）／ <Gui(16)/>键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键上下左右
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）／ <CommandIcon(11)/>键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [R]键、键（自动前进）／ <CommandIcon(10)/>键<Else/> 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <Gui(16)/>键／[Z]键（拔出/收回武器） 
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(7)/><If(Equal(PlayerParameter(106),99))>方向键上下左右<Else/>方向键上下左右</If>／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(10)/>键／[R]键、键（自动前进）
+</If>"
 443,"任务记录方法"
 444,"想要将攻略任务的过程记录下来，需要满足以下条件。
 　1.任务记录设置设为开启
@@ -741,37 +741,37 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 任务回顾仅能回顾最新版本的记录。
 不只大版本更新，小版本或补丁也会导致从前的记录失效，敬请注意。"
 447,"任务回顾中的基本操作"
-448,"※键位设置中可更改对应键盘鼠标的按键。
-<If(Equal(PlayerParameter(78),99))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/>键／[Z]键（拔出/收回武器）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/>键／[R]键、键（自动前进）
-<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z]键（拔出/收回武器）／ <Gui(16)/>键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>"
+448,"※键盘鼠标模式显示的是初始默认键位。
+ <If(Equal(PlayerParameter(75),0))> 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [W,A,S,D]键（移动）／ <CommandIcon(20)/>摇杆
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [Z]键（拔出/收回武器）／ <Gui(16)/>键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键上下左右
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）／ <CommandIcon(11)/>键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ [R]键、键（自动前进）／ <CommandIcon(10)/>键<Else/> 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>调整视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>重置视角<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <Gui(16)/>键／[Z]键（拔出/收回武器） 
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(7)/><If(Equal(PlayerParameter(106),99))>方向键上下左右<Else/>方向键上下左右</If>／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）
+ 
+ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开启关闭操作菜单<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+ <CommandIcon(10)/>键／[R]键、键（自动前进）
+</If>"
 449,"操作菜单上的机能"
 450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 暂停或继续进行回顾。
@@ -847,117 +847,8 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 500,""
 1000,"报告发送失败。
 请重新发送。"
-1001,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>
-※键位设置中可更改对应键盘鼠标的按键。
-<If(Equal(PlayerParameter(78),99))>·调整视角
-　<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
-·重置视角
-　<Gui(16)/>键／[Z]键（拔出/收回武器）
-·切换注视目标
-　<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
-·暂停／继续
-　<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
-·开启关闭操作菜单
-　<CommandIcon(10)/>键／[R]键、键（自动前进）<Else/>·调整视角
-　[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
-·重置视角
-　[Z]键（拔出/收回武器）／ <Gui(16)/>键
-·切换注视目标
-　[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
-·暂停／继续
-　[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
-·开启关闭操作菜单
-　[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>
-
---------------------------------------------------------------------
-<UIForeground>F20202</UIForeground>任务记录方法<UIForeground>01</UIForeground>
-想要将攻略任务的过程记录下来，需要满足以下条件。
-　1.任务记录设置设为开启
-　2.进入的任务适用任务回顾功能
-　3.以规定人数进入任务
-　4.进行记录准备确认
-
-<UIForeground>F20202</UIForeground>1.任务记录设置设为开启<UIForeground>01</UIForeground>
-设定是否对任务过程进行记录。
-将本设置设为开启后，满足其他条件时即会对任务过程进行记录。
-将本设置设为关闭后，满足其他条件时自身角色不会对任务过程进行记录。
-
-<UIForeground>F20202</UIForeground>2.进入的任务适用任务回顾功能<UIForeground>01</UIForeground>
-任务回顾功能仅对部分任务适用。
-因此需要进入适用的任务才可进行记录。
-
-<UIForeground>F20202</UIForeground>3.以规定人数进入任务<UIForeground>01</UIForeground>
-只有以规定人数进入任务时才能对任务进行记录。
-※规定人数以下组队匹配进任务时无法进行记录。
-
-<UIForeground>F20202</UIForeground>4.进行记录准备确认<UIForeground>01</UIForeground>
-开始记录任务前需要通过记录准备确认来确认队友们是否同意进行记录。
-只有全员同意时才能开始记录。
-※记录准备确认需要在进入任务后5分钟内发起。
-
-满足上述条件后即会对任务过程进行记录。
-记录已满时，新的记录会覆盖最老的记录。
-※可锁定最多2条记录禁止覆盖。
-
---------------------------------------------------------------------
-<UIForeground>F20202</UIForeground>回顾记录的方法<UIForeground>01</UIForeground>
-回顾记录需要满足以下条件。
-　1.在旅馆中
-　2.任务记录为最新版本
-
-<UIForeground>F20202</UIForeground>1.在旅馆中<UIForeground>01</UIForeground>
-只有在旅馆中能回顾记录好的任务。
-
-<UIForeground>F20202</UIForeground>2.任务记录为最新版本<UIForeground>01</UIForeground>
-任务回顾仅能回顾最新版本的记录。
-不只大版本更新，小版本或补丁也会导致从前的记录失效，敬请注意。"
-1002,"<UIForeground>F20202</UIForeground>任务回顾中的基本操作<UIForeground>01</UIForeground>
-※键位设置中可更改对应键盘鼠标的按键。
-<If(Equal(PlayerParameter(78),99))>·调整视角
-　<CommandIcon(20)/>摇杆／[W,A,S,D]键（移动）
-·重置视角
-　<Gui(16)/>键／[Z]键（拔出/收回武器）
-·切换注视目标
-　<CommandIcon(7)/>方向键／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
-·暂停／继续
-　<CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）
-·开启关闭操作菜单
-　<CommandIcon(10)/>键／[R]键、键（自动前进）<Else/>·调整视角
-　[W,A,S,D]键（移动）／  <CommandIcon(20)/>摇杆
-·重置视角
-　[Z]键（拔出/收回武器）／ <Gui(16)/>键
-·切换注视目标
-　[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键／ <CommandIcon(7)/>方向键
-·暂停／继续
-　[<If(Equal(PlayerParameter(78),3))>空格<Else/>空格</If>]键（跳跃）／ <CommandIcon(11)/>键
-·开启关闭操作菜单
-　[R]键、键（自动前进）／ <CommandIcon(10)/>键</If>
-
--------------------------------------------------------------------
-<UIForeground>F20202</UIForeground>【操作菜单上的机能】<UIForeground>01</UIForeground>
-
-<UIForeground>F20202</UIForeground>暂停／继续<UIForeground>01</UIForeground>
-暂停或继续进行回顾。
-
-<UIForeground>F20202</UIForeground>章节选择<UIForeground>01</UIForeground>
-显示记录时设定的章节列表，选择其中任意章节后可跳至该章节进行回顾。
-※跳转所需时间根据所选章节不同会有所差距。
-
-<UIForeground>F20202</UIForeground>上一个章节<UIForeground>01</UIForeground>
-跳到先前的章节。
-
-<UIForeground>F20202</UIForeground>下一个章节<UIForeground>01</UIForeground>
-跳到之后的章节。
-
-<UIForeground>F20202</UIForeground>显示／隐藏界面<UIForeground>01</UIForeground>
-将各种界面在显示与隐藏间切换。
-※选为隐藏后在下次回顾时会自动隐藏界面开始回顾。
-
-<UIForeground>F20202</UIForeground>设定／解除焦点目标<UIForeground>01</UIForeground>
-将注视目标设为焦点目标。
-
-<UIForeground>F20202</UIForeground>结束回顾<UIForeground>01</UIForeground>
-结束回顾退出。"
+1001,""
+1002,""
 1003,"关于同好会"
 1004,"同好会是拥有相同兴趣的玩家组建的团体。
 每个同好会最多可容纳1000名成员。
