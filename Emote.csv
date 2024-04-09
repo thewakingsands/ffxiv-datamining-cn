@@ -276,9 +276,9 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 272,"众生离绝",8131,8130,0,0,0,0,0,False,False,False,2,73,False,True,False,False,False,12007,673,64446,8281,8280,470,650
 273,"垂头丧气",8111,8110,0,0,0,0,0,False,False,False,2,71,False,True,False,False,False,11016,674,64447,8283,8282,471,650
 274,"比心",8115,8114,0,0,0,0,0,False,False,False,2,72,False,True,False,False,False,10114,675,64448,8285,8284,472,650
-275,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-276,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-277,"制作煎蛋",8084,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,6060,678,64451,8293,8292,475,650
+275,"得意洋洋",8116,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3119,676,64449,8289,8288,473,655
+276,"大获全胜",8112,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3118,677,64450,8291,8290,474,650
+277,"煎蛋",8084,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,6060,678,64451,8293,8292,475,650
 278,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 279,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 280,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0

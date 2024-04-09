@@ -45,7 +45,7 @@ int32,str,str
 19,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A1_000_004","取消"
 20,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_100","……啊？
 你这不是根本没有可以强化的武器吗！
-我可是大忙人，别闲的没事逗我玩！"
+我可是大忙人，别闲得没事逗我玩！"
 21,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_Q2_001_000","要强化哪个武器？"
 22,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_001","强化<Sheet(Item,IntegerParameter(1),0)/>"
 23,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_A2_001_003","强化<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>"
@@ -160,7 +160,7 @@ int32,str,str
 需要<Sheet(Item,24808,0)/>达到规定数量。"
 75,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_100_390","为此需要<Value>IntegerParameter(1)</Value>个素材……
 看来你已经有了啊。
-那接下来看看你没有没能赋予属性之力的武器。"
+那接下来看看你有没有能赋予属性之力的武器。"
 76,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_GEROLT_000_400","……你根本没拿着能赋予属性之力的武器啊。
 要是没有东西，就算我是个天才也没用啊！"
 77,"TEXT_CTSERKEUREKA4WEAPONGEROLT_00559_SYSTEM_100_401","只有“禁地兵装最终形态”能够被赋予属性之力。"

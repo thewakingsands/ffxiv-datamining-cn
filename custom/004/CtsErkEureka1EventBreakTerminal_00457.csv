@@ -16,7 +16,7 @@ int32,str,str
 就应该会有效果了。"
 5,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_006","(-可露儿的声音-)等你准备好<Value>IntegerParameter(1)</Value>个<Sheet(Item,21803,0)/>之后，
 就去确认一下中继以太之晶吧。
-如果没什么问题的话，请试着进行强制启动它。"
+如果没什么问题的话，请试着强制启动它。"
 6,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_010","推进剧情需要消耗<Value>IntegerParameter(1)</Value>个<Sheet(Item,21803,0)/>。"
 7,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_100_011","推进剧情需要消耗<Value>IntegerParameter(1)</Value>个<Sheet(Item,21803,0)/>。
 确定要使用吗？"
@@ -55,7 +55,7 @@ int32,str,str
 如果能有正合适的偏僻地方就好了……"
 24,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_206","……喂，加拉夫。
 是你先提出的方案，你就没有什么主意吗？"
-25,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_207","(-被称为加拉夫的青年-)你问的正好！
+25,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGG_000_207","(-被称为加拉夫的青年-)你问得正好！
 实际上距离主岛稍微有点距离的地方，
 有一座适合用来封印的无人岛……"
 26,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_KRILE_000_021","(-可露儿的声音-)……中继以太之晶的情况如何？"
