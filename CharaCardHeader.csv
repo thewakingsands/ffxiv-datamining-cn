@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,TopImage,BottomImage,FontColor,,,,UnlockCondition,SortKey,Name,
+#,TopImage,BottomImage,FontColor,,,,UnlockCondition,,SortKey,Name
 int32,Image,Image,byte,byte,byte,byte,BannerCondition,byte,byte,str
 0,196001,196251,0,0,0,0,1,0,0,"无"
 1,196002,196252,1,0,0,0,1,1,3,"半透明：黑色"
