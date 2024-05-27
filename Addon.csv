@@ -12252,7 +12252,7 @@ Immerse Gamepack尚未安装。
 　·在返回原始大区前，在原始大区显示的角色无法进行登录等操作。
 　·超域传送中的角色无法从旅行区直接去往下一个大区旅行。
 　 需要先返回原始服务器再进行下一次旅行。
-　·前往其他服务器后，30天不登陆游戏会自动返回原始服务器。
+　·前往其他服务器后，30天不登录游戏会自动返回原始服务器。
 　 不过根据最后退出游戏的时间，也会出现超过30天才返回的情况。
 
 <Else/></If><If(LessThan(IntegerParameter(1),2))>　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《关于跨界传送》<UIForeground>01</UIForeground>
@@ -12261,7 +12261,7 @@ Immerse Gamepack尚未安装。
 　　　　　　　　　　<UIForeground>F20202</UIForeground>《申请跨界传送时的注意事项》<UIForeground>01</UIForeground>
 　·申请跨界传送时，根据目标服务器的拥挤程度可能会需要一定的等待时间。
 　·等待时间结束后传送会自动进行，届时正在执行的所有操作都将被强制取消。
-　·前往其他服务器后，30天不登陆游戏会自动返回原始服务器。
+　·前往其他服务器后，30天不登录游戏会自动返回原始服务器。
 　 不过根据最后退出游戏的时间，也会出现超过30天才返回的情况。
 
 
@@ -12531,8 +12531,8 @@ Immerse Gamepack尚未安装。
 12740,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>
 ※如果在对方同意申请前某一方脱离了当前大区，好友申请将不再可回应，只能保持临时好友状态一周后自动撤销。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12741,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>
-※成功加为好友后，相互不在同一数据中心时无法获取在线状态。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12742,"确定要向原始服务器与你不在同一数据中心的<Highlight>StringParameter(1)</Highlight>发送好友申请吗？"
+※成功加为好友后，相互不在同一大区时有可能无法获取在线状态。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12742,"确定要向原始服务器与你不在同一大区的<Highlight>StringParameter(1)</Highlight>发送好友申请吗？"
 12750,"重建伊修加德"
 12751,""
 12752,"道具名"
@@ -14183,7 +14183,7 @@ Immerse Gamepack尚未安装。
 14686,"预设"
 14687,"肖像背景"
 14688,"肖像装饰框"
-14689,"肖像装饰"
+14689,"肖像装饰物"
 14690,"动作"
 14691,"表情"
 14692,"灯光：环境光"
@@ -14193,7 +14193,7 @@ Immerse Gamepack尚未安装。
 14696,"垂直角度"
 14697,"设置肖像背景"
 14698,"设置肖像装饰框"
-14699,"设置肖像装饰"
+14699,"设置肖像装饰物"
 14700,"设置动作"
 14701,"设置表情"
 14702,"自定义"
@@ -14209,7 +14209,7 @@ Immerse Gamepack尚未安装。
 14712,"旋转"
 14713,"显示肖像背景的详细列表"
 14714,"显示肖像装饰框的详细列表"
-14715,"显示肖像装饰的详细列表"
+14715,"显示肖像装饰物的详细列表"
 14716,"显示动作的详细列表"
 14717,"显示表情的详细列表"
 14718,"全部显示"
@@ -15147,6 +15147,7 @@ Immerse Gamepack尚未安装。
 15704," 灵活变化的曼德维尔武器[改良]"
 15705," 开花结果的改良计划[第3次改良]"
 15706," 名副其实的改良计划[第4次改良]"
+15707," 精美绝伦的曼德维尔武器[最终改良]"
 15708," 晶莹剔透的改良计划[第5次改良]"
 15709," 无与伦比的改良计划[最终改良]"
 15730,"不设限"
@@ -15217,6 +15218,91 @@ Immerse Gamepack尚未安装。
 15856,"坚韧"
 15857,"信念"
 15858,"信仰"
+15870,"莫古莫古指南书"
+15871,""
+15872,"<If(GreaterThan(IntegerParameter(2),1))>第<Value>IntegerParameter(3)</Value>阶段<Indent/><Else/></If><Switch(IntegerParameter(1))><Case(1)>举办前</Case><Case(2)>举办中</Case><Case(3)>举办结束</Case></Switch>"
+15873,"持有数量"
+15875,"<Sheet(Item,IntegerParameter(1),0)/>"
+15876,"<If(GreaterThan(IntegerParameter(1),999))>999+<Else/><Value>IntegerParameter(1)</Value></If>"
+15877,"常规任务"
+15878,"每周任务"
+15879,"每周小莫古挑战"
+15880,"莫古莫古挑战"
+15881,"此为活动举办期间可以反复完成的任务。
+稀少神典石奖励会在完成任务时自动获得。"
+15882,"此为每周只能完成1次的奖励任务。
+每名玩家会被随机指派1个任务目标。
+稀少神典石奖励需要在莫古莫古指南书领取。"
+15883,"下次刷新：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>"
+15884,"此为每周只能完成1次的挑战任务。
+从2个目标中选择1个完成后，
+即可在莫古莫古指南书领取稀少神典石奖励。"
+15885,"此为整个活动举办期间内仅可完成1次的挑战任务。
+稀少神典石奖励需要在莫古莫古指南书领取。"
+15886,"完成期限"
+15887,"奖励"
+15888,"领取奖励"
+15889,"×<Value>IntegerParameter(1)</Value><If(Equal(IntegerParameter(2),IntegerParameter(1)))><Else/>～<If(Equal(IntegerParameter(2),0))><Else/><Value>IntegerParameter(2)</Value></If></If>"
+15890,"打开任务搜索器"
+15891,"打开地图"
+15892,"确认奖励详情"
+15893,"可领取稀少神典石"
+15894,"当前"
+15895,"已领取奖励／已逾期"
+15896,"第<Value>IntegerParameter(1)</Value>周"
+15897,"完成！"
+15898,"没有可显示的目标。"
+15899,"正在读取信息。"
+15901,"奖励列表"
+15902,""
+15903,"项目"
+15904,"奖励"
+15905,"<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>"
+15906,"×<Value>IntegerParameter(1)</Value><If(Equal(IntegerParameter(2),IntegerParameter(1)))><Else/>～<If(Equal(IntegerParameter(2),0))><Else/><Value>IntegerParameter(2)</Value></If></If>"
+15907,"打开莫古莫古指南书说明。"
+15908,"未选择目标。"
+15909,"现在没有举办“莫古莫古★大收集”活动。
+请等候下次活动开启。"
+15910,"莫古莫古指南书"
+15911,"重要物品"
+15912,"举办中"
+15914,"可获得奖励"
+15915,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>即将逾期<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15916,"<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级 <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>"
+15917,"<Sheet(Item,IntegerParameter(1),0)/>"
+15918,"<Value>IntegerParameter(1)</Value>级<Highlight>StringParameter(2)</Highlight>"
+15919,"<Sheet(CSBonusTextData,<Sheet(CSBonusSeason,IntegerParameter(1),10)/>,0)/> <Sheet(CSBonusTextData,<Sheet(CSBonusSeason,IntegerParameter(1),11)/>,0)/>结束前"
+15920,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>"
+15921,"？？？？"
+15922,"突破<Sheet(InstanceContent,IntegerParameter(5),3)/>。"
+15923,"参加<Sheet(InstanceContent,IntegerParameter(5),3)/>。"
+15924,"在任意<Sheet(ContentType,IntegerParameter(2),0)/>中获得金碟币。"
+15925,"1次<Sheet(ContentType,IntegerParameter(2),0)/>中合计渔分达到<If(GreaterThan(IntegerParameter(7),0))><Value>IntegerParameter(7)</Value><Else/><Value>IntegerParameter(8)</Value></If>以上。"
+15926,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”
+或“<Sheet(Quest,IntegerParameter(2),0)/>”
+或“<Sheet(Quest,IntegerParameter(3),0)/>”后开放。"
+15927,"<If(Equal(IntegerParameter(4),2))>合计完成<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>或<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(6),5)/>,0)/>的<Sheet(ContentType,IntegerParameter(2),0)/><Value>IntegerParameter(8)</Value>次。<Else/>完成<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(5),5)/>,0)/>的<Sheet(ContentType,IntegerParameter(2),0)/><Value>IntegerParameter(8)</Value>次。</If>"
+15928,"以<Sheet(ContentType,IntegerParameter(2),0)/>战胜<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(Level,IntegerParameter(10),9)/>,5)/>,0)/>的<Sheet(ENpcResident,IntegerParameter(5),0)/>。"
+15929,"完成<Sheet(EventItem,<Sheet(MobHuntOrderType,IntegerParameter(5),2)/>,0)/>。"
+15930,"钓上<Sheet(Item,<Sheet(FishParameter,IntegerParameter(5),1)/>,0)/>。"
+15931,"突破<Sheet(PlaceName,<Sheet(TerritoryType,<Sheet(ContentFinderCondition,<Sheet(InstanceContent,IntegerParameter(5),8)/>,1)/>,5)/>,0)/>的<If(Equal(IntegerParameter(14),0))>地下<Value>IntegerParameter(12)</Value><Else/><Value>IntegerParameter(12)</Value></If>层。"
+15932,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”后开放。"
+15933,"<If(Equal(IntegerParameter(4),2))>抵达<Sheet(PlaceName,IntegerParameter(5),0)/>或<Sheet(PlaceName,IntegerParameter(6),0)/>后开放。<Else/>抵达<If(GreaterThan(IntegerParameter(3),0))><Sheet(PlaceName,IntegerParameter(5),0)/><Else/>？？？？</If>后开放。</If>"
+15934,"胜败会影响奖励量。"
+15935,"各种机遇任务给予的奖励数量不同。
+详情可打开“确认奖励详情”查看。"
+15936,"获得了莫古莫古指南书。
+请问要打开说明吗？
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※通过界面左下的问号图标可随时打开说明。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+15937,"解读<Sheet(Item,<Sheet(TreasureHuntRank,IntegerParameter(5),2)/>,0)/>，开启宝箱。"
+15938,"<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>"
+15939,"<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级"
+15940,"分类"
+15941,"前往官方网站"
+15942,"概要"
 16001,""
 16002,""
 16003,""

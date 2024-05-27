@@ -505,7 +505,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 501,"海德林偶像",0,"",0,0,1,0,0,3992,100,0,10,0,0,1,18,8,503,False,True,False,True,False,502,False,True,4901,9201,False,0,30,750,11,360,20,2,618,3
 502,"佐迪亚克偶像",0,"",0,0,1,0,0,3993,100,0,10,0,0,1,17,8,503,False,True,False,True,False,501,False,True,4902,9202,False,0,30,500,19,30,30,2,611,3
 503,"迷你富尔什诺",0,"",0,0,1,0,0,3994,100,10,0,0,0,1,0,8,504,False,True,False,True,False,0,False,True,4903,9007,False,0,25,600,22,360,20,1,632,3
-504,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+504,"迷你吉坦",0,"",0,0,1,0,0,3995,100,10,0,0,0,1,0,8,505,False,True,False,True,False,505,False,True,4904,12091,False,0,20,480,41,0,20,1,620,3
 505,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
 506,"雷普鲁",0,"",0,0,1,0,0,3997,100,10,0,0,0,2,0,8,383,True,False,False,True,True,0,False,True,4906,3020,False,0,15,560,13,120,20,1,631,1
 507,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

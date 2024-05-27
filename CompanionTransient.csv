@@ -2397,7 +2397,10 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 这并不是说他不爱你们！
 　　　　　　——泰奥波丹","名副其实的指导者","无效化“动物”类型的宠物对范围内我方宠物的攻击。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒",40,55,2,False,True,True,False,False,3
-504,"","","","","",0,0,0,False,False,False,False,False,0
+504,"召唤出宠物“迷你吉坦”。
+以古代英雄为原型制作的魔法人偶。因为你需要我啊。","模仿古代英雄吉坦制作的魔法人偶。吉坦是一位以剧场艇为大本营的剧团的成员，同时也有人说他的身份其实是盗贼。因为企图绑架某位公主而踏上了漫长的路途。因为你需要我啊。","帮助别人需要理由吗？
+　　　　　　　——吉坦","那是什么","令使用特殊技点数的宠物的自动攻击变为范围攻击。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒",60,35,4,False,False,False,False,False,3
 505,"","","","","",0,0,0,False,False,False,False,False,0
 506,"召唤出宠物“雷普鲁”。
 栖息在阿罗阿罗岛的小型爬虫类，体色十分多彩看上去很时髦。","栖息在阿罗阿罗岛的小型爬虫类。过去岛民曾经认为其乃是泉水孕育的精怪，可以为心怀敬意之人带来好运。当它看见冒险者踏足很久无人问津的这个岛屿，并在战斗中展现出的英姿后，决定跟随冒险者一同踏上旅程。","真是鲜艳华丽的服装啊！
