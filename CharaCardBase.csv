@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,Image,FontColor,,,,UnlockCondition,,SortKey,Name
 int32,Image,byte,bool,bool,byte,BannerCondition,byte,uint16,str
-0,0,0,True,True,0,0,0,0,"なし"
+0,0,0,True,True,0,0,0,0,"无"
 1,0,0,False,False,0,0,0,0,""
 2,193002,1,True,True,0,1,1,1,"黑色"
 3,193003,2,True,True,0,1,1,2,"白色"
@@ -104,7 +104,7 @@ int32,Image,byte,bool,bool,byte,BannerCondition,byte,uint16,str
 100,193735,1,True,True,0,575,7,2700,"金碟巨豆中心1"
 101,193736,1,True,True,0,576,7,2701,"金碟巨豆中心2"
 102,193737,1,True,True,0,577,7,2702,"金碟巨豆中心3"
-103,0,0,False,False,0,0,0,0,""
+103,193738,1,True,True,0,607,7,2703,"妖怪手表"
 104,0,0,False,False,0,0,0,0,""
 105,0,0,False,False,0,0,0,0,""
 106,0,0,False,False,0,0,0,0,""
