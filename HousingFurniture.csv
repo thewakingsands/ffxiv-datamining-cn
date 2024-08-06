@@ -1363,6 +1363,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198023,1285,14,0,0,97,0,0,40661,False,False,0,0,0,True,False
 198024,1286,14,0,0,98,0,0,40662,False,False,0,0,0,True,False
 198025,1287,14,0,0,99,0,0,40663,False,False,0,0,0,True,False
+198026,1288,15,0,0,0,0,0,40664,False,False,5,0,0,True,False
 198027,1289,15,0,0,0,0,0,40665,False,False,5,0,0,True,False
 198028,1290,15,0,0,0,0,0,40666,False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,0,40667,False,False,5,0,0,True,False

@@ -499,7 +499,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 495,"西德尼亚丘灵",0,"",0,0,1,0,0,3938,100,10,0,0,0,1,0,8,492,False,True,False,True,False,0,False,True,4895,11518,False,0,20,480,4,120,20,1,602,4
 496,"休假小员",0,"",0,0,1,0,0,3939,100,10,0,0,0,1,0,8,480,False,True,False,True,False,0,False,True,4896,10028,False,0,15,520,35,360,25,1,600,3
 497,"迷你高贝扎",0,"",0,0,1,0,0,3940,140,10,0,0,0,1,0,8,483,False,True,False,True,False,0,False,True,4897,8405,False,0,10,290,1,120,20,1,605,2
-498,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+498,"小托加尔",0,"",0,0,1,0,0,3989,100,10,10,0,0,2,0,8,91,True,False,True,False,True,0,False,True,4898,12161,False,0,15,420,23,120,30,2,605,1
 499,"粉红糖豆人",0,"",0,0,1,0,0,3990,100,10,0,0,0,2,0,8,502,True,False,True,False,True,0,False,True,4899,13026,False,0,25,600,38,120,20,1,609,1
 500,"糖豆企鹅",0,"",0,0,1,0,0,3991,100,10,0,0,0,1,0,8,502,False,True,False,True,False,0,False,True,4900,13026,False,0,20,500,37,0,20,1,620,3
 501,"海德林偶像",0,"",0,0,1,0,0,3992,100,0,10,0,0,1,18,8,503,False,True,False,True,False,502,False,True,4901,9201,False,0,30,750,11,360,20,2,618,3

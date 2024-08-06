@@ -55,7 +55,7 @@ int32,str,str
 45,"TEXT_FESSUM902_04724_TODO_21",""
 46,"TEXT_FESSUM902_04724_TODO_22",""
 47,"TEXT_FESSUM902_04724_TODO_23",""
-48,"TEXT_FESSUM902_04724_LYONELL_000_000","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，之后也拜托你了！"
+48,"TEXT_FESSUM902_04724_LYONELL_000_000","<If(PlayerParameter(4))>姐<Else/>哥</If>，之后也拜托你了！"
 49,"TEXT_FESSUM902_04724_HAERMAGA_000_001","这下形迹可疑的问题就解决了。
 活动差不多就要开始了……"
 50,"TEXT_FESSUM902_04724_HAERMAGA_100_001","怎么样利奥内尔，
@@ -66,8 +66,7 @@ int32,str,str
 52,"TEXT_FESSUM902_04724_LYONELL_100_002","刚才我就发现了，如果是有委托人且内容明确的委托倒还好说，
 但如何分辨来宾是否有困难并主动提供帮助……
 这实在是太难了。"
-53,"TEXT_FESSUM902_04724_LYONELL_000_003","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，
-希望你能在这方面帮帮我！"
+53,"TEXT_FESSUM902_04724_LYONELL_000_003","<If(PlayerParameter(4))>姐<Else/>哥</If>，希望你能在这方面帮帮我！"
 54,"TEXT_FESSUM902_04724_HAERMAGA_000_004","确实，如果胡乱搭话很有可能会被拒绝，
 就算是老手也很难立刻判断一个人是否需要帮助。"
 55,"TEXT_FESSUM902_04724_HAERMAGA_000_005","那么，连带这方面一起，
@@ -95,7 +94,7 @@ int32,str,str
 65,"TEXT_FESSUM902_04724_BEAUDEFOIN_000_014","对了，既然你们是两个人一起行动，
 就拿上这个通讯珠……这有助于你们的配合。
 之后就交给你们了，加油哦！"
-66,"TEXT_FESSUM902_04724_LYONELL_000_015","那么<If(PlayerParameter(4))>大姐<Else/>大哥</If>，
+66,"TEXT_FESSUM902_04724_LYONELL_000_015","那么<If(PlayerParameter(4))>姐<Else/>哥</If>，
 如果你觉得有需要沙滩英雄出场的地方就给我指示吧！
 我一定会立刻赶到那里！"
 67,"TEXT_FESSUM902_04724_Q1_000_000","有需要帮助的人吗？"
@@ -120,7 +119,7 @@ int32,str,str
 80,"TEXT_FESSUM902_04724_LYONELL_000_032","好，交给我！
 正好那个女孩貌似在寻找能够鼓励她哥哥的人，
 我会试着鼓励他，让他恢复干劲的！"
-81,"TEXT_FESSUM902_04724_LYONELL_000_033","<If(PlayerParameter(4))>大姐<Else/>大哥</If>说得没错，
+81,"TEXT_FESSUM902_04724_LYONELL_000_033","<If(PlayerParameter(4))>姐<Else/>哥</If>说得没错，
 跌倒之后应该自己爬起来。
 但他那副样子，估计一时半会振作不起来啊。"
 82,"TEXT_FESSUM902_04724_LYONELL_000_034","那个女孩貌似在寻找能够鼓励她哥哥的人，
@@ -137,7 +136,7 @@ int32,str,str
 88,"TEXT_FESSUM902_04724_Q3_000_000","给利奥内尔发出什么指示？"
 89,"TEXT_FESSUM902_04724_A3_000_001","去问问她有什么困扰"
 90,"TEXT_FESSUM902_04724_A3_000_002","去让她关注的男性提高警惕！"
-91,"TEXT_FESSUM902_04724_A3_000_003","在一旁悄悄观察"
+91,"TEXT_FESSUM902_04724_A3_000_003","在一旁悄悄吃瓜"
 92,"TEXT_FESSUM902_04724_LYONELL_000_043","我明白了！
 毕竟很可疑，还是去问问吧！"
 93,"TEXT_FESSUM902_04724_LYONELL_100_043","我明白了！
@@ -147,7 +146,7 @@ int32,str,str
 我怎么感觉是我做了坏事一样……
 算了，反正也没出什么问题，就这样吧。"
 95,"TEXT_FESSUM902_04724_LYONELL_000_047","对方看起来很可疑，就这么看着没问题吗？
-好吧，我相信<If(PlayerParameter(4))>大姐<Else/>大哥</If>的判断，
+好吧，我相信<If(PlayerParameter(4))>姐<Else/>哥</If>的判断，
 我会在这里不动声色地观察他们的。"
 96,"TEXT_FESSUM902_04724_LYONELL_000_048","原来是这样，我大概懂了。
 就是那种想搭话又不知道怎么搭话的感觉。"
@@ -155,7 +154,7 @@ int32,str,str
 也许她和我一样也是那种不遮住脸就不能好好说话的人。
 我多少能够理解那种感受……"
 98,"TEXT_FESSUM902_04724_LYONELL_000_050","如果我过去帮忙反而会坏事吧。
-<If(PlayerParameter(4))>大姐<Else/>大哥</If>是看透了这一切才让我在旁边悄悄观察的吗？
+<If(PlayerParameter(4))>姐<Else/>哥</If>是看透了这一切才让我不要插手的吗？
 这洞察力实在是太厉害了！"
 99,"TEXT_FESSUM902_04724_LYONELL_000_060","这附近好像已经没有看起来有烦恼的人了，
 我们去对面看看吧！"
@@ -173,7 +172,7 @@ int32,str,str
 107,"TEXT_FESSUM902_04724_A5_000_001","利奥内尔！"
 108,"TEXT_FESSUM902_04724_A5_000_002","快去救人！"
 109,"TEXT_FESSUM902_04724_LYONELL_000_073","撑住！我来了！"
-110,"TEXT_FESSUM902_04724_LYONELL_000_074","抱歉，我应该听<If(PlayerParameter(4))>大姐<Else/>大哥</If>你的命令再行动的，
+110,"TEXT_FESSUM902_04724_LYONELL_000_074","抱歉，我应该听<If(PlayerParameter(4))>姐<Else/>哥</If>你的命令再行动的，
 但我下意识地就跳进海里了。"
 111,"TEXT_FESSUM902_04724_LYONELL_000_075","我还以为会因为面罩进水直接淹死……
 幸亏运气不错捡回一条命。"
@@ -185,7 +184,7 @@ int32,str,str
 我去把红莲节执行委员叫来吧？！"
 116,"TEXT_FESSUM902_04724_LYONELL_000_080","看来对方是运动过度。
 毕竟这么热的天，难免会这样。
-<If(PlayerParameter(4))>大姐<Else/>大哥</If>我要去帮助他们吗？"
+<If(PlayerParameter(4))>姐<Else/>哥</If>我要去帮助他们吗？"
 117,"TEXT_FESSUM902_04724_Q6_000_000","给利奥内尔发出什么指示？"
 118,"TEXT_FESSUM902_04724_A6_000_001","让他们去休息吧"
 119,"TEXT_FESSUM902_04724_A6_000_002","让他们补充水分"
@@ -270,14 +269,14 @@ int32,str,str
 160,"TEXT_FESSUM902_04724_LYONELL_000_602","你们愿意相信我吗……"
 161,"TEXT_FESSUM902_04724_LYONELL_000_603","那么……
 我也必须全心全意地回应你们！"
-162,"TEXT_FESSUM902_04724_LYONELL_000_604","哦哦哦！！"
+162,"TEXT_FESSUM902_04724_LYONELL_000_604","哦哦哦——！！"
 163,"TEXT_FESSUM902_04724_LYONELL_000_605","这便是我的转生之炎……
 不死鸟冲击——！！"
 164,"TEXT_FESSUM902_04724_HAERMAGA_000_120","看起来伤得不严重。"
 165,"TEXT_FESSUM902_04724_BEAUDEFOIN_000_121","我在远处都看见了，利奥内尔居然一个人打倒了巨鲨，
 真是厉害！"
-166,"TEXT_FESSUM902_04724_KHLOEALIAPOH_000_122","这种要被吃掉的感觉，
-真是太令人兴奋了！"
+166,"TEXT_FESSUM902_04724_KHLOEALIAPOH_000_122","我还以为要被吃掉了呢！
+吓了一跳！"
 167,"TEXT_FESSUM902_04724_ZHLOEALIAPOH_000_123","库洛没事真是太好了！"
 168,"TEXT_FESSUM902_04724_TKEBBE_100_123","库洛，你没事吧？"
 169,"TEXT_FESSUM902_04724_LYONELL_100_124","啊，那个……你没事吧？"
