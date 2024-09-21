@@ -500,6 +500,34 @@ int32,str
 
 1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>旋转钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>噩梦钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180"
-63,""
-64,""
-65,""
+63,"单体攻击用连击技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>狞豹的锐爪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>狞豹的双牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>狞豹的尾鞭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连击成功：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢复自身体力　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢复力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250"
+64,"范围攻击用连击技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>图拉尔的严酷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>图拉尔的澎湃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>210
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>图拉尔的峻烈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>270"
+65,"连击用技能。
+使用时会按下列顺序发动战技。
+如果连击过程中未满足战技的发动条件，则回到第一个技能重新发动连击。
+
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>咬噬尖齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+2：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛袭利齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>咬击獠齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>切割尖齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>疾速利齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>啮噬獠齿<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※吞天巨蛇成功时，且祖灵降临状态中，变为祖灵之牙一式。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※祖灵之牙一式成功时，且祖灵降临状态中，变为祖灵之牙二式。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※祖灵之牙二式成功时，且祖灵降临状态中，变为祖灵之牙三式。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※祖灵之牙三式成功时，且祖灵降临状态中，变为祖灵之牙四式。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+66,""

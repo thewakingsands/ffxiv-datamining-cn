@@ -51,14 +51,14 @@ int32,str,str
 47,"TEXT_GAIUSC810_01034_TODO_23",""
 48,"TEXT_GAIUSC810_01034_STHALRHET_000_000","你来帮我个忙！
 去打倒栖息在海蛇巢穴的<Sheet(BNpcName,360,0)/>，
-获得8个上好的<Sheet(EventItem,2000784,0)/>。"
+获得8个上好的<Sheet(EventItem,2000848,0)/>。"
 49,"TEXT_GAIUSC810_01034_STHALRHET_000_001","这玩意真是难吃到死啊！
 真不明白为什么我哥喜欢吃这种东西，
 估计他是傻到吃什么都一个味道了吧。"
 50,"TEXT_GAIUSC810_01034_STHALRHET_000_002","但一想到他心满意足地吃水母的样子，
 我就气不打一处来！
 一定要抢在他前面获得水母！嘻嘻嘻！"
-51,"TEXT_GAIUSC810_01034_DUMMY_000_000","打倒8只海蜂水母，获得<Sheet(EventItem,2000784,0)/>。"
+51,"TEXT_GAIUSC810_01034_DUMMY_000_000","打倒8只海蜂水母，获得<Sheet(EventItem,2000848,0)/>。"
 52,"TEXT_GAIUSC810_01034_SYSTEM_000_000","删除"
 53,"TEXT_GAIUSC810_01034_STHALRHET_000_010","你得到<Sheet(EventItem,2000848,0)/>了吗？
 可不许把它给诺尔特穆恩……给我哥哥啊。"

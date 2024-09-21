@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGYOK6ROPLI_00896_ROPLI_000","这里是珠串万货街。
+可以算是为了这个地区成立的市场吧。
+如果你对这里的商品感兴趣的话，就随便转转看看吧。"
+1,"TEXT_REGYOK6ROPLI_00896_ROPLI_010","珠串万货街就是这样一串由不同的人和物穿成的项链。
+来宾店主各取所需，不仅顾客高兴，商家也高兴，
+大家的幸福和笑容，也能为整个万货街增光添彩。"
+2,"TEXT_REGYOK6ROPLI_00896_ROPLI_011","我相信有了你的协助，这份愿景一定会实现的。
+<Highlight>ObjectParameter(1)</Highlight>，拜托你了。"
+3,"TEXT_REGYOK6ROPLI_00896_ROPLI_020","你真是太厉害了，<Highlight>ObjectParameter(1)</Highlight>！
+你帮助遇到困难的店铺解决了问题。
+真希望你这个工匠能够一直待在我们市场这里。"

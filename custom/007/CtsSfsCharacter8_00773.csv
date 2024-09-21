@@ -38,9 +38,9 @@ int32,str,str
 21,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_001_002","每当信赖等级提高，
 就可以看到与<Sheet(ENpcResident,IntegerParameter(1),0)/>有关的新故事。"
 22,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_007_000","交纳收藏品需要收藏品对应的职业在80级以上才能进行。"
-23,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_007_001","交纳时，若收藏品所对应的职业等级为90级，
+23,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_007_001","交纳时，若收藏品所对应的职业等级为100级，
 将会得到工票作为报酬，
-若对应职业未满90级，将会得到经验作为报酬。"
+若对应职业未满100级，将会得到经验作为报酬。"
 24,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_000","如果想要调查委托品列表中的道具的获得方法，
 就请活用次级指令与道具说明吧。"
 25,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_001","能工巧匠分类的委托品，只需要在打开列表的状态下，
@@ -92,9 +92,9 @@ int32,str,str
 分为能工巧匠、采矿工与园艺工、捕鱼人三种，
 并且需要所有物品均为“收藏品”。"
 44,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_008","交纳收藏品需要收藏品对应的职业在80级以上才能进行。"
-45,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_009","交纳时，若收藏品所对应的职业等级为90级，
+45,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_009","交纳时，若收藏品所对应的职业等级为100级，
 将会得到工票作为报酬，
-若对应职业未满90级，将会得到经验作为报酬。"
+若对应职业未满100级，将会得到经验作为报酬。"
 46,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_001","关于交纳用的收藏品的获取方法，
 可以分别通过以下方式调查。"
 47,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_002","能工巧匠分类的委托品，只需要在打开列表的状态下，

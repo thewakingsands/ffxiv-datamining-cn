@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,,,,,,,,,,,
-int32,uint32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+#,Icon,Singular,,Plural,,,,,,TitleCase,Description
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
 0,0,"",0,"",0,0,1,0,0,"",""
 1,27970,"",0,"",0,0,1,0,0,"乌内亚灵复制体","记载了乌内数据的神典石。通过亚灵复制体生成器解析读取后，即可召唤乌内亚灵复制体。"
 2,27971,"",0,"",0,0,1,0,0,"多加亚灵复制体","记载了多加数据的神典石。通过亚灵复制体生成器解析读取后，即可召唤多加亚灵复制体。"

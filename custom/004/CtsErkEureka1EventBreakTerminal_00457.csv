@@ -51,7 +51,7 @@ int32,str,str
 但总有一天我会找到彻底消灭这东西的方法！"
 22,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGZ_000_204","好了，既然处置方法已经定下来了，
 那么接下来就得找出一个用来封印的场所。"
-23,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_205","毕竟也不能就这么将其封印在这座殖民都市里，
+23,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGK_000_205","毕竟也不能就这么将其封印在这座殖民城市里，
 如果能有正合适的偏僻地方就好了……"
 24,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_EUREKAYOUNGD_000_206","……喂，加拉夫。
 是你先提出的方案，你就没有什么主意吗？"
@@ -79,7 +79,7 @@ int32,str,str
 想要传送到其他区域，还需要进行调整……"
 34,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040","中继以太之晶经过了调整，目前正在运转中。
 已经可以传送到其他区域。"
-35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","退出“<Sheet(ContentFinderCondition,IntegerParameter(1),41)/>”任务后，
+35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","退出“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务后，
 和黄金港的罗德尼对话，
 可以前往其他区域。"
 36,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR",""

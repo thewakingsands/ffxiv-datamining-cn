@@ -252,8 +252,7 @@ int32,str,str
 106,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_450","大地资源部的贡献等级提高了！
 科希·芮认为你是萨迈尔搜索队精明能干的队长！"
 107,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_390","此外，可以领取中庸工艺馆交易的剧情任务了。
-和科希·芮对话即可接受任务。
-完成任务后，交货列表将会更新。"
+和科希·芮对话即可接受任务。"
 108,"TEXT_CTSDKBCHARACTER4_00570_QESHIRAE_000_400","<Highlight>ObjectParameter(1)</Highlight>，你来得正好！
 我有事想拜托你。"
 109,"TEXT_CTSDKBCHARACTER4_00570_SYSTEM_000_405","采矿工或园艺工的等级达到78级以上时，

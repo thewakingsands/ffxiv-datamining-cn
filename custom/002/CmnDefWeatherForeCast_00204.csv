@@ -9,5 +9,13 @@ int32,str,str
 明日本时段的天气将会是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(5),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","当前<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>正处于旱季，
 短时间内无降雨来临，天空只余无尽光。"
-3,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200","非常抱歉，现在暂时无法预报诺弗兰特的天气。"
-4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","非常抱歉，现在暂时无法预报当前地区的天气。"
+3,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200","非常抱歉，暂时无法预报诺弗兰特的天气。"
+4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","非常抱歉，暂时无法预报该地区的天气。"
+5,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400","非常抱歉，暂时无法预报该地区的天气。"
+6,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000","我是气象观测系统。
+我会尽力为大家提供准确的气象情报。"
+7,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>当前的天气为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(2),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+稍后，<If(Equal(IntegerParameter(3),IntegerParameter(4)))>会持续为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>，<Else/>将会有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(3),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(4),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>相继而至，</If>
+明日本时段的天气将会是<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Weather,IntegerParameter(5),1)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+8,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100","进行气象观测时发生了未知错误，
+暂时无法预报该地区的天气。"

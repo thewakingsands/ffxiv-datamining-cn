@@ -65,6 +65,6 @@ int32,str,str
 53,"TEXT_STMBDY402_02942_SYSTEM_000_011","和罗德尼对话，
 选择“禁地优雷卡 恒冰之地”就可开始进行探索。"
 54,"TEXT_STMBDY402_02942_SYSTEM_000_012","另外“禁地优雷卡 恒冰之地”设有品级同步限制，
-所有装备的性能将被调整到“<Sheet(ContentFinderCondition,IntegerParameter(1),19)/>级”之下。"
+所有装备的性能将被调整到“<Sheet(ContentFinderCondition,IntegerParameter(1),20)/>级”之下。"
 55,"TEXT_STMBDY402_02942_RODNEY_000_100",""
 56,"TEXT_STMBDY402_02942_SYSTEM_000_101",""

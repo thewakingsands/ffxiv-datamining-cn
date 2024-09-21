@@ -243,8 +243,7 @@ int32,str,str
 110,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_561","金属工艺部的贡献等级提高了！
 伊奥拉认为你是黑铁工房的王牌！"
 111,"TEXT_CTSDKBCHARACTER1_00567_SYSTEM_000_524","此外，可以领取中庸工艺馆交易的剧情任务了。
-和伊奥拉对话即可接受任务。
-完成任务后，交货列表将会更新。"
+和伊奥拉对话即可接受任务。"
 112,"TEXT_CTSDKBCHARACTER1_00567_IOLA_100_550","哟，<Highlight>ObjectParameter(1)</Highlight>！
 这回要打算开发什么样的新商品啊！"
 113,"TEXT_CTSDKBCHARACTER1_00567_IOLA_000_550","最近那三个人好像总是在热心地工作着……

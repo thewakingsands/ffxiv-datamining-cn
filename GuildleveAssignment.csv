@@ -37,3 +37,4 @@ int32,str,byte,GuildleveAssignmentTalk,Quest,Quest,bit&01,bit&02,bit&04,bit&08,b
 393249,"行会理符发行处",4,34,68457,68457,False,False,False,False,True,0
 393250,"中庸工艺馆理符发行处",5,35,69138,69138,False,False,False,False,True,0
 393251,"拾穗人理符发行处",7,36,69706,69706,False,False,False,False,True,0
+393252,"图莱尤拉理符发行处",8,37,70539,70539,False,False,False,False,True,0

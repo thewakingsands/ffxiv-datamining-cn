@@ -21,3 +21,10 @@ int32,str,str
 确认抽选土地、申请号码及土地用途。"
 8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","若返还金币后所持金币超过上限，则无法返还。
 请减少所持金币数量后再试。"
+9,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE","正在参与其他土地的抽选。
+请通过已抽选土地的门牌确认结果。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※你参与抽选的土地为
+　<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> 第<Value>IntegerParameter(2)</Value>区 <Value>IntegerParameter(3)</Value>号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+"
+10,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK","OK"
