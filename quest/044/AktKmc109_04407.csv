@@ -128,8 +128,8 @@ int32,str,str
 92,"TEXT_AKTKMC109_04407_BALLOON_000_086","哎呀？！"
 93,"TEXT_AKTKMC109_04407_BALLOON_000_087","拦不住<If(PlayerParameter(4))>她<Else/>他</If>……"
 94,"TEXT_AKTKMC109_04407_BALLOON_000_090","拜、拜托了……
-请抓住<If(PlayerParameter(4))>她<Else/>他</If>！"
-95,"TEXT_AKTKMC109_04407_BALLOON_000_095","有机会……再一起散步……"
+请束手就擒吧！"
+95,"TEXT_AKTKMC109_04407_BALLOON_000_095","还想……一起散步……"
 96,"TEXT_AKTKMC109_04407_THANCRED_000_100","好，看来你也顺利逃出来了啊……"
 97,"TEXT_AKTKMC109_04407_YSHTOLA_000_110","很好，你看起来没什么事。"
 98,"TEXT_AKTKMC109_04407_YSHTOLA_000_111","那就赶紧骑着阿尔戈斯前往监视者之馆，

@@ -17174,7 +17174,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 13141,0,False,False,False,5,0,1,False,False,5,25,"灵感，灵感，有灵感了！
 我得抓住这个灵感，赶紧落实到我的创造生物理念上！"
 13142,0,False,False,False,5,0,1,False,False,5,25,"小使魔，谢谢你帮忙！
-等我的新理念成功了，一定会给拿给你看的！"
+等我的新理念成功了，一定会拿给你看的！"
 13143,0,False,False,False,2,0,4,False,False,1,25,"我得在把灵感忘了之前
 落实到我的理念上去……"
 13144,0,False,False,False,5,0,1,False,False,5,25,"这个样子就已经很好了吗……？
@@ -21605,19 +21605,19 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16583,0,False,False,False,3,0,3,False,False,1,25,"啊！"
 16584,0,False,False,False,3,0,3,False,False,1,25,"哇！"
 16585,0,False,False,False,3,0,3,False,False,1,25,"呜啊！"
-16586,0,False,False,False,3,0,4,False,True,1,25,"不好不好！"
+16586,0,False,False,False,3,0,4,False,True,1,25,"呜，好难喝……"
 16587,0,False,False,False,3,0,4,False,True,1,25,"0"
 16588,0,False,False,False,3,0,4,False,True,1,25,"0"
-16589,0,False,False,False,3,0,4,False,True,1,25,"视野在转……"
-16590,0,False,False,False,3,0,4,False,True,1,25,"哕……好恶心……"
+16589,0,False,False,False,3,0,4,False,True,1,25,"天旋地转……"
+16590,0,False,False,False,3,0,4,False,True,1,25,"呕……好恶心……"
 16591,0,False,False,False,3,0,4,False,True,1,25,"好晕啊……"
-16592,0,False,False,False,3,0,4,False,True,1,25,"哈……哈……"
+16592,0,False,False,False,3,0,4,False,True,1,25,"呼……呼……"
 16593,0,False,False,False,3,0,4,False,True,1,25,"哇？！"
 16594,0,False,False,False,3,0,4,False,True,1,25,"等……！"
-16595,0,False,False,False,3,0,4,False,True,1,25,"嗝……"
+16595,0,False,False,False,3,0,4,False,True,1,25,"呕……呜……"
 16596,0,False,False,False,3,0,4,False,True,1,25,"呜哇！"
 16597,0,False,False,False,3,0,7,False,True,1,25,"呜呜！！"
-16598,0,False,False,False,3,0,7,False,True,1,25,"哈……"
+16598,0,False,False,False,3,0,7,False,True,1,25,"呼……哈……"
 16599,0,False,False,False,3,0,4,False,True,1,25,"0"
 16600,0,False,False,False,3,0,4,False,True,1,25,"0"
 16601,0,False,False,False,3,0,4,False,True,1,25,"呜……
@@ -21766,7 +21766,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16714,0,False,False,False,3,0,4,False,False,1,25,"鬼啊？！"
 16715,0,False,False,False,3,0,4,False,False,1,25,"呜哇啊啊！
 快跑啊！"
-16716,0,False,False,False,3,0,4,False,False,1,25,"我会离你远离点，
+16716,0,False,False,False,3,0,4,False,False,1,25,"我会离你远点，
 省得碍你事！"
 16717,0,False,False,False,2,0,4,False,False,1,25,"请守护父祖他们的记忆……"
 16718,0,False,False,False,3,0,4,False,False,1,25,"如果那些图案被毁的话，
@@ -21780,7 +21780,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16723,0,False,False,False,3,0,4,False,False,1,25,"之后只要那喜欢
 狂风的家伙不再出现的话……"
 16724,0,False,False,False,3,0,4,False,False,1,25,"呜，果然还是出现了吗！
-朋友，不要勉强快跑吧！"
+朋友，不要硬撑，快跑吧！"
 16725,0,False,False,False,3,0,3,False,False,1,25,"为了家人，
 我会使出所有的力量！"
 16726,0,False,False,False,3,0,4,False,False,1,25,"啊——
@@ -21798,7 +21798,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 难道那个就是传闻中的食人兽？"
 16734,0,False,False,False,3,0,4,False,False,1,25,"噗呜呜！"
 16735,0,False,False,False,3,0,4,False,False,1,25,"噗噗！"
-16736,0,False,False,False,3,0,4,False,False,1,25,"萨利，今天也打起精神
+16736,0,False,False,False,3,0,4,False,False,1,25,"今天也打起精神
 开始清扫吧！"
 16737,0,False,False,False,3,0,4,False,False,1,25,"开始执行
 清扫协议！"
@@ -21967,9 +21967,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 发现入侵者。"
 16861,0,False,False,False,3,0,3,False,True,1,25,"立刻清除。"
 16862,0,False,False,False,3,0,3,False,True,1,25,"请停止生命活动。"
-16863,0,False,False,False,0,0,0,False,False,0,0,""
-16864,0,False,False,False,0,0,0,False,False,0,0,""
-16865,0,False,False,False,0,0,0,False,False,0,0,""
+16863,0,False,False,False,3,0,3,False,False,1,25,"哈！"
+16864,0,False,False,False,3,0,3,False,False,1,25,"死吧！"
+16865,0,False,False,False,3,0,3,False,False,1,25,"飞吧！"
 16866,0,False,False,False,3,0,4,False,False,1,25,"请求支援！
 请求支援！"
 16867,0,False,False,False,5,11,1,False,False,5,25,"因紧急事态，请求支援！
@@ -22159,7 +22159,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16991,0,False,False,False,5,11,1,False,False,6,25,"重新读取气象数据……
 雷波过后会有暴风、灼热波！"
 16992,0,False,False,False,5,11,1,False,False,6,25,"重新读取气象数据……
-吹雪过后会有雷波、暴风！"
+暴雪过后会有雷波、暴风！"
 16993,0,False,False,False,5,11,1,False,False,6,25,"重新读取气象数据……
 暴风过后会有灼热波、雷波！"
 16994,0,False,False,False,5,11,1,False,False,5,25,"叮咚咣当，嘭嘭！
@@ -22498,7 +22498,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 蘑菇 全部消灭了！"
 17232,0,False,False,False,3,0,4,False,False,1,25,"陶艺黏土 也没事！"
 17233,0,False,False,False,3,0,4,False,False,1,25,"但是 有点不可思议的香味
-难道是沾上了莫古的味道？"
+难道是沾上了蘑菇的味道？"
 17234,0,False,False,False,3,0,4,False,False,1,25,"有不好的气息……"
 17235,0,False,False,False,3,0,4,False,False,1,25,"凶猛的大家伙 出现了！
 逃跑 撤退 走为上策！"
@@ -22514,7 +22514,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 干什么呢！"
 17242,0,False,False,False,3,0,4,False,True,1,25,"诶，我说……
 这有点不妙吧？！"
-17243,0,False,False,False,3,0,4,False,True,1,25,"啊哈！"
+17243,0,False,False,False,3,0,4,False,True,1,25,"啊！"
 17244,0,False,False,False,3,0,4,False,True,1,25,"呃……"
 17245,0,False,False,False,3,0,4,False,True,1,25,"好吧……"
 17246,0,False,False,False,3,0,5,False,False,1,25,"0"
@@ -22530,7 +22530,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17252,0,False,False,False,5,11,1,False,False,5,25,"感谢各位参加！
 回去时请多注意脚下！"
 17253,0,False,False,False,3,0,4,False,True,1,25,"看穿了！
-真身在那里！"
+真身在这边！"
 17254,0,False,False,False,3,0,4,False,True,1,25,"把祭器还给我们！"
 17255,0,False,False,False,3,0,4,False,True,1,25,"差不多该撤了吗……"
 17256,0,False,False,False,5,11,1,False,False,5,25,"各位，米卡的表演如何呀？
@@ -22618,7 +22618,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17311,0,False,False,False,2,0,3,False,False,1,25,"咦嘻嘻！"
 17312,0,False,False,False,2,0,3,False,False,1,25,"咔咚咔咚！"
 17313,0,False,False,False,2,0,3,False,False,1,25,"诺斯……瓦亚……"
-17314,0,False,False,False,0,0,0,False,False,0,0,""
+17314,0,False,False,False,2,0,3,False,False,1,25,"把你做成肉串！"
 17315,0,False,False,False,2,0,3,False,False,1,25,"所以我也一样啊。"
 17316,0,False,False,False,2,0,3,False,False,1,25,"我已经等它太久了……"
 17317,0,False,False,False,0,0,0,False,False,0,0,""
@@ -22678,10 +22678,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17362,0,False,False,False,2,0,3,False,False,1,25,"我的守护之力怎么会……？！"
 17363,0,False,False,False,3,0,3,False,False,1,25,"得救了……
 你也看好时机逃吧！"
-17364,0,False,False,False,0,0,0,False,False,0,0,""
-17365,0,False,False,False,0,0,0,False,False,0,0,""
+17364,0,False,False,False,2,0,5,False,False,1,25,"身、身体……"
+17365,0,False,False,False,2,0,5,False,False,1,25,"被压制了……"
 17366,0,False,False,False,0,0,0,False,False,0,0,""
-17367,0,False,False,False,0,0,0,False,False,0,0,""
+17367,0,False,False,False,2,0,5,False,False,1,25,"哈……哈……"
 17368,0,False,False,False,3,0,4,False,True,1,25,"哪一个才是真身呢？"
 17369,0,False,False,False,2,0,4,False,False,1,25,"检测到异常个体……"
 17370,0,False,False,False,2,0,4,False,False,1,25,"开始清除……"
@@ -23222,7 +23222,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17762,0,False,False,False,2,0,4,False,False,1,25,"上！"
 17763,0,False,False,False,3,0,4,False,False,1,25,"轮到木人上场了吗？！"
 17764,0,False,False,False,3,0,4,False,False,1,25,"一脸悠闲的样子，
-根本接下来要发生什么……"
+根本不知道接下来要发生什么……"
 17765,0,False,False,False,2,0,4,False,False,1,25,"就算哭着道歉，
 也绝不原谅你？！"
 17766,0,False,False,False,2,0,4,False,False,1,25,"快去死吧！"
@@ -23434,7 +23434,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17910,0,False,False,False,3,0,4,False,False,1,25,"好多结晶……"
 17911,0,False,False,False,3,0,4,False,False,1,25,"是高浓度的环境以太
 结晶化的产物……"
-17912,0,False,False,False,3,0,4,False,False,1,25,"证明这里环境以太浓度很高。"
+17912,0,False,False,False,3,0,4,False,False,1,25,"说明这里环境以太浓度很高。"
 17913,0,False,False,False,3,0,4,False,False,1,25,"那是什么？"
 17914,0,False,False,False,3,0,4,False,False,1,25,"魔法生物……吗？"
 17915,0,False,False,False,3,0,4,False,False,1,25,"是雪精！

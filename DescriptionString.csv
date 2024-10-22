@@ -900,8 +900,8 @@ int32,str
 200,"关于功能家具"
 201,"制作设备"
 202,"“制作设备”是布置在室内的家具，
-可以支援生产活动。
-通过制作设备进行生产，可在生产过程中享受强化效果。
+可以支援制作活动。
+通过制作设备进行制作，可在制作过程中享受强化效果。
 
 ■设置数量
 可设置的制作设备数量与房屋的大小有关。
@@ -912,7 +912,7 @@ int32,str
 　·大面积土地：8个。
 
 ■制作设备的种类
-每种生产职业分别对应1种制作设备，一共有8种。
+每种制作职业分别对应1种制作设备，一共有8种。
 　·刻木匠：木匠工作台
 　·锻铁匠：铁匠工作台
 　·铸甲匠：甲匠锻造炉
@@ -5310,7 +5310,7 @@ int32,str
 1031,"令装备外观透明化"
 1032,"在旅馆内武具投影的好处"
 1033,"雇员的武具投影"
-1034,"冒险者小队的武具投影"
+1034,"冒险者分队的武具投影"
 1035,"所谓投影台"
 1036,"将装备幻影化保存"
 1037,"幻影化装备的用法"
@@ -5404,7 +5404,7 @@ int32,str
 
 另外，也可以利用雇员装备或持有的道具
 对其他道具进行投影。"
-1064,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>冒险者小队分队员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>达到51级以上才能进行武具投影。
+1064,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>冒险者分队成员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>达到51级以上才能进行武具投影。
 与分队员对话，即可在“武具投影”中更改其装备的外观。
 
 除玩家所持物品外之外，
@@ -5413,7 +5413,7 @@ int32,str
 1065,"投影台是将装备转化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>并加以保管的仓库。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※部分可升级的装备无法保存。
 ※保管数量有限制。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-玩家可以在各城邦的旅馆，以及大国防联军的冒险者小队军营中随意使用投影台。
+玩家可以在各城邦的旅馆，以及大国防联军的冒险者分队军营中随意使用投影台。
 
 将装备制作成幻影时，每件装备需要消耗一枚<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 装备被制作成幻影之后，即可用于搭配创建投影模板，多次投影在不同的装备上。

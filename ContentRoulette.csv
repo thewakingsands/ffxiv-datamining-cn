@@ -46,7 +46,7 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 9,"随机任务：指导者任务","指导者任务","","随机参加已经完成的指导者对应任务，仅限已成为战斗指导者的玩家使用。成功完成任务后得到的报酬会大幅高于正常途径参加同样任务时的报酬。
 
 ※随机任务中所获得的额外金币报酬由参加时的职业与等级决定，在任务过程中所获得的金币的差额会在最后作为报酬一并获取。
-※随机任务的奖励一天只能获得一次。","对应任务：指导者对应任务",5,0,False,True,2,False,100,100,670,False,0,112144,8,0,30,0,0,0,0,10,142,1,0,0,8,True,1,0,30,120,True,True,False,False,2,0,False,0,False,True,0
+※随机任务的奖励一天只能获得一次。","对应任务：指导者对应任务",5,0,False,True,2,False,100,100,685,False,0,112144,8,0,30,0,0,0,0,10,142,1,0,0,8,True,1,0,30,120,True,True,False,False,2,0,False,0,False,True,0
 10,"","","","","",0,0,False,False,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,False,0,False,False,0
 11,"","","","","",0,0,False,False,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,False,0,False,False,0
 12,"","","","","",0,0,False,False,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,False,0,False,False,0

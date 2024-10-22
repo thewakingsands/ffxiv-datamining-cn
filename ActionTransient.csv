@@ -318,7 +318,7 @@ int32,str
 107,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>纷乱箭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>纷乱箭效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以发动<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),70))>辉煌箭<Else/>直线射击</If><Else/>直线射击</If>及<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>影噬箭<Else/>广域群射</If><Else/>广域群射</If>
 发动<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),70))>辉煌箭<Else/>直线射击</If><Else/>直线射击</If>时造成3次伤害
-发动<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>影噬箭<Else/>广域群射</If><Else/>广域群射</If>时威力提升<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>270<Else/>220</If><Else/>220</If><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),96))>
+发动<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>影噬箭<Else/>广域群射</If><Else/>广域群射</If>时威力提高到<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>270<Else/>220</If><Else/>220</If><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),96))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>共鸣箭预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒<Else/></If><Else/></If>"
 108,"对目标造成止步效果　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
@@ -778,7 +778,7 @@ int32,str
 298,"降低自身移动速度，避免怪物袭击
 只对低于<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),76))>80<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),73))>77<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),70))>74<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),66))>70<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),63))>67<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),60))>64<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),56))>60<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),53))>57<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),50))>54<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),38))>50<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),28))>40<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),18))>30<Else/>20</If></If></If></If></If></If></If></If></If></If></If></If><Else/>20</If>级的敌人有效"
 299,"收起渔具结束采集
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能会解除所有仅在钓鱼中生效的附加状态。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能会解除所有仅在钓鱼中生效的附加状态<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 300,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 将钓上的鱼放回到钓场中
 在接下来再次钓上放生过的鱼时会自动继续放生
@@ -45815,7 +45815,7 @@ int32,str
 37031,"一定时间内，令自身和周围队员所受到的伤害减轻10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>太阳星座预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
-37032,"对自身周围的敌人无属性持续伤害状态
+37032,"对自身周围的敌人附加无属性持续伤害状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 无法与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡注药III<UIGlow>01</UIGlow><UIForeground>01</UIForeground>效果共存
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令带有关心状态的目标恢复体力
@@ -45854,8 +45854,8 @@ int32,str
 将钓上的特定大尺寸的鱼保留为游动饵
 继续在当前钓场钓鱼时，可以在<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>选饵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中将保留的游动饵作为普通钓饵使用
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※保留的游动饵即使在使用了会自动取消
-<Indent/><Indent/><Indent/><Indent/>以小钓大机会的技能后也仍可以正常使用。
-<Indent/><Indent/><Indent/><Indent/>但“拍击水面”和“专一垂钓”状态中无法使用。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<Indent/><Indent/><Indent/><Indent/>以小钓大机会的技能后也仍可以正常使用
+<Indent/><Indent/><Indent/><Indent/>但“拍击水面”和“专一垂钓”状态中无法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 37046,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 提高下次钓上大尺寸的鱼时，
 尺寸比一般情况更大的概率
@@ -45864,7 +45864,7 @@ int32,str
 在以小钓大的机会出现时发动此技能，机会自动取消"
 37047,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 从水中提起钓具，举杆休息
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※仅在钓鱼中生效的附加状态将会保留。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※仅在钓鱼中生效的附加状态将会保留<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 37048,""
 37049,""
 37050,""
@@ -45940,7 +45940,7 @@ int32,str
 37120,""
 37121,""
 37122,""
-37123,"冲向目标并发动物理攻击。　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
+37123,"冲向目标并发动物理攻击<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>止步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态下无法发动"
 37124,"一定时间内，自身的最大体力提高20%
@@ -46425,7 +46425,7 @@ int32,str
 吸引大型鱼类，使其更容易上钩
 极少数情况下，会出现大型鱼一定会上钩的状态
 钓鱼中最多可以使用3次
-采集力消耗会随使用次数增加
+采集力消耗量与技能效果会随使用次数增加而提高
 可能吸引到隐藏的鱼
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>适用于强力提钩有效的鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>第一次使用消耗采集力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10
@@ -46435,7 +46435,7 @@ int32,str
 吸引小型鱼类，使其更容易上钩
 极少数情况下，会出现小型鱼一定会上钩的状态
 钓鱼中最多可以使用3次
-采集力消耗会随使用次数增加
+采集力消耗量与技能效果会随使用次数增加而提高
 可能吸引到隐藏的鱼
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>适用于精准提钩有效的鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>第一次使用消耗采集力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10

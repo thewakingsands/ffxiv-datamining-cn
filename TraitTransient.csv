@@ -770,7 +770,7 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星极火效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火属性魔法威力提高80%
 冰属性魔法威力降低30%
-氷属性魔法咏唱时间减半
+冰属性魔法咏唱时间减半
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>灵极冰效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>冰属性魔法命中时恢复10000点魔力
 火属性魔法威力降低30%

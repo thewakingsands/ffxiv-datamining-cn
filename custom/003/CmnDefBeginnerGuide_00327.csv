@@ -157,7 +157,7 @@ int32,str,str
 76,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_151","如果你符合以上条件，
 就请成为指导者，将经验传授给新人。"
 77,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_152","要成为指导者，需要达成特定的成就。"
-78,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_153","认证战斗指导者和认证生产采集指导者所需达成的成就各有不同。"
+78,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_153","认证战斗指导者和认证制作采集指导者所需达成的成就各有不同。"
 79,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_154","【战斗指导者成就条件】
 条件1：累计完成1000次迷宫挑战、讨伐歼灭战
 条件2：累计获得1500次最优队员推荐"
@@ -170,7 +170,7 @@ int32,str,str
 条件2：制作100次收藏品"
 83,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_157","条件3：任意采集职业达到100级
 条件4：任意制作职业达到100级"
-84,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_158","达成战斗职业成就条件或生产采集职业成就条件后，
+84,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_158","达成战斗职业成就条件或制作采集职业成就条件后，
 即可接受认证成为对应分类的指导者。"
 85,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_159","想要接受认证时，找各地的冒险者指导教官即可。"
 86,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_160","在冒险中，有时也会招募不到足够的人手完成任务，

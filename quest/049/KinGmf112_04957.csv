@@ -190,15 +190,15 @@ int32,str,str
 119,"TEXT_KINGMF112_04957_CAHCIUA_000_115","仔细一看，
 它背后那些看起来像鳞片的东西，其实是皮肤硬化形成的鳞板。
 这种鳞板和甲鳞纲角质化的鳞片是两种不同的成因。"
-120,"TEXT_KINGMF112_04957_ERENVILLE_000_116","……它们不是为了防御而变硬，
-而是通过改变颜色、获得灵活性更好地拟态 。
+120,"TEXT_KINGMF112_04957_ERENVILLE_000_116","……它们没有为了防御而变硬，
+而是为了方便拟态而改变了颜色。
 这么分析的话，它们确实和老妈说的一样，更接近百兽纲。"
 121,"TEXT_KINGMF112_04957_CAHCIUA_000_117","详细调查之前什么都不好说，
 但只要经过实地调查，就可以解开疑团了！"
 122,"TEXT_KINGMF112_04957_CAHCIUA_000_118","<Highlight>ObjectParameter(1)</Highlight>，你好像认识这孩子啊？
 你知道它平常栖息在什么地方吗？"
 123,"TEXT_KINGMF112_04957_CAHCIUA_000_119","第一世界的妖灵乡？！"
-124,"TEXT_KINGMF112_04957_ERENVILLE_000_120","<Highlight>ObjectParameter(1)</Highlight>的曾经去过异界和宇宙的尽头。
+124,"TEXT_KINGMF112_04957_ERENVILLE_000_120","<Highlight>ObjectParameter(1)</Highlight>曾经去过异界和宇宙的尽头。
 <If(PlayerParameter(4))>她<Else/>他</If>走过很多我们没去过的地方，
 肯定也见过不少神奇的生物。"
 125,"TEXT_KINGMF112_04957_CAHCIUA_000_121","真的吗？！这也太厉害了吧！
@@ -228,7 +228,7 @@ int32,str,str
 觉得要是让他闯荡一下世界，或许就会慢慢改变了。"
 139,"TEXT_KINGMF112_04957_ERENVILLE_000_135","……我这么阴沉真是抱歉啊。"
 140,"TEXT_KINGMF112_04957_WUKLAMAT_000_136","不过，多亏如此，
-我才能认识了<Highlight>ObjectParameter(1)</Highlight>，有了现在的一切。
+我才能认识<Highlight>ObjectParameter(1)</Highlight>，有了现在的一切。
 谢谢你！埃伦维尔！"
 141,"TEXT_KINGMF112_04957_CAHCIUA_000_137","那么……也差不多是时候了，
 我们该走了！"
@@ -246,7 +246,7 @@ int32,str,str
 147,"TEXT_KINGMF112_04957_ERENVILLE_000_145","自然史博物馆……好气派。
 也不知道里面展示的是什么，我有点想去看看。"
 148,"TEXT_KINGMF112_04957_CLEYRACURATOR_000_150","你们好！
-要来试试梅瓦皮亚拉空中游览吗？"
+要来试试美花帕拉空中游览吗？"
 149,"TEXT_KINGMF112_04957_WUKLAMAT_000_155","埃伦维尔就交给你啦！"
 150,"TEXT_KINGMF112_04957_KRILE_000_160","原来我们早就通过加拉夫爷爷相遇了啊……"
 151,"TEXT_KINGMF112_04957_GRAHATIA_000_165","看过一圈之后，我会去终端前等你们。
