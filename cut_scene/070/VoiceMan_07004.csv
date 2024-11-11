@@ -69,7 +69,7 @@ int32,str,str
 32,"TEXT_VOICEMAN_07004_000310_CAHCIUA","与其听我说这说那，
 还是你们亲自去体验一下更快。"
 33,"TEXT_VOICEMAN_07004_000320_CAHCIUA","你们不是想仔细了解一下斯菲因和佐拉加创建的国家吗？"
-34,"TEXT_VOICEMAN_07004_Q1_000_001_NONE_VOICE","要说什么"
+34,"TEXT_VOICEMAN_07004_Q1_000_001_NONE_VOICE","要说什么？"
 35,"TEXT_VOICEMAN_07004_A1_000_001_NONE_VOICE","我想赶快去看看！"
 36,"TEXT_VOICEMAN_07004_A1_000_002_NONE_VOICE","确实实际去了解一下更好"
 37,"TEXT_VOICEMAN_07004_000330_WUKLAMAT","你可真不愧是个冒险者，
@@ -145,7 +145,7 @@ int32,str,str
 77,"TEXT_VOICEMAN_07004_000720_SPHENE","佐拉加王为了胜利会不择手段。
 如果你想保护人民，那请你立刻回到图莱尤拉商议对策。"
 78,"TEXT_VOICEMAN_07004_000730_SPHENE","我也知道……身为袭击了图莱尤拉的敌国国王，
-我的话没有什么说服力。"
+我的话没什么说服力。"
 79,"TEXT_VOICEMAN_07004_000740_SPHENE","但你们和我不同……
 你们还拥有改变命运的力量！"
 80,"TEXT_VOICEMAN_07004_000750_WUKLAMAT","……你还真是个怪人。"
@@ -154,7 +154,7 @@ int32,str,str
 82,"TEXT_VOICEMAN_07004_000770_WUKLAMAT","就算我没在，他们也能保护好国家。
 所以我要在这边做自己力所能及的事。"
 83,"TEXT_VOICEMAN_07004_000780_SPHENE","可是……"
-84,"TEXT_VOICEMAN_07004_Q2_000_001_NONE_VOICE","要说什么"
+84,"TEXT_VOICEMAN_07004_Q2_000_001_NONE_VOICE","要说什么？"
 85,"TEXT_VOICEMAN_07004_A2_000_001_NONE_VOICE","没问题，我也会和她一起战斗"
 86,"TEXT_VOICEMAN_07004_A2_000_002_NONE_VOICE","我们也有不可退让的底线"
 87,"TEXT_VOICEMAN_07004_000790_SPHENE","能和信任的同伴一起守护一切……"
@@ -194,8 +194,8 @@ int32,str,str
 就算要下定论也要在深入了解之后再说。
 能不能告诉我，你们为什么要制定这个政策？"
 107,"TEXT_VOICEMAN_07004_Q2_010_001_NONE_VOICE","要说什么？"
-108,"TEXT_VOICEMAN_07004_A2_010_001_NONE_VOICE","我也很感兴趣。"
-109,"TEXT_VOICEMAN_07004_A2_010_002_NONE_VOICE","了解后没准会喜欢上这里。"
+108,"TEXT_VOICEMAN_07004_A2_010_001_NONE_VOICE","我也很感兴趣"
+109,"TEXT_VOICEMAN_07004_A2_010_002_NONE_VOICE","了解后没准会喜欢上这里"
 110,"TEXT_VOICEMAN_07004_000990_SPHENE","那就说来话长了。
 我先给你们介绍下我们这边的历史吧。"
 111,"TEXT_VOICEMAN_07004_001000_SPHENE","在很久很久以前……可能有一千年那么久，
@@ -203,7 +203,7 @@ int32,str,str
 112,"TEXT_VOICEMAN_07004_001010_SPHENE","根据在某个遗迹发掘出的谷物管理记录，
 在大约800多年前，
 每年中有三个月左右是雷雨交加的雨季……"
-113,"TEXT_VOICEMAN_07004_001020_SPHENE","可在400年之后，
+113,"TEXT_VOICEMAN_07004_001020_SPHENE","可是在400年之后，
 一年中有半年都变成了雨季。"
 114,"TEXT_VOICEMAN_07004_001030_SPHENE","雷云覆盖大地的时间越来越长，
 农作物难以生长，
@@ -556,7 +556,7 @@ int32,str,str
 就是那个好奇心旺盛，还跟着联王去旅行了的人。"
 321,"TEXT_VOICEMAN_07004_002960_NAAHE","嗯……我真想不起来了。"
 322,"TEXT_VOICEMAN_07004_002970_ERENVILLE","你别逗我了，这也能忘吗？
-我们那个小村子一共就这么几个人啊。"
+我们那个小村子一共就这么几个人啊！"
 323,"TEXT_VOICEMAN_07004_002980_NAAHE","我真的不记得你妈妈是谁……
 叫什么来着？"
 324,"TEXT_VOICEMAN_07004_002990_ERENVILLE","还有其他村里人在这里吗？"
@@ -671,7 +671,7 @@ int32,str,str
 393,"TEXT_VOICEMAN_07004_003630_ZORAALJA","斯菲因的目的是从障壁之外夺取生命。
 从一开始我们的利害关系就是一致的。"
 394,"TEXT_VOICEMAN_07004_003640_WUKLAMAT","嘁，满口胡言。
-她才不会那样做！"
+她才不会这样做！"
 395,"TEXT_VOICEMAN_07004_003650_SPHENE","佐拉加王说得没错。"
 396,"TEXT_VOICEMAN_07004_003660_ALISAIE","什么时候？！"
 397,"TEXT_VOICEMAN_07004_003670_SPHENE","袭击图莱尤拉是我的意愿。"
@@ -1057,7 +1057,7 @@ int32,str,str
 675,"TEXT_VOICEMAN_07004_006060_WUKLAMAT","什么意思？"
 676,"TEXT_VOICEMAN_07004_006070_SPHENE","办不到的……已经太迟了。"
 677,"TEXT_VOICEMAN_07004_006080_SPHENE","我之所以和佐拉加王合作，
-是因为我想得到维持永久人活动的以太。
+是因为我想要得到维持永久人活动的以太。
 那是只有杀死活人才能获得的“生命力以太”。"
 678,"TEXT_VOICEMAN_07004_006090_SPHENE","但现在，佐拉加王背叛了我，
 他和他创立的军队也战败了。

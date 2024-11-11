@@ -493,7 +493,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 489,"遮光器土偶",0,"",0,0,1,0,0,3856,100,10,0,0,0,1,0,8,501,False,True,False,True,False,0,False,True,4889,11517,True,0,10,340,46,0,20,1,620,3
 490,"忍犬黑丸",0,"",0,0,1,0,0,3906,100,10,0,0,0,2,0,8,341,True,False,True,False,True,0,False,True,4890,3035,True,0,20,500,6,360,30,1,600,1
 491,"乌洛萨帕",0,"",0,0,1,0,0,3934,100,10,0,0,0,2,2,8,90,True,False,True,False,True,0,False,True,4891,5012,True,0,20,500,30,360,20,1,623,1
-492,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+492,"东方的白色土龙？",0,"",0,0,1,0,0,3935,100,10,0,0,0,1,0,8,386,True,False,True,False,True,0,False,True,4892,3021,False,0,25,560,25,360,20,1,625,1
 493,"绿电气石神兵",0,"",0,0,1,0,0,3936,100,10,0,0,0,1,0,8,497,False,True,False,True,False,0,False,True,4893,8302,True,0,30,700,28,120,20,1,605,3
 494,"迷你奥修昂",0,"",0,0,1,0,0,3937,100,10,0,0,0,1,0,8,475,False,True,False,True,False,0,False,True,4894,2110,True,0,25,590,9,0,20,1,620,3
 495,"西德尼亚丘灵",0,"",0,0,1,0,0,3938,100,10,0,0,0,1,0,8,492,False,True,False,True,False,0,False,True,4895,11518,True,0,20,480,4,120,20,1,602,4
@@ -511,7 +511,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 507,"小小海牛",0,"",0,0,1,0,0,4047,120,10,0,0,0,2,5,8,506,True,False,True,False,True,0,False,True,4907,4016,False,0,15,600,38,30,20,1,640,1
 508,"飞梭M9",0,"",0,0,1,0,0,4048,80,10,0,0,0,1,0,8,507,False,True,True,False,False,0,False,True,4908,11030,False,0,10,480,18,360,30,1,624,4
 509,"小羊驼",0,"",0,0,1,0,0,4049,100,10,0,0,0,2,0,8,508,True,False,True,False,True,0,False,True,4909,3036,False,0,20,560,16,360,60,1,630,1
-510,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+510,"吸蜜怪",0,"",0,0,1,0,0,4050,100,10,0,0,0,2,0,8,509,True,False,True,False,True,0,False,True,4910,1113,False,0,25,730,28,120,20,1,605,2
 511,"中角羊",0,"",0,0,1,0,0,4051,100,10,0,0,0,2,0,8,510,True,False,True,False,True,0,False,True,4911,3038,False,0,30,850,23,30,20,1,601,1
 512,"伊克提",0,"",0,0,1,0,0,4052,100,10,0,0,0,2,0,8,511,True,False,True,False,True,0,False,True,4912,3039,False,0,15,560,13,30,20,1,604,1
 513,"小绿鸟",0,"",0,0,1,0,0,4053,100,10,0,0,0,2,2,8,512,True,False,True,False,True,0,False,True,4913,5013,False,0,20,440,12,360,20,1,619,1
@@ -521,7 +521,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 517,"酒杯刺",0,"",0,0,1,0,0,4057,70,10,0,0,0,2,0,8,27,True,False,True,False,True,0,False,True,4917,1109,False,0,15,520,12,360,20,1,626,2
 518,"蓝猫",0,"",0,0,1,0,0,4058,100,10,0,0,0,2,0,8,516,True,False,True,False,True,0,False,True,4918,3041,False,0,10,480,1,120,20,1,616,1
 519,"说话的石头",0,"",0,0,1,0,0,4117,100,10,0,0,0,1,0,8,517,False,True,False,True,False,0,False,True,4919,1110,False,0,25,600,20,360,40,1,637,4
-520,"辉鳞族玩偶",0,"",0,0,1,0,0,4118,100,10,0,0,0,1,0,8,518,False,True,False,True,False,0,False,True,4920,6007,False,0,20,600,22,360,20,1,632,3
+520,"辉鳞人玩偶",0,"",0,0,1,0,0,4118,100,10,0,0,0,1,0,8,518,False,True,False,True,False,0,False,True,4920,6007,False,0,20,600,22,360,20,1,632,3
 521,"恶作剧小丑",0,"",0,0,1,0,0,4119,100,10,0,0,0,1,0,8,519,False,True,False,True,False,0,False,True,4921,1111,False,0,10,480,35,360,25,1,634,2
 522,"铁皮哨兵T1",0,"",0,0,1,0,0,4120,100,10,0,0,0,1,0,8,520,False,True,False,True,False,0,False,True,4922,11031,False,0,25,590,1,30,30,1,603,3
 523,"验证体安布罗斯",0,"",0,0,1,0,0,4121,100,10,0,0,0,1,0,8,521,False,True,False,True,False,0,False,True,4923,1112,False,0,20,580,6,360,40,1,600,3

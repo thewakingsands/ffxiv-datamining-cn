@@ -286,7 +286,7 @@ int32,str
 <Else/></If><Else/></If>止步状态下无法发动"
 96,"跳起接近目标并发动火属性范围攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 攻击复数敌人时，对目标之外的敌人威力降低50%
-<If(Equal(PlayerParameter(68),22))><If(GreaterThanOrEqualTo(PlayerParameter(72),92))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「龙炎升预备」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(Equal(PlayerParameter(68),22))><If(GreaterThanOrEqualTo(PlayerParameter(72),92))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙炎升预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <Else/></If><Else/></If>止步状态下无法发动"
 97,"对目标发动物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160<If(GreaterThanOrEqualTo(PlayerParameter(72),2))><If(Equal(PlayerParameter(68),5))>
@@ -32709,7 +32709,7 @@ int32,str
 26804,"恢复150点采集力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消耗3档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>捕鱼人之计<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26805,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>钓鱼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-一定时间内，钓上一般尺寸的鱼也可以发动<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),91))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“以小钓大”<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“熟练妙技”<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“以小钓大”<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/></If>
+一定时间内，钓上一般尺寸的鱼也可以发动<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),91))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“以小钓大”<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“熟练妙招”<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“以小钓大”<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/></If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消耗5档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>捕鱼人之计<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>145秒
 对前一次钓到的鱼无效"
@@ -45246,7 +45246,7 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏
 　满足发动条件后，原初的解放变为原初的怒震<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-36925,"对目标及其周围的敌人发动无属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780
+36925,"对目标及其周围的敌人发动无属性范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780
 攻击复数敌人时，对目标之外的敌人威力降低70%
 该技能必定暴击并且直击
 受暴击或直击发动率提高效果影响时，攻击造成的伤害提高
