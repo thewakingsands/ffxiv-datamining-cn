@@ -58,7 +58,7 @@ int32,str,str
 50,"TEXT_SUBSEA154_01145_AHLDFOET_000_010","怎样？
 拿到大叔拜托你的东西了吗？"
 51,"TEXT_SUBSEA154_01145_AHLDFOET_000_011","……啊，就是这个就是这个。
-谢谢你，<Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(2)><If(PlayerParameter(4))>姑娘<Else/>兄弟</If></Case><Case(3)>小不点</Case><Case(4)><If(PlayerParameter(4))>小猫咪<Else/>小猫哥</If></Case><Case(5)><If(PlayerParameter(4))>大姐<Else/>大哥</If></Case><Case(6)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(7)>小哥</Case><Case(8)>小姐</Case></Switch>。"
+谢谢你，<Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(2)><If(PlayerParameter(4))>姑娘<Else/>兄弟</If></Case><Case(3)>小不点</Case><Case(4)><If(PlayerParameter(4))>小猫咪<Else/>小猫哥</If></Case><Case(5)><If(PlayerParameter(4))>大姐<Else/>大哥</If></Case><Case(6)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(7)><If(PlayerParameter(4))>姑娘<Else/>小哥</If></Case><Case(8)><If(PlayerParameter(4))>姑娘<Else/>兄弟</If></Case></Switch>。"
 52,"TEXT_SUBSEA154_01145_AHLDFOET_000_012","蝙蝠既不是鸟类也不是兽类。
 所以常有人认为它是不伦不类的异类，
 其实并不是那样。"

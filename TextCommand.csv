@@ -738,7 +738,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 将小队列表按指定顺序排列。
 >>子命令
 数字1 数字2
-将小队列表中的小队成员按指定的数字（2-8）交换排列位置。
+将小队列表中的小队成员按指定的数字（1-8）交换排列位置。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 按角色设置＞界面设置＞小队列表＞队员排序设置中设定的顺序进行排列。
 
@@ -1181,7 +1181,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /lookingforparty、/lfp
 将在线状态设置为“希望组队”，并附加希望组队的职业。
 >>职业(※可以指定多个职业，顺序不限)
-剑术师(GLA)　格斗家(PGL)　斧术师(MRD)　枪术师(LNC)　弓箭手(ARC)　双剑师(ROG)　幻术师(CNJ)　咒术师(THM)　秘术师(ACN)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)　骑士(PLD)　武僧(MNK)　战士(WAR)　龙骑士(DRG)　吟游诗人(BRD)　忍者(NIN)　白魔法师(WHM)　黑魔法师(BLM)　召唤师(SMN)　学者(SCH)　暗黑骑士(DRK)　机工士(MCH)　占星术士(AST)　武士(SAM)　赤魔法师(RDM)　青魔法师(BLU)　绝枪战士(GNB)　舞者(DNC)　贤者(SGE)　钐镰客(RPR)
+骑士(PLD)　剑术师(GLA)　战士(WAR)　斧术师(MRD)　暗黑骑士(DRK)　绝枪战士(GNB)　白魔法师(WHM)　幻术师(CNJ)　学者(SCH)　占星术士(AST)　贤者(SGE)　武僧(MNK)　格斗家(PGL)　龙骑士(DRG)　枪术师(LNC)　忍者(NIN)　双剑师(ROG)　武士(SAM)　钐镰客(RPR)　蝰蛇剑士(VPR)　吟游诗人(BRD)　弓箭手(ARC)　机工士(MCH)　舞者(DNC)　黑魔法师(BLM)　咒术师(THM)　召唤师(SMN)　秘术师(ACN)　赤魔法师(RDM)　绘灵法师(PCT)　青魔法师(BLU)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)
 ※省略该条件会默认为指定当前职业。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2022,7 +2022,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 338,2,0,0,0,0,"/systemsoundsspeaker","","/扬声器系统音 子命令
 /systemsoundsspeaker
 改变无线手柄扬声器系统音的音量。
-※PlayStation®4/PlayStation®5/Windows®(DX11)版专用。
+※PlayStation®4/PlayStation®5/Windows®版专用。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　将音量设为指定的数值。
@@ -2261,14 +2261,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/否定","",293,0
-427,2,1,2,0,0,"/panic","","/慌乱 子命令
+427,2,1,2,0,0,"/panic","","/慌张 子命令
 /panic
-做出慌乱的动作。
+做出慌张的动作。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/慌乱","",293,0
+做出动作并显示文字提示。","/慌张","",293,0
 428,2,1,2,0,0,"/point","","/指向 子命令
 /point
 做出指向的动作。
@@ -3990,3 +3990,51 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　做出动作并显示文字提示。","/扇大团扇","",293,0
+680,2,1,2,0,0,"/attend","","/待命 子命令
+/attend
+等待命令指示。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/待命","",293,0
+681,2,1,2,0,0,"/water","","/浇水 子命令
+/water
+用洒水壶浇水。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/浇水","",293,0
+682,2,1,2,0,0,"/shakedrink","","/调饮 子命令
+/shakedrink
+摇晃摇壶调制饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/调饮","",293,0
+684,2,1,2,0,0,"/bouquet","","/送花 子命令
+/bouquet
+送出漂亮的花束。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/送花","",293,0
+685,2,1,2,0,0,"/blowbubbles","","/吹泡泡 子命令
+/blowbubbles
+吹起了泡泡。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吹泡泡","",293,0
+686,2,1,2,0,0,"/ohokaliy","","/噢霍卡利！ 子命令
+/ohokaliy
+像哈努族一样用噢霍卡利亲切地打招呼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/噢霍卡利！","",293,0

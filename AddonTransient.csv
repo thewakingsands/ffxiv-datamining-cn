@@ -565,9 +565,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 389,"<CommandIcon(10)/>次级指令"
 390,"<CommandIcon(12)/><CommandIcon(13)/>选择职业分类 <CommandIcon(10)/>次级指令"
 391,"<CommandIcon(12)/><CommandIcon(13)/>选择职业分类  <CommandIcon(8)/>打开地图"
-392,"<CommandIcon(5)/>选择目的地 <CommandIcon(8)/>传送 <CommandIcon(23)/>转为控制地图"
-393,"<CommandIcon(23)/>滚动 <CommandIcon(7)/>转为控制列表"
-394,"<CommandIcon(23)/>滚动 <CommandIcon(8)/>传送 <CommandIcon(7)/>转为控制列表"
+392,"<CommandIcon(5)/>选择目的地 <CommandIcon(8)/>传送 <CommandIcon(11)/>上次使用地点 <CommandIcon(23)/>转为控制地图"
+393,"<CommandIcon(23)/>滚动 <CommandIcon(7)/>转为控制列表 <CommandIcon(11)/>上次使用地点"
+394,"<CommandIcon(23)/>滚动 <CommandIcon(8)/>传送 <CommandIcon(11)/>上次使用地点 <CommandIcon(7)/>转为控制列表"
 395,"<CommandIcon(10)/>在各个职能间依次切换  <CommandIcon(8)/>指定具体职业  <CommandIcon(11)/>开始搜索"
 396,"<CommandIcon(10)/>全选/反选  <CommandIcon(11)/>开始搜索"
 397,"<CommandIcon(10)/>切换职能/单一职业"
@@ -817,19 +817,19 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 470,"<CommandIcon(10)/>次级指令 <CommandIcon(24)/>滚动查看详细情报"
 471,"<CommandIcon(11)/>领取奖励 <CommandIcon(10)/>次级指令 <CommandIcon(24)/>滚动查看详细情报"
 472,"<CommandIcon(10)/>次级指令"
-473,""
+473,"<CommandIcon(10)/>次级指令"
 474,"<CommandIcon(11)/>确定探索目的地"
 475,"<CommandIcon(10)/>设置热键 <CommandIcon(12)/><CommandIcon(13)/>翻页"
 476,"<CommandIcon(12)/><CommandIcon(13)/>翻页"
 477,"<CommandIcon(8)/>显示典型渔场"
 478,"<CommandIcon(10)/>次级指令"
 479,"<CommandIcon(10)/>次级指令"
-480,""
+480,"<CommandIcon(10)/>次级指令"
 481,"<CommandIcon(18)/>无人岛庭具投影布置完成"
 482,"<Gui(13)/>＋<Gui(20)/>移动 <CommandIcon(14)/><CommandIcon(15)/>转向 <CommandIcon(10)/>次级指令 <CommandIcon(11)/><If(IntegerParameter(1))>开启网格移动调整功能<Else/>关闭网格移动调整功能</If>"
 483,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>无人岛庭具列表"
 484,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>物品 <If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>切换已收录/已布置投影<Else/></If>"
-485,""
+485,"<CommandIcon(11)/>应用"
 486,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/><If(IntegerParameter(1))>开启网格移动调整功能<Else/>关闭网格移动调整功能</If>"
 487,"<CommandIcon(10)/>次级指令"
 488,"<CommandIcon(18)/>退出染色"
@@ -1241,12 +1241,37 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 ·主权限人
 ·部队房屋所属成员
 ·个人房屋中处于房屋共享状态的角色"
-1072,""
-1073,""
-1074,""
-1075,""
-1076,""
-1077,""
+1072,"内部改建是什么"
+1073,"“内部改建”是一个用来修改房屋室内设计风格的功能。
+
+通过快捷指令→社交→房屋→内部改建可以打开相应窗口，
+打开窗口后可以在其中选择想要的装修风格。
+
+内部改建所更改的，
+是除了内部装潢配件（内墙、地板、屋顶照明）外，
+室内整体的装修风格。
+楼梯的位置或地面的形状等都可能在修改范围内。
+"
+1074,"内部改建的使用条件"
+1075,"大、中、小号的房屋都可以使用“内部改建”功能。
+个人房间和公寓则无法使用此功能。
+
+此外，由于内部改建会大幅变更室内布局，
+所以已布置的家具会被全部收入仓库。
+因此，当仓库容量不足时，会无法使用内部改建功能。
+
+另外，当房屋距离被自动拆除剩余不足15天时，
+也无法使用内部改建功能。
+"
+1076,"内部改建的必要权限"
+1077,"执行内部改建需要相应的房屋权限。
+
+部队房屋的执行人需要有“更改内外装潢”、
+“可以追加、收回或布置家具庭具”两项权限。
+
+个人房屋的执行人如果不是房主，则需要
+“内外装潢、家具、庭具的追加、收回、布置、染色”权限。
+"
 1078,""
 1079,""
 1080,""

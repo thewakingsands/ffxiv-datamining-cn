@@ -78,7 +78,7 @@ int32,str,str
 是<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>找到的吗？！
 而且还有<Sheet(EventItem,2002865,0)/>！"
 58,"TEXT_LUCKZF006_03465_SLITHERBOUGHGIRLC03465_000_024","是这样啊，那个维斯族的姐姐果然真是个温柔的人呢。"
-59,"TEXT_LUCKZF006_03465_SLITHERBOUGHGIRLC03465_000_025","玛托雅大人曾经说过。
+59,"TEXT_LUCKZF006_03465_SLITHERBOUGHGIRLC03465_000_025","玛托雅大人曾经说过，
 “那些人也有着守护森林的重要使命”。
 如果打扰了她们，对方会生气也是理所应当的。"
 60,"TEXT_LUCKZF006_03465_SLITHERBOUGHGIRLC03465_000_026","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>，能请你把我的戒指交给维斯族的姐姐吗？

@@ -105,7 +105,7 @@ int32,str,str
 69,"TEXT_FESXMS202_02376_PATIENTGIRLB02376_000_042","星芒节到了……
 不过我已经长大了，才不稀罕过节呢。
 ……真的，我说的是真的哦？"
-70,"TEXT_FESXMS202_02376_SYSTEM_000_050","在执行部分任务时，需要装备上<Sheet(Item,16612,0)/>。"
+70,"TEXT_FESXMS202_02376_SYSTEM_000_050","在执行该任务时，需要装备上<Sheet(Item,16612,0)/>。"
 71,"TEXT_FESXMS202_02376_SYSTEM_000_051","如果没有<Sheet(Item,16612,0)/>，
 可以从报酬管理人那里购买。"
 72,"TEXT_FESXMS202_02376_SYSTEM_000_052","已经把<Sheet(EventItem,2002014,0)/>送给了所有孩子，

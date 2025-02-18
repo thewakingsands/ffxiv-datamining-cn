@@ -48,7 +48,7 @@ int32,str,str
 16,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_034","如果这个强化方法能够得到实际验证，那一定会赚很多钱的。
 这样一来罗薇娜也会减少一些我的债务吧。
 你赶紧凑齐需要的东西，给我拼命地下单进行强化吧！"
-17,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_035","在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务内讨伐敌人后，
+17,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_035","在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”任务内讨伐敌人后，
 优雷卡以太壶将自动积蓄混合以太。"
 18,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_036","可以通过任务情报查看优雷卡以太壶中混合以太的储存量。"
 19,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_040","哟，你来强化武器啊？
@@ -123,7 +123,7 @@ int32,str,str
 56,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_170","打倒恒冰地带的魔物后，
 优雷卡以太壶会将魔物以太与环境以太混合并储存起来。
 也就是说，只要你在这个区域战斗的话，就会自动积蓄。"
-57,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_171","在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务内讨伐敌人后，
+57,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_171","在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”任务内讨伐敌人后，
 优雷卡以太壶将自动积蓄混合以太。"
 58,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_172","可以通过任务情报查看优雷卡以太壶中混合以太的储存量。"
 59,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_180","积蓄在优雷卡以太壶中的以太，
@@ -132,7 +132,7 @@ int32,str,str
 60,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_181","<Sheet(Item,23309,0)/>可以用于强化“禁地兵装”。"
 61,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_182","<Sheet(Item,23309,0)/>可以通过启动<Sheet(EObj,2009555,0)/>，
 使用优雷卡以太壶中积蓄的混合以太进行转换获得。"
-62,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_183","另外，<Sheet(EObj,2009555,0)/>存在于“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”的某处。
+62,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_183","另外，<Sheet(EObj,2009555,0)/>存在于“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”的某处。
 请和其他玩家互相交换信息，努力寻找。"
 63,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_190","只靠<Sheet(Item,23309,0)/>进行强化的话，
 终究是有极限的。

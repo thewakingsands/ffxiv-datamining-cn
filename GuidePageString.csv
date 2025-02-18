@@ -126,7 +126,7 @@ int32,str
 67,"咏唱<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>玄冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>冰澈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法后，元素量谱的左下侧会出现显示<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值的标识。消耗灵极心能够抵消星极火效果中<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火系<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法增加的魔力消耗。在星极火状态下，每发动一次火系魔法都会自动消耗一档灵极心。"
 68,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性发动后，每经过30秒可以附加一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，随之点亮量谱下方的水晶。元素量谱右下侧的计时指针代表着发动天语后经过的时间，指针每次从头走到尾需要30秒。"
 69,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，通晓状态的最大档数达到了二档。
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性发动后，每经过30秒可以附加一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，随之点亮量谱下方的水晶。元素量谱右下侧的计时指针代表着发动天语后经过的时间，指针每次从头走到尾需要30秒。"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性发动后，每经过30秒可以附加一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，随之点亮量谱下方的水晶，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>秽浊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异言<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。元素量谱右下侧的计时指针代表着发动天语后经过的时间，指针每次从头走到尾需要30秒。"
 70,"以太超流量谱"
 71,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>能量吸收<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>以太超流量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前附加的以太超流量值。"
 72,"同调量谱"
@@ -224,7 +224,7 @@ int32,str
 量谱左侧的悖论水晶就会点亮，
 此时可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>悖论<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 110,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤装填效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，晶壤的最大档数将变成三挡。
-当<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>迅连斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和40级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恶魔杀<UIGlow>01</UIGlow><UIForeground>01</UIForeground>连击成功时可以获得一档晶壤，发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>爆发击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或60级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能时需要消耗一档晶壤。"
+当<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>迅连斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和40级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恶魔杀<UIGlow>01</UIGlow><UIForeground>01</UIForeground>连击成功时可以获得一档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>爆发击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或60级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能时需要消耗一档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 111,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的具体量值。
 发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡之影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会对目标附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡烙印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，在该效果时间内击倒目标可以积累灵魂。
 另外，发动其他特定战技也会积累灵魂。
@@ -269,7 +269,7 @@ int32,str
 127,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>长枪精通III<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，在每次发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼雷电<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以及<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙眼苍穹<UIGlow>01</UIGlow><UIForeground>01</UIForeground>时都会赋予一档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天龙眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 当天龙眼积攒到最大档数时，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天龙点睛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 128,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓效果提高II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，通晓状态的最大档数达到了三挡。
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性发动后，每经过30秒可以附加一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，随之点亮量谱下方的水晶。元素量谱右下侧的计时指针代表着发动天语后经过的时间，指针每次从头走到尾需要30秒。"
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天语<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性发动后，每经过30秒可以附加一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，随之点亮量谱下方的水晶，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>秽浊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>异言<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。元素量谱右下侧的计时指针代表着发动天语后经过的时间，指针每次从头走到尾需要30秒。"
 129,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示当前<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的具体量值。
 星极火状态中发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>炽炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>核爆<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会附加星极魂，自身星极魂最大档数时，可以发动强大的技能<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>耀星<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 130,"星极量谱"
@@ -290,7 +290,12 @@ int32,str
 獠齿系有多个技能，无论发动哪个獠齿系技能，都可以获得对应的獠齿系技能伤害提升状态。
 想要发动伤害提升后的獠齿系技能，需要按照特定顺序完成连击。
 
-蝰蛇量谱的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>刀身<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会根据热键栏中技能连击的顺序进行发光，根据刀身的光亮发动技能，便可以完成特定连击，发动伤害提升后的獠齿系技能。"
+蝰蛇量谱的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>刀身<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会根据热键栏中技能连击的顺序进行发光。
+举例说明：咬噬尖齿被高亮显示时，左侧刀身将发光。
+穿裂尖齿被高亮显示时，右侧刀身将发光。
+此外，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>刀身发光的颜色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>刀身内部的量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>会提示当前技能的连击情况。
+
+根据刀身的光亮发动技能，便可以完成特定连击，发动伤害提升后的獠齿系技能。"
 136,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，蝰蛇量谱会显示<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的积累状态。
 飞蛇之魂可以通过发动特定的技能进行积累，最多可以积累到二档，通过消耗积累的飞蛇之魂可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之尾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 137,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之魂效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的最大档数将变成三档。
@@ -356,7 +361,9 @@ int32,str
 通过消耗虚无魂，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 153,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上会显示出夜游魂状态的持续时间以及夜游魂的量值。
 通过消耗夜游魂，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虚无收割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和90级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>团契<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
-154,""
+154,"学会了<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。
+在灵极冰状态中发动灵极魂后，灵极冰的效果时间倒计时将暂停。
+发动除灵极魂以外的技能再次赋予自身灵极冰状态后，又或是进入了相反属性的灵极火状态后，倒计时将重新开始。"
 155,""
 156,""
 157,""

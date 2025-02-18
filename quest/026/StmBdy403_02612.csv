@@ -55,10 +55,10 @@ int32,str,str
 这个区域越往深处火属性之力就会变得越强。"
 50,"TEXT_STMBDY403_02612_RODNEY_000_001","你要是准备好了，就前往涌火地带的据点，
 与先出发的可露儿小姐汇合吧！"
-51,"TEXT_STMBDY403_02612_SYSTEM_000_010","和“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”相同，
+51,"TEXT_STMBDY403_02612_SYSTEM_000_010","和“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”相同，
 从单人最多到满编小队（8人），
-可以以任意人数挑战“<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>”了。"
+可以以任意人数挑战“<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>”了。"
 52,"TEXT_STMBDY403_02612_SYSTEM_000_011","和罗德尼对话，
-选择“<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>”就可开始进行探索。"
-53,"TEXT_STMBDY403_02612_SYSTEM_000_012","另外“<Sheet(ContentFinderCondition,IntegerParameter(2),42)/>”设有品级同步限制，
+选择“<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>”就可开始进行探索。"
+53,"TEXT_STMBDY403_02612_SYSTEM_000_012","另外“<Sheet(ContentFinderCondition,IntegerParameter(2),43)/>”设有品级同步限制，
 所有装备的性能将被调整到“<Sheet(ContentFinderCondition,IntegerParameter(1),20)/>级”之下。"

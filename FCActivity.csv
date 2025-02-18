@@ -61,7 +61,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 57,"由于<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>不在，“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”已被转让。",4,5,0,2,3
 58,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>将“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的作物处理掉了。",4,10,0,6,13
 59,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>增设了个人用<Value>IntegerParameter(1)</Value>号房间。",4,0,1,5,11
-60,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>撤除了个人用<Value>IntegerParameter(1)</Value>号房间。",4,0,1,5,11
+60,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>拆除了个人用<Value>IntegerParameter(1)</Value>号房间。",4,0,1,5,11
 61,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>照顾了鸟栏中的陆行鸟。",4,0,0,7,11
 62,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>对<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>进行了训练。",4,12,0,7,11
 63,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>将“<Sheet(Item,IntegerParameter(2),0)/>”设置到了<Value>IntegerParameter(1)</Value>号转轴上。",16,14,1,5,11
@@ -107,3 +107,5 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>删除了<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>的留言。",16,23,0,5,11
 104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了交流簿的设置。",16,0,0,5,11
 105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>设定了房屋宣传标签。",16,0,0,5,11
+106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>改建了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的内部。",16,15,0,5,11
+107,"",0,0,0,0,0

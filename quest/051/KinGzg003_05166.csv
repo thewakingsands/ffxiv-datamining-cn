@@ -69,7 +69,7 @@ int32,str,str
 53,"TEXT_KINGZG003_05166_STRAYKID05166_000_005","所以我们也去九层检查口那边看看吧。
 一定很快就能找到的！"
 54,"TEXT_KINGZG003_05166_SYSTEM_000_006","接下来将和迷路的珲族小孩同行。
-在执行部分任务时，需要同行者处于附近位置。"
+在执行任务时，需要同行者处于附近位置。"
 55,"TEXT_KINGZG003_05166_SYSTEM_000_007","在同行状态下，切换区域或选择“解除同行状态”，
 都将会解除同行的状态。"
 56,"TEXT_KINGZG003_05166_SYSTEM_000_008","同行状态解除后，
@@ -79,7 +79,7 @@ int32,str,str
 59,"TEXT_KINGZG003_05166_A1_000_002","解除同行状态"
 60,"TEXT_KINGZG003_05166_A1_000_003","取消"
 61,"TEXT_KINGZG003_05166_STRAYKID05166_000_009","和我走散后妈妈一定很害怕，
-要是能早点找到就好了。"
+希望能早点找到她。"
 62,"TEXT_KINGZG003_05166_Q4_000_000","确定要解除同行状态吗？"
 63,"TEXT_KINGZG003_05166_STRAYKID05166_000_010","有事情？
 好吧……我在刚才的地方等你回来！"
@@ -88,15 +88,15 @@ int32,str,str
 65,"TEXT_KINGZG003_05166_A3_000_100","<UIForeground>F20224</UIForeground>关于广告板<UIForeground>01</UIForeground>"
 66,"TEXT_KINGZG003_05166_STRAYKID05166_000_011","快看，是最新的飞行器“飞梭A9”！
 车轮变形后可以在空中飞行，太帅了……"
-67,"TEXT_KINGZG003_05166_STRAYKID05166_000_012","军用的上面还有翼刃和雷枪等厉害的武装，
+67,"TEXT_KINGZG003_05166_STRAYKID05166_000_012","军用的飞梭A9上面还有翼刃和雷枪等厉害的武装，
 这个还有模型呢！"
 68,"TEXT_KINGZG003_05166_STRAYKID05166_000_013","希望以后能坐上真家伙啊……
 可惜能乘坐军用兵器的基本都是机器兵。"
 69,"TEXT_KINGZG003_05166_A4_000_100","<UIForeground>F20224</UIForeground>关于地场节点<UIForeground>01</UIForeground>"
-70,"TEXT_KINGZG003_05166_STRAYKID05166_000_014","我妈妈应该没有使用地场节点，
+70,"TEXT_KINGZG003_05166_STRAYKID05166_000_014","我妈妈应该没有使用地场节点。
 虽然其他几层也有……
 但使用地场节点需要获得斯菲因大人的许可。"
-71,"TEXT_KINGZG003_05166_STRAYKID05166_000_015","所以一般来说都会使用相对麻烦一些的电梯。
+71,"TEXT_KINGZG003_05166_STRAYKID05166_000_015","所以一般来说人们都会使用相对麻烦一些的电梯。
 <If(PlayerParameter(4))>姐姐<Else/>哥哥</If>你也是一样的吧？"
 72,"TEXT_KINGZG003_05166_STRAYKID05166_000_016","你获得了斯菲因大人的许可？
 诶……<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>其实是一位很厉害的人物？"
@@ -161,7 +161,7 @@ int32,str,str
 我们也正准备往那边去呢。"
 102,"TEXT_KINGZG003_05166_STRAYMOTHER05166_000_042","我们？
 这位是……"
-103,"TEXT_KINGZG003_05166_STRAYKID05166_000_043","是<If(PlayerParameter(4))>她<Else/>他</If>一直在陪我找你！
+103,"TEXT_KINGZG003_05166_STRAYKID05166_000_043","是这个<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>一直在陪我找你！
 你可能会来这边也是我们一起打听到的！"
 104,"TEXT_KINGZG003_05166_STRAYMOTHER05166_000_044","这可真是……
 孩子调皮，想必没少添麻烦。

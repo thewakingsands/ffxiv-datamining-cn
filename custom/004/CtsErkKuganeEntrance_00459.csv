@@ -8,12 +8,12 @@ int32,str,str
 现在去不了优雷卡呢，
 你找我有什么事吗？"
 2,"TEXT_CTSERKKUGANEENTRANCE_00459_Q1_000_000","要做什么？"
-3,"TEXT_CTSERKKUGANEENTRANCE_00459_MENU_CONTENT","进入“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”"
+3,"TEXT_CTSERKKUGANEENTRANCE_00459_MENU_CONTENT","进入“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”"
 4,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_001","询问有关“禁地优雷卡”的事情"
 5,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_002","查看魔素板"
 6,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_100_002","查看文理碎晶与文理技能"
 7,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_003","取消"
-8,"TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT","确定要进入“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”吗？<If(Equal(IntegerParameter(2),0))><Else/>
+8,"TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT","确定要进入“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”吗？<If(Equal(IntegerParameter(2),0))><Else/>
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※元素等级超过<Value>IntegerParameter(2)</Value>级时，
 会自动将元素等级同步到<Value>IntegerParameter(2)</Value>级。<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>"
@@ -100,5 +100,5 @@ int32,str,str
 不过看你的装备——应该是在忙别的事情吧？
 等你做好冒险的准备再来找我吧。"
 49,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101","需要当前职业为设限特职外70级以上的战斗精英或魔法导师
-才能开启“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”。"
+才能开启“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”。"
 50,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_010","（★未使用／削除予定★）"

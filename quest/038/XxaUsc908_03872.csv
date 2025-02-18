@@ -104,5 +104,12 @@ int32,str,str
 69,"TEXT_XXAUSC908_03872_EDELSTEIN_000_085","<Highlight>ObjectParameter(1)</Highlight>队长！
 我心中的火炎似乎在不知不觉中动摇了……
 即使粉身碎骨、拼上性命，我们也要取得胜利！"
-70,"TEXT_XXAUSC908_03872_EDELSTEIN_000_090","虽然我想再和你聊一会……
-现在还是趁着被你激励出的干劲战斗到底吧！"
+70,"TEXT_XXAUSC908_03872_EDELSTEIN_000_100","对了，我有件事情要告诉<Highlight>ObjectParameter(1)</Highlight>队长。"
+71,"TEXT_XXAUSC908_03872_EDELSTEIN_000_101","艾欧泽亚同盟军在与帝国的决战前，
+募集支援者参加了某项训练。
+训练的内容是感知攻击的预兆并采取相应的行动。"
+72,"TEXT_XXAUSC908_03872_EDELSTEIN_000_102","恕我多事，
+我已经给<Highlight>ObjectParameter(1)</Highlight>队长也办好了训练的手续。
+请你就当做是决战前的热身吧！"
+73,"TEXT_XXAUSC908_03872_EDELSTEIN_000_090","虽然我想再和你聊一会……
+但现在还是趁着被你激励出的干劲战斗到底吧！"

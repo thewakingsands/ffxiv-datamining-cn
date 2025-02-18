@@ -306,7 +306,7 @@ int32,str,str
 163,"TEXT_FESANV801_04544_NHAGIAJAKKYA_000_121","<Highlight>ObjectParameter(1)</Highlight>，你来了啊！
 那我们这就去转转吧！"
 164,"TEXT_FESANV801_04544_SYSTEM_000_122","接下来将和纳吉·阿·嘉奇亚同行。
-在执行部分任务时，需要同行者处于附近位置。"
+在执行任务时，需要同行者处于附近位置。"
 165,"TEXT_FESANV801_04544_SYSTEM_000_123","在同行状态下，切换区域或选择“解除同行状态”，
 都将会解除同行的状态。"
 166,"TEXT_FESANV801_04544_SYSTEM_000_124","同行状态解除后，

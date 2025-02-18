@@ -189,7 +189,8 @@ int32,str
 162,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命中时可以使用一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙尾大回旋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命中时可以使用一次<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>龙牙龙爪<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，并且此时的威力上升100"
 163,"自身附加的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>苍天龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>变为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>红莲龙血<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>红莲龙血效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身发动攻击造成的伤害提高15%
-同时，对自身附加3档<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死者之岸预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
+同时，对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死者之岸预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>武神枪命中时"
 164,"自身发动除自动攻击外的技能造成的物理伤害提高5%"
 165,"发动时获得5点<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>忍气<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值
@@ -324,6 +325,8 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>精准刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>230
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>贯通刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>贯穿尖的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>贯穿尖效果提高时贯穿尖的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>开膛枪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140"
 248,""
 249,"可获得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值
@@ -837,7 +840,6 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤飞石的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔交击斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔连攻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>震荡的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冲击的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>210
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔续斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 485,"促进变为积蓄技能
@@ -924,7 +926,7 @@ int32,str
 另外，部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>武神枪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>死者之岸的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>死者之岸的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720"
 509,"天语的效果量提高到25%"
 510,"自生变为自生II"
 511,"英雄的掠影发动攻击的威力提高至420"
@@ -967,7 +969,8 @@ int32,str
 522,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双刃旋的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绝风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绝风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞刀的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200"
 523,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>切割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
@@ -1187,10 +1190,11 @@ int32,str
 613,"暴雷变为高闪雷，霹雷变为高震雷"
 614,"可以发动魔纹重置
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔纹<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
-615,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的积蓄次数增加到3次"
+615,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通晓<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以积累到3档"
 616,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIGlow>01</UIGlow><UIForeground>01</UIForeground>炽炎或核爆命中时"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大档数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6档
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIGlow>01</UIGlow><UIForeground>01</UIForeground>炽炎或核爆命中时
+同时，发动绝望不需要咏唱时间"
 617,"溃烂爆发变为坏死爆发"
 618,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灼热之闪预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
@@ -1273,8 +1277,8 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉持续伤害的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>75
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>苦难之心的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1320
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪灼的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>苦难之心的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1360
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪灼的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 652,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔回刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
@@ -1284,20 +1288,20 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔连攻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六分反击的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤核爆的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>620
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤神圣的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>620
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤核爆的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤神圣的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔续斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>焦热的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>焦热的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤暴风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤暴雷的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>决断的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>决断的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>850"
 653,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>龙牙龙爪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>龙尾大回旋的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>云蒸龙变的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>龙眼雷电的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坠星冲的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坠星冲的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>820
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>苍穹刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>樱花缭乱的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天龙点睛的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440"
@@ -1347,9 +1351,10 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>自动弩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热分裂弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热独头弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热狙击弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热狙击弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈焰弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>霰弹枪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160"
-659,"天语的效果量提高到33%"
+659,"天语的效果量提高到32%"
 660,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双掌打的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
@@ -1374,9 +1379,11 @@ int32,str
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>瀑泻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>喷泉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>逆瀑泻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坠喷泉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>双色标准舞步结束的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>850
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>逆瀑泻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·序的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坠喷泉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·急的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>四色技巧舞步结束的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>剑舞的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·终的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
@@ -1387,7 +1394,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>噬魂斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>刚魂的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>精雕怒斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血溅的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>血溅的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>寂灭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
 664,"部分技能的威力提高
 
@@ -1424,7 +1431,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>裂膛的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>穿目的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>爆破领域的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>超高速的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>超高速的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200"
 668,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>九天连箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
@@ -1434,9 +1441,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绝峰箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120～600"
 669,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>注药III的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>箭毒II的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魂灵风息的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>注药III的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>箭毒II的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魂灵风息的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370"
 670,"除自动攻击外的技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍"
 671,"除自动攻击外的技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍"
 672,"部分技能的威力提高

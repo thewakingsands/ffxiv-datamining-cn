@@ -208,7 +208,7 @@ int32,str,str
 85,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_319","……哎呀，话题扯远了。
 先不管理论怎么样，总之你现在有办法制作触媒了。
 要想为武器赋予能力，那你就在涌火地带好好努力吧。"
-86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务内讨伐敌人后，
+86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”任务内讨伐敌人后，
 优雷卡以太壶将自动积蓄混合以太。"
 87,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_321","通过涌火地带的<Sheet(EObj,2009646,0)/>，
 使用积蓄的混合以太，可以获得<Sheet(Item,24122,0)/>。"

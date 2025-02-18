@@ -189,22 +189,22 @@ int32,byte,byte,Image,byte,str,str,str
 63,0,0,0,0,"","",""
 64,0,0,0,0,"","",""
 65,1,1,150051,0,"
-在执行部分任务时，会遇到需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情况。
+在执行该任务时，需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 右键点击任务目标会打开任务道具窗口，之后再用右键点击道具并选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可发动效果。","",""
 66,1,1,150051,0,"
-在执行部分任务时，会遇到需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的情况。
+在执行该任务时，需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 选中任务目标会打开任务道具窗口，之后对相应道具打开次级指令菜单并选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可发动效果。","",""
 67,0,0,0,0,"","",""
 68,0,0,0,0,"","",""
 69,0,0,0,0,"","",""
 70,1,1,150061,0,"
-在执行部分任务时，会遇到需要对<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景物体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行操作的情况。
+在执行该任务时，需要对<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景物体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行操作。
 
 右键单击场景物体便可以继续推进任务。","",""
 71,1,1,150061,0,"
-在执行部分任务时，会遇到需要对<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景物体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行操作的情况。
+在执行该任务时，需要对<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>场景物体<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行操作。
 
 选择场景物体便可以继续推进任务。","",""
 72,0,0,0,0,"","",""
@@ -4447,9 +4447,24 @@ int32,byte,byte,Image,byte,str,str,str
 可以显示接下来应去的地点。
 
 忘记任务进度时，就积极地使用它吧！","",""
-2578,0,0,0,0,"","",""
-2579,0,0,0,0,"","",""
-2580,0,0,0,0,"","",""
+2578,1,0,152971,0,"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“特殊配方”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是一种与常规配方不同的，
+拥有特殊用途的配方。
+
+比如部分任务或玩法的专用道具、家具等内容就属于特殊配方。","",""
+2579,1,0,152972,0,"
+部分特殊配方不可记录，
+因此也不会获得首次制作的奖励。
+
+可以通过制作笔记的筛选功能，
+筛选出可被记录的配方。","",""
+2580,1,0,151752,0,"
+虽然可以制作强大的武器和防具，
+又或是强效的食物等道具。
+但难度要比同等级的其他配方更高。
+
+请灵活运用制作练习，
+积极挑战高难度的配方吧！","",""
 2581,0,0,0,0,"","",""
 2582,0,0,0,0,"","",""
 2583,0,0,0,0,"","",""

@@ -24,8 +24,11 @@ int32,str,str
 12,"TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000","评分是百分制！
 一个主题最多能累计挑战4次，
 就算第一次得分不高也不要气馁！"
-13,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000","在一次主题期间，只要参加过一次，就会获得金碟币作为奖励！"
-14,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001","另外，获得80分以上的时候，可以获得更多金碟币！
+13,"TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001","在时尚品鉴的评分标准中，
+如果使用了武具投影，则系统会按照投影后的装备进行评分。
+此外不显示的头部装备也是评分的对象。"
+14,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000","在一次主题期间，只要参加过一次，就会获得金碟币作为奖励！"
+15,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001","另外，获得80分以上的时候，可以获得更多金碟币！
 请以高分为目标加油吧！"
-15,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002","而且多次参加时尚品鉴的客人，
+16,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002","而且多次参加时尚品鉴的客人，
 可以交换特别的奖品，请多多参加！"

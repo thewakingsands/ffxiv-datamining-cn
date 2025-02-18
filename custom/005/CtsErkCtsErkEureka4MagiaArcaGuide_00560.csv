@@ -62,7 +62,7 @@ int32,str,str
 “文理碎晶”便是其中一种。"
 33,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_000_511","“未鉴定的文理碎晶”无法具体辨别其中寄宿着何种记忆。
 因此无法放入“文理融合器”。"
-34,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_100_511","另外，可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”之后的区域
+34,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_SYSTEM_100_511","另外，可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”之后的区域
 获得“未鉴定的文理碎晶”。"
 35,"TEXT_CTSERKCTSERKEUREKA4MAGIAARCAGUIDE_00560_DRAKE_000_520","如果你在探索中发现了“文理碎晶”的话，
 请先交给我看看。

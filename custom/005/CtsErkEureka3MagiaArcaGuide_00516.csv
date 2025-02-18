@@ -38,7 +38,7 @@ int32,str,str
 14,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_033","对了，如果将多个文理碎晶投入进文理融合器，
 有可能对提取出的记忆产生意想不到的变化。
 你有兴趣的话可以试试看。"
-15,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033","可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”之后的区域
+15,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_033","可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”之后的区域
 获得“未鉴定的文理碎晶”。"
 16,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_110_033","可以让德雷克对“未鉴定的文理碎晶”进行鉴定，
 鉴定完成后，可以辨别出寄宿的记忆的种类。"
@@ -199,7 +199,7 @@ int32,str,str
 “文理碎晶”便是其中一种。"
 86,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_000_511","无法具体辨别“未鉴定的文理碎晶”寄宿着何种记忆。
 因此无法放入“文理融合器”。"
-87,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_511","另外，可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”之后的区域
+87,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_SYSTEM_100_511","另外，可以在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”之后的区域
 获得“未鉴定的文理碎晶”。"
 88,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_520","如果你在探索中发现了“文理碎晶”的话，
 请先交给我看看。

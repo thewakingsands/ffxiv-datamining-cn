@@ -11,7 +11,7 @@ int32,str,str
 6,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_003","海都提督"
 7,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_004","断罪党的年轻代理首领"
 8,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_005","带着奥猴宝宝的旅行者"
-9,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_010","哟，<Highlight>ObjectParameter(1)</Highlight>真巧啊。
+9,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_010","哟，<Highlight>ObjectParameter(1)</Highlight>，真巧啊。
 你也是来参拜利姆莱茵秘石的吗？"
 10,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_011","我从丝·赫茱碧那里听说了。
 你为此次新生庆典的烟花大会做出了很大贡献。
@@ -68,8 +68,8 @@ int32,str,str
 31,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_033","在加尔提诺和灵灾当中殒命的人不在少数。
 对于他们的朋友和家人……不，是对于艾欧泽亚所有的生还者来说，
 新生庆典是具有特殊意义的活动。"
-32,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_034","所以此次的烟花大会，我希望作为海都新生庆典的一大特色，
-可以一直传承下去，我也跟各方面都表达了这个想法。"
+32,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_034","所以我希望此次的烟花大会可以作为海都新生庆典的一大特色，
+一直传承下去，我也跟各方面都表达了这个想法。"
 33,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_035","那么……抱歉占用你这么长时间。
 参拜过利姆莱茵秘石之后，我也要回去继续工作了。"
 34,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_036","再见了，<Highlight>ObjectParameter(1)</Highlight>。
@@ -77,10 +77,10 @@ int32,str,str
 35,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_040","啊？这不是<Highlight>ObjectParameter(1)</Highlight>吗！
 我听说了你参与新生庆典烟花大会的事，
 没想到会在这里遇到你。"
-36,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_041","那正好让我好好感谢你一下。"
-37,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_042","居然能想到在新生庆典上让我们来提供船只，
-真佩服你这天马行空的思维。
-托你的福，我们又是招人又是放烟花，忙得不亦乐乎……"
+36,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_041","正好，我可得好好谢谢你啊。"
+37,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_042","居然让我们在新生庆典上提供船只来放烟花，
+你可真敢想啊，真佩服你这天马行空的思维。
+托你的福，我们又是招人又是放烟花，忙得脚不沾地……"
 38,"TEXT_FESANV2024LLYMLAENSTONE_00854_SICARD_000_043","不过，这次庆典的效果可真是不错啊！
 无论是悼念在灵灾和末日中死去的人们，
 还是庆祝我们的出航，果然就应该办得热闹一点啊！"

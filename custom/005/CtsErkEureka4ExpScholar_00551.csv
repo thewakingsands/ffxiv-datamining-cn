@@ -152,7 +152,7 @@ int32,str,str
 除了利用特定的天气时发生的地脉紊乱直接从外部传送外，
 没有其他办法进入！"
 60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","进入巴尔德西昂兵武塔
-需要利用出现在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”的以太之节。"
+需要利用出现在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”的以太之节。"
 61,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_232","另外，突入兵武塔之前，
 需要将元素等级提升到60级，
 并且必须处于某种特定的状态效果中。"

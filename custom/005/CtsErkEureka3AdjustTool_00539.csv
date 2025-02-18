@@ -41,7 +41,7 @@ int32,str,str
 消耗优雷卡以太壶中积蓄的一定量的混合以太，
 便可获得<Sheet(Item,24122,0)/>。"
 23,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_034","此外请注意，
-只有通过“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务中的<Sheet(EObj,2009646,0)/>，
+只有通过“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”任务中的<Sheet(EObj,2009646,0)/>，
 才能获得<Sheet(Item,24122,0)/>，
 无法通过其他的试制水晶炉获得<Sheet(Item,24122,0)/>。"
 24,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_TALK_ACTOR",""

@@ -84,7 +84,7 @@ int32,str,str
 难道说你是专门为了这孩子的事来的？"
 59,"TEXT_FESXMS009_00354_CHILD65890_000_013","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，找我有事吗？
 没什么事的话就别跟我说话了……"
-60,"TEXT_FESXMS009_00354_SYSTEM_100_013","在执行部分任务时，需要装备上<Sheet(Item,9273,0)/>。"
+60,"TEXT_FESXMS009_00354_SYSTEM_100_013","在执行该任务时，需要装备上<Sheet(Item,9273,0)/>。"
 61,"TEXT_FESXMS009_00354_SYSTEM_110_013","如果没有<Sheet(Item,9273,0)/>，
 可以通过和星芒节宣传员对话获得<Sheet(Item,9273,0)/>。"
 62,"TEXT_FESXMS009_00354_GUIDE65790_100_014","哎呀，你把<Sheet(Item,9273,0)/>丢了？
@@ -169,7 +169,7 @@ int32,str,str
 <If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>你的确是圣人的追随者呢！"
 93,"TEXT_FESXMS009_00354_CHILD65890_000_056","<If(PlayerParameter(4))>大姐姐<Else/>大哥哥</If>，找我有事吗？
 没什么事的话就别跟我说话了……"
-94,"TEXT_FESXMS009_00354_SYSTEM_100_056","在执行部分任务时，需要装备上<Sheet(Item,9273,0)/>。"
+94,"TEXT_FESXMS009_00354_SYSTEM_100_056","在执行该任务时，需要装备上<Sheet(Item,9273,0)/>。"
 95,"TEXT_FESXMS009_00354_SYSTEM_110_056","如果没有<Sheet(Item,9273,0)/>，
 可以通过和星芒节宣传员对话获得<Sheet(Item,9273,0)/>。"
 96,"TEXT_FESXMS009_00354_GUIDE65890_120_056","哎呀，你把<Sheet(Item,9273,0)/>丢了？

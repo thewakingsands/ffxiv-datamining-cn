@@ -119,7 +119,7 @@ int32,str,str
 75,"TEXT_KINGYR204_05012_NAPIKWE_000_034","不过……波尔·欧伽说愿意热烈迎接我的这句话，
 让我感到十分开心。
 请你将我说的也转达给他吧。"
-76,"TEXT_KINGYR204_05012_BOLOGAW_000_035","欢迎回来<Highlight>ObjectParameter(1)</Highlight>。
+76,"TEXT_KINGYR204_05012_BOLOGAW_000_035","欢迎回来，<Highlight>ObjectParameter(1)</Highlight>。
 你在障壁里面获得恶名精英的情报了吗？"
 77,"TEXT_KINGYR204_05012_BOLOGAW_000_036","是这样啊，她深受朋友的信赖……那真是太好了。
 更重要的是她在那里并不是孤独一人，

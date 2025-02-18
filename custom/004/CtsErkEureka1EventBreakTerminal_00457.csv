@@ -79,7 +79,7 @@ int32,str,str
 想要传送到其他区域，还需要进行调整……"
 34,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_040","中继以太之晶经过了调整，目前正在运转中。
 已经可以传送到其他区域。"
-35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","退出“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”任务后，
+35,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_SYSTEM_000_041","退出“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”任务后，
 和黄金港的罗德尼对话，
 可以前往其他区域。"
 36,"TEXT_CTSERKEUREKA1EVENTBREAKTERMINAL_00457_TALK_ACTOR",""

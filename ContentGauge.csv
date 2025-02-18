@@ -84,3 +84,4 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 80,0,"欧提斯的耐久度",2,False,"",30,1,3,70,1,1,0
 81,0,"天灾征兆",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 82,0,"伊可·索可·休玛玖恩的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+83,0,"",0,False,"",0,0,0,0,0,0,0

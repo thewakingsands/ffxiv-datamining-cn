@@ -6,10 +6,10 @@ int32,str,str
 1,"TEXT_FESHLW2018ENTRANCE_00540_MEMBERC01548_000_010","让你久等了！
 你想前往闹鬼庄园还是想问我些什么？"
 2,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_TITLE","要做什么？"
-3,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_1","前往“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”"
-4,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_2","询问有关“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”的事情"
+3,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_1","前往“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”"
+4,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_2","询问有关“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”的事情"
 5,"TEXT_FESHLW2018ENTRANCE_00540_MAINMENU_3","取消"
-6,"TEXT_FESHLW2018ENTRANCE_00540_CHALLENGEMENU_CONFIRM","要前往<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>吗？"
+6,"TEXT_FESHLW2018ENTRANCE_00540_CHALLENGEMENU_CONFIRM","要前往<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>吗？"
 7,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_TITLE","想了解什么？"
 8,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_GAGE","<UIForeground>F20224</UIForeground>关于亡灵府邸闹鬼庄园的规则<UIForeground>01</UIForeground>"
 9,"TEXT_FESHLW2018ENTRANCE_00540_ABOUTMENU_MONSTERS","<UIForeground>F20224</UIForeground>关于给人捣乱的奇妙的鬼怪<UIForeground>01</UIForeground>"

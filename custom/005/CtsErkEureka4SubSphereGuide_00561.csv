@@ -35,7 +35,7 @@ int32,str,str
 改良完之后我会把第7个魔素石交给你，请你灵活使用。"
 18,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_041","通过进一步改良魔素板，
 可嵌入的魔素石数量会增加1个。"
-19,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_100_041","另外，即使没有在“<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>”改良过魔素板，
+19,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_100_041","另外，即使没有在“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”改良过魔素板，
 也可以在此直接对魔素板进行进一步的改良。"
 20,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_050","要想进一步改良魔素板果然还是需要特殊的素材……
 能请你去寻找适合的素材吗？"

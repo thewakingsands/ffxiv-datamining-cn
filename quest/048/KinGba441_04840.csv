@@ -79,7 +79,7 @@ int32,str,str
 58,"TEXT_KINGBA441_04840_CEETOLJA_000_013","如果衣服弄乱，你就回来找我，
 我帮你重新收拾好！"
 59,"TEXT_KINGBA441_04840_SYSTEM_000_014","开始换装。
-在执行部分任务时，需要处于换装状态。"
+在执行任务时，需要处于换装状态。"
 60,"TEXT_KINGBA441_04840_SYSTEM_000_015","远离此地时，换装状态便会解除。
 有效范围可通过地图确认。"
 61,"TEXT_KINGBA441_04840_SYSTEM_000_016","如果解除了换装状态或想要延长时间的话，
@@ -90,7 +90,7 @@ int32,str,str
 <Highlight>ObjectParameter(1)</Highlight>打扮成市民的样子也好可爱啊！"
 64,"TEXT_KINGBA441_04840_SUPPORTER04840_000_030","你是……
 解放者大人有什么事情吗？"
-65,"TEXT_KINGBA441_04840_SYSTEM_000_031","在执行部分任务时，需要处于换装状态。
+65,"TEXT_KINGBA441_04840_SYSTEM_000_031","在执行该任务时，需要处于换装状态。
 和西托加对话，开始换装吧！"
 66,"TEXT_KINGBA441_04840_SUPPORTER04840_000_032","你就是<Highlight>ObjectParameter(1)</Highlight>吧，
 虽然是初次见面，但你可以不用这么紧张，
@@ -105,7 +105,7 @@ int32,str,str
 70,"TEXT_KINGBA441_04840_SUPPORTER04840_000_036","其实，我有一个人想让你见一见。
 请保持变装跟我来……"
 71,"TEXT_KINGBA441_04840_SUPPORTER04840_000_038","呃……"
-72,"TEXT_KINGBA441_04840_SYSTEM_000_039","在执行部分任务时，需要处于换装状态。
+72,"TEXT_KINGBA441_04840_SYSTEM_000_039","在执行该任务时，需要处于换装状态。
 和西托加对话，开始换装吧！"
 73,"TEXT_KINGBA441_04840_SUPPORTER04840_000_040","我这就去把人叫过来。"
 74,"TEXT_KINGBA441_04840_KAQOOLJA_000_201","感谢你愿意过来，
