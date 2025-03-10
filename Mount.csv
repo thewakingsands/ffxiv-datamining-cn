@@ -363,7 +363,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,uint16,MountFlyingC
 359,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 360,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 361,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
-362,"风火锅",0,"",0,0,1,0,0,4380,2,1,5,15,15,1,2,0,638,"SE_Bt_Etc_Mount_Hinabe_call","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_Mount_Hinabe_bye",0,10,False,False,0,0,0,0,298,4300,16180,100,0,0,100,0,0,True,False,False,False,False,80,80,False,False,16,17,37,False,37,False
+362,"风火锅",0,"",0,0,1,0,0,4380,2,1,5,15,15,1,2,0,20111,"SE_Bt_Etc_Mount_Hinabe_call","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_Mount_Hinabe_bye",0,10,False,False,0,0,0,0,298,4300,16180,100,0,0,100,0,0,True,False,False,False,False,80,80,False,False,16,17,37,False,37,False
 363,"永恒之翼",0,"",0,0,1,0,0,4381,2,1,45,70,70,1,2,1,20109,"SE_Bt_Etc_Mount_Wing_call","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_Mount_Wing_bye",0,10,False,True,0,0,0,0,299,4301,30502,100,0,0,60,0,0,True,False,False,False,False,80,80,False,False,18,21,37,False,37,False
 364,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 365,"商贾神威",0,"",0,0,1,0,0,4383,2,1,45,85,85,1,0,44,895,"SE_Bt_Etc_InugamiWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_InugamiBye",20,10,False,True,0,0,0,0,301,4303,30210,100,0,0,70,0,0,False,False,False,False,False,0,0,False,False,9,19,41,False,42,False
@@ -375,7 +375,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,uint16,MountFlyingC
 371,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 372,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 373,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
-374,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
+374,"彩带雪人",0,"",0,0,1,0,0,4432,2,1,45,15,15,1,2,96,895,"SE_Bt_Etc_SnowmanWhistle","SE_Bt_Etc_GuuBooWhistle_only","SE_Bt_Etc_SnowmanBye",0,10,False,False,0,0,0,0,293,4305,15010,100,0,0,60,0,0,False,False,False,False,False,80,80,False,False,8,19,37,False,37,False
 375,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 376,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False
 377,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","",0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,0,False,False,0,0,0,False,0,False

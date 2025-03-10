@@ -20217,7 +20217,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 15524,0,False,False,False,3,0,5,False,False,1,25,"他们都是铁面公卿的部队！"
 15525,0,False,False,False,3,0,5,False,False,1,25,"铁面公卿……
 原来这就是你的真面目。"
-15526,0,False,False,False,3,0,5,False,False,1,25,"我们必须打倒铁面具。"
+15526,0,False,False,False,3,0,5,False,False,1,25,"我们必须打倒铁面公卿。"
 15527,0,False,False,False,3,0,5,False,False,1,25,"铁面公卿……
 原来这就是你的真面目。"
 15528,0,False,False,False,3,0,5,False,False,1,25,"你的计划将在此终结！"
@@ -21659,7 +21659,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 16624,0,False,False,False,3,0,4,False,False,1,25,"咦，羊驼们
 怎么了？"
 16625,0,False,False,False,3,0,4,False,False,1,25,"哇啊！
-有、有狼！？"
+有、有狼？！"
 16626,0,False,False,False,3,0,4,False,False,1,25,"嗯呜呜！"
 16627,0,False,False,False,2,0,4,False,False,1,25,"呜呜，
 保、保护商品……！"
@@ -22184,7 +22184,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17001,0,False,False,False,5,11,1,False,False,5,25,"遭到兴奋状态的卡冈图亚阻碍，
 回收工作难以进行……"
 17002,0,False,False,False,5,11,1,False,False,5,25,"开始招募外部支援者……
-请回收机器兵的记忆芯片，交给本机体。"
+请回收机器兵的记忆芯片，交给本机。"
 17003,0,False,False,False,5,11,1,False,False,5,25,"感谢你协助回收记忆芯片。"
 17004,0,False,False,False,5,11,1,False,False,5,25,"经过分析，
 犯人是失控的同类型机体。"
@@ -22239,7 +22239,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17037,0,False,False,False,5,11,1,False,False,6,25,"哔……错误……预报修正……
 即将袭来的不是雷波，而是暴风！"
 17038,0,False,False,False,2,0,4,False,False,1,25,"失控机体的登录号
-抹除……抹除……抹除"
+抹除……抹除……抹除……"
 17039,0,False,False,False,2,0,4,False,False,1,25,"没有人能
 抵抗这股力量！"
 17040,0,False,False,False,5,11,1,False,False,5,25,"前方有失控机体的反应。
@@ -22268,7 +22268,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17054,0,False,False,False,2,0,4,False,False,1,25,"任务成功……"
 17055,0,False,False,False,2,0,4,False,False,1,25,"异常个体逃亡……
 任务失败。"
-17056,0,False,False,False,2,0,4,False,False,1,25,"本机体开始返回……"
+17056,0,False,False,False,2,0,4,False,False,1,25,"本机开始返回……"
 17057,0,False,False,False,3,0,4,False,False,1,25,"硬邦邦！"
 17058,0,False,False,False,3,0,4,False,False,1,25,"冷冰冰！"
 17059,0,False,False,False,3,0,4,False,False,1,25,"哈哈哈！"
@@ -22430,7 +22430,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17183,0,False,False,False,2,0,4,False,False,1,25,"请享受这刺激且奇妙的盛装巡游！"
 17184,0,False,False,False,2,0,4,False,False,1,25,"在永远中感受一瞬的死亡吧！"
 17185,0,False,False,False,2,0,4,False,False,1,25,"盛装巡游转啊转，直到永远！"
-17186,0,False,False,False,2,0,4,False,False,1,25,"你也来感受生命发出的光辉吧"
+17186,0,False,False,False,2,0,4,False,False,1,25,"你也来感受生命发出的光辉吧！"
 17187,0,False,False,False,3,0,4,False,False,1,25,"刺激且奇妙的盛装巡游即将开始！"
 17188,0,False,False,False,3,0,4,False,False,1,25,"有人愿意帮帮忙吗？"
 17189,0,False,False,False,3,0,4,False,False,1,25,"唉，麻烦了麻烦了，
@@ -23134,7 +23134,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17697,0,False,False,False,3,0,4,False,False,1,25,"这样那家伙的怨愤
 也就消散了吧。"
 17698,0,False,False,False,3,0,4,False,False,1,25,"好了，快回到族群里吧！"
-17699,0,False,False,False,3,0,4,False,False,1,25,"啊，又再大闹了！
+17699,0,False,False,False,3,0,4,False,False,1,25,"啊，又在大闹了！
 等一下！"
 17700,0,False,False,False,0,0,0,False,False,0,0,""
 17701,0,False,False,False,3,0,4,False,False,1,25,"拦住他们！"
@@ -23160,7 +23160,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17715,0,False,False,False,3,0,3,False,False,1,25,"嗯嗯哼！"
 17716,0,False,False,False,3,0,4,False,False,1,25,"看样子很难赶走吗……"
 17717,0,False,False,False,3,0,4,False,False,1,25,"没办法，
-折返吧"
+折返吧。"
 17718,0,False,False,False,3,0,3,False,False,1,25,"嗯嗯……"
 17719,0,False,False,False,5,0,1,False,False,5,25,"呱呱呱♪ 咕咕咕♪"
 17720,0,False,False,False,5,0,1,False,False,6,25,"咕咕咕♪ 呱呱呱♪ 咯咯咯♪"
@@ -23354,7 +23354,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17850,0,False,False,False,3,0,4,False,False,1,25,"这种程度是拖不住我们的！"
 17851,0,False,False,False,3,0,4,False,False,1,25,"我们可不会被几只魔物拦住！"
 17852,0,False,False,False,3,0,4,False,False,1,25,"雷气突然变强了……！"
-17853,0,False,False,False,3,0,4,False,False,1,25,"一齐放马过来吧 ！"
+17853,0,False,False,False,3,0,4,False,False,1,25,"一齐放马过来吧！"
 17854,0,False,False,False,3,0,4,False,False,1,25,"看来他们还留着不少战力呢！"
 17855,0,False,False,False,3,0,4,False,False,1,25,"突破它们！"
 17856,0,False,False,False,3,0,4,False,False,1,25,"上吧！"
@@ -23524,7 +23524,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17969,0,False,False,False,3,0,2,False,True,1,25,"能看上一眼我都心满意足了！"
 17970,0,False,False,False,3,0,4,False,True,1,25,"公主殿下的飞空艇
 来到凯旋大街了！"
-17971,0,False,False,False,3,0,4,False,False,1,25,"好了,打倒了！"
+17971,0,False,False,False,3,0,4,False,False,1,25,"好了，打倒了！"
 17972,0,False,False,False,3,0,4,False,False,1,25,"这样就能前进了！"
 17973,0,False,False,False,3,0,4,False,False,1,25,"碍事的家伙已经打倒了，
 快往前走吧！"
@@ -23539,7 +23539,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 17980,0,False,False,False,4,0,1,False,False,4,25,"为了守护栖息在荒野的生命……
 勇士们啊，挑战大狩猎吧！"
 17981,0,False,False,False,4,0,1,False,False,6,25,"哦……终于、终于打倒它了吗……！"
-17982,0,False,False,False,4,0,1,False,False,6,25,"同胞们遗恨也得到了安慰……
+17982,0,False,False,False,4,0,1,False,False,6,25,"同胞们的遗恨也得到了安慰……
 今后也就不会再出现因它而死的人了！"
 17983,0,False,False,False,4,0,1,False,False,6,25,"打倒蛇王得酷热涅之人啊，
 想必你的伟业会在猎人们当中长久流传吧。"
@@ -23816,10 +23816,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18184,0,False,False,False,3,0,4,False,False,1,25,"0"
 18185,0,False,False,False,3,0,4,False,False,1,25,"0"
 18186,0,False,False,False,3,0,4,False,False,1,25,"0"
-18187,0,False,False,False,0,0,0,False,False,0,0,""
-18188,0,False,False,False,0,0,0,False,False,0,0,""
-18189,0,False,False,False,0,0,0,False,False,0,0,""
-18190,0,False,False,False,0,0,0,False,False,0,0,""
+18187,0,False,False,False,3,0,4.5,False,True,1,25,"扫清！"
+18188,0,False,False,False,3,0,4.5,False,True,1,25,"斩断！"
+18189,0,False,False,False,3,0,3,False,True,1,25,"冻结于静寂！"
+18190,0,False,False,False,3,0,3,False,True,1,25,"沉溺于闲寂！"
 18191,13354,False,False,False,3,0,4,False,True,1,13,"痛死了……怎么直接就开打了，
 连个说话的空当都不给……"
 18192,13353,False,False,False,3,0,2,False,True,1,12,"嘿，有点东西！"
@@ -23957,8 +23957,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18309,0,False,False,False,2,0,4,False,True,1,25,"不要看向敌人！"
 18310,0,False,False,False,2,0,4,False,True,1,25,"我来驱散！"
 18311,0,False,False,False,2,0,6,False,True,1,25,"快对我用康复……"
-18312,0,False,False,False,0,0,0,False,False,0,0,""
-18313,0,False,False,False,0,0,0,False,False,0,0,""
+18312,0,False,False,False,3,0,4,False,True,1,25,"_rsv_18312_-1_4_0_0_SCFE39641_ECFE39641"
+18313,0,False,False,False,3,0,4,False,True,1,25,"_rsv_18313_-1_4_0_0_SCFE39641_ECFE39641"
 18314,0,False,False,False,2,0,4,False,True,1,25,"避开敌人视线的同时
 注意地面的攻击！"
 18315,0,False,False,False,2,0,5,False,True,1,25,"远离敌人，
@@ -24036,8 +24036,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18379,0,False,False,False,3,0,4,False,False,1,25,"它在做什么？"
 18380,0,False,False,False,3,0,4,False,False,1,25,"它在往里面注入以太……？"
 18381,0,False,False,False,3,0,4,False,False,1,25,"它想做什么？！"
-18382,0,False,False,False,3,0,4,False,False,1,25,"它好像在往石柱里
-注入以太。"
+18382,0,False,False,False,3,0,4,False,False,1,25,"它在往石柱里
+注入雷属性以太！"
 18383,0,False,False,False,3,0,4,False,False,1,25,"它把獠牙
 刺进了石柱里？！"
 18384,0,False,False,False,3,0,4,False,False,1,25,"哈哈，又来这招！"

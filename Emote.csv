@@ -284,9 +284,9 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 280,"浇水",8127,8126,0,0,0,0,0,False,False,False,2,75,False,True,False,False,False,11512,681,64454,8299,8298,491,710
 281,"调饮",8129,8128,0,0,0,0,0,False,False,False,2,76,False,True,False,False,False,11511,682,64455,8301,8300,492,710
 282,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-283,"花束を贈る",8134,8133,0,0,0,0,0,False,False,False,2,77,False,True,False,False,False,10115,684,64457,8305,8304,493,710
+283,"赠送花束",8134,8133,0,0,0,0,0,False,False,False,2,77,False,True,False,False,False,10115,684,64457,8305,8304,493,710
 284,"吹泡泡",8135,0,0,8136,8136,0,0,True,True,True,1,0,False,True,False,False,False,6105,685,64458,8307,8306,494,710
-285,"噢霍卡利！",8137,0,8138,8138,8138,0,0,True,True,True,1,0,False,True,False,False,False,14,686,64459,8309,8308,70729,710
+285,"噢霍卡利",8137,0,8138,8138,8138,0,0,True,True,True,1,0,False,True,False,False,False,14,686,64459,8309,8308,70729,710
 286,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 287,"",8140,8139,0,0,0,0,0,False,False,False,2,78,False,True,False,False,False,0,0,64457,8305,8304,493,710
 288,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0

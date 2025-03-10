@@ -1146,7 +1146,7 @@ int32,str
 1107,"收到了新的邮件。
 请在原始服务器找邮差莫古力进行确认。"
 1110,"焦点目标"
-1111,"<If(IntegerParameter(1))>级<Highlight>StringParameter(2)</Highlight> <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight> <Else/></If><Highlight>StringParameter(3)</Highlight>"
+1111,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>级 <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight> <Else/></If><Highlight>StringParameter(3)</Highlight>"
 1112,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>% <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
 1113,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight> <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight> <Else/></If><Highlight>StringParameter(3)</Highlight>"
 1114,"收到了新的邮件。
@@ -1752,8 +1752,8 @@ int32,str
 1696,"分组人数：<Value>IntegerParameter(1)</Value>"
 1697,"通过跨界传送或超域传送去往其他服务器时无法使用通讯贝。"
 1700,"配方搜索"
-1701,"履历"
-1702,"无履历"
+1701,"搜索记录"
+1702,"没有搜索记录"
 1703,"搜索到的配方"
 1704,"在笔记内“搜索制作道具的配方”时的原配方"
 1705,"设置筛选条件"
@@ -2006,7 +2006,7 @@ int32,str
 1958,"搜索结果　<Value>IntegerParameter(1)</Value>"
 1959,"没有搜索到任何结果。"
 1960,"筛选"
-1961,"显示履历"
+1961,"查看交易记录"
 1962,"确定要购买吗？
 当前职业或等级无法穿戴该装备。"
 1963,"以<Format(IntegerParameter(3),FF022C)/><If(GreaterThan(IntegerParameter(4),0))>(含手续费<Format(IntegerParameter(4),FF022C)/>)<Else/></If>的价格购买“<Sheet(Item,IntegerParameter(1),0)/>”×<Value>IntegerParameter(2)</Value>。"
@@ -2016,15 +2016,15 @@ int32,str
 1967,"搜索"
 1968,"等级"
 1969,"1级"
-1970,"交易履历"
+1970,"交易记录"
 1971,""
 1972,"单价"
 1973,"数量"
 1974,"优质"
 1975,"购买人"
 1976,"交易时间"
-1977,"市场中最近的交易履历"
-1978,"没有任何履历。"
+1977,"市场中最近的交易记录"
+1978,"没有任何交易记录。"
 1979,"确定要购买吗？
 当前捕鱼人等级不足，无法将该道具作为钓饵使用。"
 1980,"条件设定"
@@ -2037,7 +2037,7 @@ int32,str
 输入前1至2个字时只能显示出最多20个搜索结果，
 输入前3个字及以上时能显示出全部的搜索结果。
 在输入栏按上下键或点击手柄的<CommandIcon(5)/>键，
-可以看到搜索履历。"
+可以看到搜索记录。"
 1987,"请在设定品级之后点击“搜索”按钮。"
 1988,"请在设定品级及职业之后点击“搜索”按钮。"
 1989,"请点击“搜索”按钮。"
@@ -3139,7 +3139,7 @@ int32,str
 请在输入后按下“搜索”按钮进行搜索。
 最多可以显示100个搜索结果。
 在输入栏按上下键或点击手柄的<CommandIcon(5)/>键，
-可以看到搜索履历。"
+可以看到搜索记录。"
 3132,"道具搜索设置"
 3133,""
 3134,"选择搜索方式"
@@ -4452,7 +4452,7 @@ int32,str
 4672,"确定要将所选外观投影到当前装备上吗？"
 4673,"请输入关键字进行搜索。
 最多可以显示100条搜索结果。
-在输入栏按上下键可以查看搜索履历。"
+在输入栏按上下键可以查看搜索记录。"
 4674,"没有搜索到该道具。"
 4675,"确定要将“<Sheet(Item,IntegerParameter(1),0)/>”从收藏柜中取出吗？"
 4676,"是"
@@ -5250,7 +5250,7 @@ A：Assist，协助他人打倒敌人的次数"
 5473,"在日志记录的任务中参照输入的关键词进行查找。
 请输入关键词或字。
 在输入栏按上下键或点击手柄的<CommandIcon(5)/>键，
-可以看到搜索履历。
+可以看到搜索记录。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※不勾选“仅任务名”选项时，
 查找范围会扩大到日志的任务内容中，
@@ -7817,7 +7817,7 @@ A：Assist，协助他人打倒敌人的次数"
 8197,"通常游戏画面（<If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PS3</Case><Case(2)>PS4™</Case><Case(3)>PS4™</Case><Case(4)>PS5™</Case><Case(5)></Case><Case(6)></Case></Switch><Else/></If>）"
 8198,"远程游戏画面"
 8200,"开启湿衣效果"
-8201,"<If(Equal(PlayerParameter(75),0))>手柄设置<Else/><If(Equal(PlayerParameter(78),99))>无线手柄设置<Else/>手柄设置</If></If>設定"
+8201,"<If(Equal(PlayerParameter(75),0))>手柄设置<Else/><If(Equal(PlayerParameter(78),99))>无线手柄设置<Else/>手柄设置</If></If>"
 8202,"扬声器系统音"
 8203,"扬声器音量"
 8204,"显示限制"
@@ -8948,7 +8948,7 @@ Immerse Gamepack尚未安装。
 9298,"奖励效果"
 9299,"已购号码：[<ZeroPaddedValue(4)>IntegerParameter(1)</ZeroPaddedValue>]<If(GreaterThanOrEqualTo(IntegerParameter(2),0))><If(GreaterThanOrEqualTo(IntegerParameter(3),0))> [<ZeroPaddedValue(4)>IntegerParameter(2)</ZeroPaddedValue>] [<ZeroPaddedValue(4)>IntegerParameter(3)</ZeroPaddedValue>]<Else/> [<ZeroPaddedValue(4)>IntegerParameter(2)</ZeroPaddedValue>]</If><Else/></If>"
 9300,"买一组本周的号码吧？"
-9301,"中选履历"
+9301,"中选记录"
 9302,""
 9303,"第<Value>IntegerParameter(1)</Value>期 <Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>年<Value>TopLevelParameter(221)</Value>月<Value>TopLevelParameter(219)</Value>日"
 9304,"中选号码：<ZeroPaddedValue(4)>IntegerParameter(1)</ZeroPaddedValue>"
@@ -12224,7 +12224,7 @@ Immerse Gamepack尚未安装。
 12392,"戻る"
 12393,"鳴き有効"
 12394,"鳴き無効"
-12395,"履历"
+12395,"历史记录"
 12396,"新人"
 12397,"9级"
 12398,"8级"
@@ -14175,7 +14175,7 @@ Immerse Gamepack尚未安装。
 14382,"取消"
 14383,"请输入关键字进行搜索。
 最多可以显示100条搜索结果。
-在输入栏按上下键可以查看搜索履历。"
+在输入栏按上下键可以查看搜索记录。"
 14384,"没搜索到相应的鱼。"
 14385,"？？？？"
 14386,"以小钓大"
@@ -15802,7 +15802,7 @@ AMD FSR（超级分辨率锐画技术）
 游戏中的窗口界面每个都可以单独调整大小，也可以在此统一调整基础大小。变更此设定后新出现的界面都将以变更后的基准展现。
 另外，如果选择“全部应用”，则会将现存的所有窗口界面都调整到基本尺寸设置的大小。"
 16135,"设置伽马修正。
-伽马修正是用来调整因显示设备不同而造成的明暗差异，帮玩家找到到合适明亮度的功能。"
+伽马修正是用来调整因显示设备不同而造成的明暗差异，帮玩家找到合适明亮度的功能。"
 16136,"设置角色光照。
 此功能可以一定范围内调整角色身上的打光强度。"
 16137,"设置游戏内的帧数上限。

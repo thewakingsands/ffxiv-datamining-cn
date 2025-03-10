@@ -102,12 +102,12 @@ int32,str,str
 <Highlight>ObjectParameter(1)</Highlight>，
 就麻烦你去阿济兹拉旗舰岛的三斗神巨像附近找找。"
 66,"TEXT_JOBSMN700_02629_DANCINGWOLF_000_137","假萨利说不定会在那里阻碍你……要小心啊！"
-67,"TEXT_JOBSMN700_02629_BALLOON_000_170","发现错误访问……
-发出警备指令"
-68,"TEXT_JOBSMN700_02629_BALLOON_000_171","接触……
-驱除敌人"
+67,"TEXT_JOBSMN700_02629_BALLOON_000_170","检测到非法访问……
+发出警报！"
+68,"TEXT_JOBSMN700_02629_BALLOON_000_171","接触敌人……
+开始驱除！"
 69,"TEXT_JOBSMN700_02629_BALLOON_000_172","发现目标……
-消灭目标"
+进行歼灭！"
 70,"TEXT_JOBSMN700_02629_SARI_000_180","果然你是第一个找到这里的啊，
 不愧是潜在力量与智慧可以超越“萨利”的召唤师……"
 71,"TEXT_JOBSMN700_02629_YMHITRA_000_181","<Highlight>ObjectParameter(1)</Highlight>……你没事吧？！"

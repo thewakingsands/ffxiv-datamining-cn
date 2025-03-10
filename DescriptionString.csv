@@ -1354,7 +1354,7 @@ int32,str
 因为参加人数很多并且是三方对战，
 所以仅仅靠个人技术无法取得胜利，
 更需要的是部队全体队员之间的协力合作。
-此外冒险者将会被分配到其中一个大国防联军部队，
+此外冒险者将会被分配到其中一个大国防联军连队，
 该分配与目前自己所属的大国防联军无关。"
 274,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■基本情报■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 纷争前线的各个阵营
@@ -1410,7 +1410,7 @@ int32,str
 为了争夺这片遗迹的所有权，即使是已经缔结了联盟的三国也变得针锋相对了起来，
 甚至做出了一切纷争只发生在这片地区，绝不带到外面来的协定。
 于是，这片加尔提诺平原变成了法理之外的前线战场，
-三国为了占领周边遗迹群而派出了各国军队中的冒险者部队。"
+三国为了占领周边遗迹群而派出了各国军队中的冒险者连队。"
 280,"胜利条件"
 281,"在周边遗迹群（阵地战）只要所属连队的战术值总和
 达到指定数值后便可取得胜利。
@@ -5405,7 +5405,7 @@ int32,str
 便可在格贝林（西萨纳兰 X:12.1 Y:15.0）
 或塔塔罗伽（摩杜纳 X:22.1 Y:6.7）处购入秘籍。"
 1058,"想要解除武具投影，让装备恢复原本的外观时，
-需要消耗触媒<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“驱幻晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+需要消耗触媒<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“驱幻晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 在武具投影界面选择想要解除投影的道具，
 点击右侧的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>解除投影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
@@ -5452,7 +5452,7 @@ int32,str
 1064,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>冒险者分队成员<UIGlow>01</UIGlow><UIForeground>01</UIForeground>达到51级以上才能进行武具投影。
 与分队员对话，即可在“武具投影”中更改其装备的外观。
 
-除玩家所持物品外之外，
+除玩家所持物品之外，
 还可以利用投影台和收藏柜中的物品，
 对雇员进行武具投影。"
 1065,"投影台是将装备转化为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>并加以保管的仓库。
@@ -5579,7 +5579,7 @@ int32,str
 1083,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>面部配饰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是为了让玩家更好地享受设计搭配的乐趣，用来装饰面部的配饰。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※面部配饰仅为装饰，不具备装备的性能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-使用道具后，习得的道具便会登录在”面部配饰“中，
+使用道具后，习得的道具便会登录在“面部配饰”中，
 之后玩家可以根据喜好自由佩戴或取消佩戴。
 
 从快捷指令“角色”中选择“面部配饰”，
@@ -5633,7 +5633,7 @@ int32,str
 在染色界面右侧会显示染色后的预览，
 确认无误后，便可以选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开始染色按钮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>进行染色。"
 1094,"想要让装备恢复到染色之前的状态，需要使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“松节油”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-每一份松节油可以去除一件染剂达成的染色效果，
+每一份松节油可以去除一件染剂达成的染色效果。
 
 选择最左侧圆形图标下的第一个方形图标，
 使用的染剂便是去除染色的“松节油”。"
