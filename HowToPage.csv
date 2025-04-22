@@ -2133,13 +2133,13 @@ int32,byte,byte,Image,byte,str,str,str
 ","",""
 1152,1,0,151493,0,"
 可以在快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“成就”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中确认
-成就的达成条件与报酬
+成就的达成条件与报酬。
 
 虽然达成成就的路上有很多艰难险阻，
 不过不要气馁，努力去挑战吧！","",""
 1153,1,0,151494,0,"
 可以在快捷指令<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“成就”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中确认
-成就的达成条件与报酬
+成就的达成条件与报酬。
 
 虽然达成成就的路上有很多艰难险阻，不过不要气馁，努力去挑战吧！","",""
 1154,0,0,0,0,"","",""
@@ -4437,8 +4437,8 @@ int32,byte,byte,Image,byte,str,str,str
 在面部配饰列表中
 选择自己喜欢的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>风格<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>颜色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 请尽情享受自由搭配的乐趣吧！","",""
-2576,1,0,152961,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>主线向导<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是根据玩家的主线进度。
-显示接下来可以推进的任务情报的窗口
+2576,1,0,152961,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>主线向导<UIGlow>01</UIGlow><UIForeground>01</UIForeground>是根据玩家的主线进度
+显示接下来可以推进的任务情报的窗口。
 
 除了显示主线任务的信息提示外，
 主线向导下方也会显示当前职业可接取的任务。","",""

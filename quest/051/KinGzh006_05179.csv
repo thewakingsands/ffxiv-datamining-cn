@@ -2,12 +2,12 @@
 #,,
 int32,str,str
 0,"TEXT_KINGZH006_05179_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则： 等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-火山庇护所的技术者风貌的米拉拉族情绪很失落。"
+火山庇护所的技术人员风貌的米拉拉族情绪很失落。"
 1,"TEXT_KINGZH006_05179_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-和技术者风貌的米拉拉族进行了交谈，决定帮忙寻找她丢失的宝物。前往火山庇护所的勇武竞技场寻找<Sheet(EventItem,2003573,0)/>。"
-2,"TEXT_KINGZH006_05179_SEQ_02","发现了<Sheet(EventItem,2003573,0)/>。将<Sheet(EventItem,2003573,0)/>交给火山庇护所闪山云喷泉的技术者风貌的米拉拉族。"
-3,"TEXT_KINGZH006_05179_SEQ_03","将<Sheet(EventItem,2003573,0)/>交给了技术者风貌的米拉拉族。她决定带着心爱的宝物，前去将中央终端的样子牢牢地记在心里。"
+和技术人员风貌的米拉拉族进行了交谈，决定帮忙寻找她丢失的宝物。前往火山庇护所的勇武竞技场寻找<Sheet(EventItem,2003573,0)/>。"
+2,"TEXT_KINGZH006_05179_SEQ_02","发现了<Sheet(EventItem,2003573,0)/>。将<Sheet(EventItem,2003573,0)/>交给火山庇护所闪山云喷泉的技术人员风貌的米拉拉族。"
+3,"TEXT_KINGZH006_05179_SEQ_03","将<Sheet(EventItem,2003573,0)/>交给了技术人员风貌的米拉拉族。她决定带着心爱的宝物，前去将中央终端的样子牢牢地记在心里。"
 4,"TEXT_KINGZH006_05179_SEQ_04",""
 5,"TEXT_KINGZH006_05179_SEQ_05",""
 6,"TEXT_KINGZH006_05179_SEQ_06",""
@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_KINGZH006_05179_SEQ_22",""
 23,"TEXT_KINGZH006_05179_SEQ_23",""
 24,"TEXT_KINGZH006_05179_TODO_00","寻找<Sheet(EventItem,2003573,0)/>"
-25,"TEXT_KINGZH006_05179_TODO_01","将<Sheet(EventItem,2003573,0)/>交给技术者风貌的米拉拉族"
+25,"TEXT_KINGZH006_05179_TODO_01","将<Sheet(EventItem,2003573,0)/>交给技术人员风貌的米拉拉族"
 26,"TEXT_KINGZH006_05179_TODO_02",""
 27,"TEXT_KINGZH006_05179_TODO_03",""
 28,"TEXT_KINGZH006_05179_TODO_04",""
@@ -76,7 +76,7 @@ int32,str,str
 去调查其他地方吧。"
 56,"TEXT_KINGZH006_05179_SYSTEM_000_008","画着一个拥有女性雕像的巨大建筑。
 看样子似乎是中央终端的图纸。"
-57,"TEXT_KINGZH006_05179_SYSTEM_000_009","技术者风貌的米拉拉族要找的应该就是这个吧。
+57,"TEXT_KINGZH006_05179_SYSTEM_000_009","技术人员风貌的米拉拉族要找的应该就是这个吧。
 回到闪山云喷泉交给她吧。"
 58,"TEXT_KINGZH006_05179_ENGINEERMILALLA05179_000_010","我已经把这一带全都找遍了，
 别说是图纸了，连个纸屑都没有……！"

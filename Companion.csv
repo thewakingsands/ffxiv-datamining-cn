@@ -538,7 +538,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 534,"佩鲁佩鲁族玩偶",0,"",0,0,1,0,0,4391,100,10,0,0,0,1,0,8,530,False,True,False,True,False,0,False,True,4934,10029,False,0,10,380,31,0,50,1,620,3
 535,"铁皮士兵S3",0,"",0,0,1,0,0,4392,100,10,0,0,0,1,0,8,531,False,True,False,True,False,0,False,True,4935,11032,False,0,25,620,40,0,30,1,631,3
 536,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-537,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+537,"薄暗之云",0,"",0,0,1,0,0,4394,100,10,0,0,0,1,0,8,232,False,True,False,True,False,0,False,True,4937,2101,False,0,20,600,31,0,30,1,620,2
 538,"迷你特弥斯",0,"",0,0,1,0,0,4395,100,10,0,0,0,1,0,8,533,False,True,False,True,False,0,False,True,4938,9051,False,0,15,500,23,30,20,1,613,3
 539,"金曦绿茵号",0,"",0,0,1,0,0,4396,100,10,0,0,0,1,0,8,534,False,True,False,True,False,0,False,True,4939,11033,False,0,10,460,42,0,20,1,620,4
 540,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

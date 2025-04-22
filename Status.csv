@@ -811,7 +811,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 766,"人形态","身体呈人类的外形",215669,69,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,0,False,False,0,2,False,0,False,0,False,0,0,0,False,False,0
 767,"手形态","身体呈手掌的外形",215670,69,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,0,False,False,0,2,False,0,False,0,False,0,0,0,False,False,0
 768,"龙卷形态","身体呈龙卷风的外形",215671,69,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,0,False,False,0,2,False,0,False,0,False,0,0,0,False,False,0
-769,"烈焰链","被烈焰链连接，体力逐渐减少",215666,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+769,"火焰链","被火焰链连接，体力逐渐减少",215666,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 770,"拘束","无法做出任何行动",215545,0,0,1,2,17,0,True,False,True,True,False,False,False,True,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 771,"新人加成","初次执行当前任务，在讨伐敌人时获得的经验值和金币会有所增加，并且会为小队队友带来超越之力",216220,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,True,0,False,0,False,0,0,0,False,False,0
 772,"新人超越之力","小队中存在初次执行当前任务的队员时获得的效果，能够提升最大体力，同时攻击造成的伤害及治疗魔法的治疗量也会增加",216221,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
@@ -2710,8 +2710,8 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 2577,"参加危命任务","正在参加特定的危命任务",216241,101,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 2578,"无法使用传送装置","传送对身体造成了负担，暂时无法使用传送装置",215370,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 2579,"换装","换上了特定的服装",216214,69,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,2,False,0,False,0,False,0,0,0,False,False,0
-2580,"攻击请求：试制性飞行魔导装甲——黑色燃焰","收到博兹雅义军发来的攻击请求，
-可优先参加紧急遭遇战：试制性飞行魔导装甲——黑色燃焰",216697,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,1,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
+2580,"攻击请求：试制型飞行型魔导装甲——黑色燃焰","收到博兹雅义军发来的攻击请求，
+可优先参加紧急遭遇战：试制型飞行型魔导装甲——黑色燃焰",216697,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,1,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 2581,"攻击请求：群蛇狂舞——妖战百人队","收到博兹雅义军发来的攻击请求，
 可优先参加紧急遭遇战：群蛇狂舞——妖战百人队",216697,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,1,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 2582,"攻击请求：邪恶冰狼——恶名苍狼","收到博兹雅义军发来的攻击请求，
@@ -3310,8 +3310,8 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3145,"英豪的幻想曲","攻击所造成的伤害和移动速度提高，同时极限槽持续增长",214915,0,0,24,1,16,0,False,False,False,False,False,False,False,False,True,0,0,False,False,100,18,True,0,False,0,False,0,6,0,False,False,0
 3146,"英雄のファンタジア［戦］","",214916,0,0,24,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,0
 3147,"英雄のファンタジア［魔］","",214917,0,0,24,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,0
-3148,"枪管热度","枪管热度上升，达到5档后变为过热状态",218066,0,5,96,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-3149,"过热","可以发动热冲击，同时移动速度提高",214918,0,0,96,1,16,36,False,False,False,False,False,False,False,False,False,0,2,False,False,0,18,True,0,False,0,False,0,6,0,False,False,0
+3148,"枪管热度","枪管热度上升，达到4档后变为过热状态",218066,0,4,96,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
+3149,"过热","可以发动烈焰弹，同时移动速度提高",214918,0,0,96,1,16,36,False,False,False,False,False,False,False,False,False,0,2,False,False,0,18,True,0,False,0,False,0,6,0,False,False,0
 3150,"钻头启动","可以发动钻头",214919,126,0,96,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3151,"毒菌冲击启动","可以发动毒菌冲击",214920,126,0,96,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3152,"空气锚启动","可以发动空气锚",214921,126,0,96,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
@@ -3673,7 +3673,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3502,"猫头小鹰","变成了猫头小鹰，无法发动任何技能",216836,69,0,1,2,17,0,False,False,False,False,True,False,False,False,False,100,0,False,False,-50,2,False,0,False,0,False,0,0,0,False,False,0
 3503,"代码异味：近","存在连锁错误的特征，效果结束时会变为回归方程：近",215139,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 3504,"代码异味：远","存在连锁错误的特征，效果结束时会变为回归方程：远",215140,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-3505,"炎链之咒","受到炎链的诅咒，效果结束时烈焰链会将自己与他人连接到一起",215170,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,0
+3505,"火链之咒","受到火链的诅咒，效果结束时火焰链会将自己与他人连接到一起",215170,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,0
 3506,"古代寒霜","身缠冰属性魔力，效果结束时会发动古代寒霜",215168,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,0
 3507,"大功率波动炮P","成为了目标，倒计时结束时，大功率波动炮P发动",215026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 3508,"大功率波动炮P","成为了目标，倒计时结束时，大功率波动炮P发动",215026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -3740,7 +3740,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3568,"设置多变精神镖","设置了多变精神镖，可以暂时发动该多变技能",216742,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,4,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3569,"设置多变铁壁","设置了多变铁壁，可以暂时发动该多变技能",216743,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,5,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 3570,"愤怒的神气","被愤怒的神气所支配，无法做出任何行动",214105,0,0,1,2,17,72,False,True,True,True,False,False,False,False,False,200,0,False,False,0,4,True,0,False,0,False,0,0,0,False,False,0
-3571,"愉悦的神气","被愉悦的神气所支配，无法做出任何行动",214106,0,0,1,2,17,72,False,True,True,True,False,False,False,False,False,200,0,False,False,0,4,True,0,False,0,False,0,0,0,False,False,0
+3571,"喜悦的神气","被喜悦的神气所支配，无法做出任何行动",214106,0,0,1,2,17,72,False,True,True,True,False,False,False,False,False,200,0,False,False,0,4,True,0,False,0,False,0,0,0,False,False,0
 3572,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,20,True,0,False,0,False,0,0,0,False,False,0
 3573,"黑龙炎","身缠黑龙之炎，积攒到3档之后会受到巨大伤害",218806,0,5,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 3574,"黑龙剑","阿珠达雅发生变异，与剑融为一体",215178,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4368,12 +4368,12 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4175,"火灵的守护","一切攻击都无法造成伤害，
 火灵与其接触后会发动大火焰",214187,0,0,1,1,16,823,False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,1,0,False,False,0
 4176,"バインド","移動できなくなった状態。",215003,3,0,1,2,12,0,False,True,False,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
-4177,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4178,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4179,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4180,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4181,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4182,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4177,"_rsv_4177_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4177_-1_4_1_0_S74CFC3B0_E74CFC3B0",214238,160,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4178,"_rsv_4178_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4178_-1_4_1_0_S74CFC3B0_E74CFC3B0",214239,160,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4179,"暗之幕帘","身缠暗云，积蓄着魔力",214240,89,0,1,1,16,818,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4180,"_rsv_4180_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4180_-1_4_1_0_S74CFC3B0_E74CFC3B0",214241,89,0,1,1,16,859,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
+4181,"_rsv_4181_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4181_-1_4_1_0_S74CFC3B0_E74CFC3B0",214242,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,6,False,0,23,0,False,False,0
+4182,"_rsv_4182_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4182_-1_4_1_0_S74CFC3B0_E74CFC3B0",214243,0,0,1,1,16,860,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4183,"训练中","所有对自身发动的攻击均无法令体力减少到1以下",214237,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
 4184,"憎恶之炎","身体被憎恶之炎灼烧，体力逐渐流失",214250,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,1,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,0
 4185,"憎恶束缚","无法做出任何行动",214251,0,0,1,2,17,5,False,True,False,True,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,0
@@ -4382,7 +4382,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4188,"空间掌控：引爆","受到绝对君权的影响，效果时间结束时产生爆炸",214249,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,0
 4189,"东风纹","被刻上了东风纹，效果时间结束时受到东方的突风攻击",214245,0,0,1,2,17,830,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4190,"西风纹","被刻上了西风纹，效果时间结束时受到西方的突风攻击",214246,0,0,1,2,17,829,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4191,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4191,"体力持续恢复","体力会随时间逐渐恢复",217521,0,16,1,1,16,0,False,False,False,False,False,False,False,True,True,5,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
 4192,"应战α","与敌人展开了战斗",214255,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4193,"求战α","与敌人展开了战斗，未被赋予应战α状态的对象无法对自身造成伤害",214252,0,0,1,2,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,28,False,0,False,0,False,0,0,0,False,False,0
 4194,"应战β","与敌人展开了战斗",214256,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4417,7 +4417,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4222,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4223,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4224,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4225,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4225,"冰阵盾卫","位于特恩托瓦展开的防御中，自身所受伤害降低",212513,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,0
 4226,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4227,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4228,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4567,7 +4567,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4372,"死亡刻印","被刻上了死亡刻印。攻击所造成的伤害降低，档数上升后将陷入无法战斗状态",219421,0,2,1,2,17,0,False,False,False,False,False,False,False,False,False,100,0,False,False,-10,10,False,0,False,5,False,0,23,0,False,False,0
 4373,"延迟咏唱·递进","将下次咏唱的魔法分为多个阶段延迟发动",214189,0,0,0,1,16,124,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4374,"眩晕","无法做出任何行动",215004,89,0,1,2,3,0,True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4375,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4375,"受伤加重","受到攻击的伤害增加",217101,40,16,1,2,17,0,False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,0,False,0,0,0,False,False,0
 4376,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4377,"击飞","被击飞到空中",215225,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4378,"眩晕","无法做出任何行动",215004,89,0,1,2,3,0,True,False,True,False,False,False,False,False,False,100,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4578,9 +4578,9 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4383,"火属性耐性大幅降低","对抗火属性的耐性有显著降低",215595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,0
 4384,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4385,"极速冲刺","移动速度大幅提高",214980,130,0,1,1,34,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,18,True,0,False,0,False,0,43,0,False,False,0
-4386,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4387,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4388,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4386,"雷属性耐性降低","对抗雷属性攻击的耐性有所降低",217741,0,16,1,2,17,0,False,False,False,False,False,False,False,False,False,220,0,False,False,-12,0,False,0,False,0,False,0,0,0,False,False,0
+4387,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4388,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4389,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4390,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4391,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4624,7 +4624,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4429,"转向准备：右","下次攻击对右侧发动",215425,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4430,"转向准备：左","下次攻击对左侧发动",215426,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4431,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4432,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4432,"鼓劲","收到了西托加的鼓劲，干劲十足",214207,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,0
 4433,"眩晕","无法做出任何行动",215004,0,0,1,2,3,0,True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4434,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4435,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0

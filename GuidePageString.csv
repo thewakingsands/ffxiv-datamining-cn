@@ -255,10 +255,10 @@ int32,str
 通过消耗蛇刺可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或82级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>箭毒II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 122,"バランスゲージ/マナスタックシンボル"
 123,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔法剑效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-魔元可以通过发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔回刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔交击斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、
+魔元集可以通过发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔回刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔交击斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔连攻<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔划圆斩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能积累。
 当魔元集积累到最大值时，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤核爆<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和70级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤神圣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-发动魔法类技能将会消耗魔元。"
+发动魔法类技能将会消耗魔元集。"
 124,"夜游魂量谱上会显示出夜游魂状态的持续时间以及夜游魂的量值。
 通过消耗夜游魂，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虚无收割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和90级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>团契<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 125,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>双掌打<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>象形拳量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以显示<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>功力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的积蓄状态。

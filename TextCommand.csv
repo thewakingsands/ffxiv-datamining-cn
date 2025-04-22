@@ -4014,6 +4014,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/调饮","",293,0
+683,2,1,2,0,0,"/poseoftheunbound","/unbound","/象征自由的姿势（/自由） 子命令
+/poseoftheunbound、/unbound
+摆出象征自由的姿势。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/象征自由的姿势","/自由",293,0
 684,2,1,2,0,0,"/bouquet","","/赠送花束 子命令
 /bouquet
 送出漂亮的花束。
@@ -4038,3 +4046,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/噢霍卡利","",293,0
+689,2,1,2,0,0,"/photograph","","/拍照 子命令
+/photograph
+拍一张照片。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/拍照","",293,0

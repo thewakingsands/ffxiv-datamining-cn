@@ -1,3 +1,3 @@
-gameVersion='2025.03.03.0000.0000'
-gamePatch='7.11'
-generateAt='2025-03-10 17:29:31 UTC'
+gameVersion='2025.04.12.0000.0000'
+gamePatch='7.15'
+generateAt='2025-04-22 05:18:25 UTC'

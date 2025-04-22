@@ -10717,7 +10717,7 @@ Immerse Gamepack尚未安装。
 执行此操作时，如果对方已经在屏蔽名单中，则会将其从屏蔽名单转移到黑名单。
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10958,"已了解上述内容"
-10959,"加入黑名单"
+10959,"加入"
 10960,"关于<Gui(95)/>回归者"
 10961,"连续45天以上未上线进行冒险，
 并且角色拥有不低于50级的职业，
@@ -12412,8 +12412,7 @@ Immerse Gamepack尚未安装。
 　·典礼请柬无法交给其他服务器的玩家。
 
 <UIForeground>F20202</UIForeground>副本任务与功能方面<UIForeground>01</UIForeground>将受到如下限制：
-<If(GreaterThan(IntegerParameter(1),0))>　・无法参加水晶冲突段位赛。
-<Else/></If>　·无法参加萌宠之王大赛。
+　・参加水晶冲突段位赛时需从举办段位赛的大区申请参加。　·无法参加萌宠之王大赛。
 　·无法参加九宫幻卡大赛。
 　·无法购买或兑奖仙人仙彩。
 　·无法使用莫古邮件。
@@ -15380,7 +15379,7 @@ Immerse Gamepack尚未安装。
 注意需要相同品质的道具。"
 15634,"关闭"
 15635,"查看套装幻影化所需的装备组合"
-15636,"能够以套装形式被幻影化的装备"
+15636,"能够以套装形式幻影化的装备"
 15637,"是"
 15638,"否"
 15639,"是"
@@ -16066,8 +16065,13 @@ WQHD描画
 16456,"<If(IntegerParameter(1))> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><Value>IntegerParameter(2)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><Value>IntegerParameter(2)</Value></If>/<Value>IntegerParameter(3)</Value>"
 16459,"内部改建说明"
 16460,""
+16461,"※组成团队时需每队不少于1人，且总人数大于<Value>IntegerParameter(1)</Value>人时方可申请参加。团队未满足规定人数（24人）进行申请时不会参与匹配。"
 16462,"※组成团队参加时需要凑齐规定人数（24人）申请参加。"
+16464,"限时奖励"
+16465,"完成任务时，
+宝箱中出现特定道具的概率将会提升。"
 16466,"从原始服务器所在的大区申请参加"
+16467,""
 16481,"当前职业无法挑战此训练"
 101000,"<CommandIcon(10)/>次级指令"
 101001,"<CommandIcon(11)/>"
