@@ -11,3 +11,4 @@ int32,str,str,Image,sbyte
 3,"闹钟","启动闹钟。设置任意时间的闹钟，到设置的时间时将在游戏内进行提醒。设置的闹钟只在本次在线期间有效。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>文本指令：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>/闹钟
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>可以设置键位<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",654,3
+4,"","",0,0

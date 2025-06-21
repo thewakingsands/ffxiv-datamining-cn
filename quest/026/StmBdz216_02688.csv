@@ -107,9 +107,9 @@ int32,str,str
 把指定的物品找来，老大！"
 71,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_036","半作自告奋勇，是为可贵，不过还是分头找为好。
 我来找“万年龟甲”，雀去找“大玉红珍珠”，
-半作就负责找<Sheet(EventItem,2002226,0)/>吧。"
+半作就负责找“<Sheet(EventItem,2002226,0)/>”吧。"
 72,"TEXT_STMBDZ216_02688_HANSAKU_000_037","遵命！
-<Sheet(EventItem,2002226,0)/>应该就在冲之岩海岸。
+“<Sheet(EventItem,2002226,0)/>”应该就在冲之岩海岸。
 我去去就来！"
 73,"TEXT_STMBDZ216_02688_SUZUME_000_038","哎，还没确认数额就跑去了。
 真是的……总是缺根弦。
@@ -142,7 +142,7 @@ int32,str,str
 84,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_048","对了，半作匆忙跑出去，可能需要帮助。
 <Highlight>ObjectParameter(1)</Highlight>阁下，可否请你帮助他？"
 85,"TEXT_STMBDZ216_02688_TSUKIKAGE_000_049","留意行事莽撞的半作的同时，
-到冲之岩东南侧海岸找<Sheet(EventItem,2002226,0)/>吧，有一个就好。
+到冲之岩东南侧海岸找“<Sheet(EventItem,2002226,0)/>”吧，有一个就好。
 那么，我也去寻找委托的物品了。"
 86,"TEXT_STMBDZ216_02688_HANSAKU_000_059","（★未使用／预定删除★）"
 87,"TEXT_STMBDZ216_02688_HANSAKU_000_060","哇，得救了。

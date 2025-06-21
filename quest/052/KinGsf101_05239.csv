@@ -81,8 +81,7 @@ int32,str,str
 62,"TEXT_KINGSF101_05239_SHENZA_000_040","真是对不住，能请你先去老总他们那里吗？
 万一他们发现我丢下工作来找你，那可就惨了。
 等工作告一段落，我马上就过去！"
-63,"TEXT_KINGSF101_05239_ZAWPYA_000_045","啊，<Highlight>ObjectParameter(1)</Highlight>！
-很高兴再次见到你！
+63,"TEXT_KINGSF101_05239_ZAWPYA_000_045","啊，<Highlight>ObjectParameter(1)</Highlight>！很高兴再次见到你！
 是不是谢恩扎找你过来的？"
 64,"TEXT_KINGSF101_05239_NITOWIKWE_000_050","是你啊，<Highlight>ObjectParameter(1)</Highlight>……
 不好意思，我现在腾不出工夫来。"
@@ -149,7 +148,7 @@ int32,str,str
 工作中你肯定会拜访他们的。"
 95,"TEXT_KINGSF101_05239_NITOWIKWE_000_105","这位是商人佩亚佩维。
 如果有需要的素材可以在他这里找找。"
-96,"TEXT_KINGSF101_05239_NITOWIKWE_000_106","还有这位是克纳纳。
+96,"TEXT_KINGSF101_05239_NITOWIKWE_000_106","还有这位是克纳娜。
 将报酬的代币拿到她这里就能换取有用的工匠用品。"
 97,"TEXT_KINGSF101_05239_NITOWIKWE_000_107","之后就拜托你了。
 东西做好以后就拿来给我吧！"

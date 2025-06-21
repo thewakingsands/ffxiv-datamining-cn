@@ -361,9 +361,7 @@ int32,str
 通过消耗虚无魂，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂钐割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 153,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜游魂量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上会显示出夜游魂状态的持续时间以及夜游魂的量值。
 通过消耗夜游魂，可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虚无收割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和90级学会的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>团契<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
-154,"学会了<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。
-在灵极冰状态中发动灵极魂后，灵极冰的效果时间倒计时将暂停。
-发动除灵极魂以外的技能再次赋予自身灵极冰状态后，又或是进入了相反属性的灵极火状态后，倒计时将重新开始。"
+154,""
 155,""
 156,""
 157,""

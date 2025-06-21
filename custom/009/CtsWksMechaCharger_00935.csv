@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE","正在接受协助员投放的燃料……
+当前输出功率：<Value>IntegerParameter(1)</Value>%。"
+1,"TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE","野外探查器正在准备启动……"
