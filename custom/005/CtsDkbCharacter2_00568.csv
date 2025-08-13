@@ -54,7 +54,7 @@ int32,str,str
 23,"TEXT_CTSDKBCHARACTER2_00568_THALTALL_000_112","我会拿着修好的风景画去向哥哥道歉！
 毕竟我和哥哥是彼此唯一的亲人了……"
 24,"TEXT_CTSDKBCHARACTER2_00568_THALTALL_000_113","<Highlight>ObjectParameter(1)</Highlight>，
-你帮我修复了同族羁绊的证明，真是太感谢你了。"
+你帮我修复了寄托着族人思念的风景画，真是太感谢你了。"
 25,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_114","太好了……守护了重要的东西……"
 26,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_115","这也多亏了<Highlight>ObjectParameter(1)</Highlight>，
 真是太感谢你了……"
@@ -111,7 +111,7 @@ int32,str,str
 仅凭这个原因就可以知道其中灌注了多么强烈的思念了吧？"
 49,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_169","我只是对于大家的宝物
 不能视而不见就让它们那么坏掉……
-就像师父修复了我和妈妈之间的羁绊一样，我也想修复些什么！"
+就像师父修复了我和妈妈之间的关系一样，我也想修复些什么！"
 50,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_170","所以……<Highlight>ObjectParameter(1)</Highlight>，
 可以的话，我希望你能多陪我一阵，
 你像师父一样值得信赖……更重要的是，和你一起工作很开心！"
@@ -175,9 +175,9 @@ int32,str,str
 所以说这是代代相传的重要物品。"
 71,"TEXT_CTSDKBCHARACTER2_00568_ROSINE_000_311","一个人将女儿养大，终于等到女儿结婚的日子，
 我要将母亲传给我的宝石箱，再传给我的女儿……
-你们实现了我的愿望，为我修复了族人的羁绊。"
+你们实现了我的愿望，我们族人的思念能够继续传承下去了。"
 72,"TEXT_CTSDKBCHARACTER2_00568_ROSINE_000_312","真的感谢你们，厉害的工匠们。"
-73,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_313","族人的羁绊啊……
+73,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_313","族人的思念……
 别说是族人了，我连祖国都不知道，还真是有点羡慕啊……"
 74,"TEXT_CTSDKBCHARACTER2_00568_THIUNA_000_314","总有一天，我也想看看我的祖国呢，
 你能带我去吗？"

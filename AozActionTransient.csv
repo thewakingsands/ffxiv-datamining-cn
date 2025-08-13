@@ -265,7 +265,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 53,53,72254,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击类型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>评级：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
-","大海蛇使用的青魔法。
+","海蛇使用的青魔法。
 将积累的雷属性以太与吐出的水块结合，使其成为带电水块。它可以使猎物变虚弱从而便于捕获。",1,2100,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 54,54,72255,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击类型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理斩击
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>无

@@ -48,7 +48,7 @@ int32,str,str
 执行次级指令“搜索采集方法”，
 就可以打开采集笔记，看到采集地点。"
 27,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_003","捕鱼人分类的委托品，
-在打开列表的状态下执行次级指令“显示入手场所”，
+在打开列表的状态下执行次级指令“显示获取地点”，
 就会显示出可以获得该种鱼类的钓场或渔场。"
 28,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_102_003","另外垂钓时推荐使用<Sheet(Item,28634,0)/>作为钓饵。"
 29,"TEXT_CTSSFSCHARACTER7_00710_GUIDE_002_004","可以交给<Sheet(ENpcResident,IntegerParameter(1),0)/>的道具
@@ -105,7 +105,7 @@ int32,str,str
 执行次级指令“搜索采集方法”，
 就可以打开采集笔记，看到采集地点。"
 51,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_005","捕鱼人分类的委托品，
-在打开列表的状态下执行次级指令“显示入手场所”，
+在打开列表的状态下执行次级指令“显示获取地点”，
 就会显示出可以获得该种鱼类的钓场或渔场。"
 52,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_100_005","另外垂钓时推荐使用<Sheet(Item,28634,0)/>作为钓饵。"
 53,"TEXT_CTSSFSCHARACTER7_00710_TUTORIAL_000_006","所交道具的收藏价值越高，交纳时获得的报酬就越丰厚。"

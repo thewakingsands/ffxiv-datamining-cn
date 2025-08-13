@@ -175,46 +175,45 @@ int32,Image,str
 点击初学者学堂内的对应按钮即可挑战新的训练。
 
 请积极尝试，多多学习，为今后的冒险打下基础吧！"
-25,86817,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■新たな探索型コンテンツ「蜃気楼の島 クレセントアイル」が追加されました！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+25,86817,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■追加了新的探索型任务“蜃景幻界新月岛”！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-特殊な魔法結界に覆われた秘島を探索する「<UIForeground>0F</UIForeground>蜃気楼の島 クレセントアイル<UIForeground>01</UIForeground>」は、
-大人数での大規模ボスバトルや、島内に生息するモンスターとの少人数での連続戦闘など、
-プレイヤーごとに様々な遊び方ができる探索型のコンテンツです。
-コンテンツの特徴を理解し、蜃気楼の島に隠された謎に迫りましょう！
+在以探索被特殊魔法结界覆盖的秘密岛屿为目标的任务<UIForeground>0F</UIForeground>“蜃景幻界新月岛”<UIForeground>01</UIForeground>中，
+玩家既能参与多人协作与强敌展开大规模战斗，也可以少数人与岛上栖息的怪物连续厮杀，
+这是一个能让每位玩家都找到自己的方法来游玩的探索任务。
+让我们在了解过任务的特点后，一起解开蜃景幻界的谜团吧！
 
-※次ページより、「蜃気楼の島 クレセントアイル」の特殊ルールの解説が行われます。
-ぜひご一読の上、新たな大規模コンテンツをお楽しみください。"
-26,86818,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■コンテンツ参加はレベル100以上のバトルクラスで！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※在下一页中，将会介绍的是“蜃景幻界新月岛”独有的特殊的规则。
+请务必仔细阅读，以便充分体验新的大规模任务。"
+26,86818,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■用100级以上的战斗职业参与任务！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-「蜃気楼の島 クレセントアイル」は、<UIForeground>0F</UIForeground>レベル100以上のバトルクラス<UIForeground>01</UIForeground>で突入可能です。
-必要とされる装備の<UIForeground>0F</UIForeground>平均アイテムレベルは690以上<UIForeground>01</UIForeground>で、
-コンテンツ内では<UIForeground>0F</UIForeground>アイテムレベルは700へとシンク<UIForeground>01</UIForeground>されます。
+蜃景幻界新月岛中，只要<UIForeground>0F</UIForeground>等级达到100级的战斗职业<UIForeground>01</UIForeground>即可参加。
+进入任务需要装备的平均品级达到690级，
+在参加任务时，当前装备品级将被同步到700级。
 
-なお、コンテンツに突入した後でも、
-レベル100以上のほかのバトルクラスにチェンジすることが可能です。"
-27,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！①<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+另外，进入任务后，
+可以随意切换其他等级达到了100级的战斗职业。"
+27,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■首先要提高知见等级！①<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-「蜃気楼の島 クレセントアイル」には、
-コンテンツ内専用のレベルである「<UIForeground>0F</UIForeground>ナレッジレベル<UIForeground>01</UIForeground>」が存在します。
-ナレッジレベルは、コンテンツ内で発生する大規模戦闘の攻略や、
-島内に生息するモンスターの討伐などで獲得できる「<UIForeground>0F</UIForeground>知見<UIForeground>01</UIForeground>」という経験値を、
-一定量貯めることで上昇していきます。"
-28,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■まずはナレッジレベルの上昇を目指そう！②<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+在蜃景幻界新月岛中，
+有任务专用的等级系统<UIForeground>0F</UIForeground>“知见等级”<UIForeground>01</UIForeground>。
+通过在任务中成功挑战大规模战斗，
+打败岛内的怪物即可获得<UIForeground>0F</UIForeground>“知见”<UIForeground>01</UIForeground>经验值。
+攒够一定数量即可提升知见等级。"
+28,86819,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■首先要提高知见等级！②<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-ナレッジレベルは、島内に生息するモンスターとの戦闘の結果に大きく影響します。
-島内を自由に探索するためにも、まずはナレッジレベルの上昇を目指しましょう！
+知见等级将会极大程度地对玩家与岛内怪物的战斗结果造成影响。
+想要在岛内自由探索，首先就需要提高知见等级！
 
-※戦闘時のナレッジレベルの差で、与えるダメージや受けるダメージが大きく増減します。
-戦う相手は注意深く選びましょう。"
-29,86820,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■大規模戦闘に参加してみよう！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※通过降低战斗中的知见等级差距，可以大幅增减造成和受到的伤害，
+因此选择对手时请务必深思熟虑。"
+29,86820,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■参加大规模战斗！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-島内では、「<UIForeground>0F</UIForeground>クリティカルエンカウント<UIForeground>01</UIForeground>」と呼ばれる、
-最大72人での大規模戦闘が発生することがあります。
-見事攻略することができれば、大量の「知見」など様々な報酬を得られます。
-クリティカルエンカウントはナレッジレベルの影響を受けないため、積極的に参加してみましょう！
+在岛内还会发生被称为<UIForeground>0F</UIForeground>“紧急遭遇战”<UIForeground>01</UIForeground>的，
+最多能有72人参加的大规模战斗。
+在战斗中取胜，便能获得大量的“知见”以及品种繁多的其他报酬。
+紧急遭遇战并不会受到知见等级影响，还请积极参加！
 
-なお、島内ではデジョンのアクションが専用の<UIForeground>0F</UIForeground>デミデジョン<UIForeground>01</UIForeground>へと変わり
-リキャストタイムを気にせず拠点に戻ることができます。"
+另外，在岛上，“返回”会变成专用的<UIForeground>0F</UIForeground>“亚返回”<UIForeground>01</UIForeground>，想返回据点时不再受复唱时间限制。"
 30,0,""
 31,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>参加了宇宙探索计划！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 

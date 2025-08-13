@@ -54,14 +54,14 @@ int32,str,str
 48,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_000","哦哦，<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If><Else/></If><Else/></If>，来得正好！
 发生了紧急状况，能为我们的任务出一份力吗？"
 49,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_001","我们在调查从长城缴获的帝国军无人兵器的时候，
-有几架兵器突然暴走，飞向了东边。
+有几架兵器突然失控，飞向了东边。
 为了防止对一般民众造成危害，必须迅速处理此事。"
 50,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_002","听说你与魔导兵器战斗的经验十分丰富。
 我想请你去协助指挥追击作战的古·妮布妮帕协漩尉，
 追击无人兵器！"
 51,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_003","详细的作战计划请去询问古·妮布妮帕协漩尉。"
 52,"TEXT_STMBDZ005_02639_GNIBNPHA_000_010","感谢你的帮助！
-那么事不宜迟，我来向你说明暴走无人兵器的相关事宜……
+那么事不宜迟，我来向你说明失控无人兵器的相关事宜……
 我们已确认上述机体是使用了新型装甲材料的试验机。"
 53,"TEXT_STMBDZ005_02639_GNIBNPHA_000_011","因此，普通兵器的攻击想必很难凑效吧。
 所以我们在加隆德炼铁厂的协助下，
@@ -86,7 +86,7 @@ int32,str,str
 这片区域怕是会成为今后的难题。"
 60,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_022","不过话说回来，帝国还真是造出了麻烦的东西。
 在巴埃萨长城那里好像还有一些已经停止了活动的无人兵器，
-说不定还会出现暴走的情况。"
+说不定还会出现失控的情况。"
 61,"TEXT_STMBDZ005_02639_LOEZKIRZ_000_023","我们会和加隆德炼铁厂联手，
 继续慎重地调查下去。"
 62,"TEXT_STMBDZ005_02639_GNIBNPHA_000_024","你成功破坏了无人兵器啊。

@@ -139,12 +139,12 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 158,"","",0,0,0,False
 159,"","",0,0,0,False
 160,"s-bella","陆行鸟s-bella",2,101,101,False
-161,"Chocobo","陆行鸟",2,101,101,False
+161,"Luxingniao","陆行鸟",2,101,101,False
 162,"s-contents","s-contents",2,0,0,False
 163,"chs-contents","chs-contents",2,0,0,False
 164,"s-contents2","s-contents2",2,0,0,False
 165,"s-guttata","陆行鸟s-guttata",2,101,101,False
-166,"Moogle","莫古力",2,101,101,False
+166,"Moguli","莫古力",2,101,101,False
 167,"chs-contents2","chs-contents2",2,0,0,False
 168,"Namazu","鲶鱼精",2,101,102,False
 169,"chs-contents3","chs-contents3",2,0,0,False

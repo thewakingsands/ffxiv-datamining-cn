@@ -153,4 +153,4 @@ int32,str,str,str,str,str,byte,uint32,bit&01,bit&02,ContentRouletteOpenRule,bit&
 
 ※胜利之星和水晶点会因比赛的胜负而变动。
 ※会与段位和阶位相近的玩家进行匹配。
-※会尽量平衡双方小队成员的职业构成、段位、阶位来进行分组。","",0,0,False,True,3,True,30,30,0,False,0,112472,0,0,0,0,0,0,0,48,146,29,3,1,-1,True,6,43,5,0,False,False,False,False,0,40030,False,0,False,True,False,1
+※会尽量平衡双方小队成员的职业构成、段位、阶位来进行分组。","",0,0,False,True,3,True,30,30,0,False,0,112472,0,0,0,0,0,0,0,48,146,29,3,1,-1,True,6,43,5,0,False,False,False,False,0,40030,False,0,False,True,True,1

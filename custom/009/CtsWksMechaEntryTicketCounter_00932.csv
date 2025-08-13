@@ -1,8 +1,8 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM","要用<Value>IntegerParameter(2)</Value> <Sheet(Item,IntegerParameter(1),0)/>兑换驾驶申请书吗？"
-1,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT","每张驾驶申请书需要<Value>IntegerParameter(2)</Value> <Sheet(Item,IntegerParameter(1),0)/>。
+0,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM","要用<Value>IntegerParameter(2)</Value><Sheet(Item,IntegerParameter(1),0)/>兑换驾驶申请书吗？"
+1,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT","每张驾驶申请书需要<Value>IntegerParameter(2)</Value><Sheet(Item,IntegerParameter(1),0)/>。
 继续努力吧！"
 2,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_FIRST_TALK","我是重型载人机甲的管理者。
 同时也在发行申请驾驶机甲所需的驾驶申请书。"

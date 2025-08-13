@@ -33,7 +33,7 @@ int32,str,str
 24,"TEXT_BANOMI001_04601_TODO_00","和N-7000对话"
 25,"TEXT_BANOMI001_04601_TODO_01","通过通往新星的传送门前往新星"
 26,"TEXT_BANOMI001_04601_TODO_02","和聆听威对话"
-27,"TEXT_BANOMI001_04601_TODO_03","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在半途终旅附近的矿脉采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在半途终旅附近的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在逡巡泉钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/></If></If></If>"
+27,"TEXT_BANOMI001_04601_TODO_03","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在半途终旅附近的矿脉采取<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在半途终旅附近的草场采集<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>在逡巡泉钓<Sheet(Item,IntegerParameter(5),0)/><Else/>将<Sheet(Item,IntegerParameter(5),0)/>交给N-7000</If><Else/></If></If></If>"
 28,"TEXT_BANOMI001_04601_TODO_04","和N-7000对话"
 29,"TEXT_BANOMI001_04601_TODO_05","和至福乐土的N-7000对话"
 30,"TEXT_BANOMI001_04601_TODO_06","和A4调查平台的N-7000对话"

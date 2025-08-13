@@ -82,5 +82,5 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 78,"莫雯卓越工具",4,True,False,52
 79,"尤卡图拉尔",11,True,False,14
 80,"萨卡图拉尔",11,True,False,15
-81,"",0,False,False,0
+81,"幻境武器",4,True,False,13
 82,"宇宙工具",4,True,False,53
