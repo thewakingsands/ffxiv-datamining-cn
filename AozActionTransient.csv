@@ -260,7 +260,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 52,52,72253,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击类型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>冰
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>评级：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
-","雪人使用的青魔法。
+","大脚雪人使用的青魔法。
 将体内生成的冰冷媒介融入吐息之中，就可以产生有如狂风暴雪般的冷风。如果吹向被水毒侵蚀的敌人，则可以使其从体内开始全身冰冻。",1,2200,69269,69268,True,False,False,True,False,False,False,False,False,False,False,False
 53,53,72254,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击类型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
@@ -611,7 +611,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>水
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>评级：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","水滴精的必杀技。
-使大量的水流动并形成旋涡然后一口气释放。原本是为了陪伴幼儿玩水所创造的使魔，但这水流的威力实在是太强了。",4,746,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+使大量的水流动并形成漩涡然后一口气释放。原本是为了陪伴幼儿玩水所创造的使魔，但这水流的威力实在是太强了。",4,746,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 123,123,72324,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击类型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>无
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>评级：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
@@ -621,4 +621,4 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻击属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>无
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>评级：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","缇坦妮雅的必杀技。
-运用多个符文构筑出魔力的旋涡。此外，在妖灵语中“终有一死”一词不光是对有命数之人的藐视，同时也含有对其感到悲哀和同情的意思，是一个非常复杂的词语。",4,657,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+运用多个符文构筑出魔力的漩涡。此外，在妖灵语中“终有一死”一词不光是对有命数之人的藐视，同时也含有对其感到悲哀和同情的意思，是一个非常复杂的词语。",4,657,0,0,True,False,False,False,False,False,False,False,False,False,False,False

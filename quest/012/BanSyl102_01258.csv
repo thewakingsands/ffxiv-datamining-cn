@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_BANSYL102_01258_SEQ_00","妖精暂留地的特那克希亚想到了新的恶作剧点子。"
-1,"TEXT_BANSYL102_01258_SEQ_01","接受了特那克希亚的委托。在百灵啼讨伐<Sheet(BNpcName,237,0)/>，获取1份<Sheet(EventItem,2001118,0)/>；讨伐<Sheet(BNpcName,233,0)/>，获取1份<Sheet(EventItem,=2001119,0)/>；讨伐<Sheet(BNpcName,222,0)/>，获取2份<Sheet(EventItem,2001120,0)/>。"
+1,"TEXT_BANSYL102_01258_SEQ_01","接受了特那克希亚的委托。在百灵啼讨伐<Sheet(BNpcName,237,0)/>，获取1份<Sheet(EventItem,2001118,0)/>；讨伐<Sheet(BNpcName,233,0)/>，获取1份<Sheet(EventItem,2001119,0)/>；讨伐<Sheet(BNpcName,222,0)/>，获取2份<Sheet(EventItem,2001120,0)/>。"
 2,"TEXT_BANSYL102_01258_SEQ_02","成功讨伐了魔物，获得了委托品。将<Sheet(EventItem,2001118,0)/>、<Sheet(EventItem,2001119,0)/>和<Sheet(EventItem,2001120,0)/>交给妖精暂留地的特那克希亚。"
 3,"TEXT_BANSYL102_01258_SEQ_03","将委托品交给了特那克希亚。拿到了恶作剧用的材料，特那克希亚十分高兴。他夸奖了冒险者的工作，并希望冒险者能再次帮他忙。"
 4,"TEXT_BANSYL102_01258_SEQ_04","空栏"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANSYL102_01258_SEQ_22","空栏"
 23,"TEXT_BANSYL102_01258_SEQ_23",""
 24,"TEXT_BANSYL102_01258_TODO_00","从魔界花身上得到<Sheet(EventItem,2001118,0)/>"
-25,"TEXT_BANSYL102_01258_TODO_01","从老龄树精身上得到<Sheet(EventItem,=2001119,0)/>"
+25,"TEXT_BANSYL102_01258_TODO_01","从老龄树精身上得到<Sheet(EventItem,2001119,0)/>"
 26,"TEXT_BANSYL102_01258_TODO_02","从换羽席兹身上得到<Sheet(EventItem,2001120,0)/>"
 27,"TEXT_BANSYL102_01258_TODO_03","将委托品交给特那克希亚"
 28,"TEXT_BANSYL102_01258_TODO_04","空栏"

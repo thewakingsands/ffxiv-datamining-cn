@@ -103,3 +103,8 @@ int32,str,str
 在土地正式对外销售前，请您耐心等待。"
 57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","要想购买公寓“皓天炉舍”的房间，
 需要先完成主线任务“绝命怒嚎”。"
+58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","アパルトメント「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」へようこそ！
+こちらでは現在、冒険者のみなさんに開放するため、
+準備を進めているところです。"
+59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","現在、「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」は先行公開期間中となります。
+部屋の販売開始まで、今しばらくお待ちください。"

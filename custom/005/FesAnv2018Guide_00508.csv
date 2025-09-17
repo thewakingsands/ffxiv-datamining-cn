@@ -5,8 +5,9 @@ int32,str,str
 1,"TEXT_FESANV2018GUIDE_00508_A1_000_002","询问有关“新生庆典”"
 2,"TEXT_FESANV2018GUIDE_00508_A1_000_003","询问有关“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”"
 3,"TEXT_FESANV2018GUIDE_00508_A1_000_004","取消"
-4,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_000","所谓新生庆典，主旨为悼念在第七灵灾中丧生的人们，
-并向在灵灾中奋勇作战的英雄“光之战士们”表达感谢。"
+4,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_000","所谓新生庆典，乃是表达缅怀与谢意的祭典。
+其主旨是悼念在第七灵灾中的遇难者，
+并向灵灾期间奋勇作战的英雄们致谢。"
 5,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_001","本次“新生庆典”将会参考“第七灵灾”时
 帝国军入侵和妖异出现的情况
 在乌尔达哈市区进行军事演习。"
@@ -25,7 +26,7 @@ int32,str,str
 12,"TEXT_FESANV2018GUIDE_00508_A2_000_002","关于危命任务"
 13,"TEXT_FESANV2018GUIDE_00508_A2_000_003","关于组队功能"
 14,"TEXT_FESANV2018GUIDE_00508_A2_000_004","返回"
-15,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_040","这次军事演习，是假定都市受到了帝国军和妖异的进攻，
+15,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_040","这次军事演习，是假定城邦受到了帝国军和妖异的进攻，
 将乌尔达哈的一角封锁起来并在那里进行的。"
 16,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_041","“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”
 是从单人最多到满编小队（8人），可以任意人数参加，

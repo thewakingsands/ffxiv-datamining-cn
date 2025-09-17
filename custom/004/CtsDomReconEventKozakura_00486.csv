@@ -20,7 +20,7 @@ int32,str,str
 9,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_018","只不过我们车前会每周的预算是有限的，
 请多加注意。"
 10,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_019","可以将道具放进车前会所的<Sheet(EObj,2009567,0)/>进行出让了，
-为多玛飞地贡献物资，使城市得到发展。"
+为多玛飞地贡献物资，使城镇得到发展。"
 11,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_020","在通常商店可以出售的道具，
 均可不限种类进行出让。"
 12,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_021","另外出让道具时，
@@ -101,7 +101,7 @@ int32,str,str
 我今后也会为了多玛飞地而粉身碎骨在所不惜！
 等下一阶段的重建计划确立之后，还请你多多帮忙……"
 50,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_210","接下来玩家可以继续出让道具，
-但是在下一阶段的重建计划发表之前，城市不会有进一步的发展。
+但是在下一阶段的重建计划发表之前，城镇不会有进一步的发展。
 请期待下一个版本来临！"
 51,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_215","<Highlight>ObjectParameter(1)</Highlight>……
 感谢你能过来。
@@ -117,7 +117,7 @@ int32,str,str
 今后多玛飞地重建计划的方针。
 我正想着要告诉你呢。"
 56,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_222","首先多亏了多玛飞地的人们互相协助，
-散落在这个城市的瓦砾已经基本清扫干净了。"
+散落在这个城镇的瓦砾已经基本清扫干净了。"
 57,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_223","因此可利用的土地也变得广阔了，
 今后将以那边为中心，
 计划建设新的设施！"
@@ -183,7 +183,7 @@ int32,str,str
 86,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_371","这就是现在多玛飞地的俯瞰图。"
 87,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_380","孟冬哥在等着咱们呢。
 咱们一起去趟巡逻队驻所吧！"
-88,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_390","巡逻队驻所已经完工了，这样一来城市的安全就更有保障了！
+88,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_390","巡逻队驻所已经完工了，这样一来城镇的安全就更有保障了！
 现在基础设施基本已经建设完了，
 目前正在拆除帝国的瞭望塔。"
 89,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_391","这就是现在多玛飞地的俯瞰图。"
@@ -210,7 +210,7 @@ int32,str,str
 99,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_460","多亏了你的援助，此次的重建计划已经基本完成。
 今后为了将多玛飞地建设得更加繁华，
 请你把不要的东西继续出让给我们。"
-100,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_461","今后虽然城市不会发展，
+100,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_461","今后虽然城镇不会发展，
 但仍可继续出让不超过周预算额的物品。"
 101,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_462","另外因为完成了飞地的重建计划，
 车前会买入出让物品时的预算额进一步提升了。

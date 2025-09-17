@@ -5,7 +5,7 @@ int32,byte,byte,int32,str,str
 1,1,4,82201,"防护效果提高","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>防护<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高到90%"
 2,1,5,82202,"祈祷效果提高","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>祈祷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的恢复力提高到5000"
 3,2,3,82203,"狂怒效果提高","为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>肉斩骨断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>肉斩骨断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续时间内受到的伤害越高，全力一击的威力越高
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>肉斩骨断<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续时间内受到的伤害越高，一击的威力越高
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 4,3,4,82204,"踢击效果提高","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>踢击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高到7%"
 5,3,6,82205,"踢击效果提高II","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>踢击<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高到9%"

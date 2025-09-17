@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ715_01919_SEQ_00","被囚禁在帝国军驻地EA275006的尊杜族正在向冒险者求助。"
-1,"TEXT_HEAVNZ715_01919_SEQ_01","被囚禁的尊杜族希望冒险者从帝国兵身上夺取<Sheet(EventItem,2001672,0)/>，然后将自己释放。在帝国军驻地EA275006讨伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>。"
-2,"TEXT_HEAVNZ715_01919_SEQ_02","讨伐的帝国兵身上没有<Sheet(EventItem,2001672,0)/>。在帝国军驻地EA275006讨伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>中的随便一种，获取<Sheet(EventItem,2001672,0)/>。"
-3,"TEXT_HEAVNZ715_01919_SEQ_03","获得了<Sheet(EventItem,2001672,0)/>。在帝国军驻地EA275006对被囚禁的尊杜族使用<Sheet(EventItem,2001672,0)/>。"
+0,"TEXT_HEAVNZ715_01919_SEQ_00","被囚禁在瓦纳温杜集落的尊杜族正在向冒险者求助。"
+1,"TEXT_HEAVNZ715_01919_SEQ_01","被囚禁的尊杜族希望冒险者从帝国兵身上夺取<Sheet(EventItem,2001672,0)/>，然后将自己释放。在瓦纳温杜集落讨伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>。"
+2,"TEXT_HEAVNZ715_01919_SEQ_02","讨伐的帝国兵身上没有<Sheet(EventItem,2001672,0)/>。在瓦纳温杜集落讨伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>中的随便一种，获取<Sheet(EventItem,2001672,0)/>。"
+3,"TEXT_HEAVNZ715_01919_SEQ_03","获得了<Sheet(EventItem,2001672,0)/>。在瓦纳温杜集落对被囚禁的尊杜族使用<Sheet(EventItem,2001672,0)/>。"
 4,"TEXT_HEAVNZ715_01919_SEQ_04","释放了被囚禁的尊杜族。他回到了尊杜集落。前往阿巴拉提亚云海的尊杜集落，与入口附近的获救的尊杜族谈谈。"
 5,"TEXT_HEAVNZ715_01919_SEQ_05","和获救的尊杜族进行了交谈。他非常感谢救出自己的冒险者。"
 6,"TEXT_HEAVNZ715_01919_SEQ_06","空"

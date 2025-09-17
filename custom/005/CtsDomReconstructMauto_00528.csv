@@ -16,7 +16,7 @@ int32,str,str
 5,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_012","啊，我叫孟冬，是巡逻队的一员，
 请多指教。"
 6,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_013","话说回来，这里就是巡逻队驻所的计划建设用地。
-为了维持城市的治安，这里将成为我们巡逻队值岗，
+为了维持城镇的治安，这里将成为我们巡逻队值岗，
 进行训练的地方！"
 7,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_014","其实现在我们已经开始做能做的事情了。
 比如在外围巡逻、防止魔物入侵，
@@ -42,7 +42,7 @@ int32,str,str
 创建一个能够替代武士们维护治安的组织。"
 17,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_024","正好还有那些飞燕大人交换俘虏救回来的士兵们呢。
 聚到这里来的都是些对自己武艺有些自信的家伙们，
-所以守护城市的工作就交给我们吧！"
+所以守护城镇的工作就交给我们吧！"
 18,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_025","哎，虽然说得这么自信满满。
 可我却算不上是战斗力……"
 19,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_026","其实我小时候受过伤，
@@ -55,11 +55,11 @@ int32,str,str
 22,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_029","在我开始教授人们警备要点以后，
 我就在不知不觉间成了巡逻队的负责人。
 想到居然也有我能做到的事情，我真的很高兴。"
-23,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_030","为了守护城市的治安，
+23,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_030","为了守护城镇的治安，
 只要是我们能做到的事情，
 我们都会义不容辞！"
 24,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_031","巡逻队驻所的建设工作看来很顺利，
-已经开始进行巡逻，一定会为城市的安全做出贡献。"
+已经开始进行巡逻，一定会为城镇的安全做出贡献。"
 25,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_032","今后也请将物资放进<Sheet(EObj,2009567,0)/>，
 为了进一步的发展而努力吧！"
 26,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_035","大家都在很卖力地工作！
@@ -90,7 +90,7 @@ int32,str,str
 37,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_050","你说什么？！
 这是真的吗？！"
 38,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_051","这是千真万确的！
-飞燕大人真的是在关注这个城市。"
+飞燕大人真的是在关注这个城镇。"
 39,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_052","不光是人们的反应，
 就连巡逻队的实际工作情况都悄悄地视察来着呢。"
 40,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_053","飞燕大人说过，
@@ -124,7 +124,7 @@ int32,str,str
 51,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_063","被认可为国家组织这件事，
 让他们变得更加可靠了呢。"
 52,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_064","<Highlight>ObjectParameter(1)</Highlight>，
-托你的福，城市运营所需要的设施也逐渐齐全，
+托你的福，城镇运营所需要的设施也逐渐齐全，
 民众的生活也变得富裕了，安全也都得到了保障。"
 53,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_065","不过这还不算是终点。
 正因为生活得到了保障，
@@ -137,7 +137,7 @@ int32,str,str
 56,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_068","从多玛解放后直至今日，
 所有人都在为了重建生活所必须的设施而拼命努力，
 所以就把这件事放在脑后了……"
-57,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_069","现在城市的重建工作也算告一段落了，
+57,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_069","现在城镇的重建工作也算告一段落了，
 总算能够回应飞地人们的期盼，
 正式开始那座塔的拆除工作了。"
 58,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_KOZAKURA_000_070","具体流程就由我们车前会负责安排，
@@ -152,7 +152,7 @@ int32,str,str
 62,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_074","巡逻队驻所建设完成！
 开始进行新的“瞭望塔”的改建工作。
 今后请继续提供物资，为了完成重建工作而努力吧！"
-63,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_075","另外因为城市再次得到发展，
+63,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_SYSTEM_000_075","另外因为城镇再次得到发展，
 车前会买入出让物品时的预算额进一步提升了。
 今后可以出让更多的物资！"
 64,"TEXT_CTSDOMRECONSTRUCTMAUTO_00528_MAUTO_000_080","我们一定会尽到维护多玛飞地治安的职责！

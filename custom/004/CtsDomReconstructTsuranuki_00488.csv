@@ -48,7 +48,7 @@ int32,str,str
 为了进一步的发展而努力吧！"
 18,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_050","到了我这个岁数，居然站在了新的起跑线上，
 以前根本没想过这种事。
-你是不是也很享受着这个城市的发展过程啊？"
+你是不是也很享受着这个城镇的发展过程啊？"
 19,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_TSURANUKI_000_060","……你问我有了什么变化？
 赶紧好好看看周围！
 建筑物的骨架不是都快组建完成了吗！"
@@ -71,7 +71,7 @@ int32,str,str
 27,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_086","就在刚才……就在刚才我们回国了！
 当然，其他逃到艾欧泽亚的同胞们也在一起……"
 28,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_087","连大人加上孩子，就在刚才他们都平安到达了。
-现在正在休息，估计不久之后这个城市就会热闹起来的吧。"
+现在正在休息，估计不久之后这个城镇就会热闹起来的吧。"
 29,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_088","<Highlight>ObjectParameter(1)</Highlight>帮忙完成的计划，终于有了结果。
 今天真是一个可喜可贺的日子！"
 30,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_HOZAN_000_089","我听说你好像在为重建多玛飞地而贡献物资啊。"
@@ -86,7 +86,7 @@ int32,str,str
 34,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_093","我知道了！
 我这就去和车前会商量一下，做好万全的准备！"
 35,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_KOZAKURA_000_094","从今往后，又可以和大家一起了……
-将这个城市建设得更美好吧！"
+将这个城镇建设得更美好吧！"
 36,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SYSTEM_000_095","匠人街的建设工作看来很顺利，
 宝山等人已经回国，多玛飞地会变得更富有活力。"
 37,"TEXT_CTSDOMRECONSTRUCTTSURANUKI_00488_SYSTEM_000_096","今后也请将物资放进<Sheet(EObj,2009567,0)/>，

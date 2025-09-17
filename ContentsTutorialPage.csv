@@ -233,14 +233,10 @@ int32,Image,str
 33,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■探索场景中的特殊规则<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 在中控水晶的影响下，宇宙探索中，能工巧匠及大地使者的“冲刺”会变为“宇宙冲刺”，
-移动速度和持续时间都得到了加强。
-
-此外，在探索场景中无法骑乘坐骑，
-不过，当参加需要驾驶机甲的<UIForeground>0F</UIForeground>机甲行动<UIForeground>01</UIForeground>时，
-被选为驾驶员的少数玩家能够骑上专用的坐骑。"
+移动速度和持续时间都得到了加强。"
 34,86816,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■使用探索触控板吧！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-在宇宙探索中，除了探索任务和机甲行动外，还有各种各样的内容。
+在宇宙探索中，除了探索任务外，还有各种各样的内容。
 这些内容的玩法可以在<UIForeground>0F</UIForeground>探索触控板<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>0F</UIForeground>宇宙探索说明<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中查看。
 
 如果有不明白的地方，就看看探索触控板吧！"

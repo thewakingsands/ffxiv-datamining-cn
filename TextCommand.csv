@@ -412,6 +412,17 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 将发动敌对性质技能时自动选中目标设定为无效。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在开启与关闭之间切换。","/自动选中目标","",36,0
+49,2,1,2,0,0,"/vieraears","/vears","/维埃拉耳朵
+/vieraears、/vears
+切换是否显示维埃拉族的耳朵。
+※仅对已经实装了切换耳部显示功能的装备有效。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　显示维埃拉族的耳部。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>关<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　不显示维埃拉族的耳部。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在开启和关闭之间切换。
+","/维埃拉耳朵","/vieraears",36,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -1283,7 +1294,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 选中可选范围内离自己距离最近的玩家。","/选中最近玩家","/最近玩家",36,0
 255,1,0,0,0,0,"/targetnpc","/tnpc","/选中最近非玩家(/最近非玩家)
 /targetnpc、/tnpc
-选中可选范围内离自己最近的非玩家角色。","/选中最近非玩家","/最近非玩家",36,0
+选中可选范围内离自己最近的非玩家角色或场景物体。","/选中最近非玩家","/最近非玩家",36,0
 256,1,0,0,0,0,"/targetenemy","/tenemy","/选中最近敌人(/最近敌人)
 /targetenemy、/tenemy
 选中可选范围内离自己距离最近的敌人。","/选中最近敌人","/最近敌人",36,0
@@ -1386,8 +1397,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /statusoff
 解除指定的强化状态效果。
 >>示例
-/解除状态 舍身
-解除强化效果“舍身”。","/解除状态","",36,0
+/解除状态 铁壁
+解除强化效果“铁壁”。","/解除状态","",36,0
 276,3,0,0,0,0,"/addpvpaction","/apa","/对战额外技能 对战额外技能1 对战额外技能2
 /addpvpaction、/apa
 曾经被认为是可以设定对战额外技能的功能。
@@ -4112,3 +4123,67 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/认真看书","",293,0
+699,2,1,2,0,0,"/gridaniansip","","/用森都风格马克杯喝 子命令
+/gridaniansip
+用森都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/用森都风格马克杯喝","",293,0
+700,2,1,2,0,0,"/uldahnsip","","/用沙都风格马克杯喝 子命令
+/uldahnsip
+用沙都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/用沙都风格马克杯喝","",293,0
+701,2,1,2,0,0,"/lominsansip","","/用海都风格马克杯喝 子命令
+/lominsansip
+用海都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/用海都风格马克杯喝","",293,0
+702,2,1,2,0,0,"/gridaniangulp","","/持续用森都风格马克杯喝 子命令
+/gridaniangulp
+持续用森都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/持续用森都风格马克杯喝","",293,0
+703,2,1,2,0,0,"/uldahngulp","","/持续用沙都风格马克杯喝 子命令
+/uldahngulp
+持续用沙都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/持续用沙都风格马克杯喝","",293,0
+704,2,1,2,0,0,"/lominsangulp","","/持续用海都风格马克杯喝 子命令
+/uldahngulp
+持续用海都风格马克杯喝饮料。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/持续用海都风格马克杯喝","",293,0
+705,2,1,2,0,0,"/limberup","/limber","/跃跃欲试 子命令
+/limberup
+摆出跃跃欲试的样子。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/跃跃欲试","",293,0
+708,2,1,2,0,0,"/pen","","/用羽毛笔记录 子命令
+/pen
+用羽毛笔记录文字。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/用羽毛笔记录","",293,0

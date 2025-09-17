@@ -1301,6 +1301,9 @@ int32,str
 1261,"类型20"
 1262,"人名显示设置"
 1263,"人名显示设置"
+1264,"聊天输入栏透明度"
+1265,"聊天气泡设置"
+1266,"聊天气泡设置"
 1270,"请选择一种推荐的默认设置。"
 1271,"设置没有保存，要放弃该设置吗？"
 1272,"要删除全部消息的过滤条件吗？"
@@ -2347,6 +2350,7 @@ int32,str
 2306,"采集活动"
 2307,"特殊场景探索"
 2308,"机遇任务"
+2309,""
 2310,"<Highlight>StringParameter(1)</Highlight>（契约已过期）"
 2311,"<Value>IntegerParameter(1)</Value>～<Value>IntegerParameter(2)</Value>"
 2312,"请选择雇员探险的等级范围"
@@ -2492,6 +2496,8 @@ int32,str
 2438,"交换"
 2439,"雇员试穿"
 2440,"返回"
+2441,"选择变身角色"
+2442,""
 2445,"风脉泉"
 2446,""
 2447,"该地区还没有共鸣过的风脉泉。"
@@ -3177,6 +3183,8 @@ int32,str
 3165,"行会令"
 3166,""
 3167,"行会令"
+3176,"关闭"
+3177,"打开说明"
 3180,"角色"
 3181,""
 3185,"投影模板"
@@ -3381,6 +3389,7 @@ int32,str
 3412,"取消"
 3415,"只显示最近新加的道具"
 3416,"无新加道具。"
+3417,"切换为当前职业"
 3420,"部队等级没有达到要求。"
 3421,"部队战绩不足。"
 3422,"确定要消耗<Format(IntegerParameter(2),FF022C)/>点部队战绩换取“<Sheet(CompanyAction,IntegerParameter(1),0)/>”特效吗？"
@@ -3989,7 +3998,7 @@ int32,str
 4171,"声音设置"
 4172,"图像设置"
 4173,"鼠标设置"
-4174,"<If(Equal(PlayerParameter(75),0))>手柄<Else/><If(Equal(PlayerParameter(78),99))>无线手柄<Else/>手柄</If></If>设置"
+4174,"<66>16</66>设置"
 4175,"语言设置"
 4176,"无线手柄设置"
 4177,"其他设置"
@@ -5426,7 +5435,9 @@ A：Assist，协助他人打倒敌人的次数"
 选择后会随机在奇谈书的空白处贴上印花。"
 5608,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>满足任务的完成条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>后，
 即可在奇谈书的空白处随机贴上印花。
-请先努力完成任务吧。"
+请先努力完成任务吧。
+
+※可通过次级指令确认目标任务。"
 5609,"奖励列表"
 5610,"贴上9个印花"
 5611,"贴出1条故事线"
@@ -5674,6 +5685,10 @@ A：Assist，协助他人打倒敌人的次数"
 现在就领取将无法获得贴上9个印花后可获得的
 经验值等一系列奖励。"
 5844,"我不要贴满9个印花的奖励了"
+5845,"目标任务一览"
+5846,""
+5847,"打开目标任务"
+5848,"目标任务"
 5860,"持有数量"
 5861,"持有数量：<Value>IntegerParameter(1)</Value>"
 5862,"继续分解"
@@ -5773,8 +5788,10 @@ A：Assist，协助他人打倒敌人的次数"
 5932,"红"
 5933,"绿"
 5934,"蓝"
-5935,"远近"
-5936,"旋转"
+5935,"调整镜头远近的功能。
+拉近可以突出拍摄对象，拉远可以强调距离，让构图更有层次感。"
+5936,"旋转镜头的功能。
+可以让画面倾斜，使画面更加独特或带上运动感。"
 5937,"红"
 5938,"绿"
 5939,"蓝"
@@ -5829,8 +5846,8 @@ A：Assist，协助他人打倒敌人的次数"
 5981,"看向玩家的非玩家角色看向镜头"
 5982,"对部分非玩家角色无效
 ※重启集体动作后生效"
-5983,"整体设置"
-5984,"特效/边框设置"
+5983,"镜头设置"
+5984,"画面设置"
 5985,"灯光亮度/扩展设置"
 5986,"拍摄技能动作"
 5987,"重现使用上一个技能或道具时的动作
@@ -7638,10 +7655,12 @@ A：Assist，协助他人打倒敌人的次数"
 7980,"跟踪光标"
 7981,"固定（坐标反转）"
 7982,"固定"
-7984,"键盘模式：保持关闭"
-7985,"手柄模式：激活时关闭"
-7987,"标准"
-7988,"左侧（优先度排序）"
+7983,"键盘模式：保持关闭"
+7984,"手柄模式：激活时关闭"
+7985,"标准"
+7986,"左侧（优先度排序）"
+7987,"敌人名牌设置"
+7988,"显示咏唱栏（仅对头目、强敌等强大敌人生效）"
 7990,"类型0"
 7991,"类型1"
 7992,"类型2"
@@ -7830,6 +7849,9 @@ A：Assist，协助他人打倒敌人的次数"
 8184,"90%"
 8185,"80%"
 8186,"60%"
+8187,"最大"
+8188,"较大"
+8189,"标准"
 8190,"复制界面设置（远程游戏）"
 8191,"复制自"
 8192,"复制所选画面设置"
@@ -7841,6 +7863,7 @@ A：Assist，协助他人打倒敌人的次数"
 8196,"否"
 8197,"通常游戏画面（<If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PS3</Case><Case(2)>PS4™</Case><Case(3)>PS4™</Case><Case(4)>PS5™</Case><Case(5)></Case><Case(6)></Case></Switch><Else/></If>）"
 8198,"远程游戏画面"
+8199,"角色显示范围"
 8200,"开启湿衣效果"
 8201,"<If(Equal(PlayerParameter(75),0))>手柄设置<Else/><If(Equal(PlayerParameter(78),99))>无线手柄设置<Else/>手柄设置</If></If>"
 8202,"扬声器系统音"
@@ -7864,6 +7887,7 @@ A：Assist，协助他人打倒敌人的次数"
 8220,"所有系统音"
 8221,"仅通知音"
 8222,"静音"
+8224,"自动调整"
 8225,"最多"
 8226,"较多"
 8227,"标准"
@@ -9598,18 +9622,18 @@ Immerse Gamepack尚未安装。
 9863,"第<Value>IntegerParameter(1)</Value>回合"
 9864,"积分 <If(GreaterThanOrEqualTo(IntegerParameter(1),0))>+<Value>IntegerParameter(1)</Value><Else/><Value>IntegerParameter(1)</Value></If>　得失分差 <If(GreaterThanOrEqualTo(IntegerParameter(2),0))>+<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value></If>"
 9865,"确定"
-9866,"多玛方城战语音"
-9867,"相关设置"
+9866,"设置"
+9867,"语音"
 9868,"启用多玛方城战语音"
 9869,"语音角色"
-9870,"<Sheet(EmjVoiceNpc,IntegerParameter(1),27)/>"
+9870,"<Sheet(EmjVoiceNpc,IntegerParameter(1),28)/>"
 9871,"选择角色"
 9872,"选择语音角色"
 9873,""
 9874,"角色"
 9875,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
-9876,"<Sheet(EmjVoiceNpc,IntegerParameter(1),26)/>"
-9877,"<Sheet(EmjVoiceNpc,IntegerParameter(1),27)/>"
+9876,"<Sheet(EmjVoiceNpc,IntegerParameter(1),27)/>"
+9877,"<Sheet(EmjVoiceNpc,IntegerParameter(1),28)/>"
 9878,"装束"
 9879,"获取方式"
 9880,"完成主线任务“<If(GreaterThan(IntegerParameter(2),0))>？？？？<Else/><Highlight>StringParameter(1)</Highlight></If>”后
@@ -9629,6 +9653,8 @@ Immerse Gamepack尚未安装。
 9893,"季节活动"
 9894,"<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>
 <Sheet(DynamicEvent,IntegerParameter(2),11)/>"
+9895,"显示"
+9896,"----/--/--"
 9979,"奖励"
 9980,"仙人微彩"
 9981,"仙人仙彩"
@@ -9904,7 +9930,8 @@ Immerse Gamepack尚未安装。
 
 ·该设置也适用于没有使用任务搜索器参加的匹配任务。
 
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※仅在未组队时生效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※仅在未组队时生效。
+※仅对已完成过的任务生效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10165,"即将跨进度进入副本。
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>进度被跳过的副本在下次重置前无权获得周奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10166,"确认状况"
@@ -10208,6 +10235,8 @@ Immerse Gamepack尚未安装。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>随机组队不计算积分。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>推进到了挑战型任务层级的存档无法转换成随机组队的存档。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※转换的存档将无法复原，请慎重进行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10411,"同意上述内容并转换存档"
 10412,"通过重置攻略进度来删除正在进行攻略的存档，并从深层迷宫的初始地点开始挑战。
@@ -10270,15 +10299,11 @@ Immerse Gamepack尚未安装。
 10464,"请选择要重置的存档。"
 10465,"请选择要解散固定队伍的存档。"
 10466,"查看排名"
-10467,"http://act.ff.sdo.com/project/ranklist/index.html?rank=solo"
-10468,"http://act.ff.sdo.com/project/ranklist/index.html?rank=party"
 10469,"<Sheet(ClassJob,IntegerParameter(1),0)/><If(GreaterThan(IntegerParameter(2),0))> / <Sheet(ClassJob,IntegerParameter(2),0)/><Else/></If>"
 10470,"没有埋藏的宝藏。"
 10471,"排名公布在官方网站！
 <Highlight>StringParameter(1)</Highlight>"
 10472,"<Highlight>StringParameter(1)</Highlight>"
-10473,"http://act.ff.sdo.com/20181108deepdungeon2/index1.html?rank=solo"
-10474,"http://act.ff.sdo.com/20181108deepdungeon2/index1.html?rank=party"
 10475,"魔石"
 10476,"感知到这层存在着埋藏的宝藏。"
 10477,"再生灯笼"
@@ -10581,64 +10606,11 @@ Immerse Gamepack尚未安装。
 10832,"因对战任务正经历大幅度修改，
 此任务暂时关闭。
 随今后版本升级可能会重新开启。"
-10834,"<If(Equal(IntegerParameter(1),0))><Else/>任务缓和</If>"
-10835,"当前版本针对零式大型任务做出以下调整。
-　·各层攻略后不再记录攻略进度。
-　·各层不再需要按顺序攻略。
-　·宝箱必定会出现2个。
-　·从宝箱中获取道具不会有每周获取限制。
-"
-10836,"匹配条件"
-10837,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-匹配条件中的“任务已完成”只有在曾经完成过对应任务时才能选择。
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-目的“完成任务”只有在尚未获得周奖励时才能选择。
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>指定练习阶段<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-只有目的选择了“练习”时才可选择。
-指定练习阶段并不表示可以直接跳过其他阶段。
-
-在申请状态下到达每周重置时间时，申请会被取消。"
-10838,"记录进度"
-10839,"每个玩家自身都会单独保存最新零式大型任务的挑战进度，
-当再次进行任务时，会在前一次中断的位置继续进行挑战。
- 
-挑战的进度会在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>每周<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>重置。"
-10840,"进度与报酬"
-10841,"在最新的零式大型任务中，
-进度超前的玩家在已经完成过的阶段不会获得报酬。
-
-随着队伍中进度超前队员的人数，
-宝箱的出现数量会发生变化。 
-　·进度超前队员有1-4人时宝箱出现数：1个
-　·进度超前队员有5人或以上时宝箱出现数：0个
- 
-以单人或者不满8人的队伍参加最新的零式大型任务时，
-根据匹配到的成员的进度不同，
-宝箱的出现数量也可能会发生变化。 "
-10842,"职业构成"
-10843,"通过匹配参加最新的零式大型任务时组成的队伍没有重复职业。
-　·进攻职业会按照“近战”“远程物理”“远程魔法”“无指定”的分配组成。
-
-不过，根据“目的”的设置，在“无指定”一项中也可以有重复职业。
-　·目的选择“完成任务”时：职业不可重复
-　·目的选择“练习”时：职业可重复
-
-通过匹配参加最新的零式大型任务时，
-队伍中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“纯粹治疗职业”不能多于1名，“护罩治疗职业”也不能多于1名，<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-否则无法申请匹配。
-　·纯粹治疗职业：白魔法师、占星术士
-　※最擅长为自身及队员治疗的特职
-　·护罩治疗职业：学者、贤者
-　※最擅长为自身及队员附加能够抵御一定伤害的防护罩的特职"
-10844,"组队参加时的进度"
-10845,"挑战最新的零式大型任务时，
-全队都会按照队长的进度进行挑战。
-
-即使进度有所不同的队员也可以一同挑战任务。
-　·比队长进度落后的队员，进度会被更新到与队长相同。
-　·比队长进度靠前的队员，进度不会被更新。"
+10841,""
+10842,""
+10843,""
+10844,""
+10845,""
 10846,"※此处显示的仅为未满足条件中的一部分。"
 10847,"平均品级 <Value>IntegerParameter(1)</Value>"
 10848,"通过了最新认证条件的战斗指导者"
@@ -10742,9 +10714,7 @@ Immerse Gamepack尚未安装。
 10956,"在线状况不明"
 10957,"将“<Highlight>StringParameter(1)</Highlight>”加入黑名单。今后将为您屏蔽该角色与该账号下所有的角色。您将不会看到他们的发言，也不会在画面中看到他们的身影。
 加入黑名单时对方的角色名与原始服务器名会保存在您的本地。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>如果只想屏蔽对方的发言，可以在消息窗口的次级指令中将对方加入屏蔽名单。
-执行此操作时，如果对方已经在屏蔽名单中，则会将其从屏蔽名单转移到黑名单。
-<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>如果只想屏蔽对方的发言，可以在消息窗口的次级指令中将对方加入屏蔽名单。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10958,"已了解上述内容"
 10959,"加入"
 10960,"关于<Gui(95)/>回归者"
@@ -11844,6 +11814,7 @@ Immerse Gamepack尚未安装。
 11996,"套装幻影化"
 11997,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>含有可放入收藏柜的装备。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 11998,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>含有套装列表中保存的装备。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+11999,"投影上的染色和队徽也会解除。"
 12002,"1"
 12003,"2"
 12004,"3"
@@ -12104,6 +12075,10 @@ Immerse Gamepack尚未安装。
 打开一次该界面可令情报更新。"
 12242,"已获得最新情报，当前结果准确。"
 12243,"---"
+12244,"部分位置需要玩家亲自打开过，搜索时才能获取其内部情报。
+显示<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>？<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的位置代表搜索使用的情报为
+当前设备本地保存的旧情报，并非最新。
+登录后手动打开该位置一次即可取得最新情报。"
 12245,""
 12246,"有效技能"
 12247,"未保存"
@@ -12252,7 +12227,7 @@ Immerse Gamepack尚未安装。
 12388,"<Value>IntegerParameter(1)</Value>胜"
 12389,"显示"
 12390,"不显示"
-12391,"各种设定"
+12391,"显示设置"
 12392,"戻る"
 12393,"鳴き有効"
 12394,"鳴き無効"
@@ -12277,7 +12252,7 @@ Immerse Gamepack尚未安装。
 12413,"八段"
 12414,"九段"
 12415,"十段"
-12416,"多玛方城战设置"
+12416,"多玛方城战显示设置"
 12417,"方城牌的种类"
 12418,"多玛式方城牌"
 12419,"●002 クガネ式麻雀牌"
@@ -13557,7 +13532,7 @@ Immerse Gamepack尚未安装。
 13668,"因时间经过，加算的再出击时间延长到<Value>IntegerParameter(1)</Value>秒！"
 13669,"需要从正在举办段位赛的大区申请参加
 
-段位赛正在目前在其他大区举办，
+段位赛目前正在其他大区举办，
 无法从您当前所在的大区申请参加。
 请先通过“超域传送”功能移动到正在举办的大区。
 
@@ -13914,6 +13889,23 @@ Immerse Gamepack尚未安装。
 14011,"口型3"
 14012,"反复做动作：关闭
 保持待机，不反复做记录的动作。"
+14013,"缩放"
+14014,"旋转"
+14015,"色像差"
+14016,"竖屏预览"
+14017,"竖屏模式"
+14018,"特效设置"
+14019,"整体设置"
+14020,"操作设置"
+14021,"启动时注视镜头方向"
+14022,"移动镜头时启用操作修正"
+14023,"竖屏模式设置"
+14024,"屏幕旋转方向"
+14025,"向左转"
+14026,"向右转"
+14027,"滤镜强度"
+14028,"色像差是指光穿过镜片时由于光的颜色不同而产生的偏差。
+开启后画面边缘的红、绿、蓝色会出现偏移，形成令人印象深刻的构图。"
 14050,"贴纸模式"
 14051,"图标"
 14052,"文字"
@@ -14557,13 +14549,13 @@ Immerse Gamepack尚未安装。
 14832,"（屏蔽名单玩家的发言）"
 14833,"加入到屏蔽名单"
 14834,"从屏蔽名单中移除"
-14835,"将“<Highlight>StringParameter(1)</Highlight>”加入到屏蔽名单。今后将为您屏蔽该角色与该账号下所有角色的发言。
+14835,"将“<Highlight>StringParameter(1)</Highlight>”加入到屏蔽名单。今后将为您屏蔽该角色的发言。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>·屏蔽名单只会保存在本地。
 ·若想进一步屏蔽对方发言以外的内容，可考虑将其加入黑名单。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 14836,"确定要将“<Highlight>StringParameter(1)</Highlight>”移出屏蔽名单吗？"
 14837,"屏蔽名单"
 14838,""
-14839,"将角色加入到屏蔽名单，为您屏蔽该角色与该账号下所有角色的发言。"
+14839,"将角色加入到屏蔽名单，为您屏蔽该角色的发言。"
 14840,"将角色加入到黑名单，为您屏蔽该角色与该账号下所有角色的发言。
 并且，您也不会在画面中看到他们的身影。"
 14851,"随身见闻录"
@@ -15238,11 +15230,11 @@ Immerse Gamepack尚未安装。
 15477,"打开设置"
 15488,"热键栏继承设置"
 15489,""
-15490,"切换到了<Sheet(ClassJob,IntegerParameter(1),0)/>特职，可以将<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),28)/>,0)/>的热键栏/十字热键栏设置直接继承过来。"
+15490,"切换到了<Sheet(ClassJob,IntegerParameter(1),0)/>特职，可以将<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),29)/>,0)/>的热键栏/十字热键栏设置直接继承过来。"
 15491,"继承"
 15492,"不继承"
-15493,"由于<Sheet(ClassJob,IntegerParameter(1),0)/>依旧要使用<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),28)/>,0)/>的技能，
-继承热键栏设置可以维持<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),28)/>,0)/>的键位继续游玩。
+15493,"由于<Sheet(ClassJob,IntegerParameter(1),0)/>依旧要使用<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),29)/>,0)/>的技能，
+继承热键栏设置可以维持<Sheet(ClassJob,<Sheet(ClassJob,IntegerParameter(1),29)/>,0)/>的键位继续游玩。
 如果是刚开始使用<Sheet(ClassJob,IntegerParameter(1),0)/>，推荐选择继承热键栏。
 
 ■关于保留
@@ -15382,6 +15374,11 @@ Immerse Gamepack尚未安装。
 15586,"制定工房生产计划时通过哪个界面选择产品"
 15587,"制定工房生产计划界面"
 15588,"海岛产品需求调查界面"
+15589,"延长探索日数到最大"
+15590,"不变更探索目的地，只将探索日数延长到最大。
+需要在没有尚未领取的开拓素材时才能使用。"
+15591,"确定要支付<Value>IntegerParameter(1)</Value>枚谢尔达莱青船币，
+将探索日数延长到最大吗？"
 15600,"筛选"
 15601,""
 15602,"条件"
@@ -15578,6 +15575,7 @@ Immerse Gamepack尚未安装。
 15910,"莫古莫古指南书"
 15911,"重要物品"
 15912,"举办中"
+15913,"参加水晶冲突的练习赛并留下成绩"
 15914,"可获得奖励"
 15915,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>即将逾期<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 15916,"<If(GreaterThan(IntegerParameter(3),0))><Sheet(InstanceContent,IntegerParameter(5),3)/><Else/>？？？？</If>
@@ -15628,7 +15626,7 @@ Immerse Gamepack尚未安装。
 15953,"<If(GreaterThan(IntegerParameter(1),0))>假面狂欢<Else/>？？？？</If>"
 15954,"<If(GreaterThan(IntegerParameter(1),0))>假面狂欢<Else/>？？？？</If>
 <Value>IntegerParameter(7)</Value>级"
-15955,"突破<Highlight>StringParameter(1)</Highlight>的<If(Equal(IntegerParameter(2),0))>地下<Value>IntegerParameter(3)</Value>层<Else/><Value>IntegerParameter(3)</Value>层</If>。<Sheet(Addon,15957,0,IntegerParameter(4),IntegerParameter(3))/>"
+15955,"突破<Highlight>StringParameter(1)</Highlight>的<Switch(IntegerParameter(2))><Case(1)>地下<Value>IntegerParameter(3)</Value>层</Case><Case(2)><Value>IntegerParameter(3)</Value>层</Case><Case(3)>第<Value>IntegerParameter(3)</Value>朝圣路</Case></Switch>。<Sheet(Addon,15957,0,IntegerParameter(4),IntegerParameter(3))/>"
 15956,"※31层开始无法以随机组队进入。"
 15957,"<If(Equal(IntegerParameter(1),2))><If(GreaterThan(IntegerParameter(2),30))>
 <Sheet(Addon,15956,0,IntegerParameter(1))/><Else/></If><Else/></If>"
@@ -15642,6 +15640,8 @@ Immerse Gamepack尚未安装。
 15965,"完成任务“<Sheet(Quest,IntegerParameter(1),0)/>”解锁的支线任务后开放。"
 15966,"完成任意<Value>IntegerParameter(8)</Value>次友好部族日常任务。"
 15967,"完成任意<Value>IntegerParameter(8)</Value>次老主顾交易。"
+15968,"收集<Value>IntegerParameter(8)</Value>个天书奇谈的印花。"
+15969,"参加<Value>IntegerParameter(8)</Value>次陆行鸟竞赛。"
 15970,"染色1"
 15971,"染色2"
 15972,"重试前一个颜色<If(GreaterThan(IntegerParameter(1),0))>
@@ -15701,6 +15701,12 @@ Immerse Gamepack尚未安装。
 在接下来的回合只能以观战模式参加。
 通过观战模式掌握胜利的诀窍吧！"
 16027,"上次使用地点：<If(GreaterThan(IntegerParameter(1),0))><Highlight>StringParameter(2)</Highlight><Else/>无</If>"
+16030,"设计搭配"
+16031,"通常装备"
+16032,"能确认对方设计搭配用装备的信息。"
+16033,"能确认对方通常装备的信息。"
+16034,""
+16035,"确认设计搭配"
 16040,"试穿同风格的其他颜色款"
 16041,"试穿其他颜色"
 16042,""
@@ -15961,6 +15967,8 @@ WQHD描画
 16234,"无"
 16235,"列表是空的。"
 16236,"公寓与个人房间无法使用搬迁与内部改建功能。"
+16237,"添加到收藏夹（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
+16238,"从收藏夹中删除（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
 16280,"打开闹钟详细设置"
 16281,"铃声设置"
 16282,"闹铃"
@@ -16137,6 +16145,14 @@ WQHD描画
 16466,"从原始服务器所在的大区申请参加"
 16467,""
 16481,"当前职业无法挑战此训练"
+16482,"咏唱"
+16551,"绿色魔法球"
+16552,"红色魔法球"
+16553,"蓝色魔法球"
+16554,"黄色魔法球"
+16555,"魔球盘"
+16556,""
+16557,"<Sheet(ContentRoulette,IntegerParameter(1),0)/>"
 16580,"<Sheet(MKDSupportJob,IntegerParameter(1),0)/>"
 16581,""
 16582,"<Sheet(MKDSupportJob,IntegerParameter(1),0)/>"
@@ -16147,6 +16163,12 @@ WQHD描画
 16588,"知见"
 16589,"辅助经验"
 16590,"关闭"
+16591,"现在使用可成为优先传送对象。"
+16592,"<If(GreaterThan(IntegerParameter(1),99))>使用99个可成为抽选传送对象。<Else/>使用<Value>IntegerParameter(1)</Value>个以上可成为优先传送对象。</If>"
+16593,"当前的使用数无法成为抽选传送对象。"
+16594,"您当前为抽选传送对象。"
+16595,"您当前为优先传送对象。"
+16596,"<If(GreaterThan(IntegerParameter(1),IntegerParameter(2)))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><Value>IntegerParameter(1)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><Value>IntegerParameter(1)</Value></If>/<Value>IntegerParameter(2)</Value>"
 16597,"十二城邦银币"
 16598,"十二城邦金币"
 16599,"魔纹启动凭证：力之塔"
@@ -16164,15 +16186,12 @@ WQHD描画
 16611,"按辅助职业排序"
 16612,"--"
 16613,"/"
-16614,"クリティカルエンカウント
-『<Highlight>StringParameter(1)</Highlight>』
-が発生しました！ あなたはこの発生に貢献したため、直接突入が可能です。今すぐ移動しますか？
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※一度突入すると、デジョン以外での退出はできません。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-16615,"はい"
-16616,"いいえ"
-16617,"保留"
-16618,"サポート経験値"
-16619,"クリティカルエンカウント"
+16614,""
+16615,""
+16616,""
+16617,""
+16618,""
+16619,""
 16620,"知见等级同步"
 16621,"解除知见等级同步"
 16622,"紧急遭遇战即将爆发！
@@ -16182,6 +16201,9 @@ WQHD描画
 16625,"正在准备开始　剩余时间 <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
 16626,"战斗开始　剩余时间 <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue><If(LessThan(IntegerParameter(3),0))><Else/>
 进度 <Value>IntegerParameter(3)</Value>%</If>"
+16627,"优先传送人数"
+16628,"抽选传送人数/抽选名额"
+16629,"<If(GreaterThan(IntegerParameter(2),IntegerParameter(1)))>当前最少使用数<Else/>加入抽选使用数</If>"
 16630,"能获得的知见与辅助职业经验值数量仅在对应区域内可见"
 16631,"<Sheet(Status,IntegerParameter(2),0)/> <Value>IntegerParameter(1)</Value>级"
 16632,"知见等级"
@@ -16210,6 +16232,7 @@ WQHD描画
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>魔纹启动凭证：力之塔使用后，如果魔纹启动失败或未被选为传送对象，凭证将会返还。不过，如果被选为传送对象却没在时间内进入魔纹，凭证将不予返还。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16653,"辅助技能"
 16654,"辅助特性"
+16655,"※数值一定间隔更新一次，并非一直为最新状态。"
 16656,"辅助技能设置"
 16657,"打开辅助职业与新月岛相关的解说"
 16658,"辅助职业列表"
@@ -16224,9 +16247,8 @@ WQHD描画
 16667,""
 16668,"新月岛调查笔记<Value>IntegerParameter(1)</Value>"
 16669,"记录了有关“<Sheet(MKDLore,IntegerParameter(1),5)/>”的情报！"
-16670,"请决定使用在传送魔纹上的<Sheet(Item,IntegerParameter(1),0)/>数量。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>如果使用的人数超过了能传送到力之塔的人数，
-则使用数量多的人会优先传送。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+16670,"请决定<If(GreaterThan(IntegerParameter(2),0))>追加<Else/>使用</If>在传送魔纹上的<Sheet(Item,IntegerParameter(1),0)/>数量。
+有24个人使用魔纹启动凭证即可激活传送魔纹进行传送，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最多能有48个人传送进力之塔，如果超过48人使用魔纹启动凭证，则使用数量多的人会优先传送。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16671,"自己使用的数量"
 16672,"当前使用的人数"
 16673,"使用"
@@ -16256,6 +16278,8 @@ WQHD描画
 16696,"确定要放弃修改吗？"
 16697,"<Sheet(ClassJob,IntegerParameter(1),0)/>"
 16698,"<Sheet(MKDSupportJob,IntegerParameter(1),0)/>"
+16699,"“两歧塔”是“蜃景幻界新月岛”的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最高难度大型任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+攻略该任务需要参加人员倾力合作，并充分发挥出各自辅助职业的能力。"
 16716,"贡献板"
 16717,""
 16718,"服务器名：<Highlight>StringParameter(1)</Highlight>"
@@ -16263,6 +16287,7 @@ WQHD描画
 16720,"下次更新日：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>"
 16721,"什么是贡献度"
 16722,"空。"
+16724,"机甲行动"
 16729,"<Highlight>StringParameter(1)</Highlight>为计划做出了巨大贡献，
 其精神高尚、技术精湛，特此表彰。
 "
@@ -16294,8 +16319,9 @@ WQHD描画
 16756,"B类任务解锁条件"
 16757,"A类任务解锁条件"
 16758,"<Value>IntegerParameter(1)</Value>级"
-16759,"可领取时间剩余
-<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>分<Else/></If><Value>IntegerParameter(2)</Value>秒"
+16759,"连续任务会在以下情况时不再显示，敬请注意。
+　·领取了其他任务
+　·放弃了当前任务"
 16760,"报酬"
 16761,"专用任务指令"
 16762,"概要"
@@ -16352,8 +16378,8 @@ WQHD描画
 16812,"宇宙制作笔记"
 16813,""
 16814,"宇宙研究
- 和月门基地的
- 研明威对话后开放。"
+ 和<Sheet(PlaceName,IntegerParameter(1),0)/>的
+ <Sheet(ENpcResident,IntegerParameter(2),0)/>对话后开放。"
 16815,"紧急情况"
 16816,"<Sheet(ClassJob,IntegerParameter(1),0)/><If(GreaterThan(IntegerParameter(2),0))> <Sheet(ClassJob,IntegerParameter(2),0)/><Else/></If><If(GreaterThan(IntegerParameter(3),0))> <Sheet(ClassJob,IntegerParameter(3),0)/><Else/></If>"
 16817,"剩余时间：<Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
@@ -16408,8 +16434,8 @@ WQHD描画
 16861,"双手叉腰"
 16862,"完成<Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(2)</Value>个<Highlight>StringParameter(1)</Highlight>"
 16863,"以金星成绩完成<Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(2)</Value>个<Highlight>StringParameter(1)</Highlight>"
-16864,"以金星成绩完成特定的<Highlight>StringParameter(1)</Highlight>"
-16865,"<Highlight>StringParameter(1)</Highlight>"
+16864,"出现连续任务"
+16865,"探索进度不足，任务无法触发。"
 16866,"需要收藏品<If(GreaterThan(IntegerParameter(1),0))>、需要精选<Else/></If>"
 16867,"<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊规则：等级调整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16868,"确定要开始此任务吗？"
@@ -16432,6 +16458,7 @@ WQHD描画
 16877,"探索轨迹"
 16878,""
 16879,"月面基地整备计划"
+16880,"法恩娜行星探索计划"
 16883,"作业进度：“<Highlight>StringParameter(1)</Highlight>”进行中，参加探索任务等内容作出贡献吧"
 16884,"作业进度：“联合工程”准备中，预计要招募人手帮忙"
 16885,"作业进度：“基地设施”施工中"
@@ -16449,11 +16476,13 @@ WQHD描画
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果工程正好在播放过场动画时发生进展，会使您错过观看最新的竣工状况。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16897,"确定"
 16898,"取消"
-16899,"当前评价：<Format(IntegerParameter(1),FF022C)/> / 银星条件：<Format(IntegerParameter(2),FF022C)/>"
-16900,"当前评价：<Format(IntegerParameter(1),FF022C)/> / 金星条件：<Format(IntegerParameter(2),FF022C)/>"
+16899,"当前评价：<Format(IntegerParameter(1),FF022C)/>
+银星条件：<Format(IntegerParameter(2),FF022C)/>
+金星条件：<Format(IntegerParameter(3),FF022C)/>"
 16901,"银星条件：剩余时间[<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>]"
 16902,"金星条件：剩余时间[<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>]"
 16903,"？？？？"
+16904,"法恩娜行星"
 16907,"平均品级不低于<Value>IntegerParameter(1)</Value>级"
 16908,"物资"
 16909,"收藏价值："
@@ -16487,7 +16516,6 @@ WQHD描画
 16935,"宇宙研究"
 16936,""
 16937,"论文提出状况"
-16938,"无"
 16939,"各职业到<Highlight>StringParameter(1)</Highlight>为止的数据分析效率＋<Value>IntegerParameter(2)</Value>％"
 16940,"特别转盘"
 16941,"职业"
@@ -16502,7 +16530,9 @@ WQHD描画
 16950,"上限值"
 16951,"憧憬湾"
 16952,"初级计划"
+16953,"中级计划"
 16956,"月面基地整备计划"
+16957,"法恩娜行星探索计划"
 16960,"什么是探索轨迹"
 16961,"打开技巧点说明"
 16962,"没有可以领取的任务。"
@@ -16522,6 +16552,7 @@ WQHD描画
 进度 <Value>IntegerParameter(3)</Value>%</If>"
 16976,"完成时间"
 16977," <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
+16978,"法恩娜行星"
 16981,"驾驶机甲时能获得的特别报酬"
 16982,"准备驾驶"
 16983,"机甲行动"
@@ -16556,7 +16587,7 @@ WQHD描画
 可能很难以高评价完成任务。
 
 若想获得高评价，
-可以找<Highlight>StringParameter(1)</Highlight>的<Highlight>StringParameter(2)</Highlight>购买装备，
+可以找<Sheet(PlaceName,IntegerParameter(1),0)/>的<Sheet(ENpcResident,IntegerParameter(2),0)/>购买装备，
 做好准备再挑战。"
 16999,"本次登录期间不再提示"
 17000,"所需交纳数量：<Value>IntegerParameter(1)</Value>"
@@ -16564,6 +16595,87 @@ WQHD描画
 17002,"D类任务"
 17003,"C类任务"
 17004,"B类任务"
+17005,"选择目的地"
+17006,""
+17007,"移动"
+17008,"移动到空闲副本区"
+17009,"移动到指定副本区"
+17010,"通知"
+17011,"评价："
+17012,"　<If(GreaterThan(IntegerParameter(2),0))>普通<Else/>优质</If> = <Value>IntegerParameter(1)</Value>点"
+17013,"　<If(GreaterThan(IntegerParameter(2),0))>一般尺寸<Else/>大尺寸</If> = <Value>IntegerParameter(1)</Value>点"
+17014,"可领取任务的剩余时间  <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>分<Else/></If><Value>IntegerParameter(2)</Value>秒"
+17015,"确定要移动到所选目的地吗？"
+17016,"确定要移动到系统自动分配的副本区吗？
+为了缓解服务器压力，
+所选目的地被分成了多个副本区。
+
+※所有副本区的内容没有任何区别。"
+17017,"无法显示详情，此为其他探索场景的任务。"
+17018,"打开设置"
+17019,"宇宙探索策划部通知"
+17020,"关闭"
+17021,"下一段位：<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value><Else/>--/--</If>"
+17022,"欧米茄"
+17023,"究极"
+17024,"下一段位还有："
+17025,"无法使用不死鸟之尾"
+17026,"当前"
+17027,"<Value>IntegerParameter(1)</Value>"
+17028,"<Value>IntegerParameter(1)</Value>"
+17029,"<Value>IntegerParameter(1)</Value>"
+17030,"打开库洛的奇谈书"
+17031,"<If(GreaterThan(IntegerParameter(1),0))>陆行鸟竞赛<Else/>？？？？</If>"
+17032,"<If(GreaterThan(IntegerParameter(1),0))>陆行鸟竞赛<Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级"
+17033,"<If(GreaterThan(IntegerParameter(1),0))>水晶冲突<Else/>？？？？</If>"
+17034,"<If(GreaterThan(IntegerParameter(1),0))>水晶冲突<Else/>？？？？</If>
+<Value>IntegerParameter(7)</Value>级"
+17050,"日常任务受理限额"
+17051,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+17052,"友好部族（<Sheet(BeastTribe,IntegerParameter(1),11)/>）"
+17053,"头部装备的详细设置"
+17054,"显示头部装备时不隐藏耳朵（仅限部分装备）"
+17110,"聊天气泡设置"
+17111,""
+17112,"频道单独设置"
+17113,"整体设置"
+17114,"启用聊天气泡"
+17115,"启用后，部分聊天发言会同时在
+玩家头上以气泡形式显示。"
+17116,"应用"
+17117,"关闭"
+17118,"恢复初期设置"
+17119,"基础设置"
+17120,"最大显示数"
+17121,"显示自己的发言"
+17122,"战斗中也会显示"
+17123,"聊天气泡的尺寸"
+17124,"标准"
+17125,"较大"
+17126,"最大"
+17127,"任务单独显示设置"
+17128,"大规模玩家对战（纷争前线、烈羽争锋）"
+17129,"水晶冲突：快捷发言"
+17130,"将聊天气泡恢复初期设置。
+请选择想要恢复的项目。"
+17131,"确定要放弃修改直接关闭吗？"
+17132,"频道单独显示设置"
+17133,"频道单独文字、背景颜色设置"
+17134,"整体设置"
+17135,"聊天气泡最大显示行数"
+17136,"1行"
+17137,"2行"
+17150,"宇宙探索设置"
+17151,""
+17152,"界面上的宇宙探索情报显示设置"
+17153,"计划进行中显示探索进度"
+17154,"探索轨迹显示设置"
+17155,"联合工程竣工时自动打开探索轨迹"
+17156,"确定要放弃修改吗？"
+17157,"应用"
+17158,"关闭"
+17200,"职业不可重复"
 101000,"<CommandIcon(10)/>次级指令"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/> 选择"
@@ -17060,7 +17172,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102514,"<Value>IntegerParameter(1)</Value>"
 102515,"部族友好度"
 102516,"<Highlight>StringParameter(1)</Highlight>"
-102517,"<Sheet(BeastTribe,IntegerParameter(1),10)/>"
+102517,"<Sheet(BeastTribe,IntegerParameter(1),11)/>"
 102518,"<UIForeground>E803</UIForeground><Value>IntegerParameter(1)</Value>.<If(Equal(IntegerParameter(3),0))><Sheet(BeastReputationRank,IntegerParameter(1),1)/><Else/><Sheet(BeastReputationRank,IntegerParameter(1),2)/></If><UIForeground>01</UIForeground>"
 102519,"<Format(IntegerParameter(1),FF022C)/>/<Format(IntegerParameter(2),FF022C)/>"
 102520,"获得最优队员推荐次数"

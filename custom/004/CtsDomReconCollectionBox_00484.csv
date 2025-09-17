@@ -106,7 +106,7 @@ int32,str,str
 请允许我替同胞们向你表示感谢。"
 49,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_111","匠人街的发展很顺利，
 而且为从艾欧泽亚归来的同胞们准备的房屋也在逐步建设中！"
-50,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_112","虽然这里还谈不上是一个完美的城市，
+50,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_112","虽然这里还谈不上是一座完美的城镇，
 但是看着归来的人们感慨地欣赏着的样子，
 我感到……心里感到很温暖。"
 51,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_113","来吧，你也来看看发展后的样子吧！
@@ -144,7 +144,7 @@ int32,str,str
 67,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_152","这样一来车前会设计的匠人街发展计划就全部达成了！"
 68,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_153","我虽然现在想向你重新表达感谢，
 但还是先去找兰师傅吧！
-咱们边欣赏建设完成后城市风景边聊。"
+咱们边欣赏建设完成后的城市风景边聊。"
 69,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_154","难道你不想看看完成后的匠人街吗？
 请你去拜访兰师傅吧！"
 70,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_160","这、这、这是……"
@@ -187,7 +187,7 @@ int32,str,str
 请你为多玛飞地做出贡献吧！"
 87,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_SYSTEM_000_177","多玛飞地的重建工作暂时告一段落！
 玩家可以继续出让道具，
-但是在下一阶段的重建计划发表之前，城市不会有进一步的发展。"
+但是在下一阶段的重建计划发表之前，城镇不会有进一步的发展。"
 88,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_178","我们正在制定下一期重建计划。
 到时候依旧要麻烦你了。"
 89,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_180","<Highlight>ObjectParameter(1)</Highlight>……
@@ -351,7 +351,7 @@ int32,str,str
 167,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_325","多、多么气派的会所啊！
 之前说过的还有要建设的设施，
 原来指的是车前会所啊！"
-168,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_326","这里……也算得上是……城市的门面……
+168,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_ISHIBUSHI_000_326","这里……也算得上是……城镇的门面……
 所以……得保持美观……才行……"
 169,"TEXT_CTSDOMRECONCOLLECTIONBOX_00484_KOZAKURA_000_327","你说的话真是让我受宠若惊！
 而且两次都为我们进行了改装……

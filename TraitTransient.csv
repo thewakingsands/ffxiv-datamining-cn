@@ -1275,18 +1275,18 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>英勇之剑的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
 651,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉持续伤害的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>85
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>天辉持续伤害的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>85
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>苦难之心的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪灼的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 652,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔回刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔回刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤火炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤飞石的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔交击斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔交击斩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔连攻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔连攻的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>六分反击的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤核爆的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>赤神圣的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
@@ -1330,7 +1330,7 @@ int32,str
 656,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蛊毒法持续伤害的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>80
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>极炎法的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>310"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>极炎法的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>320"
 657,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>切割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
@@ -1347,7 +1347,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>夜游魂切割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280"
 658,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>自动弩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>自动弩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热分裂弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热独头弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>热狙击弹的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
@@ -1396,17 +1396,17 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>寂灭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
 664,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毁荡的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毁荡的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星极脉冲的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毁绝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>红宝石之仪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毁绝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>红宝石之仪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>黄宝石之仪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绿宝石之仪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绿宝石之仪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>灵泉之炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>深红强袭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>深红旋风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>深红强袭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>深红旋风的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>山崩的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>螺旋气流的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>螺旋气流的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>地狱之火炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>大地之怒的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>大气爆发的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800"
@@ -1439,20 +1439,20 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绝峰箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120～600"
 669,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>注药III的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>箭毒II的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魂灵风息的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>注药III的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>箭毒II的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魂灵风息的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380"
 670,"除自动攻击外的技能造成的伤害提高至基本值的1.1倍，恢复技能的恢复量也提高至基本值的1.1倍"
 671,"除自动攻击外的技能造成的伤害提高至基本值的1.3倍，恢复技能的恢复量也提高至基本值的1.3倍"
 672,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>410
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>310
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>390
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绒球构想的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>翅膀构想的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>700
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>莫古力激流的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
 673,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>焚灼持续伤害的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70
@@ -1473,51 +1473,51 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>背裂獠齿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 676,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>激水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>190
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>710
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>680
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>720
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>760
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰冻之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>330
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坚石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>震雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>370"
 677,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>450
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绒球构想的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>翅膀构想的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>莫古力激流的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>460
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>830
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>870
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>神圣之白的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>750
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>790
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>830
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>神圣之白的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500"
 678,"部分技能的威力提高
 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>490
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>530
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>流水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>570
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈炎之红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈风之绿的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>激水之蓝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>480
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>980
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤敲章的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰结之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>860
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>飞石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>900
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>闪雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>冰冻之蓝青的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>坚石之纯黄的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>380
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>震雷之品红的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>神圣之白的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤掠刷的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤抛光的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>彗星之黑的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>980"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>神圣之白的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>570
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤掠刷的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重锤抛光的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>彗星之黑的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>940"
 679,""
 680,""
 681,""

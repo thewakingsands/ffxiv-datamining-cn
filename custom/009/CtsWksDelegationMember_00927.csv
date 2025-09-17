@@ -41,10 +41,22 @@ int32,str,str
 希望你今后能继续以自己的节奏大放异彩！"
 20,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_080","这边好像没有查询到你本周期的数据，
 请继续积极协助我们的探索计划吧！"
-21,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000","我的任务是记录各位协助者的工作成果。
+21,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_090","哇！这不是我们超凡脱俗的贡献之星——<Highlight>ObjectParameter(1)</Highlight>吗！
+请继续积极协助我们的探索计划吧！"
+22,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_100","哇！这不是我们超凡脱俗的贡献之星——<Highlight>ObjectParameter(1)</Highlight>吗！"
+23,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_110","在这次的数据统计期内，
+你又可以与他人角逐贡献之星啦！
+请继续积极协助我们的探索计划吧！"
+24,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_120","哎呀，忘了正事了！
+我这就帮你查看本周期统计的贡献度。
+让我看看……"
+25,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_010","在贡献之星的表彰期间，无法再次成为贡献之星。"
+26,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_020","在（地球时间）<Time(IntegerParameter(1))/><Value>TopLevelParameter(221)</Value>月<Value>TopLevelParameter(219)</Value>日 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>下午<Else/>上午</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>点的数据统计期开始后，
+您将可以被再次表彰为贡献之星。"
+27,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000","我的任务是记录各位协助者的工作成果。
 这些数据除了用于提高探索计划的推进效率，
 还会用来评估你的贡献，并按照贡献程度发放奖励。"
-22,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010","比如一个周期内贡献度最高的参与者会被表彰为贡献之星！
+28,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010","比如一个周期内贡献度最高的参与者会被表彰为贡献之星！
 这个人说不定哪一天就是你！"
-23,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020","要是还有什么不明白的地方，
+29,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020","要是还有什么不明白的地方，
 可以在探索触控板中详细了解！"
