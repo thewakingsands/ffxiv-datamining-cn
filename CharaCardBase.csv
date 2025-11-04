@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Image,FontColor,,,,UnlockCondition,,,,SortKey,Name,
+#,Image,FontColor,,,,UnlockCondition,,,,,SortKey,Name
 int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
 0,0,0,True,True,0,0,0,0,0,0,0,"无"
 1,0,0,False,False,0,0,0,0,0,0,0,""
@@ -139,11 +139,11 @@ int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16
 135,193709,1,True,True,0,877,0,0,0,4,2357,"深层迷宫：天之御柱2"
 136,193740,1,True,True,0,879,0,0,0,4,2403,"蜃景幻界新月岛"
 137,193741,1,True,True,0,878,0,0,0,8,2343,"宇宙探索1"
-138,0,0,False,False,0,0,0,0,0,0,0,""
-139,0,0,False,False,0,0,0,0,0,0,0,""
-140,0,0,False,False,0,0,0,0,0,0,0,""
-141,0,0,False,False,0,0,0,0,0,0,0,""
-142,0,0,False,False,0,0,0,0,0,0,0,""
+138,193742,1,True,True,0,943,0,0,0,7,3955,"怪物猎人：荒野1"
+139,193743,2,True,True,0,944,0,0,0,7,3956,"怪物猎人：荒野2"
+140,193970,1,True,True,0,938,0,0,0,3,2319,"友好部族任务：尤卡巨人族"
+141,193744,1,True,True,0,941,0,0,0,4,2401,"深层迷宫：朝圣交错路1"
+142,193745,1,True,True,0,942,0,0,0,4,2402,"深层迷宫：朝圣交错路2"
 143,193746,1,True,True,0,940,0,0,0,8,2344,"宇宙探索2"
 144,193747,2,True,True,0,939,0,0,0,8,2342,"开拓无人岛3"
 145,0,0,False,False,0,0,0,0,0,0,0,""

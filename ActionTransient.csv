@@ -17323,9 +17323,9 @@ int32,str
 切换任务指令时消失
 再次发动时则取消该状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久"
 14481,"复活目标并恢复其全部体力
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自己附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“献祭”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒 
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>献祭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>献祭效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续时间结束后自身将陷入无法战斗的状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>非<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“献祭”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>非<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>献祭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 14482,""
 14483,""
 14484,""
@@ -27186,9 +27186,9 @@ int32,str
 若周围15米内没有陷阱，则可以获知周围36米内是否存在陷阱
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※仅可在女王古殿内使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 22345,"复活目标并恢复其全部体力
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自己附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“献祭”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒 
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>献祭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>献祭效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持续时间结束后自身将陷入无法战斗的状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>非<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“献祭”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>非<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>献祭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
 22346,"继承英雄的记忆，令自身回避率提高11%、暴击发动率提高77%、直击发动率提高77%
 无法与其他<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>秘药<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵药<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>仙药<UIGlow>01</UIGlow><UIForeground>01</UIForeground>系药品同时使用
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
@@ -35311,7 +35311,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 29081,"将目标吸引到自己身边
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令目标陷入75%加重状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>狂魂预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 该技能发动后变为狂魂"
@@ -35398,7 +35398,7 @@ int32,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29096,""
 29097,"向自身前后方向发出直线范围魔法攻击
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12000～24000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000～24000
 自身剩余体力越多威力越大
 发动时自身体力变为1
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>不死救赎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
@@ -35583,7 +35583,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>无情<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>7秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>无情效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身攻击造成的伤害与治疗效果提高10%，同时移动速度提高25%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>积蓄次数：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3
 止步状态下无法发动"
 29124,"以自身或一名队员，又或一名敌人为目标
 对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·防护<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·进攻<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>抽取融合·治疗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中的一种
@@ -35751,7 +35751,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 持续时间内救疗变为愈疗
 止步状态下无法发动"
-29230,"向目标所在方向发出直线范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>16000
+29230,"向目标所在方向发出直线范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>18000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩晕　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>节制<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
@@ -35915,7 +35915,7 @@ int32,str
 该魔法有单独计算的复唱时间"
 29259,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>止步
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>将目标周围的敌人吸引到目标身边
 该魔法有单独计算的复唱时间"
 29260,"向目标所在方向发出直线范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12000
@@ -37136,9 +37136,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>深红强袭预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※该技能无法设置到热键栏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-29669,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8000
+29669,"对目标及其周围的敌人发动范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>9000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>对敌人的追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标造成持续伤害
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4500　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>对我方的追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身及攻击范围内的队员移动速度提高25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 该魔法有单独计算的复唱时间"
@@ -42725,7 +42725,7 @@ int32,str
 34644,"对目标及其周围敌人发动范围物理攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>连尾锐尾状态中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>170
 攻击复数敌人时，对目标之外的敌人威力降低60%
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>乱尾锐尾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乱尾锐尾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>飞蛇之尾<UIGlow>01</UIGlow><UIForeground>01</UIForeground>命中时
 
@@ -48245,7 +48245,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 持续时间内，齿牙体势连击变为祖灵之牙一式，血宴灵蛇变为祖灵大蛇牙
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毒烈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毒烈效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身对目标造成的伤害提高25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令目标陷入75%加重状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
@@ -54024,7 +54024,7 @@ int32,str
 44244,""
 44245,""
 44246,""
-44247,""
+44247,"大幅度恢复体力"
 44248,""
 44249,""
 44250,""
@@ -54269,7 +54269,7 @@ int32,str
 44489,""
 44490,""
 44491,""
-44492,""
+44492,"解除变身状态"
 44493,""
 44494,""
 44495,""
@@ -54293,11 +54293,10 @@ int32,str
 44513,""
 44514,""
 44515,""
-44516,""
-44517,"变出糖果的幻影
+44516,"创造雪花
 演出技能，没有任何实际效果"
-44518,"变出南瓜的幻影
-演出技能，没有任何实际效果"
+44517,"变出糖果的幻影"
+44518,"变出南瓜的幻影"
 44519,"变出糖果的幻影
 演出技能，没有任何实际效果"
 44520,"变出南瓜的幻影
@@ -54409,8 +54408,8 @@ int32,str
 44625,""
 44626,""
 44627,""
-44628,""
-44629,""
+44628,"迅速移动到自身前方25米处，同时对沿途目标造成伤害"
+44629,"对自身周围的敌人造成伤害"
 44630,""
 44631,""
 44632,""

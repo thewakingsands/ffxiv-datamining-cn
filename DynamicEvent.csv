@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,EventType,EnemyType,,,LGBEventObject,LGBMapRange,Quest,,SingleBattle,Announce,Name,Description,,,,,,
-int32,DynamicEventType,DynamicEventEnemyType,byte,byte,bit&01,uint32,Quest,uint32,DynamicEventSingleBattle,LogMessage,uint32,str,str,int16,int16,int16,uint32,uint32
+#,EventType,EnemyType,,,,LGBEventObject,LGBMapRange,Quest,,SingleBattle,Announce,Name,Description,,,,,
+int32,DynamicEventType,DynamicEventEnemyType,byte,byte,bit&01,uint32,uint32,Quest,byte,DynamicEventSingleBattle,LogMessage,str,str,int16,int16,int16,uint32,uint32
 0,0,0,0,0,True,0,0,0,0,0,0,"","",0,0,0,0,0
 1,1,4,48,20,True,8373717,8511877,69477,0,0,0,"腐烂蔬菜——皮里福尔","魔兽大队的百夫长克拉莉西扔掉了快要腐烂的草木纲魔物，打倒腐烂蔬菜——皮里福尔！",0,0,0,0,0
 2,1,2,48,20,True,8374110,8511881,69477,0,0,0,"战争妖犬——恐惧妖犬","术师大队为了搅乱战列，召唤了三个头的妖犬，打倒战争妖犬——恐惧妖犬！",0,0,0,0,0

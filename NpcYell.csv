@@ -2326,7 +2326,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 居然 从那里 发起炮击！",0
 2193,0,False,False,False,2,0,0,0,4,False,False,1,25,"世界还没有和平……",0
 2194,0,False,False,False,2,0,0,0,3,False,False,1,25,"绝对要守住原料的秘密……",0
-2195,0,False,False,False,2,0,0,0,3,False,False,1,25,"什么？那就是原料？",0
+2195,0,False,False,False,2,0,0,0,3,False,False,1,25,"什么？那就是原料哥布？",0
 2196,0,False,False,False,2,0,0,0,3,False,False,1,25,"让你见识见识！
 这就是龙血的力量！",0
 2197,0,False,False,False,2,0,0,0,3,False,False,1,25,"让你看看我真正的姿态！",0
@@ -4519,7 +4519,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 全力一击哥布！",0
 3923,0,False,False,False,2,0,0,0,3,True,False,1,25,"尝尝新型炸弹的威力哥布！",0
 3924,0,False,False,False,2,0,0,0,3,True,False,1,25,"尝尝正在申请专利的
-出血毒的厉害！",0
+出血毒的厉害哥布！",0
 3925,0,False,False,False,2,0,0,0,3,True,False,1,25,"把你揍飞哥布！",0
 3926,0,False,False,False,2,0,0,0,3,True,False,1,25,"青～蛙～大合唱～",0
 3927,0,False,False,False,2,0,0,0,3,True,False,1,25,"充能……
@@ -8196,9 +8196,9 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 6972,0,False,False,False,5,0,0,0,1,False,False,3,25,"下贱的蝼蚁们，服从于我……服从于我……",0
 6973,0,False,False,False,5,0,0,0,1,False,False,3,25,"我以深渊大公之名命令……黑暗啊，涌现吧！",0
 6974,0,False,False,False,5,0,0,0,1,False,False,3,25,"居然还不屈服，真是愚蠢……看我绞死你们……",0
-6975,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……这种 地方有 冒险者？！",0
-6976,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……真是 烦人的 家伙们！",0
-6977,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……这、这必须 叫来 援军！",0
+6975,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……这种 地方有 冒险者哥布？！",0
+6976,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……真是 烦人的 家伙们哥布！",0
+6977,0,False,False,False,5,0,0,0,1,False,False,3,25,"呼哧……呼哧……这 这必须 叫来 援军哥布！",0
 6978,0,False,False,False,5,0,0,0,1,False,False,3,25,"嘎——！！",0
 6979,0,False,False,False,5,0,0,0,1,False,False,3,25,"嗡嗡嗡嗡嗡嗡！",0
 6980,0,False,False,False,5,0,0,0,1,False,False,3,25,"噜噜噜噜噜……",0
@@ -22149,7 +22149,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 16983,0,False,False,False,5,11,0,0,1,False,False,5,25,"读取气象数据……
 愉快的天气预报时间！",0
 16984,0,False,False,False,5,11,0,0,1,False,False,4,25,"气象速报……灿烂暖洋洋，心中热腾腾……
-灼热波即将袭来！",0
+热浪即将袭来！",0
 16985,0,False,False,False,5,11,0,0,1,False,False,4,25,"气象速报……轰隆雷鸣，皮肤麻麻的……
 雷波即将袭来！",0
 16986,0,False,False,False,5,11,0,0,1,False,False,4,25,"气象速报……唰唰强风，窗户哗啦响……
@@ -22161,13 +22161,13 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 16989,0,False,False,False,5,11,0,0,1,False,False,5,25,"叮咚铛咚，叮咚咚！
 为您提供最新的天气预报！",0
 16990,0,False,False,False,5,11,0,0,1,False,False,6,25,"重新读取气象数据……
-灼热波过后会有雷波、暴雪！",0
+热浪过后会有雷波、暴雪！",0
 16991,0,False,False,False,5,11,0,0,1,False,False,6,25,"重新读取气象数据……
-雷波过后会有暴风、灼热波！",0
+雷波过后会有暴风、热浪！",0
 16992,0,False,False,False,5,11,0,0,1,False,False,6,25,"重新读取气象数据……
 暴雪过后会有雷波、暴风！",0
 16993,0,False,False,False,5,11,0,0,1,False,False,6,25,"重新读取气象数据……
-暴风过后会有灼热波、雷波！",0
+暴风过后会有热浪、雷波！",0
 16994,0,False,False,False,5,11,0,0,1,False,False,5,25,"叮咚咣当，嘭嘭！
 再现预报的气象！",0
 16995,0,False,False,False,5,11,0,0,1,False,False,5,25,"该区域的调查可顺利进行！
@@ -22232,11 +22232,11 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 17033,0,False,False,False,2,0,0,0,4,False,False,1,25,"我们也是为了活下去，
 可别怨我们！",0
 17034,0,False,False,False,5,11,0,0,1,False,False,6,25,"哔……错误……预报修正……
-即将袭来的不是暴雪，而是灼热波！",0
+即将袭来的不是暴雪，而是热浪！",0
 17035,0,False,False,False,5,11,0,0,1,False,False,6,25,"哔……错误……预报修正……
 即将袭来的不是暴风，而是暴雪！",0
 17036,0,False,False,False,5,11,0,0,1,False,False,6,25,"哔……错误……预报修正……
-即将袭来的不是灼热波，而是雷波！",0
+即将袭来的不是热浪，而是雷波！",0
 17037,0,False,False,False,5,11,0,0,1,False,False,6,25,"哔……错误……预报修正……
 即将袭来的不是雷波，而是暴风！",0
 17038,0,False,False,False,2,0,0,0,4,False,False,1,25,"失控机体的登录号
@@ -23431,7 +23431,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 17905,0,False,False,False,3,0,0,0,4,False,False,1,25,"还留有可以
 干涉环境的力量？！",0
 17906,0,False,False,False,3,0,0,0,4,False,False,1,25,"路还有很长，
-从这里开始才是真正的登山。",0
+从这里开始才是真正的登山！",0
 17907,0,False,False,False,3,0,0,0,4,False,False,1,25,"道路开始
 变得艰险了呢……",0
 17908,0,False,False,False,3,0,0,0,4,False,False,1,25,"爬了很长一段了……",0
@@ -24308,10 +24308,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 让其充满宇宙的壮阔气质吧！",0
 18566,13859,False,False,False,4,0,0,0,1,False,False,10,25,"把碍事的东西都清除掉，一边整地，
 一边努力完成施工作业吧！",0
-18567,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18568,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18569,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18570,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18567,0,False,False,False,2,0,0,0,10,False,False,1,1,"前进……",0
+18568,0,False,False,False,2,0,0,0,10,False,False,1,1,"前进……前进……！",0
+18569,14269,False,False,False,2,0,0,0,6,False,True,1,25,"走吧？我会为你带路的！",0
+18570,14269,False,False,False,2,0,0,0,6,False,True,1,25,"终于叫我了，真开心！",0
 18571,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18572,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18573,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -24664,10 +24664,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 我们接下来的目标是建设天文望远镜！",18844
 18844,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"望远镜建好后，我们就可以观测更遥远的星球！
 为了让它更好地发挥作用，也请各位多在基地支持建设！",0
-18845,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18846,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18845,0,False,False,False,2,0,0,0,3,False,False,1,25,"啾！！",0
+18846,0,False,False,False,2,0,0,0,3,False,False,1,25,"嗡嗡……",0
 18847,0,False,False,False,2,0,0,0,3,False,False,1,25,"强力！",0
-18848,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18848,0,False,False,False,2,0,0,0,3,False,False,1,25,"尤卡巨人！",0
 18849,0,False,False,False,2,0,0,0,3,False,False,1,25,"咕咕咕咕",0
 18850,0,False,False,False,2,0,0,0,3,False,False,1,25,"嘎嘎嘎嘎",0
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"该结束了……",0
@@ -24675,7 +24675,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18853,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"咔！",0
-18856,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"我会跟在你身边的，我的小树苗！",0
 18857,0,False,False,False,2,0,0,0,3,False,False,1,25,"耶！",0
 18858,0,False,False,False,2,0,0,0,3,False,False,1,25,"给我！",0
 18859,0,False,False,False,2,0,0,0,3,False,False,1,25,"归我了喵！",0
@@ -24924,7 +24924,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 能走到这一步都是多亏大家的支持，谢谢！",19040
 19040,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"做完手头工作的人可以好好休息了！
 敬请期待我们天文望远镜的表现吧！",0
-19041,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19041,0,False,False,False,2,0,0,0,3,False,False,1,25,"呜呜！嗷嗷！呜嗷嗷！",0
 19042,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19043,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"我相信以我们的本事，处理玻璃岩盘也不在话下！
 大家保持劲头继续推进工程！",0

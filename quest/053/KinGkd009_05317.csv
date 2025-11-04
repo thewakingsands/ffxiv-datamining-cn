@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_KINGKD009_05317_SEQ_21",""
 22,"TEXT_KINGKD009_05317_SEQ_22",""
 23,"TEXT_KINGKD009_05317_SEQ_23",""
-24,"TEXT_KINGKD009_05317_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>完成紧急遭遇战“挣脱封印的大妖异——回廊恶魔 ”<Else/>将<Sheet(Item,48008,0)/>交给档案</If>"
+24,"TEXT_KINGKD009_05317_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>完成紧急遭遇战“挣脱封印的大妖异——回廊恶魔”<Else/>将<Sheet(Item,48008,0)/>交给档案</If>"
 25,"TEXT_KINGKD009_05317_TODO_01",""
 26,"TEXT_KINGKD009_05317_TODO_02",""
 27,"TEXT_KINGKD009_05317_TODO_03",""

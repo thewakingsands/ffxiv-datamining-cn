@@ -8039,6 +8039,7 @@ A：Assist，协助他人打倒敌人的次数"
 8376,"宠物搜索"
 8377,"常用列表"
 8378,"坐骑搜索"
+8379,"获得素材"
 8380,"该任务内的装备以及强化道具一周只能获取一次。"
 8390,"跨服通讯贝2"
 8391,"跨服通讯贝3"
@@ -10221,7 +10222,7 @@ Immerse Gamepack尚未安装。
 10402,"装备"
 10403,"存档<Value>IntegerParameter(1)</Value>"
 10404,"从头开始"
-10405,"<If(GreaterThan(IntegerParameter(2),0))><Else/>地下</If><Value>IntegerParameter(1)</Value>层"
+10405,"<Switch(IntegerParameter(2))><Case(1)>地下<Value>IntegerParameter(1)</Value>层</Case><Case(2)><Value>IntegerParameter(1)</Value>层</Case><Case(3)>第<Value>IntegerParameter(1)</Value>朝圣路</Case></Switch>"
 10406,"<Sheet(ClassJob,IntegerParameter(1),0)/>
 <Highlight>StringParameter(2)</Highlight>"
 10407,"角色情报"
@@ -10235,13 +10236,13 @@ Immerse Gamepack尚未安装。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>随机组队不计算积分。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>推进到了挑战型任务层级的存档无法转换成随机组队的存档。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(IntegerParameter(1),0))><Else/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>推进到了挑战型任务阶段的存档无法转换成随机组队的存档。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※转换的存档将无法复原，请慎重进行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+</If><UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※转换的存档将无法复原，请慎重进行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10411,"同意上述内容并转换存档"
 10412,"通过重置攻略进度来删除正在进行攻略的存档，并从深层迷宫的初始地点开始挑战。
 
-删除存档后，已抵达的层数和角色等级都会被重置为初始状态，不过“<Highlight>StringParameter(1)</Highlight>”“<Highlight>StringParameter(2)</Highlight>”的强化值将会保留。
+删除存档后，已抵达的<Switch(IntegerParameter(3))><Case(1)>层数</Case><Case(2)>层数</Case><Case(3)>地点</Case></Switch>和角色等级都会被重置为初始状态，不过“<Highlight>StringParameter(1)</Highlight>”“<Highlight>StringParameter(2)</Highlight>”的强化值将会保留。
 
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※删除的存档将无法复原，请慎重进行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10413,"同意上述内容并删除存档"
@@ -10284,8 +10285,8 @@ Immerse Gamepack尚未安装。
 10449,"组队"
 10450,"---"
 10451,"团灭次数：<Value>IntegerParameter(1)</Value>"
-10452,"需要完成开启任务后才能进入更深层挑战。"
-10453,"需要团灭次数为0的存档才能进入更深层挑战。"
+10452,"需要完成开启任务后才能进入更<Switch(IntegerParameter(1))><Case(1)>深层</Case><Case(2)>高层</Case><Case(3)>深处</Case></Switch>挑战。"
+10453,"需要团灭次数为0的存档才能进入更<Switch(IntegerParameter(1))><Case(1)>深层</Case><Case(2)>高层</Case><Case(3)>深处</Case></Switch>挑战。"
 10454,"道具鉴定"
 10455,""
 10456,"确定要鉴定<Sheet(Item,IntegerParameter(1),0)/>吗？"
@@ -10299,19 +10300,23 @@ Immerse Gamepack尚未安装。
 10464,"请选择要重置的存档。"
 10465,"请选择要解散固定队伍的存档。"
 10466,"查看排名"
+10467,"到达地点"
+10468,"杜松香"
 10469,"<Sheet(ClassJob,IntegerParameter(1),0)/><If(GreaterThan(IntegerParameter(2),0))> / <Sheet(ClassJob,IntegerParameter(2),0)/><Else/></If>"
 10470,"没有埋藏的宝藏。"
 10471,"排名公布在官方网站！
 <Highlight>StringParameter(1)</Highlight>"
 10472,"<Highlight>StringParameter(1)</Highlight>"
+10473,"光耀烛台"
+10474,"下一区域"
 10475,"魔石"
-10476,"感知到这层存在着埋藏的宝藏。"
+10476,"感知到了埋藏的宝藏。"
 10477,"再生灯笼"
 10478,"传送灯笼"
 10479,"显示再生灯笼的启动情况。"
 10480,"显示传送灯笼的启动情况。"
 10481,"抵达层数"
-10482,"未从<If(Equal(IntegerParameter(1),0))>地下1层<Else/>1层</If>进入，不会获得单人挑战对应的成就。"
+10482,"未从<Switch(IntegerParameter(1))><Case(1)>地下1层</Case><Case(2)>1层</Case><Case(3)>第1朝圣路</Case></Switch>进入，不会获得单人挑战对应的成就。"
 10483,"确定要进入吗？
 此存档的团灭次数不为0，将无法进入深层挑战。"
 10484,"读取此存档进入。"
@@ -10322,6 +10327,11 @@ Immerse Gamepack尚未安装。
 10489,"亚灵复制体生成器"
 10490,"官网指南"
 10491,"查看深层迷宫解说"
+10492,"再生祭坛"
+10493,"传送装置"
+10494,"显示再生祭坛的启动情况。"
+10495,"显示传送装置的启动情况。"
+10496,"?"
 10500,"以剧情辅助器进入"
 10501,"以亲信战友进入"
 10507,"/"
@@ -10606,6 +10616,13 @@ Immerse Gamepack尚未安装。
 10832,"因对战任务正经历大幅度修改，
 此任务暂时关闭。
 随今后版本升级可能会重新开启。"
+10834,"供品"
+10835,"总数"
+10836,"报酬"
+10837,"<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><Value>IntegerParameter(1)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><Value>IntegerParameter(1)</Value></If>"
+10838,"挑战"
+10839,"返回"
+10840,"挑战“卓异的悲寂深想战”"
 10841,""
 10842,""
 10843,""
@@ -16636,6 +16653,7 @@ WQHD描画
 17052,"友好部族（<Sheet(BeastTribe,IntegerParameter(1),11)/>）"
 17053,"头部装备的详细设置"
 17054,"显示头部装备时不隐藏耳朵（仅限部分装备）"
+17100,"朝圣交错路"
 17110,"聊天气泡设置"
 17111,""
 17112,"频道单独设置"
