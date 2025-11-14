@@ -8,9 +8,9 @@ int32,str,str
 4,"TEXT_JOBBLM400_01075_SEQ_04","获得了<Sheet(EventItem,2000810,0)/>。在西萨纳兰的不语王像，将<Sheet(EventItem,2000810,0)/>铭刻于<Sheet(EObj,2002431,0)/>。"
 5,"TEXT_JOBBLM400_01075_SEQ_05","将<Sheet(EventItem,2000810,0)/>铭刻在了<Sheet(EObj,2002431,0)/>。在西萨纳兰的不语王像，和德佐尔·梅罗克谈谈。"
 6,"TEXT_JOBBLM400_01075_SEQ_06","和德佐尔·梅罗克进行了交谈。在西萨纳兰的不语王像，和第269团募缘修士鞑札谈谈。"
-7,"TEXT_JOBBLM400_01075_SEQ_07","和第269团募缘修士鞑札进行了交谈。在西萨纳兰的不语王像，调查<Sheet(EObj,2002432)/>，并讨伐出现的妖异，获取<Sheet(EventItem,2000811,0)/>。"
-8,"TEXT_JOBBLM400_01075_SEQ_08","获得了<Sheet(EventItem,2000811,0)/>。在西萨纳兰的不语王像，将<Sheet(EventItem,2000811,0)/>铭刻于<Sheet(EObj,2002432)/>。"
-9,"TEXT_JOBBLM400_01075_SEQ_09","将<Sheet(EventItem,2000811,0)/>铭刻在了<Sheet(EObj,2002432)/>。在西萨纳兰的不语王像，和第269团募缘修士鞑札谈谈。"
+7,"TEXT_JOBBLM400_01075_SEQ_07","和第269团募缘修士鞑札进行了交谈。在西萨纳兰的不语王像，调查<Sheet(EObj,2002432,0)/>，并讨伐出现的妖异，获取<Sheet(EventItem,2000811,0)/>。"
+8,"TEXT_JOBBLM400_01075_SEQ_08","获得了<Sheet(EventItem,2000811,0)/>。在西萨纳兰的不语王像，将<Sheet(EventItem,2000811,0)/>铭刻于<Sheet(EObj,2002432,0)/>。"
+9,"TEXT_JOBBLM400_01075_SEQ_09","将<Sheet(EventItem,2000811,0)/>铭刻在了<Sheet(EObj,2002432,0)/>。在西萨纳兰的不语王像，和第269团募缘修士鞑札谈谈。"
 10,"TEXT_JOBBLM400_01075_SEQ_10","和第269团募缘修士鞑札进行了交谈。在西萨纳兰的不语王像，和卡扎古·春谈谈。"
 11,"TEXT_JOBBLM400_01075_SEQ_11","和卡扎古·春进行了交谈。前往东萨纳兰的紫红瀑布，向卡扎古·春报告。"
 12,"TEXT_JOBBLM400_01075_SEQ_12","向卡扎古·春报告完毕。卡扎古·春看到冒险者的实力和决心后，决定实现一族相承的预言，并全力协助冒险者完成使命。
@@ -33,8 +33,8 @@ int32,str,str
 27,"TEXT_JOBBLM400_01075_TODO_03","将<Sheet(EventItem,2000810,0)/>铭刻于<Sheet(EObj,2002431,0)/>"
 28,"TEXT_JOBBLM400_01075_TODO_04","和德佐尔·梅罗克对话"
 29,"TEXT_JOBBLM400_01075_TODO_05","和第269团募缘修士鞑札对话"
-30,"TEXT_JOBBLM400_01075_TODO_06","调查<Sheet(EObj,2002432)/>并讨伐妖异 获取<Sheet(EventItem,2000811,0)/>"
-31,"TEXT_JOBBLM400_01075_TODO_07","将<Sheet(EventItem,2000811,0)/>铭刻于<Sheet(EObj,2002432)/>"
+30,"TEXT_JOBBLM400_01075_TODO_06","调查<Sheet(EObj,2002432,0)/>并讨伐妖异 获取<Sheet(EventItem,2000811,0)/>"
+31,"TEXT_JOBBLM400_01075_TODO_07","将<Sheet(EventItem,2000811,0)/>铭刻于<Sheet(EObj,2002432,0)/>"
 32,"TEXT_JOBBLM400_01075_TODO_08","和第269团募缘修士鞑札对话"
 33,"TEXT_JOBBLM400_01075_TODO_09","和卡扎古·春对话"
 34,"TEXT_JOBBLM400_01075_TODO_10","向紫红瀑布的卡扎古·春报告"
@@ -124,7 +124,7 @@ int32,str,str
 <Highlight>ObjectParameter(1)</Highlight>，你表现得很出色！
 接下来去找第269团募缘修士鞑札吧！"
 76,"TEXT_JOBBLM400_01075_DAZA_000_080","卡扎古·春 告诉 你了吧？
-已经 发现 <Sheet(EObj,2002432)/>了！
+已经 发现 <Sheet(EObj,2002432,0)/>了！
 快将其 关闭！"
 77,"TEXT_JOBBLM400_01075_DAZA_000_081","厉害厉害！ 不愧是 <Highlight>ObjectParameter(1)</Highlight>！
 和卡扎古·春 说得一样 有本事！

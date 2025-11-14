@@ -29,7 +29,7 @@ int32,str,str
 22,"TEXT_CLSWDK010_00539_SEQ_22",""
 23,"TEXT_CLSWDK010_00539_SEQ_23",""
 24,"TEXT_CLSWDK010_00539_TODO_00","和尼科利奥对话"
-25,"TEXT_CLSWDK010_00539_TODO_01","让贝亚坦查看<Sheet(ItemHQ,5376)/>"
+25,"TEXT_CLSWDK010_00539_TODO_01","让贝亚坦查看<Sheet(ItemHQ,5376,0)/>"
 26,"TEXT_CLSWDK010_00539_TODO_02","将镶嵌了<Sheet(Item,　5671,0)/>的<Sheet(ItemHQ,　1942,0)/>交给北部林区的盖伊尔哈德"
 27,"TEXT_CLSWDK010_00539_TODO_03","向刻木匠行会的贝亚坦报告"
 28,"TEXT_CLSWDK010_00539_TODO_04",""
@@ -69,9 +69,9 @@ int32,str,str
 只能靠他自己重新站起来。"
 55,"TEXT_CLSWDK010_00539_NICOLIAUX_000_011","不过，在这件事上我想你还是能帮师傅一把的。
 为了让师傅能稍微朝好处想想，
-你做一份很棒的<Sheet(ItemHQ,5376)/>交给他吧！"
+你做一份很棒的<Sheet(ItemHQ,5376,0)/>交给他吧！"
 56,"TEXT_CLSWDK010_00539_BEATINE_000_020","抱歉……让我一个人待着吧……"
-57,"TEXT_CLSWDK010_00539_BEATINE_000_021","这个是……<Sheet(ItemHQ,5376)/>？"
+57,"TEXT_CLSWDK010_00539_BEATINE_000_021","这个是……<Sheet(ItemHQ,5376,0)/>？"
 58,"TEXT_CLSWDK010_00539_BEATINE_000_022","嗯……做得真好……
 在我没注意到时，你又有所成长了……"
 59,"TEXT_CLSWDK010_00539_BEATINE_000_023","成长……"

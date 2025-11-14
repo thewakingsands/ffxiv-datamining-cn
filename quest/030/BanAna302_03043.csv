@@ -29,8 +29,8 @@ int32,str,str
 22,"TEXT_BANANA302_03043_SEQ_22",""
 23,"TEXT_BANANA302_03043_SEQ_23",""
 24,"TEXT_BANANA302_03043_TODO_00","从尖枪瀑布的<Sheet(EObj,2009318,0)/>
-回收<Sheet(EventItem,2002432)/>"
-25,"TEXT_BANANA302_03043_TODO_01","将<Sheet(EventItem,2002432)/>交给耶夏娜"
+回收<Sheet(EventItem,2002432,0)/>"
+25,"TEXT_BANANA302_03043_TODO_01","将<Sheet(EventItem,2002432,0)/>交给耶夏娜"
 26,"TEXT_BANANA302_03043_TODO_02",""
 27,"TEXT_BANANA302_03043_TODO_03",""
 28,"TEXT_BANANA302_03043_TODO_04",""
@@ -58,8 +58,8 @@ int32,str,str
 修缮并维持管理威罗迪纳大桥也是我们队的重要任务。"
 49,"TEXT_BANANA302_03043_ESHANA_000_001","我们想要修缮大桥，但是最重要的金属材料却不够。
 请前往尖枪瀑布，从<Sheet(EObj,2009318,0)/>
-回收3个<Sheet(EventItem,2002432)/>，拜托了。"
-50,"TEXT_BANANA302_03043_ESHANA_000_020","嘶——回收好<Sheet(EventItem,2002432)/>了吗？"
+回收3个<Sheet(EventItem,2002432,0)/>，拜托了。"
+50,"TEXT_BANANA302_03043_ESHANA_000_020","嘶——回收好<Sheet(EventItem,2002432,0)/>了吗？"
 51,"TEXT_BANANA302_03043_ESHANA_000_021","嘶——谢谢你，真是帮大忙了。
 有了这些就应该能够完成修缮了。"
 52,"TEXT_BANANA302_03043_ESHANA_000_022","帝国式的建筑物虽然外观毫无美感，但由于大量运用了金属材料，

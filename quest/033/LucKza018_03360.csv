@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_LUCKZA018_03360_SEQ_22",""
 23,"TEXT_LUCKZA018_03360_SEQ_23",""
 24,"TEXT_LUCKZA018_03360_TODO_00","和温蒙特造船厂的顽强的木工对话"
-25,"TEXT_LUCKZA018_03360_TODO_01","在<Sheet(EObj,2010260,0)/>使用<Sheet(EventItem,2002688)/>"
+25,"TEXT_LUCKZA018_03360_TODO_01","在<Sheet(EObj,2010260,0)/>使用<Sheet(EventItem,2002688,0)/>"
 26,"TEXT_LUCKZA018_03360_TODO_02","和顽强的木工对话"
 27,"TEXT_LUCKZA018_03360_TODO_03","和工匠村的赛诺伊斯对话"
 28,"TEXT_LUCKZA018_03360_TODO_04",""
@@ -68,10 +68,10 @@ int32,str,str
 但是船板又被紧紧固定着，
 太难弄下来了……"
 55,"TEXT_LUCKZA018_03360_CARPENTER03360_000_014","旅行者啊，不好意思你能帮我一下吗？
-把这个<Sheet(EventItem,2002688)/>涂到固定的船板上就行了。
+把这个<Sheet(EventItem,2002688,0)/>涂到固定的船板上就行了。
 我得在老婆大人发怒之前赶回去……拜托你了。"
 56,"TEXT_LUCKZA018_03360_CARPENTER03360_000_015","旅行者啊，不好意思你能帮我一下吗？
-把这个<Sheet(EventItem,2002688)/>涂到固定的船板上就行了。
+把这个<Sheet(EventItem,2002688,0)/>涂到固定的船板上就行了。
 我得在老婆大人发怒之前赶回去……拜托你了。"
 57,"TEXT_LUCKZA018_03360_CARPENTER03360_000_020","哎呀，真是帮大忙了！
 将火属性的水晶碾碎弄成粉涂上去，

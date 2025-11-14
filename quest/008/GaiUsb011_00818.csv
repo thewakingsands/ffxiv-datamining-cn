@@ -2,9 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB011_00818_SEQ_00","恬静路营地的园艺工弗洛朗好像掉了一些东西。"
-1,"TEXT_GAIUSB011_00818_SEQ_01","在恬静路营地南面的桥下收集<Sheet(EventItem,2000640)/>。"
-2,"TEXT_GAIUSB011_00818_SEQ_02","收集了所有的<Sheet(EventItem,2000640)/>。将其交给恬静路营地的弗洛朗。"
-3,"TEXT_GAIUSB011_00818_SEQ_03","<Sheet(EventItem,2000640)/>是准备用来做巴斯卡隆酒家的柴火的。弗洛朗说这些经过干燥后一样能用。"
+1,"TEXT_GAIUSB011_00818_SEQ_01","在恬静路营地南面的桥下收集<Sheet(EventItem,2000640,0)/>。"
+2,"TEXT_GAIUSB011_00818_SEQ_02","收集了所有的<Sheet(EventItem,2000640,0)/>。将其交给恬静路营地的弗洛朗。"
+3,"TEXT_GAIUSB011_00818_SEQ_03","<Sheet(EventItem,2000640,0)/>是准备用来做巴斯卡隆酒家的柴火的。弗洛朗说这些经过干燥后一样能用。"
 4,"TEXT_GAIUSB011_00818_SEQ_04",""
 5,"TEXT_GAIUSB011_00818_SEQ_05",""
 6,"TEXT_GAIUSB011_00818_SEQ_06",""
@@ -25,8 +25,8 @@ int32,str,str
 21,"TEXT_GAIUSB011_00818_SEQ_21",""
 22,"TEXT_GAIUSB011_00818_SEQ_22",""
 23,"TEXT_GAIUSB011_00818_SEQ_23",""
-24,"TEXT_GAIUSB011_00818_TODO_00","获取<Sheet(EventItem,2000640)/>"
-25,"TEXT_GAIUSB011_00818_TODO_01","将<Sheet(EventItem,2000640)/>交给恬静路营地的弗洛朗"
+24,"TEXT_GAIUSB011_00818_TODO_00","获取<Sheet(EventItem,2000640,0)/>"
+25,"TEXT_GAIUSB011_00818_TODO_01","将<Sheet(EventItem,2000640,0)/>交给恬静路营地的弗洛朗"
 26,"TEXT_GAIUSB011_00818_TODO_02",""
 27,"TEXT_GAIUSB011_00818_TODO_03",""
 28,"TEXT_GAIUSB011_00818_TODO_04",""
@@ -57,7 +57,7 @@ int32,str,str
 50,"TEXT_GAIUSB011_00818_FLORENT_000_002","桥下的蔓根沼里有很多魔物。
 我一个人是没法去的。
 能请您帮我把木柴捡回来吗？"
-51,"TEXT_GAIUSB011_00818_DUMMY_000_010","获取桥下的<Sheet(EventItem,2000640)/>"
+51,"TEXT_GAIUSB011_00818_DUMMY_000_010","获取桥下的<Sheet(EventItem,2000640,0)/>"
 52,"TEXT_GAIUSB011_00818_TODO_000_010","无"
 53,"TEXT_GAIUSB011_00818_FLORENT_000_020","啊，冒险者！
 您把东西捡回来了吗？"

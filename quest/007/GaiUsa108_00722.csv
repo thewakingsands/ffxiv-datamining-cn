@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA108_00722_SEQ_00","妖精暂留地的阿密希亚有事情想委托给冒险者。"
-1,"TEXT_GAIUSA108_00722_SEQ_01","阿密希亚好像在外面受到了魔物的袭击。调查<Sheet(EObj,2001920)/>，打倒随之出现的<Sheet(BNpcName,16,0)/>；再调查另一处<Sheet(EObj,2001921,0)/>，打倒随之出现的<Sheet(BNpcName,1975,0)/>。"
+1,"TEXT_GAIUSA108_00722_SEQ_01","阿密希亚好像在外面受到了魔物的袭击。调查<Sheet(EObj,2001920,0)/>，打倒随之出现的<Sheet(BNpcName,16,0)/>；再调查另一处<Sheet(EObj,2001921,0)/>，打倒随之出现的<Sheet(BNpcName,1975,0)/>。"
 2,"TEXT_GAIUSA108_00722_SEQ_02","打倒了全部的<Sheet(BNpcName,16,0)/>和<Sheet(BNpcName,1975,0)/>。向妖精暂留地的阿密希亚报告。"
 3,"TEXT_GAIUSA108_00722_SEQ_03","向阿密希亚报告完毕。他终于能安心地去晒太阳了。"
 4,"TEXT_GAIUSA108_00722_SEQ_04",""
@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_GAIUSA108_00722_SEQ_21",""
 22,"TEXT_GAIUSA108_00722_SEQ_22",""
 23,"TEXT_GAIUSA108_00722_SEQ_23",""
-24,"TEXT_GAIUSA108_00722_TODO_00","调查<Sheet(EObj,2001920)/> 讨伐<Sheet(BNpcName,16,0)/>"
+24,"TEXT_GAIUSA108_00722_TODO_00","调查<Sheet(EObj,2001920,0)/> 讨伐<Sheet(BNpcName,16,0)/>"
 25,"TEXT_GAIUSA108_00722_TODO_01","调查<Sheet(EObj,2001921,0)/> 讨伐<Sheet(BNpcName,1975,0)/>"
 26,"TEXT_GAIUSA108_00722_TODO_02","向妖精暂留地的阿密希亚报告"
 27,"TEXT_GAIUSA108_00722_TODO_03",""

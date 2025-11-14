@@ -7,9 +7,9 @@ int32,str,str
 　需要与接受任务时的职业相同才可继续进行任务。
 
 穆纳瓦努希望冒险者去帮助农人拉努瓦利。和西风岛的农人拉努瓦利谈谈。"
-2,"TEXT_BANVAN501_02193_SEQ_02","拉努瓦利委托冒险者去获取<Sheet(EventItem,2001920)/>。在危步台拔出4个<Sheet(EventItem,2001920)/>。"
-3,"TEXT_BANVAN501_02193_SEQ_03","获得了<Sheet(EventItem,2001920)/>。将<Sheet(EventItem,2001920)/>交给西风岛的农人拉努瓦利。"
-4,"TEXT_BANVAN501_02193_SEQ_04","将委托品交给了拉努瓦利。蜜渍<Sheet(EventItem,2001920)/>是衮杜族的一道美味的乡土料理。瓦努族十分害怕拔<Sheet(EventItem,2001920)/>时发出的声音，下次有机会再协助他们。"
+2,"TEXT_BANVAN501_02193_SEQ_02","拉努瓦利委托冒险者去获取<Sheet(EventItem,2001920,0)/>。在危步台拔出4个<Sheet(EventItem,2001920,0)/>。"
+3,"TEXT_BANVAN501_02193_SEQ_03","获得了<Sheet(EventItem,2001920,0)/>。将<Sheet(EventItem,2001920,0)/>交给西风岛的农人拉努瓦利。"
+4,"TEXT_BANVAN501_02193_SEQ_04","将委托品交给了拉努瓦利。蜜渍<Sheet(EventItem,2001920,0)/>是衮杜族的一道美味的乡土料理。瓦努族十分害怕拔<Sheet(EventItem,2001920,0)/>时发出的声音，下次有机会再协助他们。"
 5,"TEXT_BANVAN501_02193_SEQ_05",""
 6,"TEXT_BANVAN501_02193_SEQ_06",""
 7,"TEXT_BANVAN501_02193_SEQ_07",""
@@ -30,8 +30,8 @@ int32,str,str
 22,"TEXT_BANVAN501_02193_SEQ_22",""
 23,"TEXT_BANVAN501_02193_SEQ_23",""
 24,"TEXT_BANVAN501_02193_TODO_00","和农人拉努瓦利对话"
-25,"TEXT_BANVAN501_02193_TODO_01","获取<Sheet(EventItem,2001920)/>"
-26,"TEXT_BANVAN501_02193_TODO_02","将<Sheet(EventItem,2001920)/>交给农人拉努瓦利"
+25,"TEXT_BANVAN501_02193_TODO_01","获取<Sheet(EventItem,2001920,0)/>"
+26,"TEXT_BANVAN501_02193_TODO_02","将<Sheet(EventItem,2001920,0)/>交给农人拉努瓦利"
 27,"TEXT_BANVAN501_02193_TODO_03",""
 28,"TEXT_BANVAN501_02193_TODO_04",""
 29,"TEXT_BANVAN501_02193_TODO_05",""
@@ -62,16 +62,16 @@ int32,str,str
 51,"TEXT_BANVAN501_02193_02193_RANUVALI_000_021","其实也不是什么大事，就是去拔一下长在地里的柯瑞甘……
 虽说不需要什么力气，但拔的时候发出的声音我们实在是受不了。"
 52,"TEXT_BANVAN501_02193_02193_RANUVALI_000_022","请去人类称为危步台的地方，
-拔4个野生的<Sheet(EventItem,2001920)/>。
+拔4个野生的<Sheet(EventItem,2001920,0)/>。
 拜托你了。"
 53,"TEXT_BANVAN501_02193_02193_RANUVALI_000_030","请去人类称为危步台的地方，
-拔4个野生的<Sheet(EventItem,2001920)/>。
+拔4个野生的<Sheet(EventItem,2001920,0)/>。
 拜托你了。"
 54,"TEXT_BANVAN501_02193_02193_MANDRAGORA02193_000_040","◎×▼△×××……"
 55,"TEXT_BANVAN501_02193_02193_RANUVALI_000_050","你好、你好，
-你拔来<Sheet(EventItem,2001920)/>了吗？"
+你拔来<Sheet(EventItem,2001920,0)/>了吗？"
 56,"TEXT_BANVAN501_02193_02193_RANUVALI_000_051","……实在是太感谢了！
-把这<Sheet(EventItem,2001920)/>切碎，浸泡在蜜汁里，
+把这<Sheet(EventItem,2001920,0)/>切碎，浸泡在蜜汁里，
 就能腌制出美味的菜肴了。"
 57,"TEXT_BANVAN501_02193_02193_RANUVALI_000_052","我与豁达的尊杜族的太太们约好，
 下回招待她们吃衮杜族的乡土料理，

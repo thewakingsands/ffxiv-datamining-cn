@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_AKTKLA205_04143_SEQ_22",""
 23,"TEXT_AKTKLA205_04143_SEQ_23",""
 24,"TEXT_AKTKLA205_04143_TODO_00","寻找热罗梅尔"
-25,"TEXT_AKTKLA205_04143_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35840)/><Else/>将<Sheet(ItemHQ,35840)/>交给帅气的男学生</If>"
+25,"TEXT_AKTKLA205_04143_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 魔法大学交易：制作<Sheet(ItemHQ,35840,0)/><Else/>将<Sheet(ItemHQ,35840,0)/>交给帅气的男学生</If>"
 26,"TEXT_AKTKLA205_04143_TODO_02","和热罗梅尔对话"
 27,"TEXT_AKTKLA205_04143_TODO_03","再次和热罗梅尔对话"
 28,"TEXT_AKTKLA205_04143_TODO_04","和裘德对话"
@@ -85,7 +85,7 @@ int32,str,str
 64,"TEXT_AKTKLA205_04143_A1_000_001","说重点"
 65,"TEXT_AKTKLA205_04143_A1_000_002","快点继续说下去"
 66,"TEXT_AKTKLA205_04143_COOLMALE04143_000_055","你真是够性急的，算了。
-我希望你制作<Sheet(ItemHQ,35840)/>，
+我希望你制作<Sheet(ItemHQ,35840,0)/>，
 能够让本来就很潇洒的我变得更具闪光点。"
 67,"TEXT_AKTKLA205_04143_COOLMALE04143_100_055","材料我当然会给你准备好。
 能像这样体贴别人也是我这个潇洒男人该做的事情。"
@@ -96,7 +96,7 @@ int32,str,str
 70,"TEXT_AKTKLA205_04143_SURROUNDINGS04143_000_060","嗯？
 你是谁？
 找我们有什么事吗？"
-71,"TEXT_AKTKLA205_04143_COOLMALE04143_000_100","制作好<Sheet(ItemHQ,35840)/>之后就交给我吧。"
+71,"TEXT_AKTKLA205_04143_COOLMALE04143_000_100","制作好<Sheet(ItemHQ,35840,0)/>之后就交给我吧。"
 72,"TEXT_AKTKLA205_04143_COOLMALE04143_000_101","这文具感觉好雅致……
 有了这个文具的话，应该就能写出更潇洒的诗了！
 下次我要拿着这个再去向那女孩告白一次！"
