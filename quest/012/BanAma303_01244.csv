@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_BANAMA303_01244_SEQ_00","灰阵营的雅德夫·夏想要委托给冒险者一份工作。"
 1,"TEXT_BANAMA303_01244_SEQ_01","接受了雅德夫·夏的委托。前往不悔战阵，获取5个<Sheet(EObj,2003024,0)/>。"
 2,"TEXT_BANAMA303_01244_SEQ_02","获得了<Sheet(EObj,2003024,0)/>。将<Sheet(EObj,2003024,0)/>交给灰阵营的雅德夫·夏。"
-3,"TEXT_BANAMA303_01244_SEQ_03","将<Sheet(EventItem,2001152)/>交给了雅德夫·夏。雅德夫·夏说从夺取的武器中确实可以感觉到蛮神的力量。他判断这是会使蜥蜴人族堕落的邪恶武器，应当赶紧摧毁。下次有机会再协助他。"
+3,"TEXT_BANAMA303_01244_SEQ_03","将<Sheet(EventItem,2001152,0)/>交给了雅德夫·夏。雅德夫·夏说从夺取的武器中确实可以感觉到蛮神的力量。他判断这是会使蜥蜴人族堕落的邪恶武器，应当赶紧摧毁。下次有机会再协助他。"
 4,"TEXT_BANAMA303_01244_SEQ_04","无"
 5,"TEXT_BANAMA303_01244_SEQ_05","无"
 6,"TEXT_BANAMA303_01244_SEQ_06","无"
@@ -59,11 +59,11 @@ int32,str,str
 51,"TEXT_BANAMA303_01244_YADOVVGAH_000_003","依附神明的软弱者们似乎把锻冶的武具带回了战阵内严加保管。
 既然如此，现在正是夺取和破坏武具的大好时机！"
 52,"TEXT_BANAMA303_01244_YADOVVGAH_000_004","冒险者阁下，请你潜入不悔战阵，
-夺取<Sheet(EventItem,2001152)/>！"
-53,"TEXT_BANAMA303_01244_YADOVVGAH_000_010","冒险者阁下，夺取不悔战阵深处的<Sheet(EventItem,2001152)/>，
+夺取<Sheet(EventItem,2001152,0)/>！"
+53,"TEXT_BANAMA303_01244_YADOVVGAH_000_010","冒险者阁下，夺取不悔战阵深处的<Sheet(EventItem,2001152,0)/>，
 这项任务就交给你了。"
-54,"TEXT_BANAMA303_01244_YADOVVGAH_000_020","夺取<Sheet(EventItem,2001152)/>的任务进展得如何了？"
-55,"TEXT_BANAMA303_01244_YADOVVGAH_000_021","噢，这就是<Sheet(EventItem,2001152)/>……
+54,"TEXT_BANAMA303_01244_YADOVVGAH_000_020","夺取<Sheet(EventItem,2001152,0)/>的任务进展得如何了？"
+55,"TEXT_BANAMA303_01244_YADOVVGAH_000_021","噢，这就是<Sheet(EventItem,2001152,0)/>……
 传家宝刀，的确能从中感觉到火神的威猛力量。"
 56,"TEXT_BANAMA303_01244_YADOVVGAH_000_022","那群可耻的家伙依赖这种武器，
 可见他们已经堕落到无药可救的地步了。

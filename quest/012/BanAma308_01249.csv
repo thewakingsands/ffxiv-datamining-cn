@@ -2,8 +2,8 @@
 #,,
 int32,str,str
 0,"TEXT_BANAMA308_01249_SEQ_00","灰阵营的雅德夫·夏想要冒险者解除后顾之忧。"
-1,"TEXT_BANAMA308_01249_SEQ_01","接受了雅德夫·夏的委托。在不悔战阵的<Sheet(EObj,2003087,0)/>等待，讨伐出现的<Sheet(BNpcName,2304)/>，获取3个<Sheet(EventItem,2001170,0)/>。"
-2,"TEXT_BANAMA308_01249_SEQ_02","讨伐了<Sheet(BNpcName,2304)/>，获得了<Sheet(EventItem,2001170,0)/>。对赞拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>。"
+1,"TEXT_BANAMA308_01249_SEQ_01","接受了雅德夫·夏的委托。在不悔战阵的<Sheet(EObj,2003087,0)/>等待，讨伐出现的<Sheet(BNpcName,2304,0)/>，获取3个<Sheet(EventItem,2001170,0)/>。"
+2,"TEXT_BANAMA308_01249_SEQ_02","讨伐了<Sheet(BNpcName,2304,0)/>，获得了<Sheet(EventItem,2001170,0)/>。对赞拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>。"
 3,"TEXT_BANAMA308_01249_SEQ_03","对<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用了<Sheet(EventItem,2001170,0)/>，解放了俘虏。向灰阵营的雅德夫·夏报告。"
 4,"TEXT_BANAMA308_01249_SEQ_04","向雅德夫·夏报告完毕。多亏了冒险者帮忙，可以后顾无忧地展开战斗了，雅德夫·夏对此感到很高兴。看来他十分信赖冒险者。下次有机会再协助他。"
 5,"TEXT_BANAMA308_01249_SEQ_05","无"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANAMA308_01249_SEQ_22","无"
 23,"TEXT_BANAMA308_01249_SEQ_23","无"
 24,"TEXT_BANAMA308_01249_TODO_00","在不悔战阵的<Sheet(EObj,2003087,0)/>等待
-从<Sheet(BNpcName,2304)/>身上得到<Sheet(EventItem,2001170,0)/>"
+从<Sheet(BNpcName,2304,0)/>身上得到<Sheet(EventItem,2001170,0)/>"
 25,"TEXT_BANAMA308_01249_TODO_01","对赞拉克的<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>使用<Sheet(EventItem,2001170,0)/>"
 26,"TEXT_BANAMA308_01249_TODO_02","向雅德夫·夏报告"
 27,"TEXT_BANAMA308_01249_TODO_03","无"
@@ -58,11 +58,11 @@ int32,str,str
 不把他们救出来肯定会成为后顾之忧。"
 51,"TEXT_BANAMA308_01249_YADOVVGAH_000_003","冒险者阁下……请你赶赴敌方阵营，
 打开<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>，解放俘虏。"
-52,"TEXT_BANAMA308_01249_YADOVVGAH_000_004","不悔战阵的炎牙众<Sheet(BNpcName,2304)/>身上带有<Sheet(EventItem,2001170,0)/>。
+52,"TEXT_BANAMA308_01249_YADOVVGAH_000_004","不悔战阵的炎牙众<Sheet(BNpcName,2304,0)/>身上带有<Sheet(EventItem,2001170,0)/>。
 首先打倒敌人获取钥匙，而后再寻找铁笼。"
 53,"TEXT_BANAMA308_01249_YADOVVGAH_000_005","我们的巨大身躯太醒目了，不便行动。
 而这样的秘密行动正是阁下最擅长的领域。"
-54,"TEXT_BANAMA308_01249_YADOVVGAH_000_010","从<Sheet(BNpcName,2304)/>身上夺取<Sheet(EventItem,2001170,0)/>，
+54,"TEXT_BANAMA308_01249_YADOVVGAH_000_010","从<Sheet(BNpcName,2304,0)/>身上夺取<Sheet(EventItem,2001170,0)/>，
 打开<Sheet(EObj,2003083,0)/>和<Sheet(EObj,2003094,0)/>，解放俘虏。
 拜托你了！"
 55,"TEXT_BANAMA308_01249_YADOVVGAH_000_020","看来你顺利解放了俘虏！

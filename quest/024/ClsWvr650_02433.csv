@@ -5,10 +5,10 @@ int32,str,str
 1,"TEXT_CLSWVR650_02433_SEQ_01","启明委托冒险者制作开港曼舞上琴蝶要穿的礼服。为了商量衣服的样式，和三条花街的琴蝶谈谈。"
 2,"TEXT_CLSWVR650_02433_SEQ_02","和琴蝶进行了交谈，得知了对方对衣服的要求。向乐座街的启明报告。"
 3,"TEXT_CLSWVR650_02433_SEQ_03","向启明报告完毕，开始制作礼服。和乐座街的矢切谈谈，领取从裁衣匠行会进口的材料<Sheet(Item,17919,0)/>。"
-4,"TEXT_CLSWVR650_02433_SEQ_04","从矢切那里领取了必要的材料。制作<Sheet(ItemHQ,17920)/>，并将其交给乐座街的启明。
+4,"TEXT_CLSWVR650_02433_SEQ_04","从矢切那里领取了必要的材料。制作<Sheet(ItemHQ,17920,0)/>，并将其交给乐座街的启明。
 
 ※如果<Sheet(Item,17919,0)/>不足，可以与矢切对话重新获得材料，并再次进行挑战。"
-5,"TEXT_CLSWVR650_02433_SEQ_05","将<Sheet(ItemHQ,17920)/>交给了启明。琴蝶想要穿着这件礼服，在异国掀起新的旋风。为了将来给事业蒸蒸日上的琴蝶制作新的礼物，磨炼自己的手艺。
+5,"TEXT_CLSWVR650_02433_SEQ_05","将<Sheet(ItemHQ,17920,0)/>交给了启明。琴蝶想要穿着这件礼服，在异国掀起新的旋风。为了将来给事业蒸蒸日上的琴蝶制作新的礼物，磨炼自己的手艺。
 
 ※裁衣匠的等级达到68级以上时，可以从黄金港的启明那里领取下一个裁衣匠任务。"
 6,"TEXT_CLSWVR650_02433_SEQ_06",""
@@ -32,7 +32,7 @@ int32,str,str
 24,"TEXT_CLSWVR650_02433_TODO_00","和琴蝶对话"
 25,"TEXT_CLSWVR650_02433_TODO_01","向启明报告"
 26,"TEXT_CLSWVR650_02433_TODO_02","和矢切对话并领取<Sheet(Item,17919,0)/>"
-27,"TEXT_CLSWVR650_02433_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17920)/><Else/>将<Sheet(ItemHQ,17920)/>交给启明</If>"
+27,"TEXT_CLSWVR650_02433_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>制作笔记 职业任务：制作<Sheet(ItemHQ,17920,0)/><Else/>将<Sheet(ItemHQ,17920,0)/>交给启明</If>"
 28,"TEXT_CLSWVR650_02433_TODO_04",""
 29,"TEXT_CLSWVR650_02433_TODO_05",""
 30,"TEXT_CLSWVR650_02433_TODO_06",""
@@ -105,10 +105,10 @@ int32,str,str
 就能营造出与艺服不同的气氛，在舞台上掀起缤纷落英般的清风吧。
 那么，我现在正式向你发出委托，麻烦你帮我制作这件礼服。"
 69,"TEXT_CLSWVR650_02433_KEIMEI_000_022","请你去矢切掌柜那里领取必要的材料，
-待<Sheet(ItemHQ,17920)/>做好之后，
+待<Sheet(ItemHQ,17920,0)/>做好之后，
 便将它交给我吧。"
 70,"TEXT_CLSWVR650_02433_KEIMEI_000_029","请你去矢切掌柜那里领取必要的材料，
-待<Sheet(ItemHQ,17920)/>做好之后，
+待<Sheet(ItemHQ,17920,0)/>做好之后，
 便将它交给我吧。"
 71,"TEXT_CLSWVR650_02433_YAGIRI_000_030","您是想要制作少东家贺礼的材料是吧？
 就是这些，请收好。"
@@ -119,11 +119,11 @@ int32,str,str
 我会全力协助您的，如果材料不够的话请跟我说。"
 74,"TEXT_CLSWVR650_02433_YAGIRI_000_038","这次我也很期待看到您做出来的礼服！
 我会全力协助您的，如果材料不够的话请跟我说。"
-75,"TEXT_CLSWVR650_02433_YAGIRI_000_039","<Sheet(ItemHQ,17920)/>似乎做好了啊，
+75,"TEXT_CLSWVR650_02433_YAGIRI_000_039","<Sheet(ItemHQ,17920,0)/>似乎做好了啊，
 那就请快点交给少东家吧，少东家正迫不及待地等着呢。
 "
 76,"TEXT_CLSWVR650_02433_KEIMEI_000_040","<Highlight>ObjectParameter(1)</Highlight>，辛苦你了。
-如果<Sheet(ItemHQ,17920)/>做好了，
+如果<Sheet(ItemHQ,17920,0)/>做好了，
 请让我看看。"
 77,"TEXT_CLSWVR650_02433_KEIMEI_000_041","哦哦，好精良的做工啊！
 不过肩头的部分露得太大胆了，我稍微有些担心……

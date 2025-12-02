@@ -5,8 +5,8 @@ int32,str,str
 群花馆的乌儿·佐恩正在考虑成为名人的新办法。"
 1,"TEXT_LUCKZC103_03406_SEQ_01","※本任务为<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等级调整任务。
 
-乌儿·佐恩想到的办法是收集花朵作为礼物。在伊尔美格的桃色睡床收集<Sheet(EObj,2010368)/>。"
-2,"TEXT_LUCKZC103_03406_SEQ_02","收集到了<Sheet(EObj,2010368)/>。将<Sheet(EObj,2010368)/>交给桃色睡床的乌儿·佐恩。"
+乌儿·佐恩想到的办法是收集花朵作为礼物。在伊尔美格的桃色睡床收集<Sheet(EObj,2010368,0)/>。"
+2,"TEXT_LUCKZC103_03406_SEQ_02","收集到了<Sheet(EObj,2010368,0)/>。将<Sheet(EObj,2010368,0)/>交给桃色睡床的乌儿·佐恩。"
 3,"TEXT_LUCKZC103_03406_SEQ_03","乌儿·佐恩去给仙子族送花了。和群花馆的乌儿·佐恩谈谈。"
 4,"TEXT_LUCKZC103_03406_SEQ_04","祥和的仙子族高兴地收下了乌儿·佐恩制作的花束。可是就在此时听到仙子族的同伴在被魔物追逐。必须赶去拯救那个同伴。"
 5,"TEXT_LUCKZC103_03406_SEQ_05",""
@@ -28,8 +28,8 @@ int32,str,str
 21,"TEXT_LUCKZC103_03406_SEQ_21",""
 22,"TEXT_LUCKZC103_03406_SEQ_22",""
 23,"TEXT_LUCKZC103_03406_SEQ_23",""
-24,"TEXT_LUCKZC103_03406_TODO_00","收集<Sheet(EObj,2010368)/>"
-25,"TEXT_LUCKZC103_03406_TODO_01","将<Sheet(EObj,2010368)/>交给乌儿·佐恩"
+24,"TEXT_LUCKZC103_03406_TODO_00","收集<Sheet(EObj,2010368,0)/>"
+25,"TEXT_LUCKZC103_03406_TODO_01","将<Sheet(EObj,2010368,0)/>交给乌儿·佐恩"
 26,"TEXT_LUCKZC103_03406_TODO_02","和乌儿·佐恩对话"
 27,"TEXT_LUCKZC103_03406_TODO_03",""
 28,"TEXT_LUCKZC103_03406_TODO_04",""
@@ -68,10 +68,10 @@ int32,str,str
 只要为村里的人们送去多得数不过来的花朵，
 他们一定会被我的温柔打动，喜欢上我的。"
 56,"TEXT_LUCKZC103_03406_ULTHON_000_016","拜托了，能请你一起跟我去收集花朵吗？！
-就是生长在伊尔美格的<Sheet(EObj,2010368)/>！
+就是生长在伊尔美格的<Sheet(EObj,2010368,0)/>！
 最好能收集到很多不同的花色！"
 57,"TEXT_LUCKZC103_03406_ULTHON_000_020","这边的花朵就交给我吧，
-你也去帮忙收集一下<Sheet(EObj,2010368)/>！
+你也去帮忙收集一下<Sheet(EObj,2010368,0)/>！
 最好能收集到很多不同的花色！"
 58,"TEXT_LUCKZC103_03406_ULTHON_000_030","旅行者你收集到<Sheet(EventItem,2002720,0)/>了吗？
 我想用很多不同的花色制作出

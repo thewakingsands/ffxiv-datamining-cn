@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_AKTKZB002_04207_SEQ_23",""
 24,"TEXT_AKTKZB002_04207_TODO_00","和桓娑牧场遗址的悌阳象族青年对话"
 25,"TEXT_AKTKZB002_04207_TODO_01","对桓娑鸟的巢使用<Sheet(EventItem,2003199,0)/>"
-26,"TEXT_AKTKZB002_04207_TODO_02","将<Sheet(EventItem,2003200)/>交给悌阳象族青年"
+26,"TEXT_AKTKZB002_04207_TODO_02","将<Sheet(EventItem,2003200,0)/>交给悌阳象族青年"
 27,"TEXT_AKTKZB002_04207_TODO_03","和代米尔遗烈乡的悌阳象族青年对话"
 28,"TEXT_AKTKZB002_04207_TODO_04",""
 29,"TEXT_AKTKZB002_04207_TODO_05",""
@@ -71,7 +71,7 @@ int32,str,str
 所以就先留下吧。
 我去清理瓦砾了……这边就拜托了！"
 55,"TEXT_AKTKZB002_04207_RESIDENTS04207_000_007","请你将<Sheet(EventItem,2003199,0)/>撒在桓娑鸟的巢上！"
-56,"TEXT_AKTKZB002_04207_SYSTEM_000_010","巢里发现了<Sheet(EventItem,2003200)/>。
+56,"TEXT_AKTKZB002_04207_SYSTEM_000_010","巢里发现了<Sheet(EventItem,2003200,0)/>。
 虽说已经撒上了药，但放置不管的话还是很危险吧。
 以防万一，将蛋回收后交给悌阳象族青年。"
 57,"TEXT_AKTKZB002_04207_RESIDENTS04207_000_011","辛苦你了！

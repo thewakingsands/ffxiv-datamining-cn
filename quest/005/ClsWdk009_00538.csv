@@ -93,8 +93,8 @@ int32,str,str
 抱歉，盖伊尔哈德的委托就拜托你了……"
 64,"TEXT_CLSWDK009_00538_BEATINE_000_041","啊……全都很棒……
 没有任何可以挑剔的地方……"
-65,"TEXT_CLSWDK009_00538_BEATINE_000_042","你为了对这把<Sheet(ItemHQ,　1937,0)/>进行加强，使用了<Sheet(Item,5376)/>和<Sheet(Item,5405,0)/>这两种高级木材。"
-66,"TEXT_CLSWDK009_00538_BEATINE_000_043","<Sheet(Item,5376)/>的缺点是比较重，
+65,"TEXT_CLSWDK009_00538_BEATINE_000_042","你为了对这把<Sheet(ItemHQ,　1937,0)/>进行加强，使用了<Sheet(Item,5376,0)/>和<Sheet(Item,5405,0)/>这两种高级木材。"
+66,"TEXT_CLSWDK009_00538_BEATINE_000_043","<Sheet(Item,5376,0)/>的缺点是比较重，
 但将一部分换成<Sheet(Item,5405,0)/>则可以弥补这个缺点。
 还有这结实的<Sheet(Item,5322,0)/>做的弓弦，真是一把厚重结实的弓。"
 67,"TEXT_CLSWDK009_00538_BEATINE_000_044","<Sheet(ItemHQ,　1862,0)/>……
