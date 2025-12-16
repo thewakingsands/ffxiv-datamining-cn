@@ -364,7 +364,8 @@ int32,str
 154,""
 155,""
 156,""
-157,""
+157,"发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能后，会为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态。血壤状态中的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以积累到4档。
+88级学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤装填效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，血壤状态中的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>晶壤<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以积累到6档。"
 158,""
 159,""
 160,""

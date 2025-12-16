@@ -50,8 +50,8 @@ int32,str,str
 46,"TEXT_AKTKVA001_04651_TODO_22",""
 47,"TEXT_AKTKVA001_04651_TODO_23",""
 48,"TEXT_AKTKVA001_04651_SYSTEM_100_000","若要继续推进本任务，
-需要当前职业达到90级以上，
-且为战斗精英或者魔法导师。"
+需要当前职业为设限特职外90级以上的
+战斗精英或者魔法导师。"
 49,"TEXT_AKTKVA001_04651_OSMON_000_001","你好？
 请问……你是<Highlight>ObjectParameter(1)</Highlight>吗？"
 50,"TEXT_AKTKVA001_04651_OSMON_000_002","太好了，果然是你！"

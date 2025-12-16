@@ -11,4 +11,7 @@ int32,str,str,Image,sbyte
 3,"闹钟","启动闹钟。设置任意时间的闹钟，到设置的时间时将在游戏内进行提醒。设置的闹钟只在本次在线期间有效。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>文本指令：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>/闹钟
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>可以设置键位<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",654,3
-4,"","",0,0
+4,"快捷面板","启动快捷面板。
+可以在快捷面板自由设置坐骑、宠物、情感动作、套装等各种喜欢的功能，以方便快速找到和使用该功能。
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>文本指令：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>/快捷面板
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>可以设置键位<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",655,4

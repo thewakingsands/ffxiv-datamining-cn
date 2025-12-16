@@ -242,7 +242,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 我们的新兵完全不称当对手么……",""
 56,2,2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,3,0,0,0,0,"喂，那位冒险者！
 你来得正好，我有件事想拜托你！","他们在打架啊！拜托你劝劝架。
-我想让他们2个淡定点，但毕竟都是海之子，
+我想让他们2个淡定点，但毕竟都是海上男儿，
 都倔得很，根本不听我的劝。","所以干脆不要客气，直接给他们两拳，
 让那些笨蛋清醒清醒！","要让他们清醒清醒吗？
 
@@ -1399,7 +1399,7 @@ int32,byte,byte,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※此危命任务的推荐等级为<Value>IntegerParameter(1)</Value>级。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","","真的吗？！那太感谢了！
 你可以一边教训鲶鱼精小偷，
 一边收集地上的稻苗，然后拿到我这里来！","","被鲶鱼精偷走稻苗全是我自己的错是吗……
-唉……等今年的大米吃完，
+唉……等今年的稻米吃完，
 我就去投河自尽吧……",""
 332,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,0,0,0,0,0,0,0,0,"嘶——已经夺回最基本的数量了。
 不过，应该还有失窃的首饰，

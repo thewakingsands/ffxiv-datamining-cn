@@ -8,9 +8,9 @@ int32,str,str
 　季节活动结束后无法进行，敬请注意。
 　详情请参见官方网站。
 
-认真的女仆拜托冒险者回收“<Sheet(Item,10089,0)/>”。通过<Sheet(EventItem,2001551,0)/>获得<Sheet(Item,10089,0)/>，交给认真的女仆。
+认真的女仆拜托冒险者回收“<Sheet(Item,10089,0)/>”。通过<Sheet(EventItem,2001764,0)/>获得<Sheet(Item,10089,0)/>，交给认真的女仆。
 
-※<Sheet(EventItem,2001551,0)/>可以通过解读<Sheet(Item,9900,0)/>获得。"
+※<Sheet(EventItem,2001764,0)/>可以通过解读<Sheet(Item,9900,0)/>获得。"
 2,"TEXT_FESPDY102_00500_SEQ_02","将<Sheet(Item,10089,0)/>交给了认真的女仆。这样一来，就可以开始制作装饰人偶了。继续回收<Sheet(Item,10089,0)/>，帮助纳纳帕西实现诺言。"
 3,"TEXT_FESPDY102_00500_SEQ_03",""
 4,"TEXT_FESPDY102_00500_SEQ_04",""
@@ -74,9 +74,9 @@ int32,str,str
 53,"TEXT_FESPDY102_00500_MAID00500_000_005","您收下的那份<Sheet(Item,9900,0)/>，
 是当初的人偶爱好者留下来的藏宝图，那里面标有人偶的埋藏地点。
 请您以这份地图为参考，协助我们回收<Sheet(Item,10089,0)/>吧！"
-54,"TEXT_FESPDY102_00500_SYSTEM_000_006","前往<Sheet(EventItem,2001551,0)/>所示处进行挖掘，
+54,"TEXT_FESPDY102_00500_SYSTEM_000_006","前往<Sheet(EventItem,2001764,0)/>所示处进行挖掘，
 可以从出现的宝箱中获得<Sheet(Item,10089,0)/>。"
-55,"TEXT_FESPDY102_00500_SYSTEM_000_007","可以通过解读<Sheet(Item,9900,0)/>获得<Sheet(EventItem,2001551,0)/>。"
+55,"TEXT_FESPDY102_00500_SYSTEM_000_007","可以通过解读<Sheet(Item,9900,0)/>获得<Sheet(EventItem,2001764,0)/>。"
 56,"TEXT_FESPDY102_00500_SYSTEM_000_008","技能“解读”需要通过完成任务“浪漫的寻宝猎人”习得。"
 57,"TEXT_FESPDY102_00500_SYSTEM_000_009","如果无法习得技能“解读”，
 或是当前等级低于寻宝的推荐等级40级时，

@@ -1,6 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
 #,,,,,,Command,ShortCommand,Description,Alias,ShortAlias,Param,
 int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
+0,0,0,0,0,0,"","","","","",0,0
 1,1,0,0,0,0,"/record","","/任务回顾
 /replay、/record
 打开任务回顾窗口。","/任务回顾","/replay",32,0
@@ -214,6 +215,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 在跨服通讯贝1发送随机掷骰数字。
 /掷骰 跨服贝1 16
 在跨服通讯贝1～16中发送随机掷骰数字。","/掷骰","",36,1000
+27,0,0,0,0,0,"","","","","",0,0
 28,3,1,2,0,0,"/nameplatedisp","","/名牌显示 对象 设置代号/nameplatedisp
 进行玩家名牌显示设置。
 >>对象
@@ -232,11 +234,12 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>水晶冲突<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(feast)
 水晶冲突中的敌人为对象
 
->>设置代号1-4
+>>设置代号1-5
 1:一直显示
 2:战斗时显示
 3:选为目标时显示
 4:不显示
+5:非战斗时显示
 
 >>示例
 /名牌显示 全部 4
@@ -423,6 +426,51 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在开启和关闭之间切换。
 ","/维埃拉耳朵","/vieraears",36,0
+50,1,0,0,0,0,"/quickpanel","","/快捷面板
+/quickpanel
+打开快捷面板窗口。","/快捷面板","/quickpanel",32,0
+51,1,0,0,0,0,"/strategyboard","","/战术板
+/strategyboard
+打开战术板窗口。","/战术板","/strategyboard",32,0
+52,0,0,0,0,0,"","","","","",0,0
+53,0,0,0,0,0,"","","","","",0,0
+54,0,0,0,0,0,"","","","","",0,0
+55,0,0,0,0,0,"","","","","",0,0
+56,0,0,0,0,0,"","","","","",0,0
+57,0,0,0,0,0,"","","","","",0,0
+58,0,0,0,0,0,"","","","","",0,0
+59,0,0,0,0,0,"","","","","",0,0
+60,0,0,0,0,0,"","","","","",0,0
+61,0,0,0,0,0,"","","","","",0,0
+62,0,0,0,0,0,"","","","","",0,0
+63,0,0,0,0,0,"","","","","",0,0
+64,0,0,0,0,0,"","","","","",0,0
+65,0,0,0,0,0,"","","","","",0,0
+66,0,0,0,0,0,"","","","","",0,0
+67,0,0,0,0,0,"","","","","",0,0
+68,0,0,0,0,0,"","","","","",0,0
+69,0,0,0,0,0,"","","","","",0,0
+70,0,0,0,0,0,"","","","","",0,0
+71,0,0,0,0,0,"","","","","",0,0
+72,0,0,0,0,0,"","","","","",0,0
+73,0,0,0,0,0,"","","","","",0,0
+74,0,0,0,0,0,"","","","","",0,0
+75,0,0,0,0,0,"","","","","",0,0
+76,0,0,0,0,0,"","","","","",0,0
+77,0,0,0,0,0,"","","","","",0,0
+78,0,0,0,0,0,"","","","","",0,0
+79,0,0,0,0,0,"","","","","",0,0
+80,0,0,0,0,0,"","","","","",0,0
+81,0,0,0,0,0,"","","","","",0,0
+82,0,0,0,0,0,"","","","","",0,0
+83,0,0,0,0,0,"","","","","",0,0
+84,0,0,0,0,0,"","","","","",0,0
+85,0,0,0,0,0,"","","","","",0,0
+86,0,0,0,0,0,"","","","","",0,0
+87,0,0,0,0,0,"","","","","",0,0
+88,0,0,0,0,0,"","","","","",0,0
+89,0,0,0,0,0,"","","","","",0,0
+90,0,0,0,0,0,"","","","","",0,0
 91,1,0,0,0,0,"/pvpteam","/pt","/战队频道(/战) 发言内容
 /pvpteam、/pt
 向同一战队内的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
@@ -443,6 +491,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 在常用跨服通讯贝频道中发送消息“大家好！”。
 /跨
 将默认聊天频道变更为常用跨服通讯贝频道。","/跨服贝频道","/跨",1021,0
+93,0,0,0,0,0,"","","","","",0,0
+94,0,0,0,0,0,"","","","","",0,0
+95,0,0,0,0,0,"","","","","",0,0
+96,0,0,0,0,0,"","","","","",0,0
+97,0,0,0,0,0,"","","","","",0,0
+98,0,0,0,0,0,"","","","","",0,0
+99,0,0,0,0,0,"","","","","",0,0
+100,0,0,0,0,0,"","","","","",0,0
 101,1,0,0,0,0,"/beginner","/b","/新人频道(/新) 发言内容
 /beginner、/b
 向参加新人频道的所有玩家发送聊天消息，无论离多远、是不是在同一地图都可以看到。
@@ -517,6 +573,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /alliance、/a
 向同一团队的全体成员发送聊天消息，无论离多远、无论在哪个地区都可以看到。
 只输入“/团队频道(/团)”可将默认聊天频道变更为团队频道。","/团队频道","/团",1021,0
+120,0,0,0,0,0,"","","","","",0,0
 121,1,0,0,0,0,"/join","","/参加
 /join
 接受组队邀请。","/参加","",4,0
@@ -535,6 +592,10 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 126,2,0,0,0,0,"/leave","","/退队
 /leave
 退出小队。","/退队","",4,0
+127,0,0,0,0,0,"","","","","",0,0
+128,0,0,0,0,0,"","","","","",0,0
+129,0,0,0,0,0,"","","","","",0,0
+130,0,0,0,0,0,"","","","","",0,0
 131,2,0,0,0,0,"/check","/c","/查看 代名词
 /check、/c
 查看指定玩家的情报。省略代名词可以查看当前选中的目标。","/查看","",160,0
@@ -554,9 +615,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 134,2,0,0,0,0,"/follow","","/跟随 代名词
 /follow
 自动跟随指定玩家。省略代名词可以跟随当前选中的目标。","/跟随","",36,0
+135,0,0,0,0,0,"","","","","",0,0
 136,2,0,0,0,0,"/meldrequest","","/委托镶嵌 代名词
 /meldrequest
 向指定玩家发送魔晶石镶嵌委托。省略代名词可以向当前选中的玩家发送魔晶石镶嵌委托。","/委托镶嵌","",32,0
+137,0,0,0,0,0,"","","","","",0,0
+138,0,0,0,0,0,"","","","","",0,0
+139,0,0,0,0,0,"","","","","",0,0
+140,0,0,0,0,0,"","","","","",0,0
 141,1,0,0,0,0,"/character","/gear","/角色(/装备)
 /character、/gear
 打开角色窗口。","/角色","/装备",32,0
@@ -664,7 +730,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 打开传送窗口。","/传送","",0,0
 156,3,1,2,0,0,"/marking","/mk","/标记 标记种类 代名词
 /marking、/mk
-给指定角色加上指定的标记。省略代名词可以将标记加到当前选中的目标上。
+给指定角色或场景物体加上指定的标记。省略代名词可以将标记加到当前选中的目标上。
 >>标记种类
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击(attack)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>攻击1～8(attack1～8)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置攻击1～8的标记。不指定数值则会标记当前未使用的最小数值攻击标记。
@@ -681,12 +747,12 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>三角(triangle)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　设置泛用三角标志。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear)或关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除标志。
+　解除目标标记。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　打开目标标记窗口。
 >>示例
 /标记 攻击3 <焦点目标> 
-给焦点目标加上“攻击3”的标记。","/标记","",32,0
+给焦点目标加上“攻击3”的目标标记。","/标记","",32,0
 157,1,0,0,0,0,"/actionlist","/alist","/技能菜单
 /actionlist、/alist
 打开技能菜单。","/技能菜单","",32,0
@@ -714,6 +780,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 165,1,0,0,0,0,"/activehelp","","/新手指南(/指南)
 /activehelp
 打开新手指南。","/新手指南","/指南",32,0
+166,0,0,0,0,0,"","","","","",0,0
 167,1,0,0,0,0,"/characterconfig","/cconfig","/角色设置
 /characterconfig、/cconfig
 打开角色设置窗口。","/角色设置","",32,0
@@ -866,6 +933,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 199,1,0,0,0,0,"/mountspeed","","/坐骑速度
 /mountspeed
 打开坐骑速度窗口。","/坐骑速度","",32,0
+200,0,0,0,0,0,"","","","","",0,0
 201,2,1,1,0,0,"/?","","/? 指令名
 显示指定指令的说明。","","",189,0
 202,2,1,0,0,0,"/wait","","/等待 等待时间
@@ -873,6 +941,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 宏专用指令。可以让宏在等待指定时间后发动。
 设置等待时间的数值时，“1”大约相当于1秒，且只可以设置整数。
 等待时间最多可以设置为60，超过60时按60算。","/等待","",181,0
+203,0,0,0,0,0,"","","","","",0,0
 204,2,1,2,0,0,"/legacymark","/lmark","/十二神印记(/神印) 子命令
 /legacymark、/lmark
 设置是否显示自己角色的十二神印记。
@@ -1064,6 +1133,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 随机选择对象执行观景。
 /观景视角 <目标>
 选择指定目标作为对象来执行观景。","/观景视角","",40,0
+222,0,0,0,0,0,"","","","","",0,0
 223,2,1,2,0,0,"/duelswitch","","/决斗申请拦截 子命令
 /duelswitch
 更改是否接受决斗申请的设置。
@@ -1168,6 +1238,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　设定一个名为集合时间的闹钟，在本地时间20点前提前10分钟以4号音效提醒。
 /闹钟 ""休息"" 本 重复 30 音效05
 　设定一个名为休息的闹钟，在本地时间每个小时的30分时以5号音效提醒。","/闹钟","",32,0
+230,0,0,0,0,0,"","","","","",0,0
 231,2,1,2,0,0,"/busy","","/忙碌 子命令
 /busy
 将在线状态设置为“忙碌”。
@@ -1254,6 +1325,17 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　将状态改回“在线”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在“角色扮演中”与“在线”之间切换。","/角色扮演中","/roleplaying",36,0
+240,0,0,0,0,0,"","","","","",0,0
+241,0,0,0,0,0,"","","","","",0,0
+242,0,0,0,0,0,"","","","","",0,0
+243,0,0,0,0,0,"","","","","",0,0
+244,0,0,0,0,0,"","","","","",0,0
+245,0,0,0,0,0,"","","","","",0,0
+246,0,0,0,0,0,"","","","","",0,0
+247,0,0,0,0,0,"","","","","",0,0
+248,0,0,0,0,0,"","","","","",0,0
+249,0,0,0,0,0,"","","","","",0,0
+250,0,0,0,0,0,"","","","","",0,0
 251,3,2,3,2,0,"/action","/ac","/技能 技能名 代名词
 /action、/ac
 对指定目标使用指定技能。如果身处无法使用技能的环境，或者还没有学会指定技能，则命令无效。
@@ -1334,10 +1416,11 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　在锁定与解除锁定之间切换。","/锁定","",36,0
 265,2,0,0,0,0,"/focustarget","","/焦点目标(/焦点) 代名词
 /focustarget
-将指定玩家设置为焦点目标。省略代名词会指定当前所选目标为焦点目标。
+将指定玩家或场景物体设置为焦点目标。省略代名词会指定当前所选目标为焦点目标。
 >>示例
 /焦点目标 <目标>
 将当前所选择的目标设置为焦点目标。","/焦点目标","/焦点",36,0
+266,0,0,0,0,0,"","","","","",0,0
 267,3,2,5,2,0,"/petaction","/pac","/召唤兽技能 召唤兽技能名 代名词
 /petaction、/pac
 命令召唤兽对指定目标使用指定召唤兽技能。以自己或召唤兽为目标的技能可省略输入代名词。如果身处无法使用技能的环境，或者指定召唤兽技能以外的技能，或者还没有学会指定召唤兽技能，则命令无效。
@@ -1419,6 +1502,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 对选择目标的位置执行技能“缩地”。
 /对战技能 缩地 地面关
 对所指的位置直接执行技能“缩地”。","/对战技能","",4,0
+278,0,0,0,0,0,"","","","","",0,0
 279,3,2,18,2,0,"/blueaction","","/青魔法技能 青魔法名 代名词
 /blueaction
 对指定目标使用指定青魔法技能。身处无法使用技能的环境或发动未学习的技能时无法执行该命令。
@@ -1431,6 +1515,27 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 >>示例
 /青魔法技能 水炮 <目标>
 对当前所选择的目标执行技能“水炮”。","/青魔法技能","",36,0
+280,0,0,0,0,0,"","","","","",0,0
+281,0,0,0,0,0,"","","","","",0,0
+282,0,0,0,0,0,"","","","","",0,0
+283,0,0,0,0,0,"","","","","",0,0
+284,0,0,0,0,0,"","","","","",0,0
+285,0,0,0,0,0,"","","","","",0,0
+286,0,0,0,0,0,"","","","","",0,0
+287,0,0,0,0,0,"","","","","",0,0
+288,0,0,0,0,0,"","","","","",0,0
+289,0,0,0,0,0,"","","","","",0,0
+290,0,0,0,0,0,"","","","","",0,0
+291,0,0,0,0,0,"","","","","",0,0
+292,0,0,0,0,0,"","","","","",0,0
+293,0,0,0,0,0,"","","","","",0,0
+294,0,0,0,0,0,"","","","","",0,0
+295,0,0,0,0,0,"","","","","",0,0
+296,0,0,0,0,0,"","","","","",0,0
+297,0,0,0,0,0,"","","","","",0,0
+298,0,0,0,0,0,"","","","","",0,0
+299,0,0,0,0,0,"","","","","",0,0
+300,0,0,0,0,0,"","","","","",0,0
 301,2,1,2,0,0,"/autolockon","","/自动锁定 子命令
 /autolockon
 开启“开始自动攻击时自动锁定”功能。
@@ -1637,10 +1742,10 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 主线向导(ScenarioGuide)
 高压以太(CompressedAether)
 宇宙探索：情报(CosmoExplorer:Info)
+对战：战场通告(CConflict:Log)
 水晶冲突：进度情报(CConflict:Progress)
 水晶冲突：我方情报(CConflict:Ally)
 水晶冲突：敌方情报(CConflict:Enemy)
-水晶冲突：战场通告(CConflict:Log)
 水晶冲突：导向地图(CConflict:Map)
 纷争前线：战意槽(Frontline:BattleGauge)
 纷争前线：情报值(Frontline:Score)
@@ -2071,6 +2176,65 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 将音量设为指定数值。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在静音与静音解除之间切换。","/演奏音量","",229,0
+342,0,0,0,0,0,"","","","","",0,0
+343,0,0,0,0,0,"","","","","",0,0
+344,0,0,0,0,0,"","","","","",0,0
+345,0,0,0,0,0,"","","","","",0,0
+346,0,0,0,0,0,"","","","","",0,0
+347,0,0,0,0,0,"","","","","",0,0
+348,0,0,0,0,0,"","","","","",0,0
+349,0,0,0,0,0,"","","","","",0,0
+350,0,0,0,0,0,"","","","","",0,0
+351,0,0,0,0,0,"","","","","",0,0
+352,0,0,0,0,0,"","","","","",0,0
+353,0,0,0,0,0,"","","","","",0,0
+354,0,0,0,0,0,"","","","","",0,0
+355,0,0,0,0,0,"","","","","",0,0
+356,0,0,0,0,0,"","","","","",0,0
+357,0,0,0,0,0,"","","","","",0,0
+358,0,0,0,0,0,"","","","","",0,0
+359,0,0,0,0,0,"","","","","",0,0
+360,0,0,0,0,0,"","","","","",0,0
+361,0,0,0,0,0,"","","","","",0,0
+362,0,0,0,0,0,"","","","","",0,0
+363,0,0,0,0,0,"","","","","",0,0
+364,0,0,0,0,0,"","","","","",0,0
+365,0,0,0,0,0,"","","","","",0,0
+366,0,0,0,0,0,"","","","","",0,0
+367,0,0,0,0,0,"","","","","",0,0
+368,0,0,0,0,0,"","","","","",0,0
+369,0,0,0,0,0,"","","","","",0,0
+370,0,0,0,0,0,"","","","","",0,0
+371,0,0,0,0,0,"","","","","",0,0
+372,0,0,0,0,0,"","","","","",0,0
+373,0,0,0,0,0,"","","","","",0,0
+374,0,0,0,0,0,"","","","","",0,0
+375,0,0,0,0,0,"","","","","",0,0
+376,0,0,0,0,0,"","","","","",0,0
+377,0,0,0,0,0,"","","","","",0,0
+378,0,0,0,0,0,"","","","","",0,0
+379,0,0,0,0,0,"","","","","",0,0
+380,0,0,0,0,0,"","","","","",0,0
+381,0,0,0,0,0,"","","","","",0,0
+382,0,0,0,0,0,"","","","","",0,0
+383,0,0,0,0,0,"","","","","",0,0
+384,0,0,0,0,0,"","","","","",0,0
+385,0,0,0,0,0,"","","","","",0,0
+386,0,0,0,0,0,"","","","","",0,0
+387,0,0,0,0,0,"","","","","",0,0
+388,0,0,0,0,0,"","","","","",0,0
+389,0,0,0,0,0,"","","","","",0,0
+390,0,0,0,0,0,"","","","","",0,0
+391,0,0,0,0,0,"","","","","",0,0
+392,0,0,0,0,0,"","","","","",0,0
+393,0,0,0,0,0,"","","","","",0,0
+394,0,0,0,0,0,"","","","","",0,0
+395,0,0,0,0,0,"","","","","",0,0
+396,0,0,0,0,0,"","","","","",0,0
+397,0,0,0,0,0,"","","","","",0,0
+398,0,0,0,0,0,"","","","","",0,0
+399,0,0,0,0,0,"","","","","",0,0
+400,0,0,0,0,0,"","","","","",0,0
 401,1,0,0,0,0,"/emote","/em","/感情表现 发言内容
 /emote、/em
 在本人名字后面连接发言内容作为感情表现，并发送给说话范围内的玩家。","/感情表现","",292,0
@@ -2470,11 +2634,13 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /sit、/lounge
 坐到地面上或身边其他可以坐在上面的场所上。处于坐下状态时输入该指令会站起身。
 在坐下状态中可以使用部分情感动作。","/坐下","/坐下",37,0
+452,0,0,0,0,0,"","","","","",0,0
 453,1,0,0,0,0,"/groundsit","","/坐下到地上
 /groundsit
 坐到地面上。
 处于坐下状态时输入该指令会站起身。
 在坐下状态中可以使用部分情感动作。","/坐下到地上","",37,0
+454,0,0,0,0,0,"","","","","",0,0
 455,2,1,2,0,0,"/airquotes","","/引用
 /airquotes
 做出引用的动作。用两只手表示出引号，一般指当前发言内容为引用自其他人，不过多数情况下有讽刺的意思。
@@ -2523,6 +2689,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /visor
 对头部装备进行操作。
 ※针对可以开合以及有明暗表现等功能的装备。","/头部装备","",301,0
+462,0,0,0,0,0,"","","","","",0,0
 463,2,1,2,0,0,"/megaflare","","/百万核爆 子命令
 /megaflare
 放出百万核爆般的光芒。
@@ -2547,30 +2714,30 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/魅惑拥抱","",293,0
-466,2,1,2,0,0,"/cheeron","","/声援小蓝 子命令
-/cheeron
-做出声援小蓝的动作。
+466,2,1,2,0,0,"/cheeronblue","/cheerob","/前后声援小蓝 子命令
+/cheeronblue、/cheerob
+做出前后声援小蓝的动作。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小蓝","",293,0
-467,2,1,2,0,0,"/cheerwave","","/声援小黄 子命令
-/cheerwave
-做出声援小黄的动作。
+做出动作并显示文字提示。","/前后声援小蓝","",293,0
+467,2,1,2,0,0,"/cheerwaveyellow","/cheerwy","/挥舞声援小黄 子命令
+/cheerwaveyellow、/cheerwy
+做出挥舞声援小黄的动作。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小黄","",293,0
-468,2,1,2,0,0,"/cheerjump","","/声援小红 子命令
-/cheerjump
-做出声援小红的动作。
+做出动作并显示文字提示。","/挥舞声援小黄","",293,0
+468,2,1,2,0,0,"/cheerjumpred","/cheerjr","/蹦跳声援小红 子命令
+/cheerjumpred、/cheerjr
+做出蹦跳声援小红的动作。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小红","",293,0
+做出动作并显示文字提示。","/蹦跳声援小红","",293,0
 469,2,1,2,0,0,"/straightface","/straight","/平常 子命令
 /straightface
 表现出面无表情的样子。
@@ -2715,10 +2882,24 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/投掷","",293,0
+487,0,0,0,0,0,"","","","","",0,0
+488,0,0,0,0,0,"","","","","",0,0
+489,0,0,0,0,0,"","","","","",0,0
+490,0,0,0,0,0,"","","","","",0,0
 491,2,1,2,0,0,"/changepose","/cpose","/改变姿势
 /changepose、/cpose
 改变当前的姿势。
 ※该指令只会做出动作，不会显示文字提示。","/改变姿势","",37,0
+492,0,0,0,0,0,"","","","","",0,0
+493,0,0,0,0,0,"","","","","",0,0
+494,0,0,0,0,0,"","","","","",0,0
+495,0,0,0,0,0,"","","","","",0,0
+496,0,0,0,0,0,"","","","","",0,0
+497,0,0,0,0,0,"","","","","",0,0
+498,0,0,0,0,0,"","","","","",0,0
+499,0,0,0,0,0,"","","","","",0,0
+500,0,0,0,0,0,"","","","","",0,0
+501,0,0,0,0,0,"","","","","",0,0
 502,2,1,2,0,0,"/stepdance","/sdance","/踢踏舞 子命令
 /stepdance、/sdance
 跳起踢踏舞。
@@ -2767,6 +2948,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/递交","",293,0
+508,0,0,0,0,0,"","","","","",0,0
+509,0,0,0,0,0,"","","","","",0,0
 510,2,1,2,0,0,"/bombdance","","/火盆舞 子命令
 /bombdance
 跳起火盆舞。
@@ -2823,6 +3006,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/对拳","",293,0
+517,0,0,0,0,0,"","","","","",0,0
+518,0,0,0,0,0,"","","","","",0,0
 519,2,1,2,0,0,"/thavdance","/tdance","/萨维奈舞 子命令
 /thavdance、/tdance
 跳起萨维奈舞。
@@ -3055,6 +3240,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/表达爱意","",293,0
+548,0,0,0,0,0,"","","","","",0,0
 549,2,1,2,0,0,"/spectacles","","/托眼镜 子命令
 /spectacles
 调整自己的眼镜。
@@ -3207,6 +3393,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　做出动作并显示文字提示。","/祝祷","",293,0
+569,0,0,0,0,0,"","","","","",0,0
 570,2,1,2,0,0,"/tremble","","/害怕 子命令
 /tremble
 瑟瑟发抖。
@@ -3271,6 +3458,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/胡鹰之舞","",293,0
+578,0,0,0,0,0,"","","","","",0,0
 579,2,1,2,0,0,"/splash","","/撩水 子命令
 /splash
 撩起水花。
@@ -3279,6 +3467,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/撩水","",293,0
+580,0,0,0,0,0,"","","","","",0,0
 581,2,1,2,0,0,"/sweat","","/好热 子命令
 /sweat
 假装自己很热。
@@ -3763,6 +3952,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/展现左侧","",293,0
+644,0,0,0,0,0,"","","","","",0,0
+645,0,0,0,0,0,"","","","","",0,0
 646,2,1,2,0,0,"/deride","/pagaga","/叛逆精神 子命令
 /deride、/pagaga
 展现叛逆精神。
@@ -3827,6 +4018,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/摇兔兔耳","",293,0
+654,0,0,0,0,0,"","","","","",0,0
+655,0,0,0,0,0,"","","","","",0,0
+656,0,0,0,0,0,"","","","","",0,0
 657,2,1,2,0,0,"/frighten","","/吓唬人 子命令
 /frighten
 吓唬人。
@@ -3891,30 +4085,30 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/手抚胸","",293,0
-665,2,1,2,0,0,"/cheeronbright","/cheerbright","/声援小白 子命令
- /cheeronbright、/cheerbright
-做出声援小白的动作。
- >>子命令
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+665,2,1,2,0,0,"/cheeronbright","/cheerow","/前后声援小白 子命令
+/cheeronbright、/cheerow
+做出前后声援小白的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小白","",293,0
-666,2,1,2,0,0,"/cheerwaveviolet","/cheerviolet","/声援小紫 子命令
- /cheerwaveviolet、/cheerviolet
-做出声援小紫的动作。
- >>子命令
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/前后声援小白","",293,0
+666,2,1,2,0,0,"/cheerwaveviolet","/cheerwv","/挥舞声援小紫 子命令
+/cheerwaveviolet、/cheerwv
+做出挥舞声援小紫的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小紫","",293,0
-667,2,1,2,0,0,"/cheerjumpgreen","/cheergreen","/声援小绿 子命令
- /cheerjumpgreen、/cheergreen
-做出声援小绿的动作。
- >>子命令
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/挥舞声援小紫","",293,0
+667,2,1,2,0,0,"/cheerjumpgreen","/cheerjg","/蹦跳声援小绿 子命令
+/cheerjumpgreen、/cheerjg
+做出蹦跳声援小绿的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做动作。
- <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出动作并显示文字提示。","/声援小绿","",293,0
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/蹦跳声援小绿","",293,0
 668,2,1,2,0,0,"/allsaintscharm","","/守护天节的魔咒 子命令
  /allsaintscharm
 施展守护天节的魔咒。
@@ -3923,6 +4117,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/守护天节的魔咒","",293,0
+669,0,0,0,0,0,"","","","","",0,0
 670,2,1,2,0,0,"/lophop","","/兔兔舞 子命令
 /lophop
 跳起兔兔舞。
@@ -4067,6 +4262,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/用触控板记录","",293,0
+688,0,0,0,0,0,"","","","","",0,0
 689,2,1,2,0,0,"/photograph","","/拍照 子命令
 /photograph
 拍一张照片。
@@ -4075,6 +4271,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/拍照","",293,0
+690,0,0,0,0,0,"","","","","",0,0
+691,0,0,0,0,0,"","","","","",0,0
 692,2,1,2,0,0,"/overreact","","/大惊小怪 子命令
 /overreact
 做出夸张的受惊动作。
@@ -4123,6 +4321,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/认真看书","",293,0
+698,0,0,0,0,0,"","","","","",0,0
 699,2,1,2,0,0,"/gridaniansip","","/用森都风格马克杯喝 子命令
 /gridaniansip
 用森都风格马克杯喝饮料。
@@ -4203,3 +4402,97 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/用羽毛笔记录","",293,0
+709,0,0,0,0,0,"","","","","",0,0
+710,0,0,0,0,0,"","","","","",0,0
+711,2,1,2,0,0,"/cheerrhythmred","/cheerrr","/节拍声援小红 子命令
+/cheerrhythmred、/cheerrr
+做出节拍声援小红的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/节拍声援小红","",293,0
+712,2,1,2,0,0,"/cheerlightyellow","/cheerly","/摇摆声援小黄 子命令
+/cheerlightyellow、/cheerly
+做出摇摆声援小黄的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/摇摆声援小黄","",293,0
+713,0,0,0,0,0,"","","","","",0,0
+714,2,1,2,0,0,"/runwaywalk","/runway","/模特步 子命令
+/runwaywalk、/runway
+走模特步。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/模特步","",293,0
+715,0,0,0,0,0,"","","","","",0,0
+716,0,0,0,0,0,"","","","","",0,0
+717,0,0,0,0,0,"","","","","",0,0
+718,2,1,2,0,0,"/carrybook","","/双手抱书 子命令
+/carrybook
+双手抱起书。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/双手抱书","",293,0
+719,2,1,2,0,0,"/divinearm","","/激活神机手铠 子命令
+/divinearm
+使手铠形神机发光。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/激活神机手铠","",293,0
+720,2,1,2,0,0,"/divinedisk","","/激活神机项环 子命令
+/divinedisk
+使项环形神机发光。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/激活神机项环","",293,0
+721,2,1,2,0,0,"/divinetiara","","/激活神机王冠 子命令
+/divinetiara
+使王冠形神机发光。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/激活神机王冠","",293,0
+722,2,1,2,0,0,"/cheerrhythmviolet","/cheerrv","/节拍声援小紫 子命令
+/cheerrhythmviolet、/cheerrv
+做出节拍声援小紫的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/节拍声援小紫","",293,0
+723,2,1,2,0,0,"/cheerrhythmbright","/cheerrw","/节拍声援小白 子命令
+/cheerrhythmbright、/cheerrw
+做出节拍声援小白的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/节拍声援小白","",293,0
+724,2,1,2,0,0,"/cheerlightblue","/cheerlb","/摇摆声援小蓝 子命令
+/cheerlightblue、/cheerlb
+做出摇摆声援小蓝的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/摇摆声援小蓝","",293,0
+725,2,1,2,0,0,"/cheerlightgreen","/cheerlg","/摇摆声援小绿 子命令
+/cheerlightgreen、/cheerlg
+做出摇摆声援小绿的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/摇摆声援小绿","",293,0

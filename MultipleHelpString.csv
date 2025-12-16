@@ -118,9 +118,9 @@ int32,str,str
 
 点击窗口内的人物，可以打开专用的人物窗口，
 在人物窗口内可以阅读已发现的故事。"
-19,"挑战异闻迷宫","开放了特殊迷宫探索的高难度任务——<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异闻迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+19,"挑战异闻迷宫","开放了特殊迷宫探索器“异式迷宫”分类下的——<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异闻迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-通过点击窗口上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异闻迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+通过点击窗口上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异式迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 可以将窗口内的信息改为异闻迷宫的信息。
 
 异闻迷宫中没有同行的非玩家角色和分歧路线，
@@ -130,12 +130,7 @@ int32,str,str
 20,"异闻迷宫的限制","异闻迷宫与多变迷宫不同，
 任务中无法进行<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特职转换<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 同时，复活等普通技能无法解除无法战斗状态，
-只有专用的多变复活技能可以解除无法战斗状态。
-
-此外，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>异闻迷宫中，
-将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>多变技能。
-
-零式异闻迷宫只有组满4人且全员满足条件后才可进入。"
+只有专用的多变复活技能可以解除无法战斗状态。"
 21,"关于队员介绍","用于显示各队员肖像的专用窗口。在迷宫、讨伐歼灭战等任务开始时会自动显示。任务开始时显示的专用窗口无法变更大小与显示位置。
 
 任务开始时显示的专用窗口可以通过角色设置或从详细设定变更为非显示。"
@@ -154,3 +149,37 @@ int32,str,str
 可以无视平均品级进入迷宫。"
 26,"异闻迷宫的匹配条件","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>匹配条件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务已完成<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只有在曾经完成过对应任务时才能选择。"
+27,"快捷面板","快捷面板可以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自由设置各种功能和技能，以方便快速找到和使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，非常便利。
+
+经常使用的情感动作、坐骑、套装以及各种道具，那些不想一直显示在外，却又想快速找到并使用的功能，均可设置在快捷面板，以方便平时的冒险。"
+28,"设置方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>手柄模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>在设置热键栏模式中选择“发送到快捷面板”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>即可。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鼠标模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+用鼠标<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>拖拽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能或技能至快捷面板中即可。"
+29,"功能设置","点击快捷面板窗口右上角的齿轮图标，或从次级指令中选择打开设置，即可进入设置快捷面板功能的窗口。
+
+其中有直接打开指定的快捷面板、调整快捷面板颜色深浅、使用技能后不会关闭窗口等各种功能，通过改变设置，让快捷面板变得更顺手吧。"
+30,"操作方法","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>手柄模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+手柄模式中打开快捷面板，光标会移动到面板中央的格子，
+通过组合移动键和光标加速键，可以2步就让光标移动到面板中的任意格子。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鼠标模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+鼠标模式中，点击后即可使用功能和技能，
+此外，通过使用鼠标滚轮，可以快速切换至不同面板。"
+31,"零式异闻迷宫的限制","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>零式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>异闻迷宫中，
+将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>多变技能。
+
+零式异闻迷宫只有组满4人且全员满足条件后才可进入。"
+32,"",""
+33,"",""
+34,"启动方法","在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单的特别指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以启动快捷面板。
+
+通过快捷键可以更快启动快捷面板。
+・热键栏中设置快捷面板的快捷方式
+・自定义按键中分配快捷面板的按键
+　(系统设置中的手柄设置里可以选择自定义按键)
+・键位设置
+・文本指令"
+35,"",""
+36,"",""

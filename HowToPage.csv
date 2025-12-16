@@ -1785,7 +1785,7 @@ int32,byte,byte,Image,byte,str,str,str
 可以在背包中打开道具的次级指令选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 也可以在房屋菜单中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“染色”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
-为家居染上自己喜欢的颜色，试着搭配出时尚的房屋吧！","",""
+为家具染上自己喜欢的颜色，试着搭配出时尚的房屋吧！","",""
 954,0,0,0,0,"","",""
 955,0,0,0,0,"","",""
 956,0,0,0,0,"","",""
@@ -2623,7 +2623,7 @@ int32,byte,byte,Image,byte,str,str,str
 1450,1,0,151651,0,"
 完成友好部族任务可以提高发行任务的友好部族的友好度。
 
-友好度提升到一定程度之后会提升友好部族的友好关系等级，友好关系等级提高之后可以接受一些特殊的任务。","",""
+友好度提升到一定程度后可以接取一些特殊的任务。完成任务后，友好关系等级将会提高。","",""
 1451,1,0,151652,0,"
 提升友好部族的友好关系等级之后可以在友好部族的专用商店购买一些友好部族相关的道具。","",""
 1452,1,0,151653,0,"
@@ -2813,11 +2813,13 @@ int32,byte,byte,Image,byte,str,str,str
 1560,1,0,151761,0,"
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能开放了！
 
-在装备的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备的外型完全变成另一种形象。","",""
+在装备的指令中选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“武具投影”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以将该装备的外型完全变成另一种形象。
+
+用于投影的装备即便与被投影装备的等级、职业不同，也可以进行投影改变外型。","",""
 1561,1,0,151762,0,"
 在进行投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“幻象棱晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※用于投影的装备必须与被投影装备的等级、职业、种族、性别相匹配。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+此外，在解除投影时需要一种叫做<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“驱幻晶”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的专用触媒。","",""
 1562,1,0,151763,0,"
 变幻外型之后的装备无法拿到市场上出售，也无法交易给他人。<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同时，进行投影的装备均会自动附加绑定属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 

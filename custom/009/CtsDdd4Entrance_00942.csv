@@ -32,7 +32,9 @@ int32,str,str
 <UIForeground>F20235</UIForeground><UIGlow>F20236</UIGlow>反复挑战“第99朝圣路”的练习挑战。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 要做什么？"
-25,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_NEXT","<UIForeground>F20235</UIForeground><UIGlow>F20236</UIGlow>挑战下一朝圣路<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-26,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_EXPLAIN","查看说明"
-27,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_Q","可以以现在的小队继续进行攻略。
+25,"TEXT_CTSDDD4ENTRANCE_00942_SYSTEM_000_100","在利姆萨·罗敏萨沉溺海豚亭的伊·托尔婉处
+接取并完成任务“遗失的挑战笔记”，即可解锁“挑战笔记”功能。"
+26,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_NEXT","<UIForeground>F20235</UIForeground><UIGlow>F20236</UIGlow>挑战下一朝圣路<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_TOP_MENU_EXPLAIN","查看说明"
+28,"TEXT_CTSDDD4ENTRANCE_00942_MIDDLE_Q","可以以现在的小队继续进行攻略。
 要前往下一朝圣路吗？"

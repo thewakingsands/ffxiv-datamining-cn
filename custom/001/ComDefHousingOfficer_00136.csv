@@ -145,7 +145,7 @@ int32,str,str
 86,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_191","部队房屋、个人房屋以及个人房间的屋内照明亮度
 可以进行五个等级的调节。"
 87,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_192","可以在快捷指令的“房屋”中，
-选择“调整照明”来调节亮度。"
+选择“室内环境设置”来调节亮度。"
 88,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_100","家具和庭具一经布置之后，
 便无法进行交易或拿到市场上出售。"
 89,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_101","另外，有一部分已经布置的家具和庭具，

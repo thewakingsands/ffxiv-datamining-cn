@@ -2,6 +2,10 @@
 #,Item{1},Item{2},PlaceName,,Objective{1},PopRange[0],RequiredAmount{1},,,Objective2,PopRange[1],RequiredAmount{2},,,Objective3,PopRange[2],,,,,Image,,,,,
 int32,EventItem,EventItem,PlaceName,uint16,SkyIsland2MissionDetail,uint32,byte,uint32,byte,SkyIsland2MissionDetail,uint32,byte,uint32,byte,SkyIsland2MissionDetail,uint32,byte,uint32,byte,uint32,Image,str,str,str,str,str
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"","","","",""
 5,0,0,0,0,10,0,0,0,0,11,0,0,0,0,12,0,0,0,0,6710323,111102,"探索任务：云冠群岛资源调查","自从漂流遗迹出现后，云冠群岛的属性之力突然受到影响，环境也发生了剧烈变化。所以我们希望冒险者能协助我们进行大规模资源调查。
 你们可以在群岛采掘、采伐、捕鱼，随意进行采集活动。当然，采集到的东西归你们自己所有，因为我们的目的只有群岛的资源情报。
 

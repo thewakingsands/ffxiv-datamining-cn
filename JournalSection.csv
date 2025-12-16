@@ -1,12 +1,12 @@
 ﻿key,0,1,2
 #,Name,,
 int32,str,bit&01,bit&02
-0,"主线任务1(重生/苍穹/红莲/暗影/晓月)",True,True
-1,"主线任务2(金曦之遗辉)",True,True
+0,"主线任务1（重生/苍穹/红莲/暗影/晓月）",True,True
+1,"主线任务2（金曦之遗辉）",True,True
 2,"编年史任务",True,True
 3,"支线任务",True,True
-4,"友好部族任务1(重生/苍穹/红莲/暗影/晓月)",True,True
-5,"友好部族任务2(金曦之遗辉)",True,True
+4,"友好部族任务1（重生/苍穹/红莲/暗影/晓月）",True,True
+5,"友好部族任务2（金曦之遗辉）",True,True
 6,"职业任务",True,True
 7,"其它",True,True
 8,"理符",True,False

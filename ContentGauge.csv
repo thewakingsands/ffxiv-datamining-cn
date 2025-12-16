@@ -79,7 +79,7 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 75,0,"能量填充率",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 76,0,"以太凝缩率",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 77,0,"九尾的妖气",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-78,0,"",0,False,"",0,0,0,0,0,0,0
+78,1,"",0,True,"",60,1,0,180,1,0,0
 79,0,"格威德鲁特的雷力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 80,0,"欧提斯的耐久度",2,False,"",30,1,3,70,1,1,0
 81,0,"天灾征兆",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
@@ -90,3 +90,9 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 86,0,"泽莲尼娅的以太",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 87,0,"对死亡的恐惧",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 88,1,"",0,True,"",-1,1,0,-1,1,0,0
+89,0,"格莱杨拉波尔的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+90,0,"可露儿的魔力",1,True,"ContentGaugeMax_positive",-1,1,0,-1,1,0,0
+91,0,"割草之魂",1,True,"",50,1,3,100,1,2,0
+92,0,"",0,False,"",0,0,0,0,0,0,0
+93,0,"",0,False,"",0,0,0,0,0,0,0
+94,0,"",0,False,"",0,0,0,0,0,0,0
