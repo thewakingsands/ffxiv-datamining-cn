@@ -1742,7 +1742,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 主线向导(ScenarioGuide)
 高压以太(CompressedAether)
 宇宙探索：情报(CosmoExplorer:Info)
-对战：战场通告(CConflict:Log)
+玩家对战：战场通告(PvP:Log)
 水晶冲突：进度情报(CConflict:Progress)
 水晶冲突：我方情报(CConflict:Ally)
 水晶冲突：敌方情报(CConflict:Enemy)
