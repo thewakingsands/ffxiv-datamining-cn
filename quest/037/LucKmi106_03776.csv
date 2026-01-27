@@ -73,7 +73,7 @@ int32,str,str
 60,"TEXT_LUCKMI106_03776_SYSTEM_000_021","将意识集中到水晶上，再次听到了别的声音……"
 61,"TEXT_LUCKMI106_03776_SEAGREENCRYSTAL_000_022","(-萌黄色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>……天空在燃烧，令人恐惧的末日到来了。
 为何……为什么……难道就连生命都不被允许存在吗？<UIForeground>01</UIForeground>"
-62,"TEXT_LUCKMI106_03776_PURPLECRYSTAL_000_023","(-淡紫色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>即便如此，我们仍然是在这颗行星上繁衍生息的生命。
+62,"TEXT_LUCKMI106_03776_PURPLECRYSTAL_000_023","(-淡紫色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>即便如此，我们仍然是在这颗星球上繁衍生息的生命。
 探寻迈向未来的希望吧……<UIForeground>01</UIForeground>"
 63,"TEXT_LUCKMI106_03776_SYSTEM_000_024","可能在其他地方还有别的水晶。
 再去找找看吧。"
@@ -81,7 +81,7 @@ int32,str,str
 ……难道是有人故意留下的？"
 65,"TEXT_LUCKMI106_03776_NAVYCRYSTAL_000_031","(-青蓝色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>……逐渐地在崩塌……燃烧……腐烂。
 唯有悲鸣与恸哭在回响着……<UIForeground>01</UIForeground>"
-66,"TEXT_LUCKMI106_03776_PEACOCKGREENCRYSTAL_000_032","(-青绿色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>人啊、行星啊、请不要哭泣……
+66,"TEXT_LUCKMI106_03776_PEACOCKGREENCRYSTAL_000_032","(-青绿色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>人啊、星球啊、请不要哭泣……
 在陷入终结之前，由我们来拯救……<UIForeground>01</UIForeground>"
 67,"TEXT_LUCKMI106_03776_SYSTEM_000_033","……再去找找水晶吧。"
 68,"TEXT_LUCKMI106_03776_SYSTEM_000_040","再次找到了3块水晶。"
@@ -93,7 +93,7 @@ int32,str,str
 72,"TEXT_LUCKMI106_03776_SYSTEM_000_044","前面的水晶里也有某人的记忆吗？"
 73,"TEXT_LUCKMI106_03776_SYSTEM_000_050","发现了第12块水晶。"
 74,"TEXT_LUCKMI106_03776_SCARLETCRYSTAL_000_051","(-深绯色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>……末日已过。
-为新的行星意志献上重生的祈祷吧。<UIForeground>01</UIForeground>"
+为新的星球意志献上重生的祈祷吧。<UIForeground>01</UIForeground>"
 75,"TEXT_LUCKMI106_03776_SCARLETCRYSTAL_000_052","(-深绯色水晶中回荡的记忆之声-)<UIForeground>F20223</UIForeground>亲爱之人啊……温柔的挚友啊……
 我们终将于生命灿烂绽放的世界再会吧……<UIForeground>01</UIForeground>"
 76,"TEXT_LUCKMI106_03776_SYSTEM_000_053","一瞬间看到的仿佛是末日之后……

@@ -82,7 +82,7 @@ int32,str,str
 之后交给你了。"
 30,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_055","如果获得新种类的“文理技能”，
 此“文理技能”将会被自动记录。"
-31,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_056","当记录的“文理技能”达到10种以上时，
+31,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_056","当记录的“文理技能”大于等于10种时，
 可以与北点的德雷克对话，
 开放“禁地兵装·元素”的强化。"
 32,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_057","另外，记录的“文理技能”
@@ -91,7 +91,7 @@ int32,str,str
 33,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_060","喂，嵌写方法的研究怎么根本没进展啊。
 你得给我更多地使用文理融合器，多弄点新的提取结果。
 要不然不光是没法强化你的武器，我的债务也没法偿还啊！"
-34,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_061","当记录的“文理技能”达到10种以上时，
+34,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_061","当记录的“文理技能”大于等于10种时，
 可以与北点的德雷克对话，
 开放“禁地兵装·元素”的强化。"
 35,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_070","哟，你来了啊冒险者。
@@ -234,14 +234,14 @@ int32,str,str
 98,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_350","不过现在总算是能用涌火地带的素材进行第1次强化了。
 要想进一步强化，你也要多多配合啊。"
 99,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_351","当前可以对“禁地兵装·元素”进行强化。"
-100,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_352","当记录的“文理技能”达到20种以上时，
+100,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_352","当记录的“文理技能”大于等于20种时，
 可以与北点的德雷克对话，
 开放对“禁地兵装·元素+1”的强化。"
 101,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_360","现在嵌写方法的研究有了进展，
 可以用涌火地带的素材进行2次强化了。
 要想进一步强化，你也要多多配合啊。"
 102,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_361","当前可以对“禁地兵装·元素+1”进行强化。"
-103,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_362","当记录的“文理技能”达到30种以上时，
+103,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_362","当记录的“文理技能”大于等于30种时，
 可以与北点的德雷克对话，
 开放对“禁地兵装·元素+2”的强化。"
 104,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_370","现在将记忆嵌写进武器的方法总算是研究完成了。

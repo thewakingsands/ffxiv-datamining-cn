@@ -2472,7 +2472,7 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 所以才寻求猫咪的慰藉吗？
 　　　　　　　——玛格拉特","高贵的眼神","对范围内的敌人造成90攻击力的伤害。",20,30,3,False,False,False,True,False,1
 519,"召唤出宠物“说话的石头”。
-尤卡巨人族的遗物，十分喜欢聊天。","在深空天坑遇到的尤卡巨人族的遗物。虽然看上去只是一个不停说话的魔法人偶，但其实是大型岩兵的核心。由于冒险者破坏了它的重装大岩兵外壳，所以一直想找准机会和冒险者合体。","哥布林族的破烂兵器
+尤卡巨人族的遗物，十分喜欢聊天。","在深空天坑遇到的尤卡巨人族的遗物。虽然看上去只是一个不停说话的魔法人偶，但其实是大型岩兵的核心。由于冒险者破坏了它的重装大岩兵外壳，所以一直想找准机会和冒险者合体。","哥布林族的机关兵器
 居然合体成为一个钢铁巨人……
 　　　　　　　　——异国的诗人","无止境合体","对范围内的敌人每秒造成10点持续伤害。
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒",30,65,3,False,False,True,False,False,1
@@ -2699,7 +2699,11 @@ int32,str,str,str,str,str,byte,byte,byte,bit&01,bit&02,bit&04,bit&08,bit&10,Mini
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒",45,40,3,False,False,True,False,False,4
 567,"","","","","",0,0,0,False,False,False,False,False,0
 568,"","","","","",0,0,0,False,False,False,False,False,0
-569,"","","","","",0,0,0,False,False,False,False,False,0
+569,"召唤出宠物“嗡鸣威”。
+原本是运输无人机，后来专精于救援迷路的目标。有一双结实的机械臂。","原本是运输无人机，后经过改造，主要被用于救援迷路的兔兔族。有一双结实的机械臂，一发现迷路的兔兔族就会把对方抓起来带回基地。另外，没人迷路的时候，它会随便找个目标跟着，打发时间。","我、
+我要跟着你们！
+　　　——艾莉亚","自动飞行","令范围内敌人的移动速度降低70%。
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒",25,45,3,False,False,True,False,False,4
 570,"召唤出宠物“究极战士G型MGSD模型”。
 加隆德炼铁厂生产的专家级特殊比例模型。究极战士G型（自动跟随光之战士）。","人形对蛮神兵器“究极战士G型”的模型，调整了部分比例。加隆德炼铁厂的原型制作师在模型小小的身体里填满了无与伦比的细节。如今，作为宣传活动的一部分，这件珍贵的礼物被赠送给了同盟演习中获得佳绩的冒险者。","身体比例正合适。
 你要是想整体缩小点

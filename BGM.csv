@@ -1240,7 +1240,7 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 20246,"",0,False,False,False,0,0
 20247,"",0,False,False,False,0,0
 20248,"",0,False,False,False,0,0
-20249,"",0,False,False,False,0,0
+20249,"music/ex4/BGM_EX4_WKS_08.scd",1,False,False,True,90,0
 20250,"music/ex5/BGM_EX5_Event_39.scd",1,True,True,False,90,0
 20251,"",0,False,False,False,0,0
 20252,"music/ex5/BGM_EX5_Boss_Battle03.scd",1,False,False,True,90,0

@@ -310,7 +310,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 306,"端坐享用绿茶",8193,8192,8193,0,0,0,0,False,False,False,2,86,False,True,False,False,False,11600,707,246451,8345,8344,556,730
 307,"用羽毛笔记录",8144,8143,0,0,0,0,0,False,False,False,2,87,False,True,False,False,False,11518,708,246452,8347,8346,557,730
 308,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-309,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
+309,"跳脚",8179,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,5005,710,246455,8351,8350,578,741
 310,"节拍声援小红",8181,8180,0,0,0,0,0,False,False,False,2,88,False,True,False,False,False,10031,711,246456,8353,8352,579,740
 311,"摇摆声援小黄",8183,8182,0,0,0,0,0,False,False,False,2,89,False,True,False,False,False,10034,712,246457,8359,8358,580,740
 312,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0

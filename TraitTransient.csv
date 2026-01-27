@@ -1258,7 +1258,7 @@ int32,str
 648,"采集完良材及草场时，偶尔会将耐久/采集次数恢复至最大值，并再次进行采集
 同时，恢复全部采集力，解除所有采集相关的状态
 此外，理符相关和部分良材及草场无法再次采集"
-649,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恢复<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>捕鱼人之识、刺鱼人的直觉<Else/>捕鱼人之识</If><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间
+649,"恢复<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>捕鱼人之识、刺鱼人的直觉<Else/>捕鱼人之识</If><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持续时间
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>捕鱼人之识、刺鱼人的直觉<Else/>捕鱼人之识</If><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中捕获特定的鱼（每种鱼的发动几率不同）"
 650,"部分技能的威力提高
 

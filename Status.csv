@@ -3458,7 +3458,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3290,"咒怨残响","咒怨咆哮的残响残留在体内，效果时间结束时会引发爆炸",216706,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3291,"咒怨大残响","咒怨咆哮的残响残留在体内，效果时间结束时会引发大范围爆炸",216707,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3292,"连咒残响","咒怨咆哮的残响残留在体内，效果时间结束时会在当前位置引发连续爆炸",216708,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-3293,"重怨残响","咒怨咆哮的残响残留在体内，效果时间结束时会引发大爆炸",216709,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+3293,"重怨残响","咒怨咆哮的残响残留在体内，效果时间结束时会引发猛烈爆炸",216709,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3294,"咒毒之锁","被锁链拴住，体力逐渐流失",216710,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3295,"黄金之咒","被施加了黄金之咒，效果时间结束时会陷入无法战斗的状态，受到白银闪火的影响后解除",217118,0,2,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3296,"白银之咒","被施加了白银之咒，效果时间结束时会陷入无法战斗的状态，受到黄金闪火的影响后解除",217138,0,2,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -3733,7 +3733,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3561,"目标β","被选为特定技能的攻击目标",214104,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3562,"系统错误","发生系统错误，被攻击时所受到的伤害增加",215020,40,0,1,2,17,0,False,False,False,False,False,False,False,False,True,100,0,False,False,20,28,True,0,False,0,False,0,0,0,False,False,False,0
 3563,"奴延咒声：散","受到了咒声的影响，效果时间结束时会引发爆炸",216745,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-3564,"奴延咒声：集","受到了咒声的影响，效果时间结束时会引发大爆炸",216746,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+3564,"奴延咒声：集","受到了咒声的影响，效果时间结束时会引发猛烈爆炸",216746,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3565,"设置多变治疗","设置了多变治疗，可以暂时发动该多变技能",216739,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,1,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3566,"设置多变最后通牒","设置了多变最后通牒，可以暂时发动该多变技能",216740,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,2,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3567,"设置多变复活","设置了多变复活，可以暂时发动该多变技能",216741,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,3,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -3782,7 +3782,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3608,"火印","被施加了火印，效果时间结束时会对周围发动范围攻击",216738,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3609,"锁定","被选为攻击的对象",215026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3610,"怨咒之火","受到了诅咒，效果时间结束时会引发爆炸",216738,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-3611,"怨咒之重火","受到了诅咒，效果时间结束时会引发大爆炸",216737,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+3611,"怨咒之重火","受到了诅咒，效果时间结束时会引发猛烈爆炸",216737,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 3612,"活血XXII","享用了超辣咖喱后加速了血液循环，身体仿佛燃烧起来了一样！",216252,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3613,"活血I","享用了咖喱后加速了血液循环，身体暖暖的",216253,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3614,"利刃流心眼","减轻所受到的伤害",213307,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-20,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -3939,7 +3939,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3760,"宇宙大爆炸","被爆发性扩散的暗之力所激活",214116,0,0,1,1,16,650,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3761,"宇宙大反弹","无属性持续伤害，体力逐渐流失",214117,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 3762,"黑暗侵蚀：飞散","被黑暗之力所侵蚀，效果结束时会引发爆炸",214118,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
-3763,"黑暗侵蚀：重击","被黑暗之力所侵蚀，效果结束时会引发大爆炸",214119,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
+3763,"黑暗侵蚀：重击","被黑暗之力所侵蚀，效果结束时会引发猛烈爆炸",214119,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 3764,"黑暗侵蚀：双重","被黑暗之力所侵蚀，效果结束时会引发爆炸",214120,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 3765,"黑暗侵蚀：凝视","被黑暗之力所侵蚀，效果时间结束时会向前方发动攻击",214121,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 3766,"黑暗侵蚀：锁链","被黑暗之力所侵蚀，效果结束时黑暗咒链会将自己与他人连接到一起",214122,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -3970,7 +3970,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 3791,"移动速度提高","移动速度提高 ",210101,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,18,False,0,False,0,False,0,0,0,False,False,False,0
 3792,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,9,False,0,False,0,False,0,0,0,False,False,False,0
 3793,"加速度炸弹","身上附着有加速度炸弹，效果时间结束时如未停止行动则会爆炸",215727,0,0,1,2,17,24,False,False,False,False,False,False,False,False,False,200,0,False,False,6234,0,False,0,False,0,False,0,23,0,False,False,False,0
-3794,"黑暗侵蚀：重击","被黑暗之力所侵蚀，效果结束时会引发大爆炸",214119,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
+3794,"黑暗侵蚀：重击","被黑暗之力所侵蚀，效果结束时会引发猛烈爆炸",214119,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 3795,"持续伤害","无属性持续伤害，体力逐渐流失",0,0,5,1,1,16,0,False,False,False,False,True,False,False,True,True,200,0,True,False,86,26,False,0,False,0,False,0,0,0,False,False,False,0
 3796,"轻度脑震荡","受到强烈冲击，积累档数过多会陷入脑震荡状态",217936,0,2,1,2,33,684,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 3797,"水毒","水属性持续伤害，体力逐渐流失",215529,89,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False,False,False,0
@@ -4388,7 +4388,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4184,"憎恶之炎","身体被憎恶之炎灼烧，体力逐渐流失",214250,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,1,0,False,False,10,0,False,0,False,5,False,0,0,0,False,False,False,0
 4185,"憎恶束缚","无法做出任何行动",214251,0,0,1,2,17,5,False,True,False,True,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4186,"空间掌控：光爆","受到绝对君权的影响，效果时间结束时以自身为中心发动大范围爆炸",214247,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
-4187,"空间掌控：重爆","受到绝对君权的影响，效果时间结束时产生大爆炸",214248,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
+4187,"空间掌控：重爆","受到绝对君权的影响，效果时间结束时产生猛烈爆炸",214248,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 4188,"空间掌控：引爆","受到绝对君权的影响，效果时间结束时产生爆炸",214249,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False,False,False,0
 4189,"东风纹","被刻上了东风纹，效果时间结束时受到东方的突风攻击",214245,0,0,1,2,17,830,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4190,"西风纹","被刻上了西风纹，效果时间结束时受到西方的突风攻击",214246,0,0,1,2,17,829,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4480,7 +4480,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4274,"治愈宣告","效果结束时恢复周围队员的体力",229930,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4275,"不死宣告","除特定攻击之外其他所有对自身发动的攻击均无法令体力减少到1以下",229931,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,31,0,False,False,False,0
 4276,"魔冲刺","移动速度提高",216678,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,18,False,0,False,0,False,0,6,0,False,False,False,0
-4277,"警戒","警惕地观察着周围，进入状态后为自身附加先手必胜状态",229932,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4277,"警戒","警惕地观察着周围，进入战斗状态后为自身附加先手必胜状态",229932,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4278,"先手必胜","暴击发动率提高",229933,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
 4279,"武器被偷","物理攻击力减弱",229934,8,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4280,"晚风凉","自身所受的治疗效果提高",229915,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,0,False,False,20,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4629,7 +4629,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4411,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4412,"预言蛋发现率提高","更容易找到预言蛋",216259,0,0,1,1,16,1040,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4413,"金预言蛋出现率提高","找到的预言蛋必定是金预言蛋",216260,0,0,1,1,16,1041,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4414,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4414,"加钩","下一次会钓到双倍数量的鱼",216257,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4415,"贡献之星","统计期内被评选为贡献之星的证明。仅对能工巧匠与大地使者生效",216255,0,0,1,1,16,897,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4416,"专心咏唱","咏唱无法被打断",214188,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4417,"转向准备：前","下次攻击对前方发动",215424,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4652,7 +4652,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4434,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,False,0,0,True,False,28,26,False,0,False,0,False,0,0,0,False,False,False,0
 4435,"","",0,0,0,0,1,0,0,False,False,False,False,False,False,False,True,False,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4436,"受伤减轻","受到攻击的伤害减少",215021,40,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
-4437,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4437,"扩展研究预备","可以使用扩展研究",216262,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4438,"决战特里同","被强制进行决战，无法对特里同以外的目标造成伤害",229940,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4439,"决战涅瑞伊得","被强制进行决战，无法对涅瑞伊得以外的目标造成伤害",229941,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4440,"决战福博斯","被强制进行决战，无法对福博斯以外的目标造成伤害",229942,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -4967,7 +4967,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4747,"爆风细胞：前","身上附有爆风细胞。效果时间结束时会发生爆炸，并发动击退效果",214334,0,0,1,2,17,1076,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 4748,"爆风细胞：后","身上附有爆风细胞。效果时间结束时会发生爆炸，并发动击退效果",214335,0,0,1,2,17,1031,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 4749,"引爆细胞","身上附有引爆细胞。效果时间结束时会发生爆炸",214336,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,True,0,0,True,0,False,0,False,0,23,0,False,False,False,0
-4750,"引爆细胞：大爆炸","身上附有引爆细胞。效果时间结束时会发生大爆炸",214337,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
+4750,"引爆细胞：大爆炸","身上附有引爆细胞。效果时间结束时会发生猛烈爆炸",214337,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 4751,"引爆细胞：指向","身上附有引爆细胞。效果时间结束时会发生爆炸，并对特定方向发动冲击波",214338,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 4752,"_rsv_4752_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4752_-1_4_1_0_S74CFC3B0_E74CFC3B0",214339,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,23,0,False,False,False,0
 4753,"_rsv_4753_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4753_-1_4_1_0_S74CFC3B0_E74CFC3B0",214340,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -4979,7 +4979,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4759,"爆风细胞：前","身上附有爆风细胞。效果时间结束时会发生爆炸，并发动击退效果",214334,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4760,"爆风细胞：后","身上附有爆风细胞。效果时间结束时会发生爆炸，并发动击退效果",214335,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4761,"引爆细胞","身上附有引爆细胞。效果时间结束时会发生爆炸",214336,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,True,0,0,True,0,False,0,False,0,0,0,False,False,False,0
-4762,"引爆细胞：大爆炸","身上附有引爆细胞。效果时间结束时会发生大爆炸",214337,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
+4762,"引爆细胞：大爆炸","身上附有引爆细胞。效果时间结束时会发生猛烈爆炸",214337,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4763,"致死细胞","身上附有致死细胞。效果时间结束时会受到巨额伤害，但该状态在受到特定攻击后可以解除。另外，状态解除时会对周围造成无属性伤害",214346,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4764,"分散细胞","身上附有分散细胞。效果时间结束时会对周围造成无属性伤害，并向四周泼洒分散细胞",214347,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4765,"_rsv_4765_-1_4_0_0_S74CFC3B0_E74CFC3B0","_rsv_4765_-1_4_1_0_S74CFC3B0_E74CFC3B0",214348,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
@@ -5059,7 +5059,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4836,"蝴蝶彩绘","正在集中精神发动绘灵魔法蝴蝶彩绘",216413,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,19,True,0,False,0,False,0,24,0,False,False,False,0
 4837,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4838,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4839,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4839,"宇宙稳手","接下来发动的技能必定成功",211551,0,0,33,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,False,0
 4840,"王国屏障","抵消一定伤害",212801,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,30,0,False,False,100,0,False,0,False,0,False,0,12,0,False,False,False,0
 4841,"守护神的祈祷","持续恢复体力",215532,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,0,False,True,10,0,False,0,False,0,False,0,0,0,False,False,False,0
 4842,"王国敏护","减轻所受到的伤害",212816,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5216,7 +5216,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4993,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4994,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4995,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4996,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4996,"高能拖拽激光就绪","可以发动高能拖拽激光",216256,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 4997,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4998,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4999,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5263,8 +5263,8 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 5040,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5041,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5042,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5043,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5044,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5043,"眩晕","无法做出任何行动",215004,0,0,1,2,3,2,True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5044,"加重","移动速度降低",215002,150,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,0,False,False,0,1,False,0,False,0,False,0,0,0,False,False,False,0
 5045,"火属性耐性大幅降低","对抗火属性的耐性有显著降低",215595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5046,"暗属性耐性大幅降低","对抗暗属性的耐性有显著降低",215485,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5047,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5330,7 +5330,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 5107,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5108,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5109,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5110,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5110,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,True,0,0,True,False,0,0,True,0,False,0,False,0,0,0,False,False,False,0
 5111,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5112,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5113,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0

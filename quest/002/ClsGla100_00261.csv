@@ -155,7 +155,7 @@ int32,str,str
 96,"TEXT_CLSGLA100_00261_MYLLA_000_170","纳伊迪斯？
 不认识这个人啊。
 算了……不管这么多了。"
-97,"TEXT_CLSGLA100_00261_SYSTEM_000_180","等级达到“15级”以上时，才可以领取下一个任务。
+97,"TEXT_CLSGLA100_00261_SYSTEM_000_180","等级达到15级以上时，才可以领取下一个任务。
 提高等级后再来行会。 "
 98,"TEXT_CLSGLA100_00261_POP_MESSAGE","察觉到了敌人的气息！ "
 99,"TEXT_CLSGLA100_00261_SCENE00005_INSTANCE_BATTLE_YESNO_TITLE","要开始“折断长枪的剑光”的战斗吗？"

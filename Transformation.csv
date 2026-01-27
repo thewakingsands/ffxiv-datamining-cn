@@ -467,7 +467,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 463,5,0,0,0,2463,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,True,True,False,False,1148,1148,0,-1,0,0,0,False,False
 464,1,0,0,1097,2484,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
 465,4,0,0,0,0,False,42150,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,117,117,0,-1,0,0,0,False,False
-466,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+466,4,0,0,0,0,False,42065,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,117,117,0,-1,0,0,0,False,False
 467,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 468,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 469,1,0,0,1223,2485,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
@@ -546,7 +546,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 542,1,3981,14273,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1.2,False,False,True,False,False,2820,0,0,-1,0,0,0,False,False
 543,3,0,0,622,2800,True,67,True,68,False,46763,False,46762,False,0,False,0,False,0,0,True,False,0,True,0,1,False,False,True,True,True,0,0,11784,-1,0,7681,23,False,False
 544,1,0,0,1555,2886,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,True,True,False,False,2409,2410,0,-1,0,13061,0,False,False
-545,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+545,4,0,0,0,0,False,42066,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,117,117,0,-1,0,0,0,False,False
 546,1,4375,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,3.5,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 547,1,4376,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,3.5,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 548,1,1197,13651,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
@@ -581,6 +581,6 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 577,1,0,0,831,2963,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
 578,1,0,0,1596,2964,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,0.84,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
 579,1,0,0,1597,2965,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
-580,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+580,4,0,0,0,0,False,45127,False,42039,False,42038,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,117,117,0,-1,0,0,0,False,False
 581,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 582,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False

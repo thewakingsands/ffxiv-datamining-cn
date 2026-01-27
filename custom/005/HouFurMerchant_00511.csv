@@ -15,7 +15,7 @@ int32,str,str
 7,"TEXT_HOUFURMERCHANT_00511_A1_000_008","展示装备"
 8,"TEXT_HOUFURMERCHANT_00511_A1_000_002","查看出售记录"
 9,"TEXT_HOUFURMERCHANT_00511_A1_000_004","选择职业 [<Sheet(ClassJob,IntegerParameter(1),0)/>]"
-10,"TEXT_HOUFURMERCHANT_00511_A1_000_005","选择种族性别 [ <Sheet(Race,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>：男性<Else/>：女性</If> ]"
+10,"TEXT_HOUFURMERCHANT_00511_A1_000_005","选择种族与性别 [ <Sheet(Race,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))>：男性<Else/>：女性</If> ]"
 11,"TEXT_HOUFURMERCHANT_00511_A1_000_006","选择姿势 [<Sheet(HousingMerchantPose,IntegerParameter(1),1)/>]"
 12,"TEXT_HOUFURMERCHANT_00511_A1_000_007","让雇员返回"
 13,"TEXT_HOUFURMERCHANT_00511_Q2_000_001","请选择职业"
