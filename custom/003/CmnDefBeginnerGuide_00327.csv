@@ -245,7 +245,7 @@ int32,str,str
 116,"TEXT_CMNDEFBEGINNERGUIDE_00327_COACH00327_000_300","有一些冒险者曾经一度中止了自己的冒险，
 现在又重新回归了冒险旅途。
 希望你们能把艾欧泽亚当前的情况传达给他们。"
-117,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_301","任意职业达到50级以上的玩家，
+117,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_301","任意职业达到50或更高等级的玩家，
 在时隔45天（地球时间）之后再次登录游戏时，
 可以将在线状态设置为“回归者”。"
 118,"TEXT_CMNDEFBEGINNERGUIDE_00327_SYSTEM_000_302","状态为“回归者”的玩家的名字旁，

@@ -184,9 +184,9 @@ int32,Image,str
 
 ※在下一页中，将会介绍的是“蜃景幻界新月岛”独有的特殊的规则。
 请务必仔细阅读，以便充分体验新的大规模任务。"
-26,86818,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■用100级以上的战斗职业参与任务！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+26,86818,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■用达到100级的战斗职业参与任务！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-蜃景幻界新月岛中，只要<UIForeground>0F</UIForeground>等级达到100级的战斗职业<UIForeground>01</UIForeground>即可参加。
+<UIForeground>0F</UIForeground>等级达到100级的战斗职业<UIForeground>01</UIForeground>可以进入蜃景幻界新月岛。
 进入任务需要装备的平均品级达到690级，
 在参加任务时，当前装备品级将被同步到700级。
 

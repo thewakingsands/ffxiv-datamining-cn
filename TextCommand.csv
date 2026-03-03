@@ -4427,7 +4427,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/摇摆声援小黄","",293,0
-713,0,0,0,0,0,"","","","","",0,0
+713,2,1,2,0,0,"/delighted","/delight","/太感动了 子命令
+/delighted、/delight
+做出太感动了的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/太感动了","",293,0
 714,2,1,2,0,0,"/runwaywalk","/runway","/模特步 子命令
 /runwaywalk、/runway
 走模特步。

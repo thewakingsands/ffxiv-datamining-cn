@@ -16,7 +16,7 @@ int32,str,str
 你不是已经被认定为<Sheet(ClassJob,IntegerParameter(1),0)/>专家了吗？"
 9,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_017","哼，可笑，这点程度还不够资格成为<Sheet(ClassJob,IntegerParameter(1),0)/>专家。
 看来你是还没睡醒吧？"
-10,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018","只有等级达到55级以上的能工巧匠才予以发放专家之证。"
+10,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018","只有等级达到55或更高等级的能工巧匠才予以发放专家之证。"
 11,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_030","你根本没带着作为专家之证材料的<Sheet(Item,IntegerParameter(1),0)/>啊！
 连这点东西都没法自己弄到的话，我可不会认可你的。"
 12,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_031","发放专家之证需要<Sheet(Item,IntegerParameter(1),0)/>。"

@@ -6,7 +6,7 @@ int32,str,str
 有勇气直面危险的人请务必来参加！"
 1,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_001","要开始“云冠群岛探索”需要满足以下条件。"
 2,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_002","1.完成“苍穹之禁城主线任务”中的“苍穹之禁城”。"
-3,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_003","2.战斗精英或魔法导师的等级在60级以上。"
+3,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_003","2.战斗精英或魔法导师的等级达到60或更高等级。"
 4,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_004","另外，可以在快捷指令的“日志”中查看任务的进行情况。"
 5,"TEXT_REGROC2SKYISLANDENTRANCE_00311_AURVAEL_000_010","你来了，冒险者！
 我这里受理前往云冠群岛探索的飞空艇的搭乘手续！"
@@ -26,7 +26,7 @@ int32,str,str
 如果想要在那片空域内飞行，需要寻找乱风脉泉。
 请你灵活运用至今为止所掌握的冒险者经验去寻找吧！"
 17,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_100","要开始“云冠群岛探索”，
-需要战斗精英或魔法导师的等级在60级以上。"
+需要战斗精英或魔法导师的等级达到60或更高等级。"
 18,"TEXT_REGROC2SKYISLANDENTRANCE_00311_SYSTEM_000_101","另外，搭乘探索用的飞空艇时，
 需要携带“云海探索用青磷水兑换券”，
 “云海探索用青磷水兑换券”可以从雅克瓦妮那里购买。"

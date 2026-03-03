@@ -183,7 +183,7 @@ int32,str,str
 117,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_363","另外，作战的“作战熟练度”会随着不断完成分队攻略任务而提升，
 加强作战的效果。"
 118,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_364","与各分队员对话，即可在“作战指示”中更改作战。"
-119,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_370","分队员达到51级以上时，
+119,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_370","分队员达到51或更高等级时，
 与分队员对话，即可在“武具投影”中更改其装备的外观。"
 120,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_371","投影用的外观装备可以在背包中选择。
 进行投影时需要消耗触媒、不会消耗外观装备。"

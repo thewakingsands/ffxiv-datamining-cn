@@ -203,7 +203,7 @@ int32,str
 169,"发动贤者的叙事谣、军神的赞美歌、放浪神的小步舞曲的追加效果
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>正在使用贤者的叙事谣、军神的赞美歌、放浪神的小步舞曲任意一种，且九天连箭命中时"
 170,"分裂弹变为热分裂弹，独头弹变为热独头弹，狙击弹变为热狙击弹
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50以上"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>枪管热度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50及以上"
 171,"闪雷变为暴雷"
 172,"震雷变为霹雷"
 173,"核爆的消耗魔力减为2/3
@@ -1186,7 +1186,7 @@ int32,str
 612,"对自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>拂晓舞预备<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技巧舞步结束成功时
-持续时间内且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点以上时，剑舞变为拂晓舞"
+持续时间内且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50点及以上时，剑舞变为拂晓舞"
 613,"暴雷变为高闪雷，霹雷变为高震雷"
 614,"可以发动魔纹重置
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔纹<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
@@ -1341,8 +1341,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>缢杀的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>绞决爪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>缢杀爪的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>440
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>虚无收割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>交错收割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>虚无收割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>交错收割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>560
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>收获月的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>夜游魂切割的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280"
 658,"部分技能的威力提高

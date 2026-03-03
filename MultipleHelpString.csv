@@ -171,8 +171,28 @@ int32,str,str
 将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无法使用<UIGlow>01</UIGlow><UIForeground>01</UIForeground>多变技能。
 
 零式异闻迷宫只有组满4人且全员满足条件后才可进入。"
-32,"",""
-33,"",""
+32,"特殊的等级同步","原则上只有等级在90级以上的职业才能进入多变迷宫，
+但在一部分多变迷宫中，即使自己职业等级未达到要求，
+也能通过<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>等级同步<UIGlow>01</UIGlow><UIForeground>01</UIForeground>来进入。
+
+在这种状态下完成任务，会获得<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>经验值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+来代替亚拉戈神典石作为报酬。"
+33,"异变迷宫","开放了新的战斗模式：<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异变迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+异变迷宫模式下的任务拥有专属前缀名，
+例如“商客奇谭”的异变迷宫名称即为<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“深读商客奇谭”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+在异变迷宫中，玩家可以<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>直接与多变迷宫中出现的头目级敌人战斗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+同时也可以自由选择战斗的顺序。
+每次击败敌人后，都可以选择立刻结算并退出任务。
+
+此模式<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最多可设定两种多变技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+限定2～4人参加，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>单人情况下必须通过匹配来参加任务<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+
+通过点击窗口上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>异式迷宫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
+即可查看到异变迷宫的相关信息。
+"
 34,"启动方法","在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能菜单的特别指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中可以启动快捷面板。
 
 通过快捷键可以更快启动快捷面板。

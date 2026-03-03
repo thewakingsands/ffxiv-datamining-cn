@@ -61,7 +61,7 @@ int32,str,str
 “元素经验值”将不会减少。"
 32,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_043","另外，当“元素等级”低于5级时，
 即使陷入无法战斗状态，“元素经验值”也不会减少。"
-33,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_044","当“元素等级”在11级以上且“元素经验值”因减少而降至0以下时，
+33,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_044","当“元素等级”在11或更高等级且“元素经验值”因减少而降至0以下时，
 如果陷入无法战斗状态，
 将会导致“元素等级”下降。"
 34,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_050","栖息在优雷卡的魔物受到环境的影响，
@@ -99,6 +99,6 @@ int32,str,str
 48,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_100","优雷卡的调查有新的进展了，
 不过看你的装备——应该是在忙别的事情吧？
 等你做好冒险的准备再来找我吧。"
-49,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101","需要当前职业为设限特职外70级以上的战斗精英或魔法导师
+49,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101","需要当前职业为设限特职外达到70或更高等级的战斗精英或魔法导师
 才能开启“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”。"
 50,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_010","（★未使用／削除予定★）"

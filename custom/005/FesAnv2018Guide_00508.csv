@@ -31,11 +31,11 @@ int32,str,str
 16,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_041","“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”
 是从单人最多到满编小队（8人），可以任意人数参加，
 攻略恒辉队市区军事演习的季节活动任务。"
-17,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_042","只有等级在30级以上的战斗精英或魔法导师才可参加。"
+17,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_042","只有等级达到30或更高等级的战斗精英或魔法导师才可参加。"
 18,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_043","另外，“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”设有等级同步限制
 角色等级将自动同步到50级。"
 19,"TEXT_FESANV2018GUIDE_00508_SYSTEM_100_043","并且，“<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>”设有品级同步限制，
-所有装备的性能将被调整到“110级”以下。"
+所有装备的性能将被调整为不高于“110品级”的状态。"
 20,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_044","同时，与通常的副本任务不同，
 一个区域中可同时容纳最多144位玩家。
 请与其他玩家互相协助进行攻略。"

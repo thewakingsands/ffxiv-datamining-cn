@@ -283,7 +283,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 但必须要向黑涡军令部申请派兵！","确认任务已完成！
 按照规定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相应军票！","本人是军队理符任务发行人。
 请你在加入任意大国防联军之后再来。","虽然可以将此任务交给有相应实力的人去做……
-但军衔至少要在士官以上……","0"
+但军衔至少不能低于士官……","0"
 26,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"在下隶属于双蛇党黄蛇队。
 负责在此管理军队理符。","如果有执行过行会理符经验的人，
 我倒可以把任务派给他……
@@ -300,7 +300,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 但必须要向蛇巢司令部申请增员！","任务达成，辛苦你了！
 按照规定，支付<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相应军票！","在下负责在此管理军队理符，
 向任意大国防联军成员发布特殊任务。","虽然可以将此任务交给有相应实力的人去做……
-但军衔至少要在士官以上……","0"
+但军衔至少不能低于士官……","0"
 28,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是恒辉队的琪琪丽正耀士！
 在此发行军队理符任务！","有执行过行会理符任务的经验是很好……
 不过需要和恒辉作战总部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，愿水晶给予你指引！","有执行过行会理符任务的经验是很好……
@@ -313,7 +313,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 不过需要和恒辉作战总部取得交涉才行。","确认任务已完成！
 按照规定，支付你相应军票！","我在此发行恒辉队的军队理符！
 请你在加入任意大国防联军之后再来领取任务！","能胜任此任务是很好……
-不过军衔至少要在士官以上才可以领取……","0"
+不过军衔至少不能低于士官才可以领取……","0"
 30,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"在下隶属于双蛇党黄蛇队。
 基于与伊修加德签订的协议，
 负责在此占星台发行军队理符。","在下管理的任务都十分棘手……
@@ -321,7 +321,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 所以必须要由有相应实力的兵将来完成。","确认任务完成，现在将<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>的任务解除。
 辛苦你了，这是支付给你的军票。","在下隶属于双蛇党黄蛇队。
 向各国大国防联军成员发放特殊任务。","在下管理的任务都十分棘手……
-所以军衔至少要在士官以上才可以领取……","0"
+所以军衔至少不能低于士官才可以领取……","0"
 31,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是双蛇党黄蛇队的洛蒂耶牙士长。
 基于与伊修加德签订的协议，
 在库尔札斯发行军队理符。","白云崖前哨一带的任务大多比想象中要棘手。
@@ -331,7 +331,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 按照规定，支付给你相应的军票。","你是冒险者吧？
 你需要加入任意大国防联军后，
 才能领取我们所管理的任务。","白云崖前哨一带的任务大多比想象中要棘手。
-所以军衔至少要在士官以上才可以领取……","0"
+所以军衔至少不能低于士官才可以领取……","0"
 32,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是隶属于恒辉队的艾伊德哈特耀士长！
 负责管理摩杜纳地区的军队理符！","摩杜纳地区的任务都比较棘手！
 必须是有行会理符执行经验的人才能领取！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗开得胜！","摩杜纳地区的任务都比较棘手！
@@ -339,7 +339,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 按照规定，支付给你相应军票！
 辛苦你了！","在下负责发行军队理符！
 加入任意大国防联军后才可领取任务！","摩杜纳地区的任务都比较棘手！
-所以军衔至少要在士官长以上才可以领取！","0"
+所以军衔至少不能低于士官长才可以领取！","0"
 33,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我们基于总骑士长的提案在这里发行神殿骑士团理符。","有一定能力并且值得信赖的人才可以从这里领取理符任务……","我在这等你平安归来。
 愿战神哈罗妮保佑你！
 ","有一定能力并且值得信赖的人才可以从这里领取理符任务……","你的任务完成了！

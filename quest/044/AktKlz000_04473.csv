@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_AKTKLZ000_04473_TODO_22",""
 47,"TEXT_AKTKLZ000_04473_TODO_23",""
 48,"TEXT_AKTKLZ000_04473_SYSTEM_000_001","若要进行本任务，
-需要完成支线剧情任务——“一流工匠的新工作”。"
+需要完成支线任务“一流工匠的新工作”。"
 49,"TEXT_AKTKLZ000_04473_QIHALIAPOH_000_002","我从校长那里听说了，
 你就是来接受魔法大学工作的<Highlight>ObjectParameter(1)</Highlight>吗？"
 50,"TEXT_AKTKLZ000_04473_QIHALIAPOH_000_003","那真是太好了！"

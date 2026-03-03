@@ -179,5 +179,5 @@ int32,str,str
 99,"TEXT_LUCKLA502_03240_FRITHRIK_000_066","<Highlight>ObjectParameter(1)</Highlight>，
 如果有什么发现我会告诉你的，
 到时候你还能来帮忙的话我会很开心……"
-100,"TEXT_LUCKLA502_03240_SYSTEM_000_067","捕鱼人的等级达到78级以上时，
+100,"TEXT_LUCKLA502_03240_SYSTEM_000_067","捕鱼人的等级达到78或更高等级时，
 可以从中庸工艺馆的弗里斯利克那里领取下一个交纳委托品的任务。"

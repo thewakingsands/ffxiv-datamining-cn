@@ -43,7 +43,7 @@ int32,str,str
 弗里斯利克认为你是水生资源部改革的理解者！"
 20,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_130","<Highlight>ObjectParameter(1)</Highlight>，
 谢谢你能来！"
-21,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135","捕鱼人的等级达到73级以上时，
+21,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_135","捕鱼人的等级达到73或更高等级时，
 可以从中庸工艺馆的弗里斯利克那里领取下一个交纳委托品的任务。"
 22,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_150","之前钓到的鱼，听说有效果了！
 从司书开始，在昏暗场所工作的人们，
@@ -125,7 +125,7 @@ int32,str,str
 51,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_260","啊，<Highlight>ObjectParameter(1)</Highlight>！
 你来得正好！
 我有事要告诉你！"
-52,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265","捕鱼人的等级达到75级以上时，
+52,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_265","捕鱼人的等级达到75或更高等级时，
 可以从中庸工艺馆的弗里斯利克那里领取下一个交纳委托品的任务。"
 53,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_290","其实，对头昏和心悸
 有效果的食物我已经找到了！
@@ -216,7 +216,7 @@ int32,str,str
 89,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_420","<Highlight>ObjectParameter(1)</Highlight>，有好消息！
 罗布认识的那位女性的疾病，
 我找到治疗办法了！"
-90,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425","捕鱼人的等级达到78级以上时，
+90,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_425","捕鱼人的等级达到78或更高等级时，
 可以从中庸工艺馆的弗里斯利克那里领取下一个交纳委托品的任务。"
 91,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_450","罗布曾说她
 眼白变成了黄色，
@@ -290,7 +290,7 @@ int32,str,str
 118,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_549","水生资源部的贡献等级提高了！
 弗里斯利克认为你是水生资源部改革的牵引者！"
 119,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_550","可以领取中庸工艺馆交易的剧情任务了。
-捕鱼人的等级达到80级以上时，
+捕鱼人的等级达到80或更高等级时，
 可以从中庸工艺馆的弗里斯利克那里领取任务。"
 120,"TEXT_CTSDKBCHARACTER5_00571_SYSTEM_000_560","（★未使用／削除予定★）"
 121,"TEXT_CTSDKBCHARACTER5_00571_FRITHRIK_000_570","嘿，你来玩啦？

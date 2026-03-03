@@ -216,7 +216,7 @@ int32,str
 108,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>战歌效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>尾声量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 尾声标识共有三种，分别为<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>贤者的尾声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>军神的尾声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>放浪神的尾声<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 可以通过发动贤者的叙事谣、军神的赞美歌、放浪神的小步舞曲以上三个技能附加。
-当尾声标识处于一档以上时可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>光明神的最终乐章<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
+当尾声标识处于一档或更高时可以发动<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>光明神的最终乐章<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 109,"学会<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>极性精通V<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性后，
 画面上会出现专用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>悖论量谱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星极火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灵极心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>为最大档数时，

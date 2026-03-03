@@ -15,7 +15,7 @@ int32,str,str
 8,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_052","进攻进度的记录会在每周<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>点（地球时间）被重置。"
 9,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_053","开始“亚历山大零式机神城启动之章”，
 需要8名等级达到
-60级以上的战斗精英或魔法导师来组成队伍。"
+60或更高等级的战斗精英或魔法导师来组成队伍。"
 10,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_054","另外，所有成员必须要领取并完成任务“英雄叙事诗：机神城之章”。"
 11,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_055","“亚历山大零式机神城启动之章”的开始地点
 取决于小队队长的进攻进度。"
