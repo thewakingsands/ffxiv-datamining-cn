@@ -82,7 +82,7 @@ int32,str,str
 此外成功挑战过的迷宫也可以重复进行挑战。
 可以从<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>快捷指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务情报<UIGlow>01</UIGlow><UIForeground>01</UIForeground>菜单选择<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>任务搜索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剧情辅助器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>再次进行挑战。"
-15,"探索特殊迷宫的方法","和专用的非玩家角色对话，或者选择快捷指令“任务情报”内的
+15,"探索特殊迷宫的方法","和专用的非玩家角色对话或通过进入点，或者选择快捷指令“任务情报”内的
 “<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宫探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”打开专用的窗口，
 进入特殊迷宫探索任务。
 

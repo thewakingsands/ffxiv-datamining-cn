@@ -705,7 +705,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 【指定在线状态】
 队长(leader)　离开(away)　忙碌(busy)　任务中(contents)　剧情中(event)　希望组队(lookingforparty)　接受镶嵌魔晶石请求(lookingformeld)　队员招募中(recruit)　新人(beginner)　指导者(mentor)　战斗指导者(pvementor)　制作采集指导者(tradementor)　对战指导者(pvpmentor)　角色扮演中(roleplay)　回归者(returner)
 【指定职业】
-剑术师(GLA)　格斗家(PGL)　斧术师(MRD)　枪术师(LNC)　弓箭手(ARC)　幻术师(CNJ)　双剑师(ROG)　咒术师(THM)　秘术师(ACN)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)　骑士(PLD)　武僧(MNK)　战士(WAR)　龙骑士(DRG)　吟游诗人(BRD)　忍者(NIN)　白魔法师(WHM)　黑魔法师(BLM)　召唤师(SMN)　学者(SCH)　暗黑骑士(DRK)　占星术士(AST)　机工士(MCH)　武士(SAM)　赤魔法师(RDM)　青魔法师(BLU)　绝枪战士(GNB)　舞者(DNC)　钐镰客(RPR)　贤者(SGE)　蝰蛇剑士(VPR)　绘灵法师(PCT)
+剑术师(GLA)　格斗家(PGL)　斧术师(MRD)　枪术师(LNC)　弓箭手(ARC)　幻术师(CNJ)　双剑师(ROG)　咒术师(THM)　秘术师(ACN)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)　骑士(PLD)　武僧(MNK)　战士(WAR)　龙骑士(DRG)　吟游诗人(BRD)　忍者(NIN)　白魔法师(WHM)　黑魔法师(BLM)　召唤师(SMN)　学者(SCH)　暗黑骑士(DRK)　占星术士(AST)　机工士(MCH)　武士(SAM)　赤魔法师(RDM)　青魔法师(BLU)　绝枪战士(GNB)　舞者(DNC)　钐镰客(RPR)　贤者(SGE)　蝰蛇剑士(VPR)　绘灵法师(PCT)　驯兽师(BST)
 　※省略该条件会默认为以所有职业为对象进行搜索。
 【指定等级】
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>数字<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1382,7 +1382,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 选中可选范围内离自己距离最近的敌人。","/选中最近敌人","/最近敌人",36,0
 257,1,0,0,0,0,"/battletarget","/bt","/战斗目标
 /battletarget、/bt
-选中敌视自己的距离最近的敌人。","/战斗目标","",36,0
+选中视野范围内敌视自己的距离最近的敌人。","/战斗目标","",36,0
 258,2,0,0,0,0,"/assist","/as","/目标的目标 代名词
 /assist、/as
 将指定玩家的当前选中的目标作为自己的目标选中。
@@ -1848,7 +1848,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更换(change) 编号<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　切换到指定编号的十字热键栏。编号用“下一个(next)”或“上一个(prev)”可以将当前十字热键栏位置所表示的技能切换到上一组或者下一组热键。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>复制(copy) 职业名1 编号1 职业名2 编号2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　将职业名1的编号1十字热键栏的内容复制到职业名2的编号2十字热键栏上。职业名设置为“当前(current)”时会指定当前的职业。职业名设置为“共通(share)”时会指定共通热键栏。
+　将职业名1的编号1十字热键栏的内容复制到职业名2的编号2十字热键栏上。职业名设置为当前(current)”时会指定当前的职业。职业名设置为“共通(share)”时会指定共通热键栏。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　将指定编号的十字热键栏设置成全职业共通。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 编号 关(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1858,6 +1858,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　解除指定编号十字热键栏指定位置上的技能或用户宏指令。指定位置设置为“全部(all)”的时候会将该十字热键栏上的所有指令都解除。
 >>指定位置
+进行指定操作时可以省略位置。
+省略位置一项时，系统将按顺序指定未设置的空栏位。
 <Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
 <Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
 <Gui(14)/>＋<Gui(4)/> … LDR(LD3)　<Gui(15)/>＋<Gui(4)/> … RDR(RD3)
@@ -2013,6 +2015,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 编号 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　解除指定编号十字热键栏指定位置上的技能或用户宏指令。指定位置设置为“全部(all)”的时候会将该十字热键栏上的所有指令都解除。
 >>指定位置
+进行指定操作时可以省略位置。
+省略位置一项时，系统将按顺序指定未设置的空栏位。
 <Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
 <Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
 <Gui(14)/>＋<Gui(4)/> … LDR(LD3)　<Gui(15)/>＋<Gui(4)/> … RDR(RD3)
@@ -4321,7 +4325,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/认真看书","",293,0
-698,0,0,0,0,0,"","","","","",0,0
+698,2,1,2,0,0,"/breakdance","/breaking","/霹雳舞 子命令
+/breakdance、/breaking
+跳霹雳舞。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/霹雳舞","",293,0
 699,2,1,2,0,0,"/gridaniansip","","/用森都风格马克杯喝 子命令
 /gridaniansip
 用森都风格马克杯喝饮料。
@@ -4402,7 +4413,14 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/用羽毛笔记录","",293,0
-709,0,0,0,0,0,"","","","","",0,0
+709,2,1,2,0,0,"/blownaway","","/击飞 子命令
+/blownaway
+做出被击飞的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/击飞","",293,0
 710,2,1,2,0,0,"/stomp","","/跳脚 子命令
 /stomp
 气得直跺脚。
@@ -4443,9 +4461,30 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/模特步","",293,0
-715,0,0,0,0,0,"","","","","",0,0
-716,0,0,0,0,0,"","","","","",0,0
-717,0,0,0,0,0,"","","","","",0,0
+715,2,1,2,0,0,"/cheeronorange","/cheeroo","/前后声援小橙 子命令
+/cheeronorange、/cheeroo
+做出前后声援小橙的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/前后声援小橙","",293,0
+716,2,1,2,0,0,"/cheerwavepink","/cheerwp","/挥舞声援小粉 子命令
+/cheerwavepink、/cheerwp
+做出挥舞声援小粉的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/挥舞声援小粉","",293,0
+717,2,1,2,0,0,"/cheerjumpindigo","/cheerji","/蹦跳声援小靛 子命令
+/cheerjumpindigo、/cheerji
+做出蹦跳声援小靛的动作。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/蹦跳声援小靛","",293,0
 718,2,1,2,0,0,"/carrybook","","/双手抱书 子命令
 /carrybook
 双手抱起书。
@@ -4510,3 +4549,26 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/摇摆声援小绿","",293,0
+726,0,0,0,0,0,"","","","","",0,0
+727,0,0,0,0,0,"","","","","",0,0
+728,0,0,0,0,0,"","","","","",0,0
+729,2,1,2,0,0,"/cackle","","/放声大笑 子命令
+/cackle
+放声大笑。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/放声大笑","",293,0
+730,2,1,2,0,0,"/conduct","","/挥舞指挥棒 子命令
+/conduct
+挥舞指挥棒。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/挥舞指挥棒","",293,0
+731,0,0,0,0,0,"","","","","",0,0
+732,0,0,0,0,0,"","","","","",0,0
+733,0,0,0,0,0,"","","","","",0,0
+734,0,0,0,0,0,"","","","","",0,0

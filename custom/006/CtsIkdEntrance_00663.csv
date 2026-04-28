@@ -16,7 +16,7 @@ int32,str,str
 9,"TEXT_CTSIKDENTRANCE_00663_STM_001","乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>。"
 10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","确定要乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>吗？"
 11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","要乘坐<Sheet(IKDRoute,IntegerParameter(1),11)/>吗？
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果有小队成员未完成“红莲之狂潮主线任务”的话，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果有小队成员未完成主线任务“<Sheet(Quest,IntegerParameter(2),QUEST_NAME)/>”的话，
 将无法乘坐这条航线。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","哎呀，你难道是忘带鱼竿了吗？
 努力号是捕鱼人专用的大型渔船，

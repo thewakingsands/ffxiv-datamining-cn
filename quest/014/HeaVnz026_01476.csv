@@ -51,7 +51,7 @@ int32,str,str
 47,"TEXT_HEAVNZ026_01476_TODO_23",""
 48,"TEXT_HEAVNZ026_01476_HIGIRI_000_010","<Highlight>ObjectParameter(1)</Highlight>，接下来你还要继续追忆之旅吧？
 那么，我有件事想拜托你。"
-49,"TEXT_HEAVNZ026_01476_HIGIRI_000_011","我想让你把我亲手制作的<Sheet(EventItem,2001947,0)/>交给劳班局长。
+49,"TEXT_HEAVNZ026_01476_HIGIRI_000_011","我想让你把我亲手制作的<Sheet(EventItem,2001947,0)/>交给劳班总帅。
 告诉他为了防止伤口变成旧伤，
 即使愈合了也要每天涂抹药膏。"
 50,"TEXT_HEAVNZ026_01476_HIGIRI_000_012","你和恒辉作战总部的斯威夫特正耀校说一声，
@@ -60,7 +60,7 @@ int32,str,str
 最后可能会成为旧伤，变得时常发作难以根治。
 我在东方时的战争中就遇到过这种情况……"
 52,"TEXT_HEAVNZ026_01476_SWIFT_000_020","嗯？找我有什么事吗？"
-53,"TEXT_HEAVNZ026_01476_SWIFT_000_021","哦！要把这个<Sheet(EventItem,2001947,0)/>交给劳班局长啊……
+53,"TEXT_HEAVNZ026_01476_SWIFT_000_021","哦！要把这个<Sheet(EventItem,2001947,0)/>交给劳班总帅啊……
 原来如此，是给绯桐阁下帮忙……明白了。
 我这就去叫局长，请稍等。"
 54,"TEXT_HEAVNZ026_01476_RAUBAHN_000_022","哦！<Highlight>ObjectParameter(1)</Highlight>。

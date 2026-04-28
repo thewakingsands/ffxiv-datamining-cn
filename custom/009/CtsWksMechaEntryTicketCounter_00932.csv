@@ -40,6 +40,9 @@ int32,str,str
 先去找查明威聊一下吧！"
 21,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W3","哎呀……你好像还没有听取过俄匊斯行星的探索说明。
 先去找查明威聊一下吧！"
-22,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3","在进行任务时，协助员收集到的物资
+22,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W4","おっと……君はまだ、惑星アウクセシアでの活動について、
+説明を受けていないようだね。
+まずは、サーチングウェイ君の話を聞いてみてくれたまえ！"
+23,"TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3","在进行任务时，协助员收集到的物资
 需要提交给野外探查器进行分析。
 物资在靠近野外探查器时会被自动提交。"

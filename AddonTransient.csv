@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 3,"<CommandIcon(8)/>改变队员排列顺序  <CommandIcon(10)/>次级指令"
 4,"<CommandIcon(11)/>开始搜索"
 5,"<CommandIcon(10)/>次级指令 <CommandIcon(8)/>购买 <CommandIcon(11)/>选择要出售的道具"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/>次级指令  <CommandIcon(1)/>选择消息窗口  <CommandIcon(2)/>切换所选分栏  <CommandIcon(11)/>放大消息窗口"
 73,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>放大消息窗口"
 74,"<CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回聊天操作  <CommandIcon(11)/>将消息窗口恢复原尺寸"
-75,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <CommandIcon(13)/>定型文 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+75,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <CommandIcon(13)/>定型文<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前进  <CommandIcon(13)/>定型文"
 77,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>应用"
 78,"<CommandIcon(11)/>应用  <CommandIcon(10)/>删除设置　"
@@ -232,14 +232,20 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 “DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.
+------
+
+
+------------------------
+QR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.
+------------------------"
 174,"<CommandIcon(12)/><CommandIcon(13)/>选择分类"
 175,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
 176,"<CommandIcon(12)/><CommandIcon(13)/>切换工程  <CommandIcon(10)/>次级指令"
 177,"<CommandIcon(9)/>取消  <CommandIcon(11)/>出发"
 178,"<CommandIcon(10)/>次级指令"
 179,"<CommandIcon(10)/>选择 <CommandIcon(9)/>关闭 <CommandIcon(11)/>确定并关闭"
-180,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+180,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 181,"<CommandIcon(10)/>次级指令 <CommandIcon(11)/>保存更改并关闭"
 182,"<CommandIcon(9)/>保存更改并关闭"
 183,"<CommandIcon(10)/>次级指令  <CommandIcon(11)/>打开宠物一览"
@@ -285,7 +291,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　此时在菜单中选择“发动陷阱”来发动。
 　※每次只能设置一个陷阱。
 
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>手柄操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·选择单个宠物
 　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：选择宠物小队列表中的宠物
@@ -322,7 +328,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 　　　　　　　　　 会选中附近的同种类宠物。
 　　左键拖拽：选择范围内的所有宠物
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>手柄<Else/>手柄</If>操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>手柄操作模式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>　＜选择宠物＞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　　·选择单个宠物
 　　　<CommandIcon(12)/>+ <CommandIcon(7)/>　：选择宠物小队列表中的宠物
@@ -453,12 +459,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>编辑宠物热键栏"
 278,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中宠物的位置"
 279,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-280,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+280,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 281,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
 282,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 283,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令 <CommandIcon(11)/>移动常用列表中坐骑的位置"
 284,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/>确定 <CommandIcon(9)/>取消"
-285,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+285,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 286,"<CommandIcon(5)/>移动 <CommandIcon(8)/>召唤 <CommandIcon(10)/>次级指令"
 287,"<CommandIcon(7)/>移动 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>确定 <CommandIcon(9)/>取消"
 288,"<CommandIcon(8)/>召唤/收回 <CommandIcon(10)/>次级指令"
@@ -478,14 +484,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,"<CommandIcon(10)/>次级指令"
 303,"<CommandIcon(8)/><CommandIcon(10)/>查看个人房间资料"
 304,"<CommandIcon(8)/><CommandIcon(10)/>查看公寓房间资料"
-305,"<CommandIcon(10)/>删除<If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))> <CommandIcon(11)/>软键盘<Else/> <CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+305,"<CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 307,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 <CommandIcon(11)/>编辑宠物热键栏"
 308,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 "
 309,"<CommandIcon(8)/>召唤 <CommandIcon(10)/>设置热键 "
 310,"<CommandIcon(12)/><CommandIcon(13)/>切换关卡信息"
-311,"<CommandIcon(8)/>确定 <CommandIcon(24)/>滚动查看详细情报"
-312,"<CommandIcon(8)/>确定"
+311,"<CommandIcon(8)/>确定 <CommandIcon(11)/>返回原始服务器 <CommandIcon(24)/>滚动查看详细情报"
+312,"<CommandIcon(8)/>确定 <CommandIcon(11)/>返回原始服务器"
 313,"<CommandIcon(10)/>鸣牌设置切换 <CommandIcon(11)/>辅助功能"
 314,"<CommandIcon(8)/>获取在线状态  <CommandIcon(10)/>次级指令  <CommandIcon(9)/>返回"
 315,"<CommandIcon(12)/><CommandIcon(13)/>切换关卡信息　<CommandIcon(8)/>确认有效的异常状态"
@@ -559,7 +565,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/>快速滚动 <CommandIcon(10)/>次级指令"
-386,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>软键盘<Else/><CommandIcon(11)/>屏幕键盘</If><Else/><Indent/></If>"
+386,"<CommandIcon(5)/>历史记录 <CommandIcon(12)/>+ <CommandIcon(13)/>粘贴 <CommandIcon(10)/>删除<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 387,"<CommandIcon(8)/>领取奖励  <CommandIcon(10)/>次级指令"
 388,"<CommandIcon(10)/>次级指令"
 389,"<CommandIcon(10)/>次级指令"
@@ -692,7 +698,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
  <Gui(16)/>键／[Z]键（拔出/收回武器） 
  
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- <CommandIcon(7)/><If(Equal(PlayerParameter(106),99))>方向键上下左右<Else/>方向键上下左右</If>／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+ <CommandIcon(7)/>方向键上下左右／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
  
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
  <CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）
@@ -764,7 +770,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
  <Gui(16)/>键／[Z]键（拔出/收回武器） 
  
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>切换注视目标<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- <CommandIcon(7)/><If(Equal(PlayerParameter(106),99))>方向键上下左右<Else/>方向键上下左右</If>／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
+ <CommandIcon(7)/>方向键上下左右／[<If(Equal(PlayerParameter(78),3))>tab,shift+tab<Else/>Tab,Shift+Tab</If>]键
  
  <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>暂停／继续<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
  <CommandIcon(11)/>键／[<If(Equal(PlayerParameter(78),3))>space<Else/>Space</If>]键（跳跃）
@@ -851,10 +857,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
 505,"<CommandIcon(8)/>开关并预览 <CommandIcon(11)/>预览 <CommandIcon(20)/>移動 <CommandIcon(25)/>旋转 <CommandIcon(12)/>＋<CommandIcon(24)/>缩放"
 506,"<CommandIcon(11)/>应用"
-507,""
-508,""
-509,""
-510,""
+507,"<CommandIcon(10)/>次级指令"
+508,"<CommandIcon(8)/>确定 <CommandIcon(12)/><CommandIcon(13)/>选择大区 <CommandIcon(11)/>返回原始服务器 <CommandIcon(24)/>滚动查看详细情报"
+509,"<CommandIcon(8)/>确定 <CommandIcon(12)/><CommandIcon(13)/>选择大区 <CommandIcon(11)/>返回原始服务器"
+510,"<CommandIcon(8)/><CommandIcon(10)/>次级指令"
 511,""
 512,""
 513,""

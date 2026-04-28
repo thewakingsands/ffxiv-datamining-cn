@@ -217,7 +217,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 46.3,8464943,1,69935,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 46.4,9627908,1,70217,0,False,1,70218,0,False,1,70219,0,False,1,70220,0,False,1,70221,0,False,0,0,0,False,0,0,0,False
 46.5,9808974,1,70276,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
-46.6,9838150,2,70277,2,False,1,70285,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
+46.6,9838150,2,70277,2,False,1,70285,0,False,2,71008,1,False,2,71008,6,False,2,71008,255,False,0,0,0,False,0,0,0,False
 46.7,11534096,2,70789,1,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 47.0,8964469,2,69991,3,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 47.1,8998095,2,69991,3,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
@@ -274,6 +274,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 55.0,10399297,2,70478,3,False,2,70495,255,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 55.1,10558455,1,70495,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 55.2,10968008,2,70781,2,False,2,70786,5,False,2,70903,255,False,2,70907,6,False,0,0,0,False,0,0,0,False,0,0,0,False
+55.3,12605834,2,70997,1,False,2,70997,5,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 56.0,10511646,2,70455,255,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 56.1,9872339,2,70455,255,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 56.2,10746983,2,70459,2,False,2,70478,1,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
@@ -297,8 +298,12 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 60.5,11851720,2,70905,4,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 60.6,11851722,2,70904,9,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 60.7,11851723,2,70905,1,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
+60.8,11855108,2,71006,2,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 61.0,11986969,1,70866,0,False,1,70867,0,False,1,70868,0,False,1,70869,0,False,1,70870,0,False,0,0,0,False,0,0,0,False
 62.0,11863576,2,70764,7,False,2,70767,1,False,2,70767,5,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 62.1,12001802,2,70767,255,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 63.0,11877921,1,70917,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 64.0,12279801,1,70985,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
+65.0,12648208,1,71048,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
+66.0,12592414,2,71020,2,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
+67.0,12799484,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False

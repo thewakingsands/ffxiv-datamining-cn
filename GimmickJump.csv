@@ -61,4 +61,11 @@ int32,uint16,uint16,ActionTimeline,ActionTimeline,bit&01,bit&02,uint16,uint16,bi
 57,0,0,4856,4857,False,False,2400,2400,False
 58,0,100,0,0,False,False,0,0,False
 59,0,50,218,219,False,False,300,300,False
-60,0,0,0,0,False,False,0,0,False
+60,0,30,0,0,False,False,0,0,False
+61,0,0,0,0,False,False,0,0,False
+62,0,200,0,0,False,False,0,0,True
+63,0,600,218,219,False,False,0,0,False
+64,0,100,218,219,False,False,0,0,False
+65,0,200,218,219,False,False,0,0,False
+66,0,200,218,219,False,False,0,0,False
+67,0,100,218,219,False,False,0,0,False

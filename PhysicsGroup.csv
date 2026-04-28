@@ -27,3 +27,4 @@ int32,single,single,single,single,single,single,single,single,single,single,sing
 24,60,60,30,0,60,0,30,30,0,0,60,0,True,0,0.3,0,0,3,True
 25,60,60,30,0,60,0,30,30,0,0,60,0,True,0,0.3,0,0,3,True
 26,60,60,30,0,60,0,30,30,0,0,60,0,True,0.1,0.3,0,3,3,True
+27,60,60,30,0,60,0,60,30,0,0,60,0,True,0.4,0.6,0,0,2,False

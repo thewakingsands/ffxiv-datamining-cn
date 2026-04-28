@@ -52,7 +52,7 @@ int32,str,str
 48,"TEXT_COMULD001_01106_SWIFT_000_000","原来是<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>啊。
 近来你的表现着实出色，
 同样身为恒辉队队员的我，不禁为你感到自豪。"
-49,"TEXT_COMULD001_01106_SWIFT_000_001","备受劳班局长青睐的你，
+49,"TEXT_COMULD001_01106_SWIFT_000_001","备受劳班总帅青睐的你，
 可肩负着恒辉队的未来呢，这绝不夸张。"
 50,"TEXT_COMULD001_01106_SWIFT_000_002","不过……你的实力应该不止如此。
 再多加磨练，应该可以提升到一个更高的层次。"

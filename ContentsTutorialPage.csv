@@ -134,7 +134,7 @@ int32,Image,str
 探索时可以使用2种不同的多变技能，也可以随时通过专用的窗口更换多变技能。"
 18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>进入方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-进入多变迷宫时，需要与<UIForeground>0F</UIForeground>入口处的非玩家角色对话<UIForeground>01</UIForeground>，
+进入多变迷宫时，需要与<UIForeground>0F</UIForeground>入口处的非玩家角色对话<UIForeground>01</UIForeground>或通过<UIForeground>0F</UIForeground>进入点<UIForeground>01</UIForeground>，
 或者选择快捷指令“任务情报”的“<UIForeground>0F</UIForeground>特殊迷宫探索器<UIForeground>01</UIForeground>”，
 打开专用的窗口进入多变迷宫。
 

@@ -19,7 +19,7 @@ int32,str,str
 14,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_001_002","购买公寓内的房间后，
 即可将其作为自己的私人空间使用。
 尽情用家具或壁纸装饰自己的房间吧。"
-15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","在房间中也可自由设置盆栽、管弦乐琴、
+15,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_003","在房间中也可自由设置花盆、管弦乐琴、
 传唤铃、美容师传唤铃、收藏柜、雇佣人员等便利的机能。"
 16,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_001_004","还可以使用配备的陆行鸟房
 培养陆行鸟、改变陆行鸟羽毛的颜色等。
@@ -35,10 +35,10 @@ int32,str,str
 需要先完成主线任务“乘风破浪”。"
 21,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_002_004","要想购买公寓“皓天炉舍”的房间，
 需要先完成主线任务“绝命怒嚎”。"
-22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","在拆除房间前，
-需要先撤除房间内的所有家具。"
+22,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_003_001","想要拆除房间，
+需要撤除房间内的所有家具后，在大厅执行拆除操作。"
 23,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_002","在撤除完所有家具后，
-打开“房屋”菜单选择“拆除房间”，
+在大厅打开“房屋”菜单选择“拆除房间”，
 即可将房间拆除。"
 24,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_003_003","另外，在拆除房间时，
 不会返还购买房间时的费用，敬请注意。"

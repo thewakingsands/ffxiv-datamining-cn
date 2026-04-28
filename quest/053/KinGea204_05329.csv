@@ -165,7 +165,7 @@ int32,str,str
 116,"TEXT_KINGEA204_05329_BAKOOLJAJA_000_304","(-巴库加加勇战之头-)下次也拜托你了，<Highlight>ObjectParameter(1)</Highlight>，
 回头见。"
 117,"TEXT_KINGEA204_05329_SYSTEM_000_400","与此同时 时空狭缝——"
-118,"TEXT_KINGEA204_05329_REMNANTGULOOLJAJA_000_401","(-勇武的残滓-)你还要、让我们等、多久！
+118,"TEXT_KINGEA204_05329_REMNANTGULOOLJAJA_000_401","(-勇武之残滓-)你还要、让我们等、多久！
 那个、容器、还没完成、吗？！"
 119,"TEXT_KINGEA204_05329_SAREELJA_000_402","非常抱歉，联王大人。"
 120,"TEXT_KINGEA204_05329_SAREELJA_000_403","请再给我一些时间，
@@ -175,7 +175,7 @@ int32,str,str
 但他的头脑如此之差，我的情分也差不多要耗光了……"
 122,"TEXT_KINGEA204_05329_SAREELJA_000_405","不过话说回来，那个冒险者真是超乎想象的强大。
 只有能够超越<If(PlayerParameter(4))>她<Else/>他</If>的“回响的残滓”，
-才能成为真正的王。"
+才有资格成为真王的容器。"
 123,"TEXT_KINGEA204_05329_SAREELJA_000_406","接下来就是最后的检测了……
 有那个世界的“神”，他们毫无胜算。"
 124,"TEXT_KINGEA204_05329_SAREELJA_000_407","……不过，那个阿尔夏尔究竟是什么人？

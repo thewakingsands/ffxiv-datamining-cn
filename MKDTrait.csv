@@ -17,6 +17,10 @@ int32,byte,byte,int32,str,str
 11,9,5,82211,"炮击效果提高","发动炮击时，有5%的几率即死目标"
 12,7,5,82210,"铃铛效果提高","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>战斗之铃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高至5%
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>休憩之铃<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的恢复力提高至3000"
-13,0,0,-1,"",""
-14,0,0,-1,"",""
-15,0,0,-1,"",""
+13,0,0,0,"",""
+14,0,0,0,"",""
+15,0,0,0,"",""
+16,0,0,0,"",""
+17,0,0,0,"",""
+18,0,0,0,"",""
+19,0,0,0,"",""

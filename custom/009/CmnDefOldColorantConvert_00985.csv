@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT","没有相应的道具。"
+1,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1","确认要用所持染剂交换下列道具吗？<Highlight>StringParameter(1)</Highlight>"
+2,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2","
+<Value>IntegerParameter(2)</Value>个“<Sheet(Item,IntegerParameter(1),0)/>”"

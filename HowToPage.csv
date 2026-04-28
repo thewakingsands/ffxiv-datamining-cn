@@ -132,15 +132,15 @@ int32,byte,byte,Image,byte,str,str,str
 38,0,0,0,0,"","",""
 39,0,0,0,0,"","",""
 40,1,0,150221,0,"
-与城内的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>邮差莫古力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对话，或者查看自己住宅庭院中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古信箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古力速递<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的服务。
+与城内的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>邮差莫古力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对话，或者查看自己住宅庭院中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古信箱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，都可以开启<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>莫古邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的服务。
 
-利用莫古力速递，可以方便快捷地向登录到好友名单中的朋友发送邮件。","",""
+利用莫古邮件，可以方便快捷地向登录到好友名单中的朋友发送邮件。","",""
 41,1,0,150222,0,"
-点击莫古力速递窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，可以打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口并写入邮件内容。
+点击莫古邮件窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，可以打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口并写入邮件内容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金币<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式随文本一起发送给对方。","",""
 42,1,0,150222,0,"
-选择莫古力速递窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，可以打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口并写入邮件内容。
+选择莫古邮件窗口右上的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>按钮，可以打开<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>编写新邮件<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的窗口并写入邮件内容。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具<UIGlow>01</UIGlow><UIForeground>01</UIForeground>及<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>金币<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等物品也可以以附件的形式随文本一起发送给对方。","",""
 43,0,0,0,0,"","",""
@@ -1773,7 +1773,8 @@ int32,byte,byte,Image,byte,str,str,str
 951,1,0,151002,0,"
 进行染色时可以在技能列表中选择“染色”指令。
 
-颜色完全由染剂的颜色决定，只要染剂有保证，那么同一个物品无论多少次都可以不断反复染色。","",""
+染不同的颜色需要的染剂视情况会有所不同。
+染色并非只能进行一次。只要有染剂，可以对同一个物品反复染色。","",""
 952,1,0,151003,0,"
 此外，在完成特定任务之前，
 部分道具无法进行染色。
@@ -2346,7 +2347,7 @@ int32,byte,byte,Image,byte,str,str,str
 移动鼠标将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再点击左键即可达到目的。","",""
 1291,1,0,151472,0,"这个任务中需要对特定<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>地点范围<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用任务道具。
 
-通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用<If(Equal(PlayerParameter(106),99))>方向键<Else/>方向键</If>选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
+通过<CommandIcon(19)/>切换到<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>目的列表<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上，再用<66>3E</66>选中边上的道具图标，按下<CommandIcon(8)/>键后，屏幕中会出现使用道具的目标范围。
 
 之后再将<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>范围提示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移动到目标地点之后再按下<CommandIcon(8)/>键即可达到目的。","",""
 1292,0,0,0,0,"","",""
@@ -2832,15 +2833,15 @@ int32,byte,byte,Image,byte,str,str,str
 1568,0,0,0,0,"","",""
 1569,0,0,0,0,"","",""
 1570,1,0,151771,0,"
-在苗圃或花盆中可以培育各种各样的作物。
+在园圃或花盆中可以培育各种各样的作物。
 
-在苗圃或花盆中培育作物之前，首先必须要准备好<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“种子”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土壤”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+在园圃或花盆中培育作物之前，首先必须要准备好<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“种子”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“土壤”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 “种子”能够决定作物的种类。“土壤”则会影响作物的品质和数量。","",""
 1571,1,0,151772,0,"
 种子和土壤分别可以由园艺工与采矿工采集得到。
 
-选好种子和土壤便可以在苗圃的地垄上或花盆里进行播种了。","",""
+选好种子和土壤便可以在园圃的地垄上或花盆里进行播种了。","",""
 1572,0,0,0,0,"","",""
 1573,0,0,0,0,"","",""
 1574,0,0,0,0,"","",""
@@ -2864,7 +2865,7 @@ int32,byte,byte,Image,byte,str,str,str
 1590,1,0,151791,0,"
 作物成熟之后便可以收获了。收获的同时可以取得相应的道具。不过收获之后作物便会消失。","",""
 1591,1,0,151792,0,"
-苗圃中存在杂交的情况。
+园圃中存在杂交的情况。
 
 将两种作物种在相邻的地垄里，会有一定几率发生杂交，在收获时得到新型的种子。多多尝试作物的组合来获取更多的新种子吧！
 
@@ -4023,15 +4024,12 @@ int32,byte,byte,Image,byte,str,str,str
 
 要是有喜欢的房子，就大力对房主进行点赞，不要吝啬夸奖！","",""
 2485,1,0,152691,0,"
-和老主顾的信赖度上升，可以给他们“换装”了。
+和老主顾的信赖度上升，可以给他们<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“换装”<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>了。
 
 选择“换装”之后，就可以变更老主顾的服装。
 
 可以变更全套5件。","",""
-2486,1,0,152692,0,"
-老主顾的服装只能是所有种族和所有职业都能装备的。
-
-另外，换装和染色的时候会消耗相应触媒。
+2486,1,0,152692,0,"换装和染色时均会消耗相应触媒。
 
 选择你喜欢的装备装扮老主顾吧！","",""
 2487,1,0,152701,0,"

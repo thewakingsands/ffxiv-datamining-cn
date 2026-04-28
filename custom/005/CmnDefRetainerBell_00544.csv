@@ -38,7 +38,7 @@ int32,str,str
 因此无法向雇员传授<Sheet(ClassJob,IntegerParameter(1),0)/>的知识。"
 22,"TEXT_CMNDEFRETAINERBELL_00544_JOB_ERROR_NO_ITEM","没有<Sheet(Item,IntegerParameter(1),0)/>。"
 23,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_SUCCESS","雇员继承了<Sheet(ClassJob,IntegerParameter(1),0)/>的知识！"
-24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","无法设置雇员的特职。"
+24,"TEXT_CMNDEFRETAINERBELL_00544_JOB_CHANGE_FAILED","雇员正进行委托的探险，无法设置特职。"
 25,"TEXT_CMNDEFRETAINERBELL_00544_ASK_BE_CHANGE_JOB","目前除了可以对该雇员的职业进行重置外，
 也可以进行特职的设置。
 对特职的设置感兴趣吗？"
