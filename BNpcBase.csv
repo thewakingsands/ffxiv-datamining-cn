@@ -19457,7 +19457,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 19453,0,4,0,3,0.65,3659,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19454,0,4,0,3,1.2,4854,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19455,0,4,0,3,1.8,4855,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
-19456,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,0,0,0,False,False,0
+19456,0,4,0,0,1,2449,0,0,0,3,False,855095,3,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19457,0,4,0,3,1,1276,0,0,0,0,False,0,0,0,4,True,True,True,False,0,0,0,0,0,False,False,0
 19458,0,4,0,3,1.5,774,0,886,0,0,False,0,0,0,5,True,True,True,False,0,0,0,0,0,False,False,0
 19459,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,0,0,0,False,False,0

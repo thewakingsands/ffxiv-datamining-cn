@@ -12531,8 +12531,8 @@ Immerse Gamepack尚未安装。
 11193,""
 11194,"确定要用<Sheet(Item,IntegerParameter(1),0)/>×<Format(IntegerParameter(2),FF022C)/>，
 换取以下道具吗？"
-11195,"以下のアイテムを
-<Sheet(Item,IntegerParameter(3),0)/>×<Format(IntegerParameter(4),FF022C)/>と交換します。
+11195,"确定要用<Sheet(Item,IntegerParameter(3),0)/>×<Format(IntegerParameter(4),FF022C)/>，
+换取以下道具吗？
 
 <Sheet(Item,IntegerParameter(1),0)/>×<Format(IntegerParameter(2),FF022C)/>"
 11196,""
