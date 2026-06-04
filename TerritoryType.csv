@@ -1220,7 +1220,7 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,Territory
 1316,"m6d1_2","ex5/07_mid_m6/dun/m6d1/level/m6d1",1,2405,519,5372,1162,37,2,4,1084,False,0,False,0,True,False,False,False,1001,122032,124078,0,0,0,-1,0,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1317,"m6d1_3","ex5/07_mid_m6/dun/m6d1/level/m6d1",1,2405,519,5474,1164,37,2,57,1079,False,0,False,0,True,False,False,False,1001,122033,124079,0,0,0,-1,0,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1318,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
-1319,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
+1319,"c1w4","ffxiv/cos_c1/hou/c1w4/level/c1w4",1,3704,3742,5551,1246,1,0,60,0,False,172,False,0,True,False,True,False,20288,122030,122108,855081,0,175,-1,998,-1,False,4,0,66,0,63,False,True,0,False,True,True,False,False,True,0,False,False
 1320,"x6r9","ex5/01_xkt_x6/rad/x6r9/level/x6r9",1,4501,4512,5369,1099,36,2,17,1068,False,0,False,0,True,False,False,False,1001,122035,124340,0,0,0,-1,898,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1321,"x6r9_2","ex5/01_xkt_x6/rad/x6r9/level/x6r9",1,4501,4512,5369,1099,36,2,17,1069,False,0,False,0,True,False,False,False,1001,122035,124344,0,0,0,-1,899,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1322,"x6ra","ex5/01_xkt_x6/rad/x6ra/level/x6ra",1,4501,4512,5370,1112,36,2,17,1070,False,114,False,0,True,False,False,False,1001,122035,124341,0,0,0,-1,903,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
@@ -1264,7 +1264,7 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,Territory
 1360,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1361,"z5fd","ex4/05_zon_z5/fld/z5fd/level/z5fd",1,2405,519,4766,1201,37,2,10,1115,False,149,False,0,True,False,False,False,1001,122010,122102,0,0,0,-1,957,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1362,"z5fd_2","ex4/05_zon_z5/fld/z5fd/level/z5fd",1,2405,519,4766,1201,37,2,10,1116,False,149,False,0,True,False,False,False,1001,122010,122103,0,0,0,-1,958,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
-1363,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
+1363,"z3oy","ex2/05_zon_z3/ome/z3oy/level/z3oy",1,2400,514,2720,79,9,2,17,1094,False,0,False,0,True,False,False,False,1001,122016,122104,0,0,0,-1,952,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1364,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1365,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1366,"r2d1_re","ex1/01_roc_r2/dun/r2d1/level/r2d1",1,25,508,2214,243,5,2,3,36,False,42,False,2,True,False,False,False,1001,122004,124314,0,0,0,-1,101,-1,False,1,0,0,0,0,False,True,0,False,False,False,False,True,True,0,False,False

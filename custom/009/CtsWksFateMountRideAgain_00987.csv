@@ -1,4 +1,4 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
+0,"TEXT_CTSWKSFATEMOUNTRIDEAGAIN_00987_TALK_ACTOR","「<Sheet(Mount,IntegerParameter(1),0)/>」に乗り込みますか？"

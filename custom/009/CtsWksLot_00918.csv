@@ -10,9 +10,9 @@ int32,str,str
 2,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_002","欢迎来到大地基地宇宙好运道的接待窗口。
 在这里可以使用俄匊斯信用点转动幸运大转盘进行抽奖。
 请问有什么可以帮您的？"
-3,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_003","こちらはティンバーロッジ基地のコスモフォーチュン窓口です～。
-アウクセシアクレジットを使ってルーレット式くじが遊べますよ。
-どのようなご用件でしょう～？"
+3,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_003","欢迎来到原木屋基地宇宙好运道的接待窗口。
+在这里可以使用奥克塞西亚信用点转动幸运大转盘进行抽奖。
+请问有什么可以帮您的？"
 4,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_010","等一下，那闪闪发光的……
 是宇宙好运爆的抽奖券！"
 5,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_000_020","这可是千载难逢的好机会！
@@ -54,7 +54,8 @@ int32,str,str
 目前抽选系统正在升级，请过一阵子再来吧！"
 24,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_070_000","要消耗<Format(IntegerParameter(1),FF022C)/><Sheet(Item,IntegerParameter(3),0)/>挑战宇宙好运道吗？
 （当前持有：<Format(IntegerParameter(2),FF022C)/>）"
-25,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_070_010","要消耗1张<Sheet(Item,IntegerParameter(2),0)/>挑战宇宙好运爆吗？
+25,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_070_010","要挑战宇宙好运爆吗？
+需要消耗1张<Sheet(Item,IntegerParameter(2),0)/>
 （持有数量：<Format(IntegerParameter(1),FF022C)/>）"
 26,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_070_020","是"
 27,"TEXT_CTSWKSLOT_00918_ORBITINGWAY_070_030","否"

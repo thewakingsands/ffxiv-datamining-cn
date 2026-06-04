@@ -109,7 +109,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,byte,bit&01,byte,byte,bo
 1064,"秘籍：第12卷",1,100,255,0,0,87,True,14,0,True,True,True,True,True,True,True,True
 1065,"尤卡巨人族",5,90,255,70866,5,4,False,0,0,True,True,True,True,True,True,True,True
 1066,"[翻訳不要] 検索対象外カテゴリ",0,255,255,0,0,0,False,0,0,True,True,True,True,True,True,True,True
-1067,"",0,0,0,0,0,0,False,0,0,False,False,False,False,False,False,False,False
+1067,"缇索加",6,90,255,70996,0,1,False,0,0,True,True,True,True,True,True,True,True
 1068,"",0,0,0,0,0,0,False,0,0,False,False,False,False,False,False,False,False
 2000,"库尔札斯",10,255,50,0,0,12,False,0,0,True,True,True,True,True,True,True,True
 2001,"龙堡",10,255,50,0,0,11,False,0,0,True,True,True,True,True,True,True,True

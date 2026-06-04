@@ -4568,7 +4568,21 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/挥舞指挥棒","",293,0
-731,0,0,0,0,0,"","","","","",0,0
-732,0,0,0,0,0,"","","","","",0,0
+731,2,1,2,0,0,"/eattaco","/taco","/吃夹饼 子命令
+/eattaco、/taco
+吃一口夹饼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/吃夹饼","",293,0
+732,2,1,2,0,0,"/devourtaco","","/一直吃夹饼 子命令
+/devourtaco
+一口接着一口吃夹饼。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/一直吃夹饼","",293,0
 733,0,0,0,0,0,"","","","","",0,0
 734,0,0,0,0,0,"","","","","",0,0

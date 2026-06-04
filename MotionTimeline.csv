@@ -4971,8 +4971,8 @@ int32,str,byte,bit&01,bit&02,bit&04,byte,byte,bit&08
 4967,"",0,False,False,False,0,0,False
 4968,"",0,False,False,False,0,0,False
 4969,"",0,False,False,False,0,0,False
-4970,"",0,False,False,False,0,0,False
-4971,"",0,False,False,False,0,0,False
+4970,"cbep_u_sp91",40,False,False,False,0,0,False
+4971,"cbem_sp91_2lp",0,True,False,False,0,0,False
 4972,"cbbm_pc_cnt078",20,False,False,False,0,0,False
 4973,"cbbm_human_sp052",20,False,False,False,0,0,False
 4974,"",0,False,False,False,0,0,False
@@ -5124,7 +5124,7 @@ int32,str,byte,bit&01,bit&02,bit&04,byte,byte,bit&08
 5120,"",0,False,False,False,0,0,False
 5121,"",0,False,False,False,0,0,False
 5122,"",0,False,False,False,0,0,False
-5123,"",0,False,False,False,0,0,False
+5123,"f_qsteov00360_15a",21,False,False,True,0,1,False
 5124,"",0,False,False,False,0,0,False
 5125,"",0,False,False,False,0,0,False
 5126,"",0,False,False,False,0,0,False

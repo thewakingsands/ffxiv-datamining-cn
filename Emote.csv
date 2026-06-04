@@ -331,7 +331,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 327,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 328,"放声大笑",8188,8187,0,0,0,0,0,False,False,False,2,98,False,True,False,False,False,10116,729,246473,8387,8386,642,750
 329,"挥舞指挥棒",8150,8149,0,0,0,0,0,False,False,False,2,99,False,True,False,False,False,11700,730,246474,8389,8388,643,750
-330,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
-331,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
+330,"吃夹饼",13368,0,13369,13369,13369,0,0,True,True,True,1,0,False,True,False,False,False,6048,731,246475,8391,8390,644,751
+331,"一直吃夹饼",13371,13370,0,0,0,0,0,False,False,False,2,100,False,True,False,False,False,11550,732,246476,8393,8392,644,751
 332,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0
 333,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0

@@ -1115,5 +1115,5 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263295,"",0,0,0,0,False,0,0
 263296,"",0,0,0,0,False,0,0
 263297,"",0,0,0,0,False,0,0
-263298,"",0,0,0,0,False,0,0
+263298,"购买道具",0,0,0,0,True,0,0
 263299,"",0,0,0,0,False,0,0
