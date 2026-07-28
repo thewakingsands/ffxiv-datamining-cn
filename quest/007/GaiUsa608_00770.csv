@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA608_00770_SEQ_00","石场水车的福瑟尔托，希望冒险者去讨伐某些人。"
 1,"TEXT_GAIUSA608_00770_SEQ_01","福瑟尔托想从寄生蜂团手中夺回村子。分别讨伐1名红腹蜂巢附近的<Sheet(BNpcName,52,0)/>、<Sheet(BNpcName,83,0)/>和<Sheet(BNpcName,172,0)/>。"

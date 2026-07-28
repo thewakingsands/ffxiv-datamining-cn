@@ -1,5 +1,4 @@
-﻿key,0,1
-#,OrchestrionCategory,Order
+﻿#,OrchestrionCategory,Order
 int32,OrchestrionCategory,uint16
 0,0,0
 1,13,20

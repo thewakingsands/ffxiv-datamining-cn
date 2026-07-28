@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_XXAUSC603_03871_SEQ_00","丧灵钟的萨尔克·贸尔克想要冒险者筹备某些东西。"
 1,"TEXT_XXAUSC603_03871_SEQ_01","萨尔克·贸尔克委托冒险者筹备帝国兵的装备。讨伐<Sheet(BNpcName,1813,0)/>、<Sheet(BNpcName,1812,0)/>或是<Sheet(BNpcName,1811,0)/>，获取<Sheet(EventItem,2003021,0)/>。再讨伐<Sheet(BNpcName,1809,0)/>或<Sheet(BNpcName,1810,0)/>，获取<Sheet(EventItem,2003022,0)/>。"

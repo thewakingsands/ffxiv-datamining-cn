@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,,,,,,,,
+﻿#,Name,Unknown2,Unknown1,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 0,"",0,"0",0,0,1,0,0
 1000,"",0,"",0,0,0,0,0

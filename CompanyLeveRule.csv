@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Type,Objective,Help
+﻿#,Type,Objective,Help
 int32,str,LeveString,LeveString
 0,"",0,0
 1,"CompanyLeveProtection",26,33

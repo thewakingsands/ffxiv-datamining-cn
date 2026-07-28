@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Class{Singular},,VoiceLine,Class{Plural}
+﻿#,ClassSingular,Name,VoiceLine,ClassPlural
 int32,str,str,uint32,str
 0,"","",0,""
 1,"Academician","阿尔菲诺",8202017,"学士"

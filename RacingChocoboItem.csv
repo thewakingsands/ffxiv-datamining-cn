@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Item,Category,Param[0],Param[1]
+﻿#,Item,Category,Unknown0,Unknown1
 int32,Item,byte,byte,byte
 0,0,0,0,0
 1,9560,1,0,0

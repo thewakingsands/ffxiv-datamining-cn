@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,File,WidthScale,,,,
+﻿#,File,WidthScale,Unknown0,Unknown1,Unknown2,Unknown_70
 int32,str,byte,bit&01,bit&02,bit&04,bit&08
 0,"",0,False,False,True,True
 1,"chn_dark001f",0,False,False,True,True

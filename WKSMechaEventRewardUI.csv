@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,,,,,
+﻿#,Unknown2,Unknown3,Unknown4,Unknown0,Unknown1
 int32,bit&01,bit&02,bit&04,uint32,uint32
 0.0,False,False,False,0,0
 1.0,False,False,False,65112,45690

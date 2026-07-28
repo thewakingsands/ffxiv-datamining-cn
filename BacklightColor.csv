@@ -1,6 +1,5 @@
-﻿key,0
-#,Color
-int32,Color
+﻿#,Color
+int32,uint32
 0,0
 1,16777215
 2,65535

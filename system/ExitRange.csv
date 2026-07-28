@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_EXITRANGE_DISMOUNT_Q","骑乘状态下不能继续前进。
 要从坐骑上下来吗？"

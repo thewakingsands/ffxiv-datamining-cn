@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6
-#,BNpcBase,Size,Rarity,Sort,Reward[0],Reward[1],Icon
-int32,BNpcBase,byte,byte,byte,Item,Item,Image
+﻿#,BNpcBase,Unknown0,Unknown1,,Reward,Icon,Size
+int32,BNpcBase,byte,byte,byte,uint32,Image,int32
 0,0,0,0,0,0,0,0
 1,14906,1,1,1,37603,37611,70121
 2,14907,1,2,1,37611,37603,70122

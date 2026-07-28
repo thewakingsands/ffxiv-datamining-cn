@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Icon{Objective}[0],Icon{Objective}[1]
+﻿#,IconObjective0,IconObjective1
 int32,Image,Image
 0,0,0
 1,63909,63909

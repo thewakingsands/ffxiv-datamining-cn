@@ -1,5 +1,4 @@
-﻿key,0
-#,
+﻿#,AdditionalLootRulesAvailable
 int32,bit&01
 0,False
 1,True

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC506_00994_SEQ_00","圣寇伊纳克调查地的克林托塔，有件秘密的事想要委托给冒险者。"
 1,"TEXT_GAIUSC506_00994_SEQ_01","克林托塔想要调查卫月。前往圣寇伊纳克调查地北方的歌咏裂谷，在<Sheet(EObj,2002211,0)/>等待，从随后现身的<Sheet(BNpcName,2061,0)/>身上获得<Sheet(EventItem,2000934,0)/>。对<Sheet(BNpcName,2061,0)/>使用<Sheet(EventItem,2000962,0)/>可以削弱它的力量。"

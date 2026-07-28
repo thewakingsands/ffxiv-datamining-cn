@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,Type
+﻿#,HasDutyRequirements,Type
 int32,bit&01,uint32
 0,False,2
 1,False,2

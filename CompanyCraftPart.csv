@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5
-#,,CompanyCraftType,CompanyCraftProcess[0],CompanyCraftProcess[1],CompanyCraftProcess[2],
-int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraftProcess,uint16
+﻿#,,,CompanyCraftProcess,Unknown0,Unknown1,CompanyCraftType
+int32,byte,byte,uint16,uint16,uint16,CompanyCraftType
 0,0,0,0,0,0,0
 1,1,1,1,2,3,0
 2,2,1,50,51,52,0

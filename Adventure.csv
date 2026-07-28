@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,Level,MinLevel,MaxLevel,Emote,MinTime,MaxTime,PlaceName,Icon{List},Icon{Discovered},Icon{Undiscovered},IsInitial,Name,Impression,Description,,
-int32,Level,int32,byte,Emote,byte,byte,PlaceName,Image,Image,Image,int32,int32,bit&01,str,str,str
+﻿#,Level,MinLevel,MaxLevel,Emote,WeatherCategory,Weather,MinTime,MaxTime,PlaceName,IconList,IconDiscovered,IconUndiscovered,IsInitial,Name,Impression,Description
+int32,Level,int32,byte,Emote,WeatherCategory,Weather,uint16,uint16,PlaceName,Image,Image,Image,bit&01,str,str,str
 2162688,4876856,0,0,22,1,2,800,1159,27,81501,81001,81451,True,"梭鱼埠头","某位商人所见的风景。向下望去，三艘红帆军舰列队停泊，彰显着利姆萨·罗敏萨作为海之都的深厚实力。","军用埠头，利姆萨·罗敏萨引以为傲的旗舰舰队“黑涡舰队”在此停泊。一般市民是禁止进入的，不过，可以从视野好的地方看到旗舰凯旋号及整个舰队的英姿。"
 2162689,4876859,0,0,22,1,1,1800,459,27,81502,81002,81451,True,"阿斯塔利西亚号海盗船","某个海盗所见的景色。喝酒之后就会情绪高涨，便会非常嚣张地到不好惹的家伙们的地盘上去张望。结果第二天醒来时发现自己被吊起来了。","三大海盗之首的海盗团“断罪党”拥有的大型帆船。虽然表面上对外宣称这是一艘外国籍的商务船，但其实每个人心里都清楚，那是大海盗希尔菲厄的私有船。船内则是各路海盗们的社交场所。"
 2162690,4876905,0,0,58,0,7,500,759,30,81503,81003,81451,True,"海词石窟的纪念碑","某位水手所见的风景。其在出海打渔之前固定会做的仪式，在远离阳光的洞穴中为逝去的同伴们祈祷。悄然的雨声，为祈祷伴上了一曲安稳的镇魂歌。","船员们的纪念碑。纪念碑上刻有传说会运送灵魂的黑尾鸥，以及一首镇魂歌：“我是支撑船只的波浪，我是指引海员的微风。我是夜晚的星星，我是早晨的天空。我生于大海之中，亦将逝于大海之中。”"

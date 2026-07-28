@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,MenuOrder,Name
 int32,uint16,str
 0,0,""
 1,1002,"骑士装备"

@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,int32,uint16,bit&01
+﻿#,Item,Unknown1,Unknown2
+int32,Item,uint16,bit&01
 0.0,0,0,False
 1.0,0,0,False
 1.1,0,0,False

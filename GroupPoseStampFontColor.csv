@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,,,
+﻿#,Unknown1,Unknown2,Unknown3,Unknown0
 int32,int32,int32,byte,str
 0,1,1,0,"未設定"
 1,1,53,1,"<UIForeground>02</UIForeground><UIGlow>36</UIGlow>颜色1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

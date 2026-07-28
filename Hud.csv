@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,,,
+﻿#,DisplayName,AddonName,Unknown2
 int32,str,str,str
 0,"热键栏1","Hotbar1","hot1"
 1,"热键栏2","Hotbar2","hot2"

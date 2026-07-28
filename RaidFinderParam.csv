@@ -1,5 +1,4 @@
-﻿key,0
-#,
+﻿#,SeparatedHealerRoles
 int32,bit&01
 0.0,False
 1.0,True

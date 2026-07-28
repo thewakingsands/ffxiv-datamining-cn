@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,byte,uint16,byte,uint32,byte
+﻿#,Unknown2,Unknown1,QuestCustomTodoIndex,Quest,Unknown4
+int32,byte,uint16,byte,Quest,byte
 5,2,0,0,71041,255
 6,2,1,0,71041,255
 7,2,2,0,71041,255

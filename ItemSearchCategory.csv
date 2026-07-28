@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,Name,Icon,Category,Order,ClassJob,
+﻿#,Name,Icon,Category,Order,ClassJob,Unknown0
 int32,str,Image,byte,byte,ClassJob,bit&01
 0,"",0,0,0,0,False
 1,"武器",60102,0,0,0,False

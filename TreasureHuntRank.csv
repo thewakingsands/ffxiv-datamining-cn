@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,Icon,ItemName,KeyItemName,InstanceMap,MaxPartySize,TreasureHuntTexture,,
+﻿#,Unknown1,Icon,ItemName,KeyItemName,InstanceMap,MaxPartySize,TreasureHuntTexture,Unknown0,Unknown2
 int32,byte,Image,Item,EventItem,EventItem,byte,byte,uint16,bit&01
 0,1,60356,6688,2001087,0,1,0,200,False
 1,1,60356,6688,2001087,0,1,0,200,False

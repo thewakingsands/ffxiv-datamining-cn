@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,,
-int32,str,uint16,uint16,uint16
+﻿#,Name,ChocoboRace,Unknown2,RatingRequirement
+int32,str,ChocoboRace,uint16,uint16
 0,"",0,0,0
 1,"第1关：抢占内圈赛道",44,0,41
 2,"第2关：躲避范围攻击",45,0,61

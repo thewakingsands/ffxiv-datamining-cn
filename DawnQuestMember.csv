@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,,,Member,BigImage{Old},BigImage{New},Class
+﻿#,Unknown0,Unknown1,Member,BigImageOld,BigImageNew,Class
 int32,uint16,byte,ENpcResident,Image,Image,DawnMemberUIParam
 0,0,0,0,0,0,0
 1,0,0,1030660,72621,72681,1

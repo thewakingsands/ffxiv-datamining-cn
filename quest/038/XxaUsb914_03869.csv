@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_XXAUSB914_03869_SEQ_00","野战医院的西德想要冒险者帮忙。"
 1,"TEXT_XXAUSB914_03869_SEQ_01","西德需要一些材料来对配药用的蒸馏器进行改良。打倒<Sheet(BNpcName,114,0)/>，获取3个<Sheet(EventItem,2003018,0)/>。"

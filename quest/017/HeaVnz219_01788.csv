@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ219_01788_SEQ_00","自由脑窟穴的西布勒鲁瓦正放眼远望。"
 1,"TEXT_HEAVNZ219_01788_SEQ_01","西布勒鲁瓦拜托冒险者准备一些<Sheet(EventItem,2001613,0)/>。打倒<Sheet(BNpcName,3571,0)/>，获取3份<Sheet(EventItem,2001613,0)/>。"

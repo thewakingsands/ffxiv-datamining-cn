@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,BattleDetail
+int32,XBMBattleDetail
 0.0,0
 1.0,6
 1.1,1

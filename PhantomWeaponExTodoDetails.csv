@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5
-#,,,,,,
-int32,uint32,uint32,uint32,uint32,uint16,uint32
+﻿#,LogMessage,ExtendedQuestCounter,DetailText,ContentFinderCondition,Unknown5,TerritoryType
+int32,LogMessage,ExtendedQuestCounter,PhantomWeaponExTodoDetailTxt,ContentFinderCondition,uint16,TerritoryType
 0.0,0,0,0,0,0,0
 1.0,11023,40,0,0,4505,1187
 1.1,11023,41,1,0,4505,1187

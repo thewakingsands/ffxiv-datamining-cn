@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE",""
 1,"TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_TITLE","饲养中的陆行鸟：<Value>IntegerParameter(1)</Value>只

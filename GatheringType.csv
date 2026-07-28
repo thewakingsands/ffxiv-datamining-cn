@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,Icon{Main},Icon{Off}
+﻿#,Name,IconMain,IconOff
 int32,str,Image,Image
 0,"采掘",60438,60464
 1,"碎石",60437,60463

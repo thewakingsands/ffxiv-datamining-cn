@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Item,,Tomestones
+﻿#,Item,CurrencyInventorySlot,Tomestones
 int32,Item,sbyte,Tomestones
 0,23,6,0
 1,24,5,0

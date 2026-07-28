@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_000_001","哈哈，店还没开呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！"
 1,"TEXT_CMNFATSHOP1N4TOWN_00584_GRAMSOL_001_001","哈哈，现在还没法做生意呢<If(PlayerParameter(4))>妹子<Else/>兄弟</If>！

@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,Format,,
+﻿#,Unknown0,Unknown1,Format,Unknown2
 int32,byte,bit&01,str,byte
 0,0,False,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",0
 1,0,False,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>",0

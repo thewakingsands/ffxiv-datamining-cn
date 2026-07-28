@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA701_00774_SEQ_00","石场水车的梅弗里德，有一件事想要拜托冒险者。"
 1,"TEXT_GAIUSA701_00774_SEQ_01","梅弗里德为了救部下的命，需要得到药品。从<Sheet(BNpcName,4,0)/>身上获得4个<Sheet(EventItem,2000612,0)/>。"

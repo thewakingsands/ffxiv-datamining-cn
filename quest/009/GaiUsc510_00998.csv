@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC510_00998_SEQ_00","丧灵钟的冒险者古奥尔盖姆想要发一笔横财。"
 1,"TEXT_GAIUSC510_00998_SEQ_01","<Sheet(EventItem,2000763,0)/>能够作为梦幻之药卖出高价。前往丧灵钟西边的迷雾湿原，从<Sheet(BNpcName,645,0)/>身上得到5份<Sheet(EventItem,2000763,0)/>。"

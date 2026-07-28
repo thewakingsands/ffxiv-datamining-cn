@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSAH306_01405_SEQ_00","诺布养育场的塞乌有事情想要委托给冒险者。"
 1,"TEXT_BANSAH306_01405_SEQ_01","塞乌为了喂饱弟弟们，想要冒险者获取<Sheet(EventItem,2001281,0)/>。首先在萨普沙产卵地讨伐<Sheet(BNpcName,1831,0)/>，获取<Sheet(EventItem,2001272,0)/>。"

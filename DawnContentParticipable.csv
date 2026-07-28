@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,byte
+﻿#,DawnQuestMember
+int32,DawnQuestMember
 0.0,0
 1.0,1
 1.1,2

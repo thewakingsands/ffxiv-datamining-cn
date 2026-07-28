@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB308_00849_SEQ_00","葡萄酒港的埃特加尔，想要冒险者去讨伐魔物。"
 1,"TEXT_GAIUSB308_00849_SEQ_01","因酿造葡萄酒产生的污水，导致河流中的<Sheet(BNpcName,26,0)/>大量繁殖。讨伐3只<Sheet(BNpcName,26,0)/>。"

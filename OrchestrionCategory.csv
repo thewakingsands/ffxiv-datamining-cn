@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Name,HideOrder,Icon,Order,
+﻿#,Name,HideOrder,Icon,Order,Unknown0
 int32,str,byte,Image,byte,bit&01
 0,"",0,0,0,False
 1,"全部",0,0,0,False

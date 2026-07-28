@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,,,,,,,,
-int32,byte,byte,byte,byte,uint32,byte,uint16,uint16,uint16
+﻿#,Unknown7,Unknown8,Unknown5,Unknown6,Quest,QuestSequence,Map,TerritoryType,Unknown4
+int32,byte,byte,byte,byte,Quest,byte,Map,TerritoryType,uint16
 0.0,0,0,0,0,0,0,0,0,0
 1.0,0,0,0,0,70137,6,796,0,0
 1.1,0,0,0,0,70138,0,797,0,0

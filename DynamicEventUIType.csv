@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
-#,,,,,,,,,,,,,,,,,,,
+﻿#,Unknown15,Unknown16,Unknown17,Unknown18,Unknown0,Unknown3,Unknown6,Unknown9,Unknown12,Unknown1,Unknown4,Unknown7,Unknown10,Unknown13,Unknown2,Unknown5,Unknown8,Unknown11,Unknown14
 int32,uint32,uint32,uint32,bit&01,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
 0,0,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,9631,9622,9665,False,0,919,922,919,919,0,920,923,920,920,0,921,924,921,921

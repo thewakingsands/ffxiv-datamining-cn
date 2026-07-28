@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint16,byte,single,single,single
+﻿#,Image,UnlockQuest,Unknown0,UnlockText,Data,Sort,Scale,OffsetX,OffsetY
+int32,Image,Quest,uint32,Addon,EmjCostumeData,byte,single,single,single
 0.0,0,0,0,0,0,0,1,0,0
 1.0,73034,67205,67204,9898,1,0,1,0,0
 1.1,73008,70000,69999,9898,2,1,1,0,0

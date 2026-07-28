@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ620_01888_SEQ_00","填絮码头的埃蒙有事想要拜托冒险者。"
 1,"TEXT_HEAVNZ620_01888_SEQ_01","埃蒙希望冒险者能帮忙讨伐一下给他捣乱的<Sheet(BNpcName,3488,0)/>。在填絮码头讨伐5只<Sheet(BNpcName,3488,0)/>。"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ004_01729_SEQ_00","宝杖大街的玛斯在找一个可以委托工作的人。"
 1,"TEXT_HEAVNZ004_01729_SEQ_01","玛斯希望冒险者将<Sheet(EventItem,2001802,0)/>送去圣大鸟房。在伊修加德的宝杖大街取得<Sheet(EventItem,2001802,0)/>。"

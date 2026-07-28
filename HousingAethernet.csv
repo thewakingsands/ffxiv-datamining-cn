@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Level,TerritoryType,PlaceName,Order
+﻿#,Level,TerritoryType,PlaceName,Order
 int32,Level,TerritoryType,PlaceName,byte
 1966080,0,0,0,0
 1966081,4573387,339,1200,1

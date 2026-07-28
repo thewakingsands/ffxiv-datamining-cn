@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,,,,,,
+﻿#,FirstGilReward,FirstAlliedSealsReward,FirstTomestonesReward,GeneralGilReward,GeneralAlliedSealsReward,GeneralTomestonesReward
 int32,uint32,uint16,uint16,uint32,uint16,uint16
 0,0,0,0,0,0,0
 1,1200,30,60,300,10,30

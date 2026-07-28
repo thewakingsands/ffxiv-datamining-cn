@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
-#,GatheringLevel,BigFish{OnReach},BigFish{OnEnd},,FishingSpotCategory,Rare,TerritoryType,PlaceName{Main},PlaceName{Sub},X,Z,Radius,,Item[0],Item[1],Item[2],Item[3],Item[4],Item[5],Item[6],Item[7],Item[8],Item[9],PlaceName,Order
-int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uint16,byte,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,PlaceName,uint16
+﻿#,,BigFishOnReach,BigFishOnEnd,BigFishOnRefresh,,,FishingSpotCategory,Unknown0,Rare,,,,,Item,TerritoryType,PlaceNameMain,PlaceNameSub,Radius,PlaceName,Order,X,Z,GatheringLevel,,
+int32,byte,str,str,str,byte,bit&01,uint16,uint16,uint16,int16,int16,uint16,byte,uint32,TerritoryType,PlaceName,PlaceName,uint32,PlaceName,uint32,uint32,uint32,uint32,uint16,uint16
 0,0,"","","",0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,950,0
 1,15,"リーチ状態になった！（翻訳不要）","リーチ状態が終了した！（翻訳不要）","",1,False,0,0,0,0,0,0,0,4776,4869,4870,4876,4877,4936,0,0,0,0,0,0
 2,5,"","","",2,False,148,0,0,1094,1058,400,2,4925,4927,4932,4934,4935,4936,4952,7705,0,0,951,46

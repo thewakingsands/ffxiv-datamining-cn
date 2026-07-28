@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR","你是希望进行退役竞赛陆行鸟的配种吗？"
 1,"TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01","好的，这就是你的“<Sheet(Item,9560,0)/>”！

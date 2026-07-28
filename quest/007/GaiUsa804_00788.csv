@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA804_00788_SEQ_00","秋瓜浮村的商人索梅希尔德想要冒险者帮忙寻找失物。"
 1,"TEXT_GAIUSA804_00788_SEQ_01","索梅希尔德的商人同伴丢失了<Sheet(EventItem,2000618,0)/>。寻找<Sheet(EventItem,2000618,0)/>。"

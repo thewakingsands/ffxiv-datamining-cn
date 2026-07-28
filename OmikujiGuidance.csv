@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,,,
+﻿#,Unknown2,Type,Outcome
 int32,bit&01,str,str
 0,False,"無効","無効"
 100,True,"冒险","信步而行 信马由缰 长风破浪"

@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6
-#,Type,Data,,Text,Icon,,
-int32,uint32,Row,uint32,WeeklyBingoText,Image,uint32,byte
+﻿#,Type,Data,Unknown2,Unknown0,Text,Icon,ContentCategory
+int32,uint32,Type,uint32,byte,WeeklyBingoText,Image,byte
 0,0,0,0,0,0,0,0
 1,5,49,1,0,1,113001,3
 2,1,50,0,0,2,113002,3

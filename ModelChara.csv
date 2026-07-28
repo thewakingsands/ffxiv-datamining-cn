@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
-#,Type,Model,Base,Variant,SEPack,,,PapVariation,,,,,,,,,,,,,,,
+﻿#,Type,Model,Base,Variant,SEPack,AnimationVariant,Unknown7,PapVariation,Unknown3,Unknown6,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown4,Unknown13,Unknown5,Unknown14,Radius,Unknown1,Unknown_70,Unknown15
 int32,byte,uint16,byte,byte,uint16,byte,bit&01,bit&02,byte,sbyte,bit&04,bit&08,bit&10,bit&20,bit&40,byte,bit&80,byte,byte,single,single,byte,single
 0,1,0,1,1,13001,1,False,False,0,0,False,False,False,False,False,100,False,100,0,0,0,80,0
 1,2,1,1,1,3073,1,False,False,0,0,False,False,False,False,False,100,False,100,0,0,2.9,60,0

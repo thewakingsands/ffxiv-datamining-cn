@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,,
+﻿#,Name,Unknown0,Unknown1
 int32,str,bit&01,bit&02
 0,"主线任务1（重生/苍穹/红莲/暗影/晓月）",True,True
 1,"主线任务2（金曦之遗辉）",True,True

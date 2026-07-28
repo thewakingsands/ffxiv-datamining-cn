@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,Name,,ModelKey,Animation{Start},Animation{End},Animation{Idle},Animation{Play01},Animation{Play02},StopAnimation,Instrument,Order,Transient,
-int32,str,bit&01,int64,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,str,int32,PerformTransient,byte
+﻿#,Name,Unknown1,ModelKey,AnimationStart,AnimationEnd,AnimationIdle,AnimationPlay01,AnimationPlay02,UnlockLink,Instrument,Icon,Transient,PerformGroup
+int32,str,bit&01,int64,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,int32,str,Image,PerformTransient,PerformGroup
 0,"",False,"0, 0, 0, 0",0,0,0,0,0,0,"",0,0,0
 1,"047harp",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"竖琴",751,1,0
 2,"001grandpiano",False,"697, 1, 1, 0",6552,6554,6553,6555,6557,0,"钢琴",752,2,0

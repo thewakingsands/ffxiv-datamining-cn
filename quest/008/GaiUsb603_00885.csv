@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB603_00885_SEQ_00","弗洛朗泰尔哨塔的神勇队士兵伊德里斯唐想要委托冒险者消灭魔物。"
 1,"TEXT_GAIUSB603_00885_SEQ_01","伊德里斯唐想要驱逐从库尔札斯流窜来的<Sheet(BNpcName,399,0)/>。将<Sheet(EventItem,2000690,0)/>放置在弗洛朗泰尔哨塔南面的<Sheet(EObj,2002106,0)/>，讨伐随之出现的<Sheet(BNpcName,399,0)/>。"

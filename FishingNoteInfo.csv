@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,Size,AquariumWater,WeatherRestriction,TimeRestriction,SpecialConditions,IsCollectable,Item
+﻿#,Size,AquariumWater,WeatherRestriction,TimeRestriction,SpecialConditions,IsCollectable,Item
 int32,byte,AquariumWater,byte,byte,byte,byte,Row
 0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,4776

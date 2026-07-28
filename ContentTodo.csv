@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,byte,uint32,byte,byte,bit&01
+﻿#,Unknown1,Objective,Unknown2,Unknown3,Unknown4
+int32,byte,InstanceContentTextData,byte,byte,bit&01
 0.0,0,0,0,0,False
 1.0,6,21700,1,0,False
 1.1,6,21701,1,1,False

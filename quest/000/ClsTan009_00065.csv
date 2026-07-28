@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CLSTAN009_00065_SEQ_00","制革匠行会的盖娃，看上去十分忙碌。"
 1,"TEXT_CLSTAN009_00065_SEQ_01","接受了盖娃的委托。筹备<Sheet(ItemHQ,　3651,0)/>、<Sheet(ItemHQ,　2270,0)/>和<Sheet(ItemHQ,　4360,0)/>各1件，让格里达尼亚制革匠行会的盖娃查看它们。"

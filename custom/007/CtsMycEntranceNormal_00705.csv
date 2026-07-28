@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSMYCENTRANCENORMAL_00705_Q1_000_000","要做什么？"
 1,"TEXT_CTSMYCENTRANCENORMAL_00705_MENU_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>"

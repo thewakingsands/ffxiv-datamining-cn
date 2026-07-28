@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,,BannerURL,Description,Language,PictureURL
+﻿#,Unknown0,BannerURL,Description,Language,PictureURL
 int32,byte,str,str,str,str
 0,255,"","","",""
 1,0,"","","",""

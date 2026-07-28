@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,Action,,,Guide
+﻿#,Unknown1,Unknown_70,Unknown2,Action,Unknown3,Unknown0,Guide
 int32,byte,byte,byte,Action,byte,uint32,Guide
 0,255,255,0,0,0,0,0
 1,40,255,1,28,0,0,1

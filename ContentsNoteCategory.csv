@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,SortKey,Name
 int32,sbyte,str
 0,0,""
 1,1,"战斗"

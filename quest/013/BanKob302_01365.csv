@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANKOB302_01365_SEQ_00","第789洞穴团采矿地的第789团清洁工博布，想改善环境。"
 1,"TEXT_BANKOB302_01365_SEQ_01","第789团清洁工博布想从武伽玛罗武装矿山消灭第13团指导者佐加的手下。前往武伽玛罗武装矿山，讨伐<Sheet(BNpcName,2518,0)/>、<Sheet(BNpcName,2519,0)/>、<Sheet(BNpcName,2520,0)/>和<Sheet(BNpcName,2521,0)/>中的任意5名。"

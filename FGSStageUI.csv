@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7
-#,,,,,,,,
-int32,uint16,uint16,uint16,int32,int32,int32,int32,int32
+﻿#,Unknown5,Unknown6,Unknown7,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4
+int32,uint16,uint16,uint16,Image,Image,int32,int32,int32
 0,11,1,6,82056,82051,180077,180088,180084
 1,12,2,7,82057,82052,180078,180089,180084
 2,13,3,8,82058,82053,180079,180090,180085

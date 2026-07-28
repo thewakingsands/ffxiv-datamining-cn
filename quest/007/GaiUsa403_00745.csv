@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA403_00745_SEQ_00","妖精暂留地的诺蕾克希亚，十分感谢冒险者。"
 1,"TEXT_GAIUSA403_00745_SEQ_01","诺蕾克希亚似乎想报答冒险者。削弱<Sheet(BNpcName,2187,0)/>的体力后，对其使用<Sheet(EventItem,2000597,0)/>，获得3份<Sheet(EventItem,2000598,0)/>。"

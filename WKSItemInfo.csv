@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,uint32,byte,byte,uint16,bit&01
+﻿#,Item,Unknown2,WKSItemSubCategory,Unknown1,Unknown3
+int32,Item,byte,WKSItemSubCategory,uint16,bit&01
 0,0,0,0,0,False
 1,0,0,0,0,False
 2,0,0,0,0,False

@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Name,Icon,Order{Minor},Order{Major}
+﻿#,Name,Icon,OrderMinor,OrderMajor
 int32,str,Image,byte,byte
 0,"",0,0,0
 1,"格斗武器",60101,7,1

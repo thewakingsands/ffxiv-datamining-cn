@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,FriendlyVFX,StackVFX1Trigger,StackVFX1,StackVFX2Trigger,StackVFX2,HostileVFX,,,,,
-int32,VFX,byte,VFX,byte,VFX,VFX,byte,byte,bit&01,bit&02,bit&04
+﻿#,VFX,Unknown3,Unknown0,Unknown4,Unknown1,Unknown2,Unknown5,Unknown6,,,
+int32,uint16,byte,uint16,byte,uint16,uint16,byte,byte,bit&01,bit&02,bit&04
 0,0,0,0,0,0,0,0,2,False,True,False
 1,122,0,0,0,0,0,0,2,False,True,False
 2,125,0,0,0,0,0,0,2,False,True,False

@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,RandomStageEvent
+int32,XBMRandomStageEvent
 0.0,0
 2.0,1
 3.0,2

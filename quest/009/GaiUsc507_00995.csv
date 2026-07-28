@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC507_00995_SEQ_00","圣寇伊纳克调查地的旺达凌·布里兹，有件事想要委托给冒险者。"
 1,"TEXT_GAIUSC507_00995_SEQ_01","旺达凌·布里兹想要对基迦巨人族的生活状态及习性进行研究。讨伐<Sheet(BNpcName,647,0)/>、<Sheet(BNpcName,646,0)/>或<Sheet(BNpcName,648,0)/>共4只，获得<Sheet(EventItem,2000762,0)/>。"

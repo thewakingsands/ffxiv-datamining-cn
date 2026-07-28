@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Text,DefineValue
+﻿#,Text,DefineValue
 int32,str,uint32
 0,"EMOTE_AMAZED",1
 1,"EMOTE_ANGRY",2

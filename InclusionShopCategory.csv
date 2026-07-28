@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,ClassJobCategory,InclusionShopSeries
+﻿#,Name,ClassJobCategory,InclusionShopSeries
 int32,str,ClassJobCategory,InclusionShopSeries
 0,"",0,0
 1,"防护职业装备",75,1

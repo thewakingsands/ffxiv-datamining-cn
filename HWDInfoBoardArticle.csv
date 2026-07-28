@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Type,,,,Text
+﻿#,Type,Unknown1,Unknown0,Unknown2,Text
 int32,HWDInfoBoardArticleType,byte,uint16,bit&01,str
 0,0,0,0,False,""
 1,0,0,0,False,""

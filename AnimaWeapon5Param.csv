@@ -1,5 +1,4 @@
-﻿key,0,1
-#,BaseParam,Name
+﻿#,BaseParam,Name
 int32,BaseParam,str
 0,0,""
 1,6,"柔韧性"

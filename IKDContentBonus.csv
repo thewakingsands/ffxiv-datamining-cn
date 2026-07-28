@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Objective,Requirement,,Image,Order
+﻿#,Objective,Requirement,BonusMultiplier,Image,Order
 int32,str,str,uint16,Image,byte
 0,"","",100,0,0
 1,"千鱼祝福","达成条件：获得的渔分大于等于2500。",110,65901,4

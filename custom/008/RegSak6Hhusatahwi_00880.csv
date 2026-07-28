@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_REGSAK6HHUSATAHWI_00880_HHUTEPI_000_000","哟，那边的<If(PlayerParameter(4))>小姐<Else/>小哥</If>。
 你是旅行者吧？要不要我来跟你讲讲镇子上的事啊？"

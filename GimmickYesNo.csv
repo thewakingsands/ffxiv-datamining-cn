@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,,,
+﻿#,Message,YesButton,NoButton
 int32,str,str,str
 0,"土豆土豆我是大米","大米你好","大米是啥……"
 1,"要收取魔导感光器吗？","是","否"

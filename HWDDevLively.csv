@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,ENPC,,
+﻿#,ENPC,Unknown0,Unknown1
 int32,ENpcBase,uint16,byte
 0.0,0,0,0
 1.0,1032049,0,0

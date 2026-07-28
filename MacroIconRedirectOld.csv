@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Icon{Old},Icon{New}
+﻿#,IconOld,IconNew
 int32,Image,Image
 1,60801,66001
 2,208,158

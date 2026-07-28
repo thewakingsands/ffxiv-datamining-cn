@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Image,Jingle,Type,Lang,
+﻿#,Image,Jingle,Type,Lang,Unknown0
 int32,Image,Jingle,sbyte,bit&01,int32
 0,0,-1,1,True,0
 1,120001,6,1,True,0

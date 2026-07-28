@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB611_00893_SEQ_00","天火要塞群的西尔万泰尔有事情想要委托给冒险者。"
 1,"TEXT_GAIUSB611_00893_SEQ_01","为了确保储备物资，讨伐<Sheet(BNpcName,795,0)/>，获取<Sheet(EventItem,2000699,0)/>和<Sheet(EventItem,2000700,0)/>。"

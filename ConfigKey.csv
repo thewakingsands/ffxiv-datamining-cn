@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Label,Param,Platform,Required,Category,,,Text
-int32,str,byte,byte,bit&01,byte,uint16,byte,str
+﻿#,Label,Param,Platform,Required,Category,Unknown0,BacklightColor,Text
+int32,str,byte,byte,bit&01,byte,uint16,BacklightColor,str
 0,"",255,255,False,0,0,0,""
 1,"",0,0,False,0,0,0,""
 2,"",0,0,False,0,0,0,""

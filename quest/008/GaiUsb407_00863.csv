@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB407_00863_SEQ_00","瞭望阵营地斯威古雷尔，灵光一闪想到了一个主意。"
 1,"TEXT_GAIUSB407_00863_SEQ_01","斯威古雷尔想要饲养长须豹。削弱<Sheet(BNpcName,2192,0)/>的体力后，用<Sheet(EventItem,2000670,0)/>捕获它。"

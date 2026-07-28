@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ603_01871_SEQ_00","玛艾娜想请求冒险者最后一个愿望。"
 1,"TEXT_HEAVNZ603_01871_SEQ_01","玛艾娜希望冒险者将<Sheet(EventItem,2001662,0)/>和<Sheet(EventItem,2001663,0)/>交给昂德卢。在飞龙港获取<Sheet(EventItem,2001662,0)/>。"

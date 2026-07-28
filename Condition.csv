@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,LogMessage,
-int32,bit&01,byte,LogMessage,byte
+﻿#,IsNetworked,Permission,LogMessage,LogMessagePriority
+int32,bit&01,Permission,LogMessage,byte
 0,False,0,0,0
 1,False,0,7701,200
 2,False,0,7702,200

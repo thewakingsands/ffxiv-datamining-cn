@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,,,,,
+﻿#,Name,Default,Minimum,Maximum,Unknown4
 int32,str,int16,int16,int16,bit&01
 0,"",0,0,0,False
 1,"尺寸",100,50,200,True

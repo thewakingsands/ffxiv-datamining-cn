@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Item,Category,Crop,Sort
+﻿#,Item,Category,Crop,Unknown0
 int32,Item,MJIItemCategory,MJICropSeed,byte
 0,37551,1,0,1
 1,37552,1,0,11

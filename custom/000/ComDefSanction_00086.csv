@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","本人是<Switch(IntegerParameter(1))><Case(1)>大国防联军“黑涡团”</Case><Case(2)>大国防联军“双蛇党”</Case><Case(3)>大国防联军“恒辉队”</Case></Switch>的魔法工兵！"
 1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","本人是<Switch(IntegerParameter(1))><Case(1)>大国防联军“黑涡团”</Case><Case(2)>大国防联军“双蛇党”</Case><Case(3)>大国防联军“恒辉队”</Case></Switch>的魔法工兵！

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_000","哦，这不是在<If(GreaterThanOrEqualTo(IntegerParameter(1),1))>水晶冲突<Else/>群狼盛宴</If>中位居前列的参与者吗！
 请立刻收下这只有取得好成绩的人才能获得的排名奖励吧！"

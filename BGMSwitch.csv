@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,BGMSystemDefine,Quest,,BGM
+﻿#,BGMSystemDefine,Quest,Unknown0,BGM
 int32,BGMSystemDefine,Quest,byte,Row
 50000.0,0,0,0,0
 50001.0,1,0,0,1202

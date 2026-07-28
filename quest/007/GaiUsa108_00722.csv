@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA108_00722_SEQ_00","妖精暂留地的阿密希亚有事情想委托给冒险者。"
 1,"TEXT_GAIUSA108_00722_SEQ_01","阿密希亚好像在外面受到了魔物的袭击。调查<Sheet(EObj,2001920,0)/>，打倒随之出现的<Sheet(BNpcName,16,0)/>；再调查另一处<Sheet(EObj,2001921,0)/>，打倒随之出现的<Sheet(BNpcName,1975,0)/>。"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_REGNOR4SULLEN_00589_SIGURTHUR_000_000","哟，<If(PlayerParameter(4))>小姐<Else/>小哥</If>，没见过你啊……
 看你也不像卫兵。

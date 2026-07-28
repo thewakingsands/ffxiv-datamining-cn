@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Name,Description,Icon,FCRank
+﻿#,Name,Description,Icon,FCRank
 int32,str,str,Image,FCRank
 0,"","",0,0
 1,"部队储物柜","可以使用部队储物柜。",64301,1

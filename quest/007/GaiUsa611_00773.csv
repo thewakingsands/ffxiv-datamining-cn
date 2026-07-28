@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA611_00773_SEQ_00","姆恩·图伊酿造库的酿造师埃里蒙，有件简单的工作想委托给冒险者。"
 1,"TEXT_GAIUSA611_00773_SEQ_01","冒险者要帮忙制作<Sheet(EventItem,2000611,0)/>。获得<Sheet(EventItem,2000610,0)/>、<Sheet(EventItem,2000835,0)/>和<Sheet(EventItem,2000836,0)/>。"

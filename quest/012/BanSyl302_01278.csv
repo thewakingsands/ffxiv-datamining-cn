@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSYL302_01278_SEQ_00","妖精暂留地的莫奇希亚因为伙伴中了陷阱而感到困扰。"
 1,"TEXT_BANSYL302_01278_SEQ_01","接受了莫奇希亚的委托。在悬钩群南面讨伐<Sheet(BNpcName,2319,0)/>或<Sheet(BNpcName,2317,0)/>或<Sheet(BNpcName,2318,0)/>，获取3份<Sheet(EObj,2003097,0)/>讨厌的<Sheet(EventItem,2001167,0)/>。"

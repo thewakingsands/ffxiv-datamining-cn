@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Category,,
+﻿#,Category,Unknown0,Unknown1
 int32,str,uint16,byte
 0,"植物",17,4
 1,"照明",17,3

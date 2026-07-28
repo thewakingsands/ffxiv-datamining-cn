@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,PhysicalBonus,MentalBonus,TacticalBonus,Experience,Name,Description
+﻿#,PhysicalBonus,MentalBonus,TacticalBonus,Experience,Name,Description
 int32,sbyte,sbyte,sbyte,uint32,str,str
 0,0,0,0,0,"",""
 1,40,0,0,2000,"基础训练：体能","综合体能＋40"

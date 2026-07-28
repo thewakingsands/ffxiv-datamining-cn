@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Slowly,Dialogue
+﻿#,Slowly,Dialogue
 int32,bit&01,str
 0,False,""
 1,False,""

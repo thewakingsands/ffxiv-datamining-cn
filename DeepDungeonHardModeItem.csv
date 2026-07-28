@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,uint16,uint32,int64
+﻿#,Unknown2,Item,Unknown0
+int32,uint16,Item,int64
 0,0,0,"0, 0, 0, 0"
 1,4,46255,"0, 0, 0, 0"
 2,4,46256,"1, 0, 0, 0"

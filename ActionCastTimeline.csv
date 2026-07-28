@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Name,VFX
+﻿#,Name,VFX
 int32,ActionTimeline,VFX
 0,0,0
 1,92,0

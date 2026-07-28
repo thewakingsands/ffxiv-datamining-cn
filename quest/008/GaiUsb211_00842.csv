@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB211_00842_SEQ_00","葡萄酒港的比格莱恩特，看上去十分恼怒。"
 1,"TEXT_GAIUSB211_00842_SEQ_01","比格莱恩特对葡萄酒瓶塞的软木质量极为不满。讨伐5只<Sheet(BNpcName,684,0)/>，获得<Sheet(EventItem,2000654,0)/>。"

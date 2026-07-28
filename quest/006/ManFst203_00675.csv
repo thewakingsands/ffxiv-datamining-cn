@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_MANFST203_00675_SEQ_00","沉溺海豚亭的巴德龙，正在寻找有能力的冒险者，不过……"
 1,"TEXT_MANFST203_00675_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往沉溺海豚亭找巴德龙重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

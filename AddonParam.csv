@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,AddonName,Param
 int32,str,bit&01
 0,"AchievementInfo",True
 1,"CrossWorldLinkshell",True

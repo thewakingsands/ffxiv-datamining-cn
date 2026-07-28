@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,Name,MenuOrder
 int32,str,uint16
 0,"",0
 1,"任务采集物",3

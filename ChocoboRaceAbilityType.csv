@@ -1,5 +1,4 @@
-﻿key,0
-#,IsActive
+﻿#,IsActive
 int32,bit&01
 0,False
 1,True

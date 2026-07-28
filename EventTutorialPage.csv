@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,uint32,str,str
+﻿#,Image,Name,Text
+int32,Image,str,str
 0,0,"",""
 1,0,"",""
 2,0,"",""

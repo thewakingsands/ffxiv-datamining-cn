@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA902_00797_SEQ_00","山人岩穴的开山工阿德马尔想要筹备夜间工作的必备品。"
 1,"TEXT_GAIUSA902_00797_SEQ_01","在彻夜工作之前，油灯的灯油好像用光了。削弱<Sheet(BNpcName,2189,0)/>后，对其使用<Sheet(EventItem,2000627,0)/>，获取<Sheet(EventItem,2000628,0)/>。"

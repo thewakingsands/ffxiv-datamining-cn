@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5
-#,LogKind,,,,,Text
-int32,uint16,uint16,byte,byte,bit&01,str
+﻿#,LogKind,DisplayFlags,Unknown1,Duration,Unknown2,Text
+int32,LogKind,uint16,byte,byte,bit&01,str
 0,0,0,0,0,False,""
 1,57,1,0,0,False,"向<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>发送了入队邀请。"
 2,57,1,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>发来的入队邀请被取消了。"

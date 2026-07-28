@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,Icon,Order
+﻿#,Name,Icon,Order
 int32,str,Image,uint16
 0,"无",61696,0
 1,"角色扮演",66467,1

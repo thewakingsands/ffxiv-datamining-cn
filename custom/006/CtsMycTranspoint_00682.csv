@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSMYCTRANSPOINT_00682_MENUTITLE","要传送到哪里？"
 1,"TEXT_CTSMYCTRANSPOINT_00682_DESTINATION","<Sheet(PlaceName,IntegerParameter(1),0)/>"

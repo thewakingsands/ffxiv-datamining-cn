@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,,,
+﻿#,Unknown0,Unknown1,Unknown2,Unknown3
 int32,str,int32,int32,byte
 0,"",0,0,0
 1,"战队“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”成立了。",0,1,0

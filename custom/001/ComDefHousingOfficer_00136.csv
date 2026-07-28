@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_000","欢迎来到<Switch(IntegerParameter(1))><Case(1)>海雾村</Case><Case(2)>薰衣草苗圃</Case><Case(3)>高脚孤丘</Case><Case(4)>白银乡</Case></Switch>。
 我可以为你介绍有关住宅区的事情。"

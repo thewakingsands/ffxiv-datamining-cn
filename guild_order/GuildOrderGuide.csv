@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GUILDORDERGUIDE_SELECT_MENU_TITLE","有什么事吗？"
 1,"TEXT_GUILDORDERGUIDE_SELECT_MENU_00","接受行会令的任务"

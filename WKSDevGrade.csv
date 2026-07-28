@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
-#,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,uint32,int32,uint32,uint32,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
+﻿#,StageFull,Stage,IndexText2,IndexText,IndexNpc,LodestoneRank,Unknown24,FestivalId,FestivalPhase,Unknown14,Thumbnail,Unknown13,Unknown4,Unknown12,Unknown8,Unknown9,Unknown10,Unknown11,Unknown15,Unknown16,Unknown17,Unknown18,Unknown19,Unknown20,Unknown21,Unknown22,Unknown23
+int32,str,str,str,str,str,byte,bit&01,uint16,byte,uint16,Image,int32,uint32,uint32,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
 0,"","","","","",0,False,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,"第一次基地扩建工程　物资准备中
  <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>请积极参加探索任务筹备物资吧！","第一次基地扩建工程　物资准备中","是时候一起筹备物资，扩建月门基地啦！

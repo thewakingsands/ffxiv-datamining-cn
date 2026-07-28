@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB009_00816_SEQ_00","恬静路营地的朗德内尔有事情要拜托冒险者。"
 1,"TEXT_GAIUSB009_00816_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往恬静路营地找朗德内尔重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

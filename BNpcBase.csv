@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
-#,Behavior,Battalion,LinkRace,Rank,Scale,ModelChara,BNpcCustomize,NpcEquip,Special,SEPack,,ArrayEventHandler,,BNpcParts,,,IsTargetLine,IsDisplayLevel,,,,,,,,,
+﻿#,Behavior,Battalion,LinkRace,Rank,Scale,ModelChara,BNpcCustomize,NpcEquip,Special,SEPack,IsOmnidirectional,ArrayEventHandler,Unknown0,BNpcParts,Unknown1,Unknown6,IsTargetLine,IsDisplayLevel,Unknown7,Unknown2,Unknown3,Unknown10,Unknown9,Unknown4,Unknown_70,Unknown8,Unknown11
 int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,uint16,byte,bit&01,ArrayEventHandler,byte,BNpcParts,byte,bit&02,bit&04,bit&08,bit&10,byte,byte,byte,uint16,byte,bit&20,bit&40,uint32
 0,0,4,0,0,1,0,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 1,0,4,0,0,1,0,2,366,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CLSEXC250_00318_SEQ_00","斧术师行会的会长威尔恩兹恩从上次的失败中吸取了教训，想让<Highlight>ObjectParameter(1)</Highlight>进行针对性的特训。"
 1,"TEXT_CLSEXC250_00318_SEQ_01","威尔恩兹恩说以现在的战斗力是无法打倒库加塔的，因此他决定让<Highlight>ObjectParameter(1)</Highlight>进行特训。先去和俾斯麦餐厅的索尔克维布谈谈。"

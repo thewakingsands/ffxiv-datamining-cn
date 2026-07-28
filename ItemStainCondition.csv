@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint32
+﻿#,UnlockQuest
+int32,Quest
 0,65536
 14002,0
 15492,0

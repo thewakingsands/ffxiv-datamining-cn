@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,File,NextWeaponTimeline,,
+﻿#,File,NextWeaponTimeline,Unknown0,Unknown1
 int32,str,int16,bit&01,bit&02
 0,"",-1,False,False
 1,"weapon/battle_idle",-1,False,False

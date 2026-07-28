@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,,,
+﻿#,Unknown1,Unknown3,Unknown2,Description
 int32,uint32,byte,uint32,str
 0,0,0,100,"这样的身体，无法，发挥力量……
 我有手，有脚……"

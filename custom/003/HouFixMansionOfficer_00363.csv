@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","欢迎来到<Switch(IntegerParameter(1))><Case(1)>中桅塔</Case><Case(2)>百合岭</Case><Case(3)>娜娜莫大风车</Case><Case(4)>红梅御殿</Case><Case(5)>皓天炉舍</Case></Switch>公寓！
 在这个窗口可以购买房间或听取说明。"

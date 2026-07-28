@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,Param,,TestAction,,,
+﻿#,Param,Unknown0,TestAction,Unknown2,Unknown3,Unknown1
 int32,bit&01,byte,ActionTimeline,sbyte,sbyte,byte
 0,False,0,0,0,0,0
 1,False,0,799,0,0,3

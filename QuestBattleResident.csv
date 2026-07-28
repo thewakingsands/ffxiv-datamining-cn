@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,SoloDuty
+int32,ContentFinderCondition
 0,0
 1,0
 2,305

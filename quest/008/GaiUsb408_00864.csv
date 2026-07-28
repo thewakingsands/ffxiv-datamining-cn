@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB408_00864_SEQ_00","瞭望阵营地的布鲁艾丁，想要借助冒险者的力量。"
 1,"TEXT_GAIUSB408_00864_SEQ_01","有3名地灵族突袭侦察部队的士兵登上了高台。搜索瞭望阵营地附近的<Sheet(EObj,2002090,0)/>，打倒<Sheet(BNpcName,373,0)/>、<Sheet(BNpcName,379,0)/>和<Sheet(BNpcName,369,0)/>共计3个。"

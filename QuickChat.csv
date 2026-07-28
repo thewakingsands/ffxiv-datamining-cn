@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Name{Action},Icon,Addon,QuickChatTransient,
+﻿#,NameAction,Icon,Addon,QuickChatTransient,Unknown0
 int32,str,Image,Addon,QuickChatTransient,uint16
 0,"已失效的快捷发言",783,0,0,0
 1,"大家好！",9901,11030,1,1

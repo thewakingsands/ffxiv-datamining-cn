@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Icon,Name,Description
+﻿#,Icon,Name,Description
 int32,Image,str,str
 0,0,"",""
 1,216801,"魔法效果：失明","我方全员命中率降低"

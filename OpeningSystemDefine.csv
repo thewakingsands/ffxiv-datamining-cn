@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,Text,DefineValue
 int32,str,uint32
 0,"HOWTO_MOVE_AND_CAMERA",1
 1,"HOWTO_ANNOUNCE_AND_QUEST",2

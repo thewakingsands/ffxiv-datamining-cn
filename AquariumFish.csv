@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,AquariumWater,Size,Item,
+﻿#,AquariumWater,Size,Item,Unknown0
 int32,AquariumWater,byte,Item,uint16
 0,0,0,0,0
 1,0,0,0,0

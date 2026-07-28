@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB103_00822_SEQ_00","遗忘绿洲的族长乌·欧德·努恩对冒险者很满意。"
 1,"TEXT_GAIUSB103_00822_SEQ_01","想要得到南萨纳兰的美味，就要打倒<Sheet(BNpcName,1978,0)/>。为了吸引<Sheet(BNpcName,1978,0)/>，打倒<Sheet(BNpcName,307,0)/>，获得<Sheet(EventItem,2000645,0)/>。"

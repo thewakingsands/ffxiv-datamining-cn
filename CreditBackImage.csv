@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,,,BackImage,
+﻿#,Unknown0,Unknown1,Unknown3,Unknown4,Unknown5,BackImage,Unknown2
 int32,uint16,uint16,bit&01,bit&02,bit&04,Image,byte
 0.0,0,16,False,True,False,0,0
 0.1,21,50,False,True,False,71721,5

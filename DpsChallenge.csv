@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,PlayerLevel,,,PlaceName,Icon,Order,Name,Description
+﻿#,PlayerLevel,Unknown1,Unknown0,PlaceName,Icon,Order,Name,Description
 int32,uint16,bit&01,uint16,PlaceName,Image,uint16,str,str
 0,0,False,0,0,0,1,"",""
 1,60,False,0,2089,112145,100,"挑战木人歼灭战","身处通天巨石，遥望无际云海。唯木人相伴，切磋武艺，陶冶心灵，只求功夫之路上更进一步。遵循古代武人的教诲，以木人为伍，日益精进！在时间限制内歼灭木人！"

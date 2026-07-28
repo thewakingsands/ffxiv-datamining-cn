@@ -1,6 +1,5 @@
-﻿key,0,1
-#,,
-int32,uint32,byte
+﻿#,Name,ObjectGroup
+int32,PlaceName,WKSAetheryteObjectGroup
 0,0,0
 1,5446,1
 2,5447,2

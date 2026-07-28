@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HOUFURORCHESTRION_00330_MENU_TITLE","●プレイリスト [<Highlight>StringParameter(1)</Highlight>]"
 1,"TEXT_HOUFURORCHESTRION_00330_MENU_MODE_SEQUENCIAL","●曲順再生モード"

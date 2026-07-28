@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA409_00751_SEQ_00","跨天桥的海尔姆哈特，有一件无论如何都想得到的东西。"
 1,"TEXT_GAIUSA409_00751_SEQ_01","委托十分紧急。讨伐跨天桥附近的<Sheet(BNpcName,272,0)/>，获得3份<Sheet(EventItem,2000600,0)/>。"

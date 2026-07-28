@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,Scale,Icon,Font,,,Cast
+﻿#,Scale,Icon,Font,Unknown0,Unknown1,Cast
 int32,uint16,Image,CreditFont,byte,byte,CreditListText
 0.0,0,0,0,0,0,0
 0.1,0,0,0,0,0,0

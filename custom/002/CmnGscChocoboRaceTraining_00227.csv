@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02","你想让<Highlight>StringParameter(1)</Highlight>接受训练吗？
 那请你先选择训练时使用的饲料吧！"

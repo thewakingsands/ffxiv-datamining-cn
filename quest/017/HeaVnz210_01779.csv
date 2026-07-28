@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ210_01779_SEQ_00","尾羽集落的马塞尚非常关心这里的树木。"
 1,"TEXT_HEAVNZ210_01779_SEQ_01","马塞尚拜托冒险者去驱除<Sheet(BNpcName,4046,0)/>。对龙堡参天高地陆行鸟之森的<Sheet(EObj,2005603,0)/>使用<Sheet(EventItem,2001609,0)/>，讨伐3只被吸引来的<Sheet(BNpcName,4046,0)/>。"

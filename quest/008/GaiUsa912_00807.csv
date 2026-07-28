@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA912_00807_SEQ_00","邓斯坦哨塔的马尔塞特又想找冒险者来协助研究。"
 1,"TEXT_GAIUSA912_00807_SEQ_01","这次的工作是调查套索花的生态。使用<Sheet(EventItem,2000958,0)/>，打倒<Sheet(BNpcName,2057,0)/>，获取<Sheet(EventItem,2000862,0)/>。"

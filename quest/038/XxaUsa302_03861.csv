@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_XXAUSA302_03861_SEQ_00","梅梅卢恩交易站的特特卢恩，有事想请冒险者帮忙。"
 1,"TEXT_XXAUSA302_03861_SEQ_01","接受了帮助特特卢恩制作<Sheet(EventItem,2000594,0)/>的委托。在愚者瀑布附近讨伐<Sheet(BNpcName,28,0)/>，获取3根<Sheet(EventItem,2003009,0)/>。"

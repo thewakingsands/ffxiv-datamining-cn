@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB106_00825_SEQ_00","遗忘绿洲的乌·库巴·提亚，有东西想要冒险者帮忙收集。"
 1,"TEXT_GAIUSB106_00825_SEQ_01","乌·库巴·提亚想要筹备箭头。从<Sheet(BNpcName,285,0)/>身上获得6个<Sheet(EventItem,2000646,0)/>。"

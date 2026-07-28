@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,Name,AcceptJingle,CompleteJingle,,
-int32,str,ScreenImage,ScreenImage,uint32,uint32
+﻿#,Name,AcceptJingle,CompleteJingle,MenuScreen,Icon
+int32,str,ScreenImage,ScreenImage,uint32,Image
 0,"重生之境",1,2,0,61875
 1,"苍穹之禁城",342,343,8240,61876
 2,"红莲之狂潮",344,345,16090,61877

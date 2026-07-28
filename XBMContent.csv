@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
-#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,uint16,byte,byte,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,ContentFinderCondition,Unknown34,Unknown35,Unknown36,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown13,Unknown14,Unknown15,Unknown16,Unknown17,Unknown18,Unknown19,Unknown20,Unknown21,Unknown22,Unknown23,Unknown24,Unknown25,Unknown26,Unknown27,Unknown28,Unknown29,Unknown30,Unknown31,Unknown32
+int32,ContentFinderCondition,byte,byte,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,0,0,255,250,500,750,1000,1250,2500,4250,250,1000,250,500,750,1250,750,500,750,1000,750,750,500,500,375,750,750,750,750,750,750,750,750,4000,6250,9000
 1,1088,10,3,5,250,500,750,1000,1250,2500,4250,250,1000,0,0,0,1250,750,0,750,0,750,0,500,0,375,750,750,750,750,750,750,750,750,4000,6250,9000
 2,1089,12,8,10,250,500,750,1000,1250,2500,4250,250,1000,0,0,0,1250,750,500,750,1000,750,750,500,500,375,750,750,750,750,750,750,750,750,4000,6250,9000

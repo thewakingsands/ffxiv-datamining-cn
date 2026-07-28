@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
-#,,,,,,,,,,,,,,,,,,,,,,
-int32,bit&01,byte,int32,uint16,uint32,uint32,uint16,uint16,str,int32,int32,int32,int32,int32,int16,int16,int16,int16,int16,bit&02,bit&04,sbyte
+﻿#,Unknown13,Category,Unknown3,Unknown9,Icon,AltIcon,Unknown16,Unknown17,Name,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown18,Unknown19,Unknown20,Unknown21,Unknown10,Unknown14,Unknown15,Unknown12
+int32,bit&01,TofuObjectCategory,int32,uint16,Image,Image,uint16,uint16,str,int32,int32,int32,int32,int32,int16,int16,int16,int16,int16,bit&02,bit&04,sbyte
 0,False,0,0,0,0,0,0,0,"",0,0,0,0,0,255,255,255,255,255,False,False,-1
 1,False,1,0,999,81000,0,256,256,"円形白無地フィールド",1,2,3,0,0,255,255,255,255,255,True,True,-1
 2,False,1,0,999,81000,0,256,256,"円形白タイルフィールド",1,2,3,0,0,255,255,255,255,255,True,True,-1

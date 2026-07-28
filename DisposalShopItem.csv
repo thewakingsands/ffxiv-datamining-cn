@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,Item{Disposed},,Item{Received},,Quantity{Received},
+﻿#,ItemDisposed,DisposedHq,ItemReceived,Unknown2,QuantityReceived,Unknown0
 int32,Item,bit&01,Item,bit&02,uint32,uint16
 3473408.0,0,False,0,False,0,0
 3473409.0,13381,False,13630,False,1,1000

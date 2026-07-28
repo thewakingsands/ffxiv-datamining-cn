@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,ScreenImage,LogMessage,Name
+﻿#,ScreenImage,LogMessage,FloorEffectUI
 int32,ScreenImage,LogMessage,DeepDungeonFloorEffectUI
 0,0,0,0
 1,417,7236,7

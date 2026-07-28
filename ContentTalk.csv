@@ -1,5 +1,4 @@
-﻿key,0,1
-#,ContentTalkParam,Text
+﻿#,ContentTalkParam,Text
 int32,ContentTalkParam,str
 0,4,""
 1,1,"テスト用トークテキスト1"

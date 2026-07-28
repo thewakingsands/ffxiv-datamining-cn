@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,Level,,,,,Item,,,
+﻿#,Level,Unknown0,Unknown1,Unknown2,Unknown4,Item,Unknown5,Unknown3,Unknown6
 int32,byte,int32,int32,int32,uint16,Item,uint16,int32,uint16
 0,0,0,0,0,1,0,1,0,1
 1,25,23,0,0,1,38536,1,0,1

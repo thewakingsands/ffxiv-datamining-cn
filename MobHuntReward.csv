@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,ExpReward,GilReward,Expansion,CurrencyReward
+﻿#,ExpReward,GilReward,Expansion,CurrencyReward
 int32,uint32,uint16,ExVersion,uint16
 0,0,0,0,0
 1,0,1000,1,8

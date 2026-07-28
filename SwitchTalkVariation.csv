@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,Quest[0],Quest[1],,DefaultTalk
-int32,Row,Quest,byte,DefaultTalk
+﻿#,Quest0,Quest1,Unknown0,DefaultTalk
+int32,Quest,Quest,byte,DefaultTalk
 2031616.0,0,0,0,0
 2031617.0,0,0,0,589860
 2031617.1,65539,0,0,589844

@@ -1,5 +1,4 @@
-﻿key,0
-#,
+﻿#,Text
 int32,str
 0,""
 1,"<CommandIcon(10)/>收回物品"

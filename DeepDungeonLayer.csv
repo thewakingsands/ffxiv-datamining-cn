@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,DeepDungeon,FloorSet,RoomA,RoomB,RoomC,WepMinLv,ArmourMinLv,
+﻿#,DeepDungeon,FloorSet,RoomA,RoomB,RoomC,WepMinLv,ArmourMinLv,Unknown0
 int32,DeepDungeon,byte,DeepDungeonMap5X,DeepDungeonMap5X,DeepDungeonMap5X,byte,byte,bit&01
 0,0,0,0,0,0,0,0,False
 1,1,0,1,2,0,0,0,False

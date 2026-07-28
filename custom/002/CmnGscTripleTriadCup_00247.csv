@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001","现在正在举办九宫幻卡大赛——<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>！
 特等奖是<Sheet(Item,IntegerParameter(1),0)/>哟！"

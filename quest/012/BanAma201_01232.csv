@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANAMA201_01232_SEQ_00","灰阵营的纳尔基·冬有事想要告诉冒险者。"
 1,"TEXT_BANAMA201_01232_SEQ_01","接受了纳尔基·冬的委托。讨伐赞拉克侧翼阵的<Sheet(BNpcName,1879,0)/>，获取2个<Sheet(EventItem,2001115,0)/>；再讨伐<Sheet(BNpcName,1880,0)/>，获取2个<Sheet(EventItem,2001116,0)/>。"

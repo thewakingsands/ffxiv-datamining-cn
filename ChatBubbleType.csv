@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,,,,
+﻿#,Unknown0,Unknown4,Unknown1,Unknown2,Unknown3,Unknown5,Unknown6
 int32,str,byte,str,str,str,byte,byte
 0,"",0,"","","",1,1
 1,"说话",0,"LogChatBubbleSayShowType","LogChatBubbleSayFontColor","LogChatBubbleSayWindowColor",1,1

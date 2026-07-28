@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Model{Top},Model{Body},Model{Legs},GrandCompany,Icon{Head},Icon{Body},Icon{Legs},Order
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,int32,int32,int32,GrandCompany,Image,Image,Image,byte
 0,"皮革陆行鸟鞍",0,"",0,0,1,0,0,"皮革陆行鸟鞍",0,0,0,0,0,0,0,0
 1,"碧海陆行鸟鞍",0,"",0,0,1,0,0,"碧海陆行鸟鞍",65538,65541,65538,1,58549,58553,58551,1

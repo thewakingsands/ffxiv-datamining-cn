@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB210_00841_SEQ_00","葡萄酒港的埃特加尔，想要委托冒险者讨伐魔物。"
 1,"TEXT_GAIUSB210_00841_SEQ_01","埃特加尔希望冒险者去消灭在葡萄酒港附近大肆破坏的<Sheet(BNpcName,411,0)/>。讨伐4只<Sheet(BNpcName,411,0)/>。"

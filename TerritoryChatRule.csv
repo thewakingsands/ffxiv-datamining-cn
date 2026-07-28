@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,,,,,,,,
+﻿#,Unknown7,Public,Shout,DutyTell,PublicTell,Party,Global,Pvp
 int32,bit&01,byte,byte,byte,byte,byte,byte,byte
 0,False,2,2,0,2,2,2,2
 1,False,0,0,0,0,0,0,0

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSWKSENTRANCE_00921_ANOTHER_WORLD","需返回原始服务器才能前往探索场景。"
 1,"TEXT_CTSWKSENTRANCE_00921_SYSTEM_000_000","要做什么？"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA708_00781_SEQ_00","小阿拉米格的阿梅罗特又有一件事想要委托给冒险者。"
 1,"TEXT_GAIUSA708_00781_SEQ_01","<Sheet(BNpcName,564,0)/>这种魔物是引起热病的原因。打倒4团<Sheet(BNpcName,564,0)/>。并分别在毒蜥蜴和鮟鱇的尸体上使用<Sheet(EventItem,2000859,0)/>，打倒随之出现的<Sheet(BNpcName,1994,0)/>。"

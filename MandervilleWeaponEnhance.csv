@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,,,,,,,,,,,,,,,,
-int32,byte,uint32,byte,byte,uint32,byte,byte,uint32,byte,byte,uint32,byte,byte,uint32,uint16,uint32
+﻿#,,Materia,,,UpgradeItem,,,Image,,,UpgradeCost,,,Unknown7,MateriaSmallValueIndex,MateriaBigValueIndex
+int32,byte,uint32,byte,byte,Item,byte,byte,Image,byte,byte,uint32,byte,byte,uint32,uint16,uint32
 39920,1,1403,5,1,1405,5,1,1406,5,1,1408,5,1,40322,1,80851
 39921,1,1404,7,2,1403,7,2,1405,7,2,1406,7,2,40322,1,80852
 39922,1,1403,7,2,1405,7,2,1406,7,2,1408,7,2,40322,1,80853

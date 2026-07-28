@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,,,,
-int32,uint16,byte,uint32,uint32,uint16,uint32,str
+﻿#,Transformation,Expansion,Unknown1,RequiredQuest,Festival,PreviewIcon,Description
+int32,Transformation,ExVersion,uint32,Quest,Festival,Image,str
 0,0,0,0,0,0,0,""
 1,219,0,0,0,76,73801,"温文尔雅，内心强大的女性角尊"
 2,220,0,1,0,76,73802,"信念坚定，充满自信的鲁加族女性"

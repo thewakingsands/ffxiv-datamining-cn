@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSWKSEMERGENCYACCESSOBJ_00923_TALK_ACTOR_000_000","这里是发生紧急情况时使用的物资存放点。"
 1,"TEXT_CTSWKSEMERGENCYACCESSOBJ_00923_TALK_ACTOR_000_010","这里是其他任务使用的物资存放点。"

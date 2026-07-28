@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,Icon1,Icon2,Text
+﻿#,Unknown0,Icon1,Icon2,Text
 int32,byte,Image,Image,str
 0,0,0,0,""
 1,1,114003,114053,"主线任务"

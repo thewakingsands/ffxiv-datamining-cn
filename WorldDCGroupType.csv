@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,Name,Region,,,
-int32,str,byte,uint16,byte,bit&01
+﻿#,Name,NeolobbyId,PvPRegion,Region,IsCloud
+int32,str,byte,WorldPhysicalDC,WorldRegionGroup,bit&01
 0,"Unknown",0,0,0,False
 1,"Elemental",1,1,1,False
 2,"Gaia",3,1,1,False

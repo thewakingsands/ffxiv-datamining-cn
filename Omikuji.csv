@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,,,,
+﻿#,GuidanceAdventure,GuidanceRelationships,GuidanceProsperity,GuidanceConflict,GuidanceFavor,Fortune,Description
 int32,int32,int32,int32,int32,int32,str,str
 0,0,0,0,0,0,"無効","無効"
 1,100,200,300,400,500,"大吉","鸿运当头，将指引铭记于心享受生活吧。"

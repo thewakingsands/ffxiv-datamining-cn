@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,byte,byte,byte
+﻿#,Unknown0,ShopName,WelcomeText
+int32,byte,InclusionShopWelcomText,InclusionShopWelcomText
 0,0,0,0
 1,1,1,2
 2,2,3,4

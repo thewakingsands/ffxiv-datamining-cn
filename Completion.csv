@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Group,Key,LookupTable,Text,GroupTitle
+﻿#,Group,Key,LookupTable,Text,GroupTitle
 int32,uint16,uint16,str,str,str
 100,1,0,"@","【语言】","yuyan."
 101,1,1,"","请使用定型文翻译系统。","qingshiyongdingxingwenfanyixitong"

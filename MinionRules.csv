@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Rule,Description
+﻿#,Rule,Description
 int32,str,str
 0,"",""
 1,"仅限召唤点10的宠物参战","拥有1只或更多召唤点为10的宠物"

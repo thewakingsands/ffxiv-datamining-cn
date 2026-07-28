@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUTITLE","要传送到哪里？"
 1,"TEXT_CTSERKEUREKA1TRANSPOINT_00473_DESTINATION","<Sheet(PlaceName,<Sheet(EurekaAethernet,IntegerParameter(1),0)/>,0)/>"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_SUBFST053_00159_SEQ_00","镜池栈桥的阿梅勒，委托勇敢的冒险者去讨伐沼火。"
 1,"TEXT_SUBFST053_00159_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往镜池栈桥找阿梅勒重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

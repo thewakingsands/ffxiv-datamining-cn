@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01","这里可以为与<Switch(IntegerParameter(1))><Case(1)>黑涡团</Case><Case(2)>双蛇党</Case><Case(3)>恒辉队</Case></Switch>签订契约的士兵，
 提供编辑部队队徽，和装饰部队队徽的服务。"

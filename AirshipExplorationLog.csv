@@ -1,5 +1,4 @@
-﻿key,0
-#,Text
+﻿#,Text
 int32,str
 0,""
 1,"到达了阿巴拉提亚云海的未知区域，即将向“<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>”调整航线。"

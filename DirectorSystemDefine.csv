@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,Text,DefineValue
 int32,str,int32
 0,"SEQ_INITIALIZE",0
 1,"SEQ_GAME_RESULT",254

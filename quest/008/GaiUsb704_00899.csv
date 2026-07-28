@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB704_00899_SEQ_00","巨龙首营地的科朗蒂奥有工作想要委托给冒险者。"
 1,"TEXT_GAIUSB704_00899_SEQ_01","科朗蒂奥出钱对<Sheet(BNpcName,659,0)/>发起悬赏。讨伐<Sheet(BNpcName,659,0)/>，获取4份<Sheet(EventItem,2000703,0)/>。"

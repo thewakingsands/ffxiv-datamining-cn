@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Location,Fare,TimeRequired,,
+﻿#,Location,TimeRequired,Fare,Unknown0,Unknown1
 int32,ChocoboTaxiStand,byte,uint16,uint16,bit&01
 0,0,0,80,0,False
 1,1179649,0,80,0,False

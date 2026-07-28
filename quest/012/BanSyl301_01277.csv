@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSYL301_01277_SEQ_00","妖精暂留地的莫奇希亚想要借助冒险者的力量。"
 1,"TEXT_BANSYL301_01277_SEQ_01","莫奇希亚委托冒险者去讨伐能产出乳根的魔物。讨伐妖精领西部的<Sheet(BNpcName,162,0)/>或<Sheet(BNpcName,165,0)/>，收集6份<Sheet(EventItem,2001122,0)/>。"

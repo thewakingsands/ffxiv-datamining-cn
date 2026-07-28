@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSYL202_01268_SEQ_00","妖精暂留地的颇妮希亚想要寻求乳根的极致调味。"
 1,"TEXT_BANSYL202_01268_SEQ_01","接受了颇妮希亚的委托。讨伐妖精领的<Sheet(BNpcName,164,0)/>或<Sheet(BNpcName,68,0)/>，获取4份<Sheet(EventItem,2001121,0)/>。"

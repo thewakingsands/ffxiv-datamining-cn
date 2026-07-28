@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,uint16,str,int32,byte,bit&01
+﻿#,Unknown2,Name,Icon,Unknown3,Unknown4
+int32,uint16,str,Image,byte,bit&01
 0,0,"",0,0,False
 1,0,"号令：战斗开始",791,2,False
 2,0,"号令：撤退",792,3,False

@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,,,,,,
+﻿#,EventRange,Unknown1,Unknown5,Unknown2,Unknown3,Unknown4
 int32,uint32,uint32,byte,uint16,uint16,uint16
 4194304,0,0,0,0,0,0
 4194305,10611851,0,0,0,0,255

@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,,,,,,,,,PopType,Data,Invisibility,SgbPath,EyeCollision,DirectorControl,Target,EventHighAddition,,,AddedIn{5-3},,
-int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,uint32,byte,ExportedSG,bit&01,bit&02,bit&04,sbyte,sbyte,bit&08,byte,bit&10,bit&20
+﻿#,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,PopType,Data,Invisibility,SgbPath,Targetable,Unknown9,Unknown10,AdditionalInteractRangeX,AdditionalInteractRangeY,Unknown11,Unknown0,LuaSetup,SharedTimelineStateUnknown
+int32,bool,bool,bool,bool,bool,bool,bool,bool,byte,Row,byte,ExportedSG,bit&01,bit&02,bit&04,sbyte,sbyte,bit&08,byte,bit&10,bit&20
 2000000,False,False,False,False,False,False,False,False,3,0,7,0,True,False,True,0,0,False,0,False,False
 2000001,False,False,False,False,False,False,False,False,3,0,7,1624,True,False,True,0,0,False,0,False,False
 2000002,False,False,False,False,False,False,False,False,3,65538,7,1860,True,False,True,0,0,False,0,False,False

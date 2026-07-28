@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,,,,,,,,
+﻿#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8
 int32,uint16,uint16,uint16,uint16,uint16,uint16,sbyte,sbyte,sbyte
 0,0,0,0,0,0,0,0,0,0
 1,14,1315,1316,1317,1318,1319,0,3,6

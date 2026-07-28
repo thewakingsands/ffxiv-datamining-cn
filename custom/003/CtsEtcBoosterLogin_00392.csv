@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSETCBOOSTERLOGIN_00392_JOB_000_001","阅读了<Sheet(Item,IntegerParameter(1),0)/>，
 <Sheet(ClassJob,IntegerParameter(2),0)/>的等级达到了<Value>IntegerParameter(3)</Value>级！"

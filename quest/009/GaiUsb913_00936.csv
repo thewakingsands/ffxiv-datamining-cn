@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB913_00936_SEQ_00","白云崖前哨的富斯克内非常苦恼。"
 1,"TEXT_GAIUSB913_00936_SEQ_01","要塞中到处都有大老鼠出没。调查<Sheet(EObj,2002166,0)/>，打倒<Sheet(BNpcName,417,0)/>。"

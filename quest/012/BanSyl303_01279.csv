@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSYL303_01279_SEQ_00","妖精暂留地的莫奇希亚有事情想要委托给冒险者。"
 1,"TEXT_BANSYL303_01279_SEQ_01","接受了莫奇希亚的委托。讨伐悬钩群南边的<Sheet(BNpcName,163,0)/>，获取3个<Sheet(EventItem,2001168,0)/>。"

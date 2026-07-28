@@ -1,6 +1,5 @@
-﻿key,0,1
-#,,
-int32,byte,uint32
+﻿#,Unknown1,Unknown0
+int32,byte,Quest
 0.0,0,0
 1.0,0,67082
 1.1,0,67670

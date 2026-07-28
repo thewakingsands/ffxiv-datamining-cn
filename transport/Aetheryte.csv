@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_AETHERYTE_MAINMENU_TITLE","<Sheet(PlaceName,IntegerParameter(1),0)/>"
 1,"TEXT_AETHERYTE_TOWN_WARP","<Gui(69)/> 都市传送网"

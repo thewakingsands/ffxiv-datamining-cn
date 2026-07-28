@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Quest,,Location
+﻿#,Quest,Unknown0,Location
 int32,Quest,byte,Level
 0.0,0,0,0
 9906629.0,69602,3,8664394

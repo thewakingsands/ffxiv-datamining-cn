@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,Icon,Category,MainCommandCategory,SortID,,Name,Description
+﻿#,Icon,Category,MainCommandCategory,SortID,Unknown0,Name,Description
 int32,Image,byte,MainCommandCategory,sbyte,byte,str,str
 0,0,0,0,0,0,"",""
 1,16,1,1,-5,1,"切换行动状态","在拔出武器与收回武器的状态间切换。"

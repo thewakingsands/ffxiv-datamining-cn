@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Race,ENpcBase[0],ENpcBase[1]
+﻿#,Race,MaleENpcBase,FemaleENpcBase
 int32,HousingEmploymentNpcRace,ENpcBase,ENpcBase
 0.0,0,0,0
 1.0,0,1008837,1008838

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_SUBSEA154_01145_SEQ_00","小麦酒港的阿尔德福特有事想要拜托冒险者。"
 1,"TEXT_SUBSEA154_01145_SEQ_01","接受了阿尔德福特的委托。从小麦酒港周围的<Sheet(BNpcName,363,0)/>身上得到5个<Sheet(EventItem,2000968,0)/>。"

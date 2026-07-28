@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,BNpcBase,Rank,BNpcName,
+﻿#,BNpcBase,Rank,BNpcName,Unknown0
 int32,BNpcBase,byte,BNpcName,uint16
 0,0,1,0,0
 1,3175,1,2919,0

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HOUFURPLANTPOT_00331_TALK_NONE","花盆里没有种任何东西。"
 1,"TEXT_HOUFURPLANTPOT_00331_END_EVENT","取消"

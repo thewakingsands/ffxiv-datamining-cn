@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC906_01041_SEQ_00","蓝雾营地的拉福尔德，有件事想要委托给冒险者。"
 1,"TEXT_GAIUSC906_01041_SEQ_01","卫月爪痕附近出现了一种叫<Sheet(BNpcName,270,0)/>的凶暴魔物。在<Sheet(EObj,2002257,0)/>等待，打倒随之出现的<Sheet(BNpcName,270,0)/>，获取<Sheet(EventItem,2000788,0)/>。"

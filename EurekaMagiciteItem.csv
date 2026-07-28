@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,EurekaMagiciteItemType,ClassJobCategory,Item
+﻿#,EurekaMagiciteItemType,ClassJobCategory,Item
 int32,EurekaMagiciteItemType,ClassJobCategory,Item
 0,0,0,0
 1,1,133,24015

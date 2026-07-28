@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,str,uint32,uint32
+﻿#,Text,ReceiveLogMessage,DiscardLogMessage
+int32,str,LogMessage,LogMessage
 0,"",2010,3716
 1,"[<Highlight>StringParameter(1)</Highlight>]",0,0
 2,"[寻宝]",0,0

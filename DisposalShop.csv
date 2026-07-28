@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
-#,ShopName,,,,,,,,,,,,,,,,,,
+﻿#,ShopName,Unknown0,Unknown2,Unknown4,Unknown6,Unknown8,Unknown10,Unknown12,Unknown14,Unknown1,Unknown3,Unknown5,Unknown7,Unknown9,Unknown11,Unknown13,Unknown15,Unknown16,Unknown17
 int32,str,int32,int32,int32,int32,int32,int32,int32,int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,bit&01,bit&02
 3473408,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False
 3473409,"特殊商品交易员",1,4,4,2,3,0,0,0,0,235,210,0,0,0,0,0,True,False

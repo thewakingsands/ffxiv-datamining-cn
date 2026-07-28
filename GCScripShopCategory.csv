@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,GrandCompany,Tier,SubCategory
+﻿#,GrandCompany,Tier,SubCategory
 int32,GrandCompany,sbyte,sbyte
 0,0,0,0
 1,1,1,1

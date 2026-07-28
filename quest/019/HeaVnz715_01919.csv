@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ715_01919_SEQ_00","被囚禁在瓦纳温杜集落的尊杜族正在向冒险者求助。"
 1,"TEXT_HEAVNZ715_01919_SEQ_01","被囚禁的尊杜族希望冒险者从帝国兵身上夺取<Sheet(EventItem,2001672,0)/>，然后将自己释放。在瓦纳温杜集落讨伐<Sheet(BNpcName,3518,0)/>、<Sheet(BNpcName,3519,0)/>、<Sheet(BNpcName,3520,0)/>、<Sheet(BNpcName,3521,0)/>和<Sheet(BNpcName,3522,0)/>。"

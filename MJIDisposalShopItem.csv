@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,Item,Currency,Count,Category,Sort
-int32,MJIItemPouch,byte,uint16,MJIDisposalShopUICategory,byte
+﻿#,Unknown1,Unknown2,Unknown0,Category,Unknown3
+int32,byte,byte,uint16,MJIDisposalShopUICategory,byte
 0,0,1,3,0,1
 1,1,1,3,0,11
 2,2,1,3,0,2

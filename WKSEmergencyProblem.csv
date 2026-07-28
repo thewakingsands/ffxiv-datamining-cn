@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,uint32,uint32,uint32,byte,uint32
+﻿#,EmergencyInfoTeleportText1,EmergencyInfoTeleportText2,EventLayout,Unknown2,RequiredProgress
+int32,WKSEmergencyInfoText,WKSEmergencyInfoText,uint32,byte,uint32
 0,0,0,0,0,0
 1,61,73,11800808,1,94500
 2,62,74,11805165,2,94500

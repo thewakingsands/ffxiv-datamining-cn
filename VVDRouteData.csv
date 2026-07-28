@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,NotebookEntry
+int32,VVDNotebookContents
 0.0,0
 1.0,1
 1.1,2

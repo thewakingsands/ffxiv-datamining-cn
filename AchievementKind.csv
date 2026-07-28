@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Name,Order
+﻿#,Name,Order
 int32,str,byte
 0,"",0
 1,"战斗",1

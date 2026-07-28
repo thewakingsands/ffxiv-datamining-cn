@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Quest,,UITab,Category,,QuestRedoUISmall,QuestRedoUILarge,QuestRedoUIWide,ChapterName,ChapterPart,Transient
-int32,Quest,uint32,QuestRedoChapterUITab,QuestRedoChapterUICategory,byte,Image,Image,Image,str,str,str
+﻿#,Quest,Unknown0,UITab,Category,Unknown1,QuestRedoUISmall,QuestRedoUILarge,QuestRedoUIWide,ChapterName,ChapterPart,Transient
+int32,Quest,Quest,QuestRedoChapterUITab,QuestRedoChapterUICategory,byte,Image,Image,Image,str,str,str
 0,0,0,0,0,0,0,0,0,"","",""
 1,66060,0,1,30,1,114766,114166,114466,"重生之境1","","某位冒险者来到了受众神眷顾之地——艾欧泽亚。
 冒险者追求的是力量、名声，或是财富吗？还是说……

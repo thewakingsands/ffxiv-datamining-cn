@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Location,MapOffsetX,MapOffsetY
+﻿#,Location,MapOffsetX,MapOffsetY
 int32,Level,single,single
 0.0,0,0,0
 1.0,4512071,0,0

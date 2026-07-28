@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Type,Image,,
+﻿#,Type,Image,Unknown0,Unknown1
 int32,int16,int32,int16,int32
 0,0,0,-1,0
 1,7,120501,-1,0

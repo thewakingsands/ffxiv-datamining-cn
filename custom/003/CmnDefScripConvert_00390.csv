@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000","我这里可以将您的<Sheet(Item,IntegerParameter(1),0)/>和<Sheet(Item,IntegerParameter(2),0)/>，
 分别换成<Sheet(Item,IntegerParameter(3),0)/>和<Sheet(Item,IntegerParameter(4),0)/>。"

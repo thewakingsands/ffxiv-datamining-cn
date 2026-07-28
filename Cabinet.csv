@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,Item,Order,Category,SortKey
-int32,Item,uint16,CabinetCategory,byte
+﻿#,Item,Order,Category,SubCategory
+int32,Item,uint16,CabinetCategory,CabinetSubCategory
 0,2897,201,1,1
 1,3220,202,1,1
 2,3458,204,1,1

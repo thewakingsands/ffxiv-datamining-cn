@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANAMA109_01230_SEQ_00","灰阵营的菲布布·夏遇到了难以原谅的事。"
 1,"TEXT_BANAMA109_01230_SEQ_01","接受了菲布布·夏的委托。调查不悔战阵西边的<Sheet(EObj,2003136,0)/>，获取<Sheet(EventItem,2001172,0)/>；然后讨伐<Sheet(BNpcName,1388,0)/>，获取<Sheet(EventItem,2001173,0)/>；再讨伐<Sheet(BNpcName,1389,0)/>，获取<Sheet(EventItem,2001174,0)/>。"

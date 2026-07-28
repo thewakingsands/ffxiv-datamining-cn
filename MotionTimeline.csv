@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Filename,BlendGroup,IsLoop,IsBlinkEnable,IsLipEnable,,,
+﻿#,Filename,BlendGroup,IsLoop,IsBlinkEnable,IsLipEnable,Unknown_70_1,Unknown_70_2,Unknown0
 int32,str,byte,bit&01,bit&02,bit&04,byte,byte,bit&08
 0,"",0,False,False,False,0,0,False
 1,"cbna_add_dmg_f",4,False,False,False,0,0,False

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ811_01941_SEQ_00","田园郡的劳德乔克斯的商品已经售罄了。"
 1,"TEXT_HEAVNZ811_01941_SEQ_01","和劳德乔克斯进行了交谈。他为了补充商品，希望得到<Sheet(EventItem,2001693,0)/>。在龙堡内陆低地的萨雷安精制区讨伐<Sheet(BNpcName,3597,0)/>，获取6枚<Sheet(EventItem,2001693,0)/>。"

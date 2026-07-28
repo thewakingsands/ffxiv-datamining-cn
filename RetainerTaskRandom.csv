@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Name,Requirement
+﻿#,Name,Requirement
 int32,str,int16
 30001,"探索委托：平地1",0
 30002,"探索委托：平地2",0

@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,,,,,,,,,,,,,,
-int32,bit&01,int32,uint16,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,,Category,,Name,Objects,Unknown10,Unknown11,Unknown12,Unknown13,,,,,
+int32,bit&01,TofuPresetCategory,uint16,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
 0,False,0,0,"",0,0,0,0,0,0,0,0,0,0
 1,True,1,0,"圆形格子底",21,0,0,0,0,0,0,0,0,0
 2,True,1,0,"正方形格子底",25,0,0,0,0,0,0,0,0,0

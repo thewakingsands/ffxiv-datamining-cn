@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA707_00780_SEQ_00","小阿拉米格的阿梅罗特有想要的东西。"
 1,"TEXT_GAIUSA707_00780_SEQ_01","阿梅罗特为了得到制作解毒剂的材料<Sheet(EventItem,2000615,0)/>而向冒险者求助。使用<Sheet(EventItem,2000829,0)/>打倒<Sheet(BNpcName,1993,0)/>。"

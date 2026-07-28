@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,,,,,,,,
-int32,int32,uint16,uint16,byte,int16,sbyte,byte,bit&01,bit&02
+﻿#,Object,Unknown1,Unknown2,Unknown4,Unknown3,Unknown6,Unknown5,Unknown7,Unknown8
+int32,TofuObject,uint16,uint16,byte,int16,sbyte,byte,bit&01,bit&02
 0,0,0,0,100,0,-1,0,False,False
 1,47,256,132,100,0,-1,0,False,False
 2,50,256,257,100,0,-1,0,False,False

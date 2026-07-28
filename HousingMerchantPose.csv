@@ -1,5 +1,4 @@
-﻿key,0,1
-#,ActionTimeline,Pose
+﻿#,ActionTimeline,Pose
 int32,ActionTimeline,str
 0,6288,"普通站姿"
 1,6289,"服装模特"

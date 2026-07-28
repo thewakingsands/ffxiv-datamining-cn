@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ920_01985_SEQ_00","第四传送环附近的狩猎系统安静地伫立着。"
 1,"TEXT_HEAVNZ920_01985_SEQ_01","狩猎系统向冒险者推荐狩猎<Sheet(BNpcName,3541,0)/>。在阿济兹拉的贝塔管区讨伐4只<Sheet(BNpcName,3541,0)/>。"

@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,FCAuthorityCategory,
+﻿#,Name,FCAuthorityCategory,Unknown0
 int32,str,FCAuthorityCategory,byte
 0,"更新部队信息",1,1
 1,"",0,0

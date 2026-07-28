@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-#,,,,,,,,,,,,,,,,
+﻿#,Unknown0,Unknown14,Unknown1,Unknown2,Unknown15,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown13
 int32,str,byte,single,single,bit&01,single,single,single,single,single,single,single,single,single,single,single
 0,"标准",1,0,0,False,0,0,0,0,0,0,0,0,0,0,1
 1,"回溯过去",60,0,-0.2,False,-0.2,0,0,0.6,0,0,0,0,0,0,1

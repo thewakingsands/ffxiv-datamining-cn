@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CLSROG021_00104_SEQ_00","双剑师行会的会长贾可，想要让冒险者熟悉双剑的使用方法。"
 1,"TEXT_CLSROG021_00104_SEQ_01","贾可为了让冒险者熟悉双剑，希望冒险者前去讨伐魔物。前往中拉诺西亚讨伐<Sheet(BNpcName,392,0)/>、<Sheet(BNpcName,417,0)/>、<Sheet(BNpcName,640,0)/>各三只。"

@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9
-#,Slot,Probability<%>,Item,Collectability{Low},Collectability{Mid},Collectability{High},Reward,,,
+﻿#,Slot,ProbabilityPercent,Item,CollectabilityLow,CollectabilityMid,CollectabilityHigh,Reward,IsBonus,FishingSpotId,SpearFishingSpotId
 int32,byte,byte,Item,uint16,uint16,uint16,SatisfactionSupplyReward,bit&01,uint16,uint16
 0.0,0,0,0,0,0,0,0,False,0,0
 1.0,1,1,17549,20,79,139,1,False,0,0

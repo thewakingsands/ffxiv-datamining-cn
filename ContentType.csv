@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Name,Icon,Icon{DutyFinder},,
+﻿#,Name,Icon,IconDutyFinder,Unknown1,Unknown2
 int32,str,Image,Image,byte,byte
 0,"",0,0,0,0
 1,"随机任务",61807,0,0,0

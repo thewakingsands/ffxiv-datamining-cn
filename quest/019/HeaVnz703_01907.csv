@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ703_01907_SEQ_00","尊杜集落的寇努瓦努很想要某样东西。"
 1,"TEXT_HEAVNZ703_01907_SEQ_01","寇努瓦努委托冒险者拿回<Sheet(EventItem,2001668,0)/>。从阿巴拉提亚云海蓝天窗的<Sheet(BNpcName,3510,0)/>身上获取5个<Sheet(EventItem,2001668,0)/>。"

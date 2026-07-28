@@ -1,5 +1,4 @@
-﻿key,0,1
-#,PlaceName{Sub},PlaceName{Parent}
+﻿#,PlaceNameSub,PlaceNameParent
 int32,PlaceName,PlaceName
 0,0,0
 1,28,27

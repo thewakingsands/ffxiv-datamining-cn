@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNDEFRETAINERBELL_00544_INACTIVE_TASK_ABORT","您之前委托的探险现已无法执行。
 委托取消。"

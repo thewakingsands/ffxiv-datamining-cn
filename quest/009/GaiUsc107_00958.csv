@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC107_00958_SEQ_00","采矿工佛罗廷·斯特恩，想要冒险者帮他收集东西。"
 1,"TEXT_GAIUSC107_00958_SEQ_01","讨伐5只栖息在火墙的变异矿爬虫<Sheet(BNpcName,275,0)/>，获取<Sheet(EventItem,2000744,0)/>。"

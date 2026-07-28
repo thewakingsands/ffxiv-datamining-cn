@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC509_00997_SEQ_00","丧灵钟的冒险者阿加恩博尔德想要测试下<Highlight>ObjectParameter(1)</Highlight>的实力。"
 1,"TEXT_GAIUSC509_00997_SEQ_01","要在丧灵钟进行冒险活动的话，需要通过某个仪式。前往丧灵钟西边的纠缠沼泽林，讨伐3只<Sheet(BNpcName,237,0)/>。"

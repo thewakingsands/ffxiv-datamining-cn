@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,,,,
+﻿#,Unknown3,Unknown1,Unknown2,Name
 int32,bit&01,uint16,byte,str
 0,False,0,255,""
 1,True,5,5,"场地"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC806_01030_SEQ_00","骷髅谷营地的爱伊利斯，有件事想要委托给冒险者。"
 1,"TEXT_GAIUSC806_01030_SEQ_01","接受了讨伐鱼人族的委托。讨伐占据防波堤的<Sheet(BNpcName,386,0)/>、<Sheet(BNpcName,384,0)/>和<Sheet(BNpcName,389,0)/>共4名。"

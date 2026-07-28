@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02","你想让<Highlight>StringParameter(1)</Highlight>忘记已经习得的竞赛能力吗？"
 1,"TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1","要让竞赛陆行鸟遗忘“<Sheet(ChocoboRaceAbility,IntegerParameter(2),0)/>”吗？

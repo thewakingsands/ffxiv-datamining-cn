@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB909_00932_SEQ_00","大审门的神殿骑士肖诺来还有一份工作想要委托给冒险者。"
 1,"TEXT_GAIUSB909_00932_SEQ_01","接受了筹备素材的委托。打倒4只<Sheet(BNpcName,2156,0)/>，获取<Sheet(EventItem,2000728,0)/>。"

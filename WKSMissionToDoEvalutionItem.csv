@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,Item
+int32,WKSItemInfo
 0.0,0
 1.0,0
 2.0,0

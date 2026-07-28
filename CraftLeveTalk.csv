@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41
-#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Talk[0],Talk[1],Talk[2],Talk[3],Talk[4],Talk[5]
+﻿#,Unknown5,Unknown11,Unknown17,Unknown23,Unknown29,Unknown35,Unknown2,Unknown8,Unknown14,Unknown20,Unknown26,Unknown32,Unknown0,Unknown6,Unknown12,Unknown18,Unknown24,Unknown30,Unknown3,Unknown9,Unknown15,Unknown21,Unknown27,Unknown33,Unknown4,Unknown10,Unknown16,Unknown22,Unknown28,Unknown34,Unknown1,Unknown7,Unknown13,Unknown19,Unknown25,Unknown31,Talk,,,,,
 int32,bit&01,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32,uint32,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,sbyte,int32,int32,int32,int32,int32,int32,str,str,str,str,str,str
 0,False,False,False,False,False,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"0","0","0","0","0","0"
 1,False,False,False,False,False,False,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,0,0,"带来了吗？","谢谢！","哦……真遗憾……","0","0","0"

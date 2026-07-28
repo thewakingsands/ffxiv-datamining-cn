@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,BNpcBase[0],BNpcBase[1],,,Icon[0],Icon[1],Icon[2],Icon[3],Icon[4],,
+﻿#,Unknown0,FalconName,RavenName,Unknown1,Unknown2,NeutralMapIcon,FalconImage,RavenImage,FalconMapImage,RavenMapImage,Name,Description
 int32,uint16,BNpcName,BNpcName,byte,bit&01,Image,Image,Image,Image,Image,str,str
 0,50,6863,6864,6,False,60666,61651,61654,60939,60942,"巡航驱逐者","应用反重力机关悬浮前进的最新型次世代机动兵器。
 它的回旋碎踢可以击碎机动兵器的装甲,

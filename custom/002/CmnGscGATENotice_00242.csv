@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","接下来我们将在<Switch(IntegerParameter(3))><Case(1)>奇妙广场</Case><Case(2)>演出广场</Case><Case(3)>圆形广场</Case><Case(4)>仙人彩</Case></Switch>开展
 “<Switch(IntegerParameter(2))><Case(1)>小雏鸟的营救者</Case><Case(2)>从天而降的送货人</Case><Case(3)>火眼金睛的追踪者</Case><Case(4)>舞蹈大师的特训</Case><Case(5)>喷风中的幸存者</Case><Case(6)>虚景跳跳乐大挑战</Case><Case(7)>空军装甲驾驶员</Case><Case(8)>必中一闪快刀斩魔</Case></Switch>”活动。

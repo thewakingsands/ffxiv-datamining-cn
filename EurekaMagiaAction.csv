@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Action,MaxUses
+﻿#,Action,MaxUses
 int32,Action,byte
 0,0,0
 1,12958,3

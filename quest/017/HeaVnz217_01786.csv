@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ217_01786_SEQ_00","自由脑窟穴的西布勒鲁瓦肚子饿得不行。"
 1,"TEXT_HEAVNZ217_01786_SEQ_01","西布勒鲁瓦拜托冒险者取得<Sheet(EventItem,2001611,0)/>。前往龙堡参天高地的宽慰河，讨伐<Sheet(BNpcName,3569,0)/>并获得5个<Sheet(EventItem,2001611,0)/>。"

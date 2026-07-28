@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSHWDTRANSPOINT_00701_MENU_TITLE","请选择目的地。
 当前地点：<Highlight>StringParameter(1)</Highlight>"

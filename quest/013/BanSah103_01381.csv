@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSAH103_01381_SEQ_00","诺布养育场的菲乌有事情想要委托给冒险者。"
 1,"TEXT_BANSAH103_01381_SEQ_01","珊瑚尖枪正在准备攻城兵器<Sheet(BNpcName,2530,0)/>，用来攻破防波堤。破坏鱼人军阵营的<Sheet(BNpcName,2530,0)/>。"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB706_00901_SEQ_00","巨龙首营地的雅埃勒有话想和冒险者说。"
 1,"TEXT_GAIUSB706_00901_SEQ_01","雅埃勒想要冒险者去讨伐<Sheet(BNpcName,682,0)/>。先对巨龙首附近的塞巴斯蒂安使用<Sheet(EventItem,2000704,0)/>，获取<Sheet(EventItem,2000705,0)/>。"

@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,,
-int32,byte,byte,uint16
+﻿#,StartTimeHour,EndTimeHour,WeatherRequired
+int32,byte,byte,Weather
 0,0,0,0
 1,0,2,0
 2,2,4,0

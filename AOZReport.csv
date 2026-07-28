@@ -1,6 +1,5 @@
-﻿key,0,1,2
-#,,Reward,Order
-int32,uint32,AOZReportReward,sbyte
+﻿#,ContentFinderCondition,Reward,Order
+int32,ContentFinderCondition,AOZReportReward,sbyte
 0,0,0,-1
 1,10,1,0
 2,14,1,1

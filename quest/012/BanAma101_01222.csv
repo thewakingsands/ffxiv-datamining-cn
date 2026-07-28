@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANAMA101_01222_SEQ_00","灰阵营的菲布布·夏有事想要拜托冒险者。"
 1,"TEXT_BANAMA101_01222_SEQ_01","接受了菲布布·夏的委托。讨伐赞拉克的<Sheet(BNpcName,243,0)/>，获取1个<Sheet(EventItem,2001114,0)/>，并讨伐<Sheet(BNpcName,912,0)/>，获取2个<Sheet(EventItem,2001113,0)/>。"

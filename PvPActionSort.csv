@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,Action{Type},Action,,,
-int32,byte,Row,bit&01,bit&02,int32
+﻿#,ActionType,Action,Unknown1,Unknown2,Unknown0
+int32,byte,ActionType,bit&01,bit&02,int32
 0.0,0,0,True,True,0
 1.0,2,50,True,True,0
 1.1,1,29058,False,False,0

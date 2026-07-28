@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSAH305_01404_SEQ_00","诺布养育场的塞乌有事情想要委托给冒险者。"
 1,"TEXT_BANSAH305_01404_SEQ_01","塞乌委托冒险者去海蛇巢穴打倒统领海蛇之舌的3名干部。讨伐2名<Sheet(BNpcName,347,0)/>后<Sheet(BNpcName,2738,0)/>就会出现，讨伐2名<Sheet(BNpcName,559,0)/>后<Sheet(BNpcName,2739,0)/>就会出现，讨伐2名<Sheet(BNpcName,345,0)/>后<Sheet(BNpcName,2740,0)/>就会出现，等他们出现后就将其讨伐。"

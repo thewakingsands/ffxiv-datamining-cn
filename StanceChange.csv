@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,Action[0],Action[1],,
-int32,uint16,Action,Action,uint16,single
+﻿#,Unknown1,Action,Unknown2,,Unknown0
+int32,uint16,uint16,uint16,uint16,single
 0,0,0,0,0,0
 1,377,4575,4564,34,0
 2,0,4574,4563,34,0

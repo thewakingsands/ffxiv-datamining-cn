@@ -1,6 +1,5 @@
-﻿key,0
-#,
-int32,uint16
+﻿#,ParentMapOverride
+int32,Map
 0,0
 1,0
 2,0

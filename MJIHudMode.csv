@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Name,Title,Icon,
+﻿#,Name,Title,Icon,Unknown0
 int32,str,str,Image,uint32
 0,"自由","",82041,0
 1,"收获","收获模式",82042,0

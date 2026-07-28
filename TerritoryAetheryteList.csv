@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5
-#,,,,,,
-int32,uint32,uint32,byte,byte,byte,uint16
+﻿#,PlaceName,AetheryteObject,DisplayIndex,Unknown4,Unknown5,UnlockIndex
+int32,PlaceName,Row,byte,byte,byte,uint16
 0.0,0,0,0,255,255,65535
 1.0,4927,2014664,0,255,255,1
 1.1,4928,2014665,1,255,255,2

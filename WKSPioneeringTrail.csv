@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,,
-int32,uint16,uint32,uint16,uint16
+﻿#,ActivationStage,Thumbnail,Unknown2,LogEntry
+int32,WKSDevGrade,Image,uint16,WKSPioneeringTrailString
 0.0,0,0,0,0
 1.0,0,70701,3655,1
 1.1,4,70702,3656,2

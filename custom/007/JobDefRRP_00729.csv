@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_JOBDEFRRP_00729_DRUSILLA_000_000","<If(PlayerParameter(4))>姐妹<Else/>兄弟</If>你来了啊。
 你尽管把这里当做自己的家就行。

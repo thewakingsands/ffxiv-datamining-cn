@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,X,Y,Expansion,TelepoRelay
+﻿#,X,Y,Expansion,Relay
 int32,uint16,uint16,uint16,TelepoRelay
 1,0,0,0,0
 2,0,0,0,0

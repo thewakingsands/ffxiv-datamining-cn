@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA910_00805_SEQ_00","邓斯坦哨塔的马尔塞特想要冒险者协助自己的研究。"
 1,"TEXT_GAIUSA910_00805_SEQ_01","被马尔塞特任命为她的第六助手，协助她的研究。削弱<Sheet(BNpcName,2190,0)/>的体力后，对其使用<Sheet(EventItem,2000632,0)/>，获取<Sheet(EventItem,2000633,0)/>。"

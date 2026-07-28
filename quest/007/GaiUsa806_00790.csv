@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA806_00790_SEQ_00","弗洛朗泰尔哨塔的鬼哭队士兵奥莉亚娜好像很在意周边的树木。"
 1,"TEXT_GAIUSA806_00790_SEQ_01","奥莉亚娜很担心<Sheet(BNpcName,40,0)/>对树木造成危害。对3处<Sheet(EObj,2001990,0)/>使用<Sheet(EventItem,2000620,0)/>，驱逐随之出现的<Sheet(BNpcName,40,0)/>。"

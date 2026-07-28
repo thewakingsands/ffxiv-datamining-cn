@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5
-#,,,,,,
-int32,byte,int32,int32,str,str,str
+﻿#,SortKey,PlaceName,Location,Name0,Name1,Name2
+int32,byte,PlaceName,PlayerSearchLocation,str,str,str
 0,0,0,0,"無効","無効","無効"
 1,1,0,0,"ワールド全体","world","全世界"
 2,2,500,1,"利姆萨·罗敏萨","Limsa Lominsa","利姆萨·罗敏萨"

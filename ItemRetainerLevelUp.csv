@@ -1,6 +1,5 @@
-﻿key,0,1
-#,,
-int32,uint32,uint16
+﻿#,Item,RetainerLevel
+int32,Item,uint16
 0,17001,50
 1,17002,60
 2,25201,70

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB005_00812_SEQ_00","太阳海岸的维斯凯特想让冒险者在正式工作前先练练手。"
 1,"TEXT_GAIUSB005_00812_SEQ_01","在接受格格鲁玖的委托之前，需要去打倒<Sheet(BNpcName,1976,0)/>。将<Sheet(EventItem,2000636,0)/>设置在<Sheet(EObj,2002035,0)/>。"

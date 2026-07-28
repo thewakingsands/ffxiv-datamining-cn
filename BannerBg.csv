@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,Image,Icon,,UnlockCondition,,,,SortKey,Name
-int32,Image,Image,byte,BannerCondition,uint16,uint16,uint16,uint16,str
+﻿#,Image,Icon,Category,UnlockCondition,Unknown_70_1,Unknown_70_2,Unknown0,SortKey,Name
+int32,Image,Image,CharaCardDesignCategory,BannerCondition,uint16,uint16,uint16,uint16,str
 0,0,82091,0,0,0,0,0,0,"无"
 1,190002,82091,1,1,0,0,0,1,"灰色"
 2,190003,82091,1,1,0,0,0,3,"四边形"

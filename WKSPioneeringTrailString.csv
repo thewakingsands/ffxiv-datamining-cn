@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,,,
+﻿#,DevelopmentLogText,DevelopmentLogName,DevelopmentLogDescription
 int32,str,str,str
 0,"","",""
 1,"[第1期]","宇宙探索计划的伊始","即日起将由本人时评威执笔，为各位读者记录宇宙探索计划的轨迹。

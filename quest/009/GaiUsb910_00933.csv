@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSB910_00933_SEQ_00","白云崖前哨的骑兵福西里安想要除掉妨碍进军的敌人。"
 1,"TEXT_GAIUSB910_00933_SEQ_01","接受了讨伐龙族眷属<Sheet(BNpcName,685,0)/>的委托。前往白云崖前哨西北，在<Sheet(EObj,2002164,0)/>使用<Sheet(EventItem,2000729,0)/>，打倒随之出现的<Sheet(BNpcName,685,0)/>。"

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CTSFCKMASTER_00453_TALK_ACTOR","0"
 1,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_000","本周最高分：<Value>IntegerParameter(1)</Value>分[剩余<Value>IntegerParameter(2)</Value>次]"

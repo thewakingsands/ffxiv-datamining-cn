@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,,,,,,,,,,,TanksPerParty,HealersPerParty,MeleesPerParty,RangedPerParty,,,,,,,
+﻿#,Unknown7,Unknown0,AllowAllianceRegistration,Unknown10,Unknown1,AllianceRegistrationMinPlayers,Unknown3,MembersPerParty,PartyCount,AlliancePartyCount,Unknown6,TanksPerParty,HealersPerParty,MeleesPerParty,RangedPerParty,SeparatedDpsRoles,RoleIndependent,Unknown16,Unknown12,OnlyPvPTeamMembers,AllowLimitedJobs
 int32,bit&01,byte,bit&02,bit&04,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,bit&08,bit&10,byte,bit&20,bit&40,bit&80
 0,False,0,False,False,0,8,0,4,1,0,0,0,0,0,0,False,True,1,False,False,False
 1,False,0,False,False,0,8,1,1,1,0,0,0,0,0,0,False,False,1,False,False,False

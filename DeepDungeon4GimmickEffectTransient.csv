@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,Name,Description
 int32,str,str
 0,"",""
 1,"变身泥球","变身为泥球"

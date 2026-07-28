@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA909_00804_SEQ_00","邓斯坦哨塔的马尔塞特正在寻找可以协助自己研究的人。"
 1,"TEXT_GAIUSA909_00804_SEQ_01","打倒<Sheet(BNpcName,48,0)/>，获取<Sheet(EventItem,2000631,0)/>。"

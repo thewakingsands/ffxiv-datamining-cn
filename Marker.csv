@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Icon,,Name
+﻿#,Icon,SortOrder,Name
 int32,Image,byte,str
 0,0,0,""
 1,61201,1,"攻击1"

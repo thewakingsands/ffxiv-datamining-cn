@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANAMA302_01243_SEQ_00","灰阵营的雅德夫·夏想要告诉冒险者机会来了。"
 1,"TEXT_BANAMA302_01243_SEQ_01","接受了雅德夫·夏的委托。讨伐不悔战阵的<Sheet(BNpcName,1840,0)/>及其护卫<Sheet(BNpcName,1839,0)/>各3名。"

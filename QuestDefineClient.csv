@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,Target
+﻿#,Text,DefineVaue
 int32,str,Row
 0.0,"",0
 65776.0,"LOC_ACTION0",4225

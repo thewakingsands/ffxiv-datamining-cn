@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSAH205_01394_SEQ_00","诺布养育场的荷乌心存忧虑。"
 1,"TEXT_BANSAH205_01394_SEQ_01","荷乌委托冒险者去烧毁萨普沙产卵地里的<Sheet(EObj,2003815,0)/>。使用<Sheet(EventItem,2001263,0)/>烧掉4堆萨普沙产卵地里的<Sheet(EObj,2003815,0)/>，如果有<Sheet(BNpcName,2681,0)/>、<Sheet(BNpcName,2679,0)/>或<Sheet(BNpcName,2680,0)/>发起攻击，就将其讨伐。"

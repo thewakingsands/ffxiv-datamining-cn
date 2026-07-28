@@ -1,6 +1,5 @@
-﻿key,0,1
-#,,
-int32,byte,uint32
+﻿#,Objective,Image
+int32,Tutorial,uint32
 0,0,0
 1,17,121696
 2,18,121697

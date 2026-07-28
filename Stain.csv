@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,Color,Shade,SubOrder,Name,Name2,,,,
-int32,Color,byte,byte,uint32,uint32,str,str,bit&01,bit&02
+﻿#,Color,SubOrder,IsMetallic,Item,Shade,InlineName,Name,IsHousingApplicable,
+int32,uint32,byte,byte,uint32,uint32,str,str,bit&01,bit&02
 0,0,2,1,5728,0,"","无染色",False,True
 1,14999504,2,2,52254,0,"素雪白","素雪白",False,True
 2,11315362,2,3,52254,0,"苍白灰","苍白灰",False,True

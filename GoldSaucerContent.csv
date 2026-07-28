@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,,
-int32,byte,byte,uint16,uint16
+﻿#,Unknown2,TimeLimit,Unknown0,ContentFinderCondition
+int32,byte,byte,uint16,ContentFinderCondition
 0,0,10,0,0
 1,7,10,589,197
 2,7,10,590,198

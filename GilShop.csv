@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Name,Icon,Quest,AcceptTalk,FailTalk,,,
+﻿#,Name,Icon,Quest,AcceptTalk,FailTalk,Unknown2,FestivalId,FestivalPhase
 int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262144,"",0,0,0,0,False,0,0
 262145,"",0,0,0,0,False,0,0

@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5
-#,Location,ReqFatesToRank2,ReqFatesToRank3,ReqFatesToRank4,,DisplayOrder
+﻿#,Location,ReqFatesToRank2,ReqFatesToRank3,ReqFatesToRank4,Unknown0,DisplayOrder
 int32,TerritoryType,byte,byte,byte,sbyte,byte
 0,813,6,60,0,0,1
 1,814,6,60,0,3,4

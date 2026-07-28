@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Order,Icon,Name
+﻿#,Order,Icon,Name
 int32,uint16,Image,str
 0,0,0,""
 1,5,26595,"情报记录终端机"

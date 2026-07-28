@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
-#,AchievementCategory,Name,Description,AchievementTarget,,Points,Title,Item,,,,Icon,,Type,Key,Data[0],Data[1],Data[2],Data[3],Data[4],Data[5],Data[6],Data[7],Order,,AchievementHideCondition
-int32,AchievementCategory,str,str,AchievementTarget,byte,byte,Title,Item,byte,byte,byte,Image,byte,byte,Row,Row,Row,Row,Row,Row,Row,Row,Row,uint16,byte,AchievementHideCondition
+﻿#,Unknown4,Name,Description,Type,Unknown5,AchievementHideCondition,Unknown2,Item,,,,Icon,,,Key,Data,Title,Order,AchievementCategory,AchievementTarget,Unknown0,Points,Unknown1,Unknown3,,
+int32,byte,str,str,byte,byte,AchievementHideCondition,uint16,Item,byte,byte,byte,Image,byte,byte,Type,int32,Title,int32,AchievementCategory,AchievementTarget,int32,int32,int32,uint16,byte,byte
 0,0,"","",0,0,0,0,0,255,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1,1,"胜利的荣光1","讨伐100个敌人。",0,0,5,0,0,255,255,0,2565,3,1,11,100,0,0,0,0,0,0,0,1,1,0
 2,1,"胜利的荣光2","讨伐500个敌人。",0,0,5,0,0,255,255,0,2565,3,1,11,500,0,0,0,0,0,0,0,2,1,0

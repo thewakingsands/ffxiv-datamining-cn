@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,,,,,
-int32,uint16,byte,byte,uint32,uint32
+﻿#,Text,Duration,Style,Icon,VoLine
+int32,InstanceContentTextData,byte,byte,Image,uint32
 0.0,0,0,0,0,0
 1.0,38903,5,0,73259,8205207
 1.1,38904,5,0,73259,8205208

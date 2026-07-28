@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,,,,,,,,,,,,,,,
-int32,byte,byte,byte,byte,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,bit&01
+﻿#,OutOfRangeMessage,,,,Effects,Unknown_70,,,OutOfRangeWarningMessage,,,,,,
+int32,LogMessage,byte,byte,byte,uint32,uint32,uint32,uint32,LogMessage,uint32,uint32,uint32,uint32,uint32,bit&01
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False

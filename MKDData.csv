@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-#,,,,,,,,,,,,,,,
-int32,byte,byte,uint32,uint32,uint32,int32,uint32,uint32,int32,uint32,int32,int32,uint32,int32,int32
+﻿#,,,ZoneName,CurrencyItem,CipherName,Quest,CipherItem,Unknown8,Unknown13,Unknown10,Unknown11,Unknown14,CurrencyName,Unknown12,Unknown9
+int32,byte,byte,Addon,uint32,Addon,Quest,Item,uint32,int32,uint32,int32,int32,uint32,int32,int32
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,20,3,16586,45043,16597,0,45044,16598,0,47739,16599,70853,0,0,0
 2,0,4,16587,51975,17251,0,51976,17252,0,51977,17253,71053,0,17254,71053

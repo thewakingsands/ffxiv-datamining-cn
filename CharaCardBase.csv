@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Image,FontColor,,,,UnlockCondition,,,,,SortKey,Name
-int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
+﻿#,Image,FontColor,Unknown1,Unknown2,Unknown3,UnlockCondition,Unknown_70_1,Unknown_70_2,Unknown4,Category,SortKey,Name
+int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,CharaCardDesignCategory,uint16,str
 0,0,0,True,True,0,0,0,0,0,0,0,"无"
 1,0,0,False,False,0,0,0,0,0,0,0,""
 2,193002,1,True,True,0,1,0,0,0,1,1,"黑色"

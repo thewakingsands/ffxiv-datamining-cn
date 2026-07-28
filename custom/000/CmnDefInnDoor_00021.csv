@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNDEFINNDOOR_00021_Q1_000_1","要退出吗？"
 1,"TEXT_CMNDEFINNDOOR_00021_A1_000_1","是"

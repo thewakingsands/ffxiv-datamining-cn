@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,SortKey,Name
 int32,byte,str
 0,0,"未設定"
 1,1,"拉诺西亚"

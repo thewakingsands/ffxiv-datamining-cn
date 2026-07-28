@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ635_01903_SEQ_00","云顶营地的法布雷耶好像在思考着什么。"
 1,"TEXT_HEAVNZ635_01903_SEQ_01","法布雷耶委托冒险者前去取回<Sheet(EventItem,2001658,0)/>。前往阿巴拉提亚云海的牧牛台，调查<Sheet(EObj,2005779,0)/>获取<Sheet(EventItem,2001658,0)/>。"

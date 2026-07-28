@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNY808_02117_SEQ_00","圣大鸟房的阿尔努兰觉得冒险者的专属陆行鸟拥有某种潜质。"
 1,"TEXT_HEAVNY808_02117_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整，请选择放弃任务。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

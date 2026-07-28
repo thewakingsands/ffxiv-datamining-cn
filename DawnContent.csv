@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
-#,Content,,,,Exp{BelowExMaxLvl},Exp{AboveExMaxLvl},,,,,,,,,,,,,,
+﻿#,Content,Unknown12,Unknown15,Unknown16,Unknown13,Unknown14,ExpBelowExMaxLvl,ExpAboveExMaxLvl,Unknown0,Unknown11,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10
 int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,uint32,byte,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
 0,0,False,0,False,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,676,False,1,False,True,True,3091000,1236400,68836,4,2009808,0,1029846,1029847,1029848,1029849,0,0,0,0

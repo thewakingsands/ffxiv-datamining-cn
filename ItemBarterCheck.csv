@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Category,Question,Confirm
+﻿#,Category,Question,Confirm
 int32,AddonTransient,Row,Addon
 0.0,102,1691,0
 0.1,103,1683,0

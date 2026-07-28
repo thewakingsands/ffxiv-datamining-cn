@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSE201_01345_SEQ_00","石之家的敏菲利亚，想把新生拂晓的第一份工作委托给冒险者。"
 1,"TEXT_GAIUSE201_01345_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往石之家找敏菲利亚重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4
-#,LegacyQuestID,Text,String,SortKey,Genre
-int32,uint16,str,str,uint16,uint32
+﻿#,LegacyQuestID,Text,String,SortKey,Genre
+int32,uint16,str,str,uint16,JournalGenre
 0,0,"","",0,0
 1,0,"无形之声","",1,344
 2,1,"碧海之宝","",2,344

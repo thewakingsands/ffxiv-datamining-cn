@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA807_00791_SEQ_00","弗洛朗泰尔哨塔的鬼哭队士兵奥莉亚娜有想要的东西。"
 1,"TEXT_GAIUSA807_00791_SEQ_01","奥莉亚娜想要确定<Sheet(BNpcName,2188,0)/>数量激增的原因。削弱<Sheet(BNpcName,2188,0)/>的体力后，对其使用<Sheet(EventItem,2000621,0)/>，获取<Sheet(EventItem,2000622,0)/>。"

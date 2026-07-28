@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSE308_01449_SEQ_00","妖精暂留地的双蛇党副牙尉，将要向冒险者说明进攻妖精领作战的详情。"
 1,"TEXT_GAIUSE308_01449_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任务已经过调整。建议放弃本任务，前往妖精暂留地找双蛇党副牙尉重新领取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

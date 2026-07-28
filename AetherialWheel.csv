@@ -1,5 +1,4 @@
-﻿key,0,1,2,3
-#,Item{Unprimed},Item{Primed},Grade,HoursRequired
+﻿#,ItemUnprimed,ItemPrimed,Grade,HoursRequired
 int32,Item,Item,byte,byte
 0,0,0,0,72
 1,8844,8860,1,20

@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ518_01853_SEQ_00","竖骨岛的莫古托在观察附近的情况。"
 1,"TEXT_HEAVNZ518_01853_SEQ_01","莫古托的目标是讨伐<Sheet(BNpcName,3621,0)/>。从<Sheet(BNpcName,3621,0)/>身上取得3个<Sheet(EventItem,2001649,0)/>。"

@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Category,SubCategoryType,SubCategory,,,MarkID,Version,
-int32,sbyte,byte,uint16,byte,uint32,uint32,byte,uint16
+﻿#,Category,SubCategoryType,SubCategory,RequirementType,Requirement,MarkID,Version,Unknown1
+int32,sbyte,byte,uint16,byte,RequirementType,uint32,byte,uint16
 0,4,1,13,0,0,8463,0,330
 1,4,1,13,0,0,8464,0,340
 2,4,2,144,0,0,8465,0,340

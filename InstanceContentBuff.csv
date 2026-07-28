@@ -1,5 +1,4 @@
-﻿key,0,1
-#,Echo{Start},Echo{Death}
+﻿#,EchoStart,EchoDeath
 int32,uint16,uint16
 0,0,0
 1,0,5

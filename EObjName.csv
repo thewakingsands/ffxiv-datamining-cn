@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 2000000,"",0,"",0,0,1,0,0
 2000001,"透明君※α未使用",0,"",0,0,1,0,0

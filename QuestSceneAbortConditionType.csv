@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,,,
+﻿#,Unknown0,Unknown1,Unknown2
 int32,bool,bool,bool
 0,True,True,False
 1,True,False,False

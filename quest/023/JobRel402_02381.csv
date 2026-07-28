@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_JOBREL402_02381_SEQ_00","田园郡的安格莱特好像在等待冒险者向她搭话。"
 1,"TEXT_JOBREL402_02381_SEQ_01","安格莱特希望用<Sheet(Item,16064,0)/>交换<Sheet(EventItem,2002021,0)/>。冒险者带着<Sheet(EventItem,2002020,0)/>回忆自己经历过的惨烈战斗，即可令<Sheet(EventItem,2002021,0)/>诞生。携带<Sheet(EventItem,2002020,0)/>完成“随机任务：拾级迷宫”，获取<Sheet(EventItem,2002021,0)/>。

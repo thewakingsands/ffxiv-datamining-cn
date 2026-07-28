@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,Description,Icon
+﻿#,Name,Description,Icon
 int32,str,str,Image
 0,"没有道具","未持有竞赛道具。
 触碰道具箱后可以获得竞赛道具。",70101

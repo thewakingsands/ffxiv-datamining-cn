@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC501_00989_SEQ_00","丧灵钟的古奥尔盖姆，有东西想要搬走。"
 1,"TEXT_GAIUSC501_00989_SEQ_01","古奥尔盖姆的工作是将物资由废弃营地运到丧灵钟。对废弃营地中的<Sheet(EObj,2002208,0)/>使用<Sheet(EventItem,2000868,0)/>，收集<Sheet(EventItem,2000758,0)/>。"

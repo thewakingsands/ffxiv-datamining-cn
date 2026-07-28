@@ -1,5 +1,4 @@
-﻿key,0,1
-#,WeatherType[1],WeatherType[2]
+﻿#,WeatherType1,WeatherType2
 int32,Weather,Weather
 0,0,0
 1,14,1

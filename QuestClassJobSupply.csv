@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,ClassJobCategory,,ENpcResident,Item,AmountRequired,ItemHQ,,,,,,
+﻿#,ClassJobCategory,Unknown0,ENpcResident,Item,AmountRequired,ItemHQ,Unknown_70_2,Unknown_70_3,Unknown1,Unknown2,Unknown3,Unknown_70_1
 int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01,uint32,uint32,uint32,uint16,byte,byte
 0.0,0,0,0,0,0,False,0,0,0,0,0,0
 1.0,0,0,0,0,0,False,0,0,0,0,0,0

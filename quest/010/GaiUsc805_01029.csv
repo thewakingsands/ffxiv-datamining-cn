@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSC805_01029_SEQ_00","骷髅谷营地的阿茶特拉哈，有件事想要委托给冒险者。"
 1,"TEXT_GAIUSC805_01029_SEQ_01","阿茶特拉哈说，在攻打海蛇巢穴前，先要削减敌人的数量。讨伐<Sheet(BNpcName,347,0)/>、<Sheet(BNpcName,345,0)/>和<Sheet(BNpcName,559,0)/>共5名。"

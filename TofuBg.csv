@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,,
-int32,bit&01,uint16,uint32,str
+﻿#,Unknown3,Unknown2,Icon,Name
+int32,bit&01,uint16,Image,str
 0,False,0,0,""
 1,True,0,240003,"无设定"
 2,True,1,240004,"全面格子底"

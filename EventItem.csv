@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,,Name,Icon,Action,StackSize,,Quest,CastTime,CastTimeline,Timeline
-int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,byte,Quest,byte,EventItemCastTimeline,byte
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Unknown1,Name,Icon,Action,StackSize,Category,Quest,CastTime,CastTimeline,Timeline
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,EventItemCategory,Quest,byte,EventItemCastTimeline,byte
 2000000,"",0,"",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2000001,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0
 2000002,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

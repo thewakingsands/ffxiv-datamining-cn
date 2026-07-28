@@ -1,6 +1,5 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Page[0],Page[1],Page[2],Page[3],Page[4],Page[5],Page[6],Page[7],Name,Description,
-int32,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,ContentsTutorialPage,uint32,str,str
+﻿#,Page,,,,,,,,Unknown1,Name,Description
+int32,int32,int32,int32,int32,int32,int32,int32,int32,uint32,str,str
 0,0,0,0,0,0,0,0,0,5692,"",""
 1,1,2,3,4,5,6,0,0,5692,"南方博兹雅战线",""
 2,7,8,9,10,11,12,13,14,5692,"迷宫挑战",""

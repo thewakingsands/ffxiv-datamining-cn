@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,Text,DefineValue
 int32,str,int32
 0,"SEQ_OFFER",0
 1,"SEQ_1",1

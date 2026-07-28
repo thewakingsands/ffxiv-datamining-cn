@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ503_01838_SEQ_00","莫古力之家关怀备至的莫古力在盯着强力草看。"
 1,"TEXT_HEAVNZ503_01838_SEQ_01","和关怀备至的莫古力进行了交谈。对翻云雾海招恶荒岛的<Sheet(BNpcName,3627,0)/>使用<Sheet(EventItem,2001642,0)/>，取得其身上的<Sheet(EventItem,2001643,0)/>。"

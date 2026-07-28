@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ013_01738_SEQ_00","云顶营地的卡里博一边照看农田，一边在寻找有空闲的人。"
 1,"TEXT_HEAVNZ013_01738_SEQ_01","卡里博拜托冒险者讨伐<Sheet(BNpcName,3495,0)/>并取回腿肉。前往阿巴拉提亚云海的云顶营地，打倒<Sheet(BNpcName,3495,0)/>，获得3个<Sheet(EventItem,2001597,0)/>。"

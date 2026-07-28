@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_HEAVNZ023_01748_SEQ_00","玫瑰园的拉妮艾特正在寻找能帮她干活的人。"
 1,"TEXT_HEAVNZ023_01748_SEQ_01","拉妮艾特拜托冒险者取来<Sheet(BNpcName,3494,0)/>的飞膜。前往阿巴拉提亚云海讨伐云顶的<Sheet(BNpcName,3494,0)/>，获取有一定几率取得的<Sheet(EventItem,2001599,0)/>。"

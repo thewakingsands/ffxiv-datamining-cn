@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,SGB,MapIcon,,Name,
+﻿#,SGB,MapIcon,Unknown0,Name,Unknown1
 int32,ExportedSG,Image,uint32,EObjName,uint16
 0,25422,0,0,0,0
 1,30825,63963,2,2013171,0

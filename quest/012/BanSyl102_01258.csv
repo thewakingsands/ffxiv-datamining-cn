@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_BANSYL102_01258_SEQ_00","妖精暂留地的特那克希亚想到了新的恶作剧点子。"
 1,"TEXT_BANSYL102_01258_SEQ_01","接受了特那克希亚的委托。在百灵啼讨伐<Sheet(BNpcName,237,0)/>，获取1份<Sheet(EventItem,2001118,0)/>；讨伐<Sheet(BNpcName,233,0)/>，获取1份<Sheet(EventItem,2001119,0)/>；讨伐<Sheet(BNpcName,222,0)/>，获取2份<Sheet(EventItem,2001120,0)/>。"

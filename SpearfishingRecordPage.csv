@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6
-#,,,,PlaceName,Image,,
+﻿#,Unknown1,Unknown2,Unknown3,PlaceName,Image,Unknown0,Unknown4
 int32,byte,byte,byte,PlaceName,Image,uint16,byte
 0,10,11,12,2409,70222,60,2
 1,13,14,15,2410,70224,60,3

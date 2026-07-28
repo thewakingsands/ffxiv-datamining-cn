@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02","你想为<Highlight>StringParameter(1)</Highlight>更改竞赛名吗？
 想换个什么样的名字呢？"

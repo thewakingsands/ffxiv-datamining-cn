@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Text,,,,Item,GatheringItemLevel,OceanStars,,IsHidden,FishingRecordType,FishingSpot,GatheringSubCategory,IsInLog,AchievementCredit
+﻿#,Text,Unknown_70_1,Unknown_70_2,Unknown_70_3,Item,GatheringItemLevel,OceanStars,Unknown1,IsHidden,FishingRecordType,FishingSpot,GatheringSubCategory,IsInLog,AchievementCredit
 int32,str,str,str,str,Row,GatheringItemLevelConvertTable,byte,uint16,bit&01,FishingRecordType,FishingSpot,GatheringSubCategory,bit&02,uint32
 0,"","","","",0,0,0,0,False,0,0,0,True,0
 1,"据说这种海带能够成长到1星里（约1600米）之长，在艾欧泽亚的五大海区均有分布。","","","",4776,4,0,2000,False,0,36,0,True,0

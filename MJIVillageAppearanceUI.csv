@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Floor,,
+﻿#,Floor,Unknown0,Unknown1
 int32,Image,uint16,uint16
 0.0,53904,14,0
 0.1,53905,15,0

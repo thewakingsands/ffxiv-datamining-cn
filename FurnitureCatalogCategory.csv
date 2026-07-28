@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Category,,
+﻿#,Category,Unknown0,Unknown1
 int32,str,uint16,byte
 0,"桌子",13,1
 1,"架子·柜子",13,2

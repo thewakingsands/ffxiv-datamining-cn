@@ -1,5 +1,4 @@
-﻿key,0,1,2
-#,Name,ClassJob,PreviousComboAction
+﻿#,Name,ClassJob,PreviousComboAction
 int32,Action,ClassJob,Action
 0,0,-1,0
 1,36918,19,16460

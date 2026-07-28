@@ -1,6 +1,5 @@
-﻿key,0,1,2,3
-#,,,,
-int32,uint32,byte,byte,uint32
+﻿#,Action,ActionTarget,ActionEffectType,Status
+int32,Action,XBMActionTarget,XBMActionEffectType,Status
 0,0,0,0,0
 1,46866,1,6,0
 2,46871,1,1,2074

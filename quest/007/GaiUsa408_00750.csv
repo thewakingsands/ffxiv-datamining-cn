@@ -1,5 +1,4 @@
-﻿key,0,1
-#,,
+﻿#,,
 int32,str,str
 0,"TEXT_GAIUSA408_00750_SEQ_00","跨天桥的遗迹调查员格格修，想要委托冒险者讨伐魔物。"
 1,"TEXT_GAIUSA408_00750_SEQ_01","调查团遭到了<Sheet(BNpcName,301,0)/>的袭击，十分苦恼。讨伐4只跨天桥附近的<Sheet(BNpcName,301,0)/>。"

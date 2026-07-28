@@ -1,5 +1,4 @@
-﻿key,0,1,2,3,4
-#,Experience{Supply},Experience{Provisioning},Seals{ExpertDelivery},Seals{Supply},Seals{Provisioning}
+﻿#,ExperienceSupply,ExperienceProvisioning,SealsExpertDelivery,SealsSupply,SealsProvisioning
 int32,uint32,uint32,uint32,uint32,uint32
 0,0,0,0,0,0
 1,420,840,6,8,12

@@ -1,6 +1,5 @@
-﻿key,0,1
-#,Route,
-int32,IKDRoute,uint32
+﻿#,IndigoRoute,RubyRoute
+int32,IKDRoute,IKDRoute
 0,7,19
 1,10,13
 2,1,19
