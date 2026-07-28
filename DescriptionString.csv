@@ -3093,10 +3093,8 @@ int32,str
 当双方玩家均在圈内时则无法运送水晶。
 
 战术水晶会按照每个场地设置的水晶导线移动。
-战术水晶的移动速度会根据以下条件增加：
-
-　·在已经到达过的区域内重新进行运送时
-　·在我方当前进度小于对方最高进度的情况下进行运送时
+在已经到达过的区域内重新进行运送时
+战术水晶的移动速度会上升。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■战术点■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在场地的中点与各队的终点之间分别设有战术点。"
@@ -3172,8 +3170,10 @@ int32,str
 每个风球只有一名玩家可以触碰。
 湍流期间，风球会在一定时间后再次出现。"
 613,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■参加条件■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+当前职业为30级或更高的特职并处于非组队或最多2人小队状态，
+可以从任务搜索器申请参加练习赛。
 当前职业为30级或更高的特职并处于非组队状态，
-可以从任务搜索器申请参加。
+可以从任务搜索器申请参加段位赛。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■小队内的职能构成■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 比赛对各小队的职能构成不做限制。
@@ -5983,7 +5983,7 @@ int32,str
 1223,"关于参加方法"
 1224,"关于两歧塔"
 1225,"关于参加两歧塔力之塔"
-1226,"关于任务中的特殊货币"
+1226,"关于南征之章的特殊货币"
 1227,"关于知见水晶"
 1228,"关于场景内的宝箱"
 1229,""
@@ -6169,11 +6169,11 @@ int32,str
 1250,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>只要进入<UIGlow>01</UIGlow><UIForeground>01</UIForeground>紧急遭遇战出现的位置，即可<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自动参加<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 因此需要玩家直接前往对应地点。
 途中可能会经过许多危险怪物的领地，路上请务必小心。"
-1251,"“两歧塔 力之塔”，
+1251,"“两歧塔”，
 是蜃景幻界新月岛中需要多名玩家共同进行挑战的大型任务。
 
 任务最大参加人数为48人，
-强力怪物和惊险机制正在等待玩家挑战。
+丰富多彩的怪物和机制正在等待玩家挑战。
 
 请参与者们齐心协力，发挥出辅助职业的全部潜力，
 取得最终的胜利吧！"
@@ -6198,7 +6198,7 @@ int32,str
 如果传送魔纹中获得了两歧塔优先进入权的玩家超过48名，
 则使用了更多启动凭证的玩家将会更容易被选中，
 想要保证自己能进入两歧塔的玩家，可以选择使用更多启动凭证。"
-1254,"在蜃景幻界新月岛中，
+1254,"在蜃景幻界新月岛南征之章中，
 有“十二城邦银币”和“十二城邦金币”两种货币。"
 1255,"■十二城邦银币
 主要通过参与紧急遭遇战、危命任务获得。
@@ -7897,17 +7897,61 @@ int32,str
 
 在鱼的尺寸并没有得到显著增长时，
 请改变装备提高鉴别力吧。"
-1654,""
-1655,""
-1656,""
-1657,""
-1658,""
-1659,""
-1660,""
-1661,""
-1662,""
-1663,""
-1664,""
+1654,"关于辅助青魔法师的学习"
+1655,"辅助青魔法师是可通过“学习”，
+将魔物的技能作为自身能力加以施展的辅助职业。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>在魔物使用了目标技能后，玩家将其击倒，即算学习成功。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+不过，能成功学习的只能是
+拥有对应魔物学习权限的玩家。
+对于一般场景中的魔物，
+学习权限会赋予首次攻击该魔物的玩家及其队伍成员。
+若是紧急遭遇战
+则所有参与角色只要在战斗结束时未陷入无法战斗状态，
+均可获得学习权限。
+
+可学习的技能，可在辅助职业窗口的辅助特性中确认。"
+1656,"魔物"
+1657,"关于弱点属性"
+1658,"蜃景幻界新月岛上登场的魔物中，
+各自存在着弱点属性。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>以弱点属性进行攻击时，可以造成比通常更多的伤害。
+此外，通过使用辅助赤魔法师的技能“侦测”，
+即可看穿魔物的弱点属性。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+掌握弱点后进行攻击，可以造成更多的伤害。"
+1659,"关于参加两歧塔魔之塔"
+1660,"“两歧塔 魔之塔”存在有普通难度和“超魔之塔”这两种难度类型。
+
+挑战“两歧塔 魔之塔”时，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>需要满足“知见等级”在40以上。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+此外，需要通过特定条件下生成的传送魔纹，
+才可以进入“两歧塔 魔之塔”任务。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>传送魔纹在出现后经过一定时间会被激活，此时站在传送魔纹上的最多 48 名玩家将被传送到“两歧塔 魔之塔”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+若有超过 48 名玩家站在传送魔纹上时，
+将通过抽选，将被选中的玩家传送进任务。
+
+另外，<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>若玩家未被抽中，则会被计入“两歧塔优先级”当中，
+优先级越高的玩家，在下次抽选时被抽中的几率越高。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+此外，“两歧塔优先级”会在进入“两歧塔 魔之塔”的普通难度后被重置。"
+1661,"挑战“两歧塔 超魔之塔”除了“知见等级”的条件外，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>需要至少由 3 个小队组成的 12 名以上的玩家参与。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+准备齐所需成员后，与“幻境村”的杰弗瑞对话，
+并挑战“两歧塔 超魔之塔”。"
+1662,"关于北征之章的特殊货币"
+1663,"在蜃景幻界新月岛北征之章中，
+有“十二城邦白银币”和“十二城邦白金币”两种货币。"
+1664,"■十二城邦白银币
+主要通过参与紧急遭遇战、危命任务获得。
+
+■十二城邦白金币
+主要通过讨伐场景中的怪物获得。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>两种货币均可用于与“调查队的古钱鉴定师”交换各种各样的道具。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1665,"熟练探索任务"
 1666,"关于熟练探索任务"
 1667,"“熟练探索任务”是指，
@@ -7952,30 +7996,142 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>此外，当获得所有职业的成就后，还可获取特别奖励。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 "
-1669,""
-1670,""
-1671,""
-1672,""
-1673,""
-1674,""
-1675,""
-1676,""
-1677,""
-1678,""
-1679,""
-1680,""
-1681,""
-1682,""
-1683,""
-1684,""
-1685,""
-1686,""
-1687,""
-1688,""
-1689,""
-1690,""
-1691,""
-1692,""
+1669,"关于魔光键影"
+1670,"概要"
+1671,"“魔光键影”是一款最多可由 4 人参与的打字游戏。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※本任务将使用键盘。
+请确认是否具备通过键盘进行文字输入的功能后再申请参与。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+敌人将以三个大的集群的形式登场，
+并从战场深处袭来。
+正确输入显示在敌人头部上方的单词即可发动攻击。
+请在己方的屏障被破坏之前，达成每个集群的通关条件。
+
+此外，在任务期间，每次成功输入文字或完成一个集群时都能获得积分，
+最终分数越高，能获得的报酬就越丰厚。
+
+尽情展现您在聊天窗口中磨炼出的打字实力，冲击高分吧！"
+1672,"参加方法"
+1673,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■申请方法■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+可在“键斗广场”的报名登记员处提交参加申请。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■申请条件■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+包含“设限特职”在内的所有职业均可参与。
+※申请的小队成员全员均需满足任务开放条件。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■申请人数■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+可进行单人或最多 4 人的小队申请。
+若申请人数不足 4 人，将通过匹配补充剩余空位。
+
+此外，申请后即使一定时间内仍未凑齐 4 名玩家，
+也将由当时已凑齐的人数进入该任务。
+※若进入人数少于 3 人，将根据参与的人数自动对敌人的体力值做出修正。"
+1674,"画面讲解"
+1675,"“魔光键影”中，会显示专用的界面。
+
+① 打字区域
+此处将显示通过键盘输入的文字内容。"
+1676,"② 单词
+将单词输入到打字区域可对敌人发动攻击。
+累计攻击量达到敌人的体力槽所示数值即可将其击败。
+击破敌人所需的攻击次数，会因敌人类别和玩家人数而异。"
+1677,"③ 集群通关条件
+显示各集群的通关所需条件。"
+1678,"④ 得分和奖励加成槽
+“得分”是展示打字实力的数值。
+输入成功时可获得，同时下部的奖励加成槽会上升。
+根据奖励加成槽的上升量，输入成功时的“得分”将获得对应的额外加成。"
+1679,"⑤ 耐久度
+显示出现在玩家面前的屏障耐久度。
+遭到敌人攻击时会减少，耗尽后游戏结束。"
+1680,"操作方法"
+1681,"在“魔光键影”中，仅使用键盘进行操作。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■输入操作■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+输入敌人头顶显示的文字并按回车键确定，即可对该敌人发动攻击。
+若输入的单词不与任何敌人的单词匹配，则判定为攻击失败。
+
+关于文字输入，与聊天输入相同，适用各平台的标准输入法。
+
+此外，在任务期间，无论角色设置如何，“直接聊天模式”均会生效。
+
+另外，在输入文字时，通过按上箭头键（↑），可复用上次输入的内容。"
+1682,"输入判定"
+1683,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■文字判定■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只有输入正确汉字才能成功判定，不支持拼音。
+
+（例）
+当词条为“超越极限”时，以下分别为成功和失败的情况。
+
+成功判定：
+超越极限
+
+失败判定：
+chaoyue极限
+超越jixian
+chaoyuejixian
+
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■标点符号判定■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>关于词条中出现的标点符号，使用全角或半角均可成功判定。
+同时，目前词条中出现的标点符号均可以省略，即使不输入也不会失败。
+
+（例）
+当词条为“忍法，晴天霹雳！”时，以下情况均为成功。
+
+成功判定：
+忍法，晴天霹雳！
+忍法,晴天霹雳!
+忍法,晴天霹雳！
+忍法，晴天霹雳!
+忍法晴天霹雳
+忍法，晴天霹雳
+忍法晴天霹雳！"
+1684,"高分诀窍"
+1685,"输入单词成功后，奖励加成槽会上升，
+其倍率将附加到获得的得分上。
+
+若不进行操作，奖励加成槽会逐渐减少，
+因此在限定时间内快速且准确地输入文字，
+并保持较高的奖励加成槽状态是获得高分的关键。
+
+此外，消灭集群时能获得的得分会根据剩余的障壁耐久值而变化，
+因此尽量避免受到敌人伤害也是至关重要的。
+
+此外，在攻略过程中，若出现魔法罐则是大好机会！
+在逃跑前若能将其击破，就会进入持续一定时间的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>爆发时间<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态，
+有望获得大量得分。"
+1686,"敌人的特殊攻击"
+1687,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■可中断的敌人咏唱■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+特定的敌对魔物的咏唱，可以通过规定的攻击次数来打断。
+咏唱槽下方显示的数字，即为打断咏唱所需的攻击次数。"
+1688,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■无法输入文字■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+当咏唱中的敌人显示如下特殊图标时，
+从咏唱结束后开始的一定时间（直到敌人的攻击特效强烈发光为止），
+请勿进行输入操作。
+否则，将受到更长时间无法打字的惩罚。"
+1689,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■视觉妨碍■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+单词被隐藏而无法看到的状态异常效果。
+隐藏的单词会每隔一定时间恢复正常显示。
+即使在被遮挡期间输入也是有效的，
+切勿错过恢复的瞬间，
+请牢记当时显示的是什么单词。"
+1690,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■需要强化屏障的强力攻击■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+部分敌人的攻击，可以通过强化屏障来防御。
+随着敌人开始咏唱，如果单词出现在屏障上方时，
+请输入该单词以积攒强化槽。
+当强化槽积攒到满时，屏障会得到强化，进入一定时间的无敌状态。"
+1691,"报酬"
+1692,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■金碟点■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+参加“魔光键影”即可获得金碟点。
+获得的分数越高，获取的金碟点就越多，请努力追求高分吧！
+此外，金碟点的持有量，可在“键斗广场”的“金碟点兑换员”
+或是“报名登记员”的申请窗口中确认。
+※持有上限为 10000。
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■道具交换■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+获得的“金碟点”可以在“键斗广场”的“金碟点兑换员”处
+交换到各种道具。"
 1693,""
 1694,""
 1695,""
@@ -8097,8 +8253,9 @@ int32,str
 不论是完成或放弃熟练探索任务，
 均不会影响连锁累计次数。
 "
-1758,""
-1759,""
+1758,"魔之护符"
+1759,"“魔之护符”是可从“两歧塔 魔之塔”的宝箱中获得的道具。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>可用于与“调查队的古钱鉴定师”交换各种各样的道具。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1760,"■领取条件
 熟练探索任务仅限于已制作完成“宇宙工具”的职业，
 可在奥克塞西亚行星领取。
@@ -8128,7 +8285,19 @@ int32,str
 
 例：目标达成奖励如下情况
 "
-1761,""
+1761,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■无法使用的功能■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+在“魔光键影”任务期间，以下功能无法使用。
+・聊天
+・定型文
+・快捷键
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■中途退出■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+按下关闭所有窗口（<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>）键即可退出，
+但将无法获得任何报酬。
+此外，因中途退出可能会受到退出惩罚，
+请注意。
+此外，如果一段时间内没有进行任何操作也会被强制结束任务，
+与中途退出一样，可能会受到退出惩罚。"
 1762,""
 1763,""
 1764,""

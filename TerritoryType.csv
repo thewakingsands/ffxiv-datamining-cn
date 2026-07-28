@@ -1230,7 +1230,7 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,Territory
 1326,"x6rc","ex5/01_xkt_x6/rad/x6rc/level/x6rc",1,4501,4512,5405,1168,36,2,17,1074,False,0,False,0,True,False,False,False,1001,122035,124343,0,0,0,-1,897,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1327,"x6rc_2","ex5/01_xkt_x6/rad/x6rc/level/x6rc",1,4501,4512,5405,1168,36,2,17,1075,False,0,False,0,True,False,False,False,1001,122035,124347,0,0,0,-1,902,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1328,"ec065","ex5/01_xkt_x6/dun/x6d9/level/x6d9",1,4502,4513,4765,1122,34,1,29,1085,False,37,False,0,True,False,False,False,1001,-1,-1,0,0,0,-1,0,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,True
-1329,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
+1329,"ec066","ex5/01_xkt_x6/evt/x6ec/level/x6ec",1,4501,4512,5466,1166,33,1,29,1087,False,0,False,0,True,False,False,False,1001,-1,-1,0,0,0,-1,921,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1330,"r1r1_re","ffxiv/roc_r1/rad/r1r1/level/r1r1",1,25,508,64,50,5,2,3,13,False,0,False,0,True,False,False,False,1070,122004,124303,0,0,0,-1,892,-1,False,0,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1331,"r1r2_re","ffxiv/roc_r1/rad/r1r2/level/r1r2",1,25,508,65,38,5,2,3,5,False,0,False,0,True,False,False,False,1071,122004,124304,0,0,0,-1,891,-1,False,0,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1332,"x6d9_event","ex5/01_xkt_x6/dun/x6d9/level/x6d9",1,4502,4513,4765,1122,34,0,15,0,False,37,False,0,True,False,True,False,50086,-1,-1,855039,0,213,-1,0,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
@@ -1247,7 +1247,7 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,Territory
 1343,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1344,"x6ef","ex5/01_xkt_x6/evt/x6ef/level/x6ef",1,4501,4512,4655,1137,36,0,15,0,False,0,False,0,True,False,False,False,20088,-1,-1,854987,0,217,-1,0,-1,False,5,0,0,0,0,False,True,0,False,False,False,False,True,True,0,False,False
 1345,"m6d2","ex5/07_mid_m6/dun/m6d2/level/m6d2",1,3703,3741,5529,1198,21,2,3,1011,False,27,False,1,True,False,False,False,1001,122029,122101,0,0,0,-1,926,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
-1346,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
+1346,"o6b2","ex5/03_ocn_o6/btl/o6b2/level/o6b2",1,2405,519,5577,1135,37,3,61,1093,False,168,False,0,True,False,True,False,1401,122010,122105,0,0,0,-1,0,-1,False,5,0,65,0,62,False,True,0,False,True,True,False,True,True,0,False,False
 1347,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1348,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1349,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
@@ -1260,8 +1260,8 @@ int32,str,str,byte,PlaceName,PlaceName,PlaceName,Map,LoadingImage,byte,Territory
 1356,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
 1357,"s5p7","ffxiv/pvp_xx/pvp/s5p7/level/s5p7",4,2405,501,4096,1229,1,2,28,0,False,0,False,0,True,False,False,False,1001,-1,-1,0,0,0,1100,938,-1,True,0,0,0,0,0,False,True,0,False,False,False,False,True,True,0,False,False
 1358,"s5p7_ctm","ffxiv/pvp_xx/pvp/s5p7/level/s5p7",4,2405,501,4096,1229,1,2,37,0,False,0,False,0,True,False,False,False,1001,-1,-1,0,0,0,1100,938,-1,True,0,0,0,0,0,False,True,0,False,False,False,False,True,True,0,False,False
-1359,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
-1360,"","",0,0,0,0,0,0,0,0,0,False,0,False,0,False,False,False,False,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,False,False,0,False,False,False,False,False,False,0,False,False
+1359,"w1en","ffxiv/wil_w1/evt/w1en/level/w1en",1,24,503,5545,0,4,3,65,0,False,0,False,0,True,False,False,False,1001,-1,-1,0,0,0,-1,997,-1,False,0,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
+1360,"w1eo","ffxiv/wil_w1/evt/w1eo/level/w1eo",1,24,503,4962,1233,4,0,23,0,False,0,False,0,True,False,False,False,20299,122002,122109,855062,0,62,-1,0,-1,False,0,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1361,"z5fd","ex4/05_zon_z5/fld/z5fd/level/z5fd",1,2405,519,4766,1201,37,2,10,1115,False,149,False,0,True,False,False,False,1001,122010,122102,0,0,0,-1,957,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1362,"z5fd_2","ex4/05_zon_z5/fld/z5fd/level/z5fd",1,2405,519,4766,1201,37,2,10,1116,False,149,False,0,True,False,False,False,1001,122010,122103,0,0,0,-1,958,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False
 1363,"z3oy","ex2/05_zon_z3/ome/z3oy/level/z3oy",1,2400,514,2720,79,9,2,17,1094,False,0,False,0,True,False,False,False,1001,122016,122104,0,0,0,-1,952,-1,False,5,0,0,0,0,False,True,0,False,False,True,False,True,True,0,False,False

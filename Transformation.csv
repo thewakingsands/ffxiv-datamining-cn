@@ -96,7 +96,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 92,1,2250,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 93,1,2274,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,2,False,False,True,False,False,76,76,0,-1,0,0,0,False,False
 94,1,3458,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,76,76,872,-1,0,13323,0,False,False
-95,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+95,3,4747,0,1603,2969,True,66,False,46409,False,46410,False,46411,False,46412,False,46413,False,0,0,True,False,0,True,0,1,False,False,True,True,True,0,0,0,-1,0,7641,22,False,False
 96,3,0,0,526,963,False,13423,False,13424,False,13425,False,13426,False,0,False,0,False,0,0,True,False,0,True,0,1,False,False,True,False,False,0,0,11784,-1,0,7627,2,False,False
 97,1,2264,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 98,1,2127,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,7,False,False,True,False,False,76,598,0,-1,0,0,0,False,False
@@ -372,9 +372,9 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 368,3,0,0,749,1983,False,18776,False,18777,False,18778,False,18780,False,18781,False,0,False,0,0,True,False,0,True,0,1.1,False,False,True,True,True,0,0,18771,-1,0,7630,10,False,False
 369,1,2808,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 370,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
-371,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
-372,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
-373,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+371,1,5015,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,76,76,48368,-1,0,0,0,False,False
+372,1,5016,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1.5,False,False,True,False,False,76,76,48369,-1,0,0,0,False,False
+373,1,4726,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,2,False,False,True,False,False,76,76,48334,-1,0,0,0,False,False
 374,3,2881,0,0,0,False,20489,True,38,False,20493,False,20496,False,20940,False,20494,False,20495,0,True,False,0,True,0,2.5,True,False,True,True,True,0,0,0,-1,100,0,11,False,False
 375,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
 376,1,2905,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
@@ -506,7 +506,7 @@ int32,byte,ModelChara,BNpcName,BNpcCustomize,NpcEquip,bool,Action,bool,Action,bo
 502,1,3458,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,1,False,False,True,False,False,76,76,0,-1,-80,0,0,False,False
 503,1,3920,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,3.1,False,False,True,False,False,76,76,0,-1,0,0,0,False,False
 504,1,2274,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,2,False,False,True,False,False,76,76,0,-1,0,0,0,False,False
-505,0,0,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,False,0,0,False,False,False,False,False,0,0,0,0,0,0,0,False,False
+505,4,0,0,0,0,False,49516,False,49517,False,49518,False,49519,False,49520,False,51027,False,51028,0,False,False,0,True,0,1,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 506,4,4948,0,0,0,False,0,False,0,False,0,False,0,False,0,False,0,False,0,0,False,False,0,True,0,25,False,False,True,False,False,0,0,0,-1,0,0,0,False,False
 507,1,0,0,1284,2546,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False
 508,1,0,0,1238,2547,False,13266,False,0,False,0,False,0,False,0,False,0,False,0,0,True,False,0,True,0,1,False,True,True,False,False,76,76,0,-1,0,13061,0,False,False

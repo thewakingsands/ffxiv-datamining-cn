@@ -296,6 +296,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 变更特定召唤兽的尺寸。
 本设定在对战区域内无效。
 另外，本设定只对自身生效，无法改变他人的召唤兽尺寸。
+※调整驯兽师的魔兽的尺寸时，请使用“/驯兽尺寸”指令。
 
 >>召唤兽的名字
 亚灵神巴哈姆特
@@ -1263,7 +1264,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /lookingforparty、/lfp
 将在线状态设置为“希望组队”，并附加希望组队的职业。
 >>职业(※可以指定多个职业，顺序不限)
-骑士(PLD)　剑术师(GLA)　战士(WAR)　斧术师(MRD)　暗黑骑士(DRK)　绝枪战士(GNB)　白魔法师(WHM)　幻术师(CNJ)　学者(SCH)　占星术士(AST)　贤者(SGE)　武僧(MNK)　格斗家(PGL)　龙骑士(DRG)　枪术师(LNC)　忍者(NIN)　双剑师(ROG)　武士(SAM)　钐镰客(RPR)　蝰蛇剑士(VPR)　吟游诗人(BRD)　弓箭手(ARC)　机工士(MCH)　舞者(DNC)　黑魔法师(BLM)　咒术师(THM)　召唤师(SMN)　秘术师(ACN)　赤魔法师(RDM)　绘灵法师(PCT)　青魔法师(BLU)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)
+骑士(PLD)　剑术师(GLA)　战士(WAR)　斧术师(MRD)　暗黑骑士(DRK)　绝枪战士(GNB)　白魔法师(WHM)　幻术师(CNJ)　学者(SCH)　占星术士(AST)　贤者(SGE)　武僧(MNK)　格斗家(PGL)　龙骑士(DRG)　枪术师(LNC)　忍者(NIN)　双剑师(ROG)　武士(SAM)　钐镰客(RPR)　蝰蛇剑士(VPR)　驯兽师(BST)　吟游诗人(BRD)　弓箭手(ARC)　机工士(MCH)　舞者(DNC)　黑魔法师(BLM)　咒术师(THM)　召唤师(SMN)　秘术师(ACN)　赤魔法师(RDM)　绘灵法师(PCT)　青魔法师(BLU)　刻木匠(CRP)　锻铁匠(BSM)　铸甲匠(ARM)　雕金匠(GSM)　制革匠(LTW)　裁衣匠(WVR)　炼金术士(ALC)　烹调师(CUL)　采矿工(MIN)　园艺工(BTN)　捕鱼人(FSH)
 ※省略该条件会默认为指定当前职业。
 >>子命令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>开(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -4550,8 +4551,22 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/摇摆声援小绿","",293,0
 726,0,0,0,0,0,"","","","","",0,0
-727,0,0,0,0,0,"","","","","",0,0
-728,0,0,0,0,0,"","","","","",0,0
+727,2,1,2,0,0,"/navigate","/checkmap","/查看地图 子命令
+/navigate、/checkmap
+打开地图查看。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/查看地图","",293,0
+728,2,1,2,0,0,"/magitype","","/敲魔键盘 子命令
+/magitype
+敲击魔键盘。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/敲魔键盘","",293,0
 729,2,1,2,0,0,"/cackle","","/放声大笑 子命令
 /cackle
 放声大笑。
@@ -4584,5 +4599,12 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只做动作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出动作并显示文字提示。","/一直吃夹饼","",293,0
-733,0,0,0,0,0,"","","","","",0,0
+733,2,1,2,0,0,"/lookback","","/回头看 子命令
+/lookback
+回头看背后。
+>>子命令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>动作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做动作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>无子命令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出动作并显示文字提示。","/回头看","",293,0
 734,0,0,0,0,0,"","","","","",0,0
