@@ -1,4 +1,4 @@
-﻿#,,Unknown0,,Unknown1,,Unknown8,,,,,,,,,
+﻿#,,Index,,MaxValue,,DataType,,,,,,,,,
 int32,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0
 65565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

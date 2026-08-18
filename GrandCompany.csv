@@ -1,4 +1,4 @@
-﻿#,Name,Unknown2,Unknown0,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown1,MonsterNote
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,NamePrepositional,MonsterNote
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,MonsterNote
 0,"平民",0,"",0,0,0,0,0,"",127
 1,"黑涡团",0,"",0,0,0,0,0,"",8

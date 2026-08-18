@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name,ModelTop,ModelBody,ModelLegs,GrandCompany,IconHead,IconBody,IconLegs,Order
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,int32,int32,int32,GrandCompany,Image,Image,Image,byte
 0,"皮革陆行鸟鞍",0,"",0,0,1,0,0,"皮革陆行鸟鞍",0,0,0,0,0,0,0,0
 1,"碧海陆行鸟鞍",0,"",0,0,1,0,0,"碧海陆行鸟鞍",65538,65541,65538,1,58549,58553,58551,1

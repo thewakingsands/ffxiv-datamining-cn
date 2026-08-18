@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Map,AetherstreamX,AetherstreamY,Level,RequiredQuest,PlaceName,AethernetName,,IsAetheryte,Unknown1,Invisible,,Territory,Unknown2,AethernetGroup,Order,
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Map,AetherstreamX,AetherstreamY,Level,RequiredQuest,PlaceName,AethernetName,,IsAetheryte,Unknown1,Invisible,,Territory,Unknown2,AethernetGroup,Order,
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,Map,uint16,uint16,uint32,Quest,PlaceName,PlaceName,bit&01,byte,str,byte,bit&02,TerritoryType,uint16,int16,int16,byte
 0,"以太之光",0,"",0,0,1,0,0,0,0,0,0,0,0,0,False,0,"Aetheryte",0,False,0,0,0,0,0
 1,"城内以太之晶",0,"",0,0,1,0,0,1,0,1,1360027,3785149,3785150,3785151,True,0,"Aetheryte",0,False,0,0,0,0,0

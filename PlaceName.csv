@@ -1,4 +1,4 @@
-﻿#,Name,Unknown1,NameNoArticle,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown0,Unknown8,Unknown7,MapCondition
+﻿#,Name,Adjective,NameNoArticle,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,NamePrepositional,Unknown8,Order,MapCondition
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,byte,uint16,MapCondition
 0,"",0,"",0,0,1,0,0,"",0,0,0
 1,"",0,"",0,0,0,0,0,"",0,0,0

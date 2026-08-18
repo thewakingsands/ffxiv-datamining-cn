@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Unknown1,Name,Icon,Action,StackSize,Category,Quest,CastTime,CastTimeline,Timeline
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Unknown1,Name,Icon,Action,StackSize,Category,Quest,CastTime,CastTimeline,Timeline
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,EventItemCategory,Quest,byte,EventItemCastTimeline,byte
 2000000,"",0,"",0,0,1,0,0,False,"",0,0,1,1,0,0,0,0
 2000001,"",0,"",0,0,0,0,0,False,"",0,0,0,0,0,0,0,0

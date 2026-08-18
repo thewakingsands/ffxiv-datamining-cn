@@ -1,5 +1,5 @@
-﻿#,Item,GatheringItemLevel,Unknown4,Unknown5,PerceptionReq,Unknown0,IsHidden,SublimeVariant,Unknown3,Unknown2
-int32,Row,GatheringItemLevelConvertTable,bit&01,bit&02,uint16,uint32,bit&04,GatheringItem,byte,uint16
+﻿#,Item,GatheringItemLevel,Unknown4,Unknown5,PerceptionReq,RequiredQuest,IsHidden,SublimeVariant,Unknown3,Unknown2
+int32,Row,GatheringItemLevelConvertTable,bit&01,bit&02,uint16,Quest,bit&04,GatheringItem,byte,uint16
 0,0,0,False,False,0,0,False,0,0,0
 1,2,1,True,False,0,0,False,0,0,65535
 2,3,1,True,False,0,0,False,0,0,65535

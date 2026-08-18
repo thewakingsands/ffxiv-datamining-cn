@@ -1,4 +1,4 @@
-﻿#,Model,CustomizeGroup,Unknown3,Unknown4,Action,Order,Icon,Transient,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article
+﻿#,Model,CustomizeGroup,Unknown3,Unknown4,Action,Order,Icon,Transient,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article
 int32,uint16,OrnamentCustomizeGroup,byte,byte,OrnamentAction,int16,Image,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 0,0,0,0,0,0,-1,0,0,"",0,"",0,0,1,0,0
 1,2939,1,1,1,2,0,8001,1,"阳伞",0,"",0,0,1,0,0

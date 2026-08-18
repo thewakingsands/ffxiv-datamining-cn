@@ -1,4 +1,4 @@
-﻿#,Icon,Singular,Unknown4,Plural,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,TitleCase,Description
+﻿#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,TitleCase,Description
 int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
 0,0,"",0,"",0,0,1,0,0,"",""
 1,27970,"",0,"",0,0,1,0,0,"乌内亚灵复制体","记载了乌内数据的神典石。通过亚灵复制体生成器解析读取后，即可召唤乌内亚灵复制体。"

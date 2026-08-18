@@ -1,5 +1,5 @@
-﻿#,Name,Description,LeveClient,Unknown1,LeveAssignmentType,Town,ClassJobLevel,TimeLimit,AllowanceCost,PlaceNameStart,PlaceNameIssued,FishingSpot,Unknown2,ClassJobCategory,JournalGenre,PlaceNameStartZone,IconCityState,DataId,CanCancel,MaxDifficulty,ExpFactor,ExpReward,GilReward,LeveRewardItem,LeveVfx,LeveVfxFrame,LevelLevemete,IconIssuer,LockedLeve,LevelStart,BGM
-int32,str,str,LeveClient,byte,LeveAssignmentType,Town,uint16,byte,byte,PlaceName,PlaceName,FishingSpot,byte,ClassJobCategory,JournalGenre,PlaceName,Image,Row,bit&01,byte,single,uint32,uint32,LeveRewardItem,LeveVfx,LeveVfx,Level,Image,bit&02,Level,BGM
+﻿#,Name,Description,LeveClient,Unknown1,LeveAssignmentType,Town,ClassJobLevel,TimeLimit,AllowanceCost,PlaceNameStart,PlaceNameIssued,FishingSpot,SpearfishingNotebook,ClassJobCategory,JournalGenre,PlaceNameStartZone,IconCityState,DataId,CanCancel,MaxDifficulty,ExpFactor,ExpReward,GilReward,LeveRewardItem,LeveVfx,LeveVfxFrame,LevelLevemete,IconIssuer,LockedLeve,LevelStart,BGM
+int32,str,str,LeveClient,byte,LeveAssignmentType,Town,uint16,byte,byte,PlaceName,PlaceName,FishingSpot,SpearfishingNotebook,ClassJobCategory,JournalGenre,PlaceName,Image,Row,bit&01,byte,single,uint32,uint32,LeveRewardItem,LeveVfx,LeveVfx,Level,Image,bit&02,Level,BGM
 0,"","",0,0,0,0,0,0,1,0,0,0,0,0,0,1,20011,0,True,0,1,0,0,0,0,0,0,0,True,0,14
 1,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,False,0,0
 2,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,0,0,0,0,0,False,0,0

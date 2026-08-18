@@ -1,5 +1,5 @@
-﻿#,,,,WarpParams,ResponseYes,WarpName,CanSkipCutscene,,,,,,,Question,ResponseNo,Unknown0,,,,,,,,,,
-int32,uint32,str,bit&01,str,str,str,str,str,str,str,str,str,str,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,str,str,str
+﻿#,,,,WarpParams,ResponseYes,WarpName,CanSkipCutscene,,,,,,,Question,ResponseNo,Icon,,,,,,,,,,
+int32,uint32,str,bit&01,str,str,str,str,str,str,str,str,str,str,uint32,uint32,Image,uint32,uint32,uint32,uint32,uint32,uint32,uint32,str,str,str
 0,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 1,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
 2,0,"WarpRentalChocobo",True,"HOWTO_ABOUT_RENTAL_CHOCOBO","","","","","","","","","",81,0,0,0,0,0,0,0,0,0,"租借陆行鸟","",""

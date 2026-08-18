@@ -1,4 +1,4 @@
-﻿#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Name,Tooltip,Action
+﻿#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name,Tooltip,Action
 int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,Action
 0,0,"",0,"",0,0,1,0,0,"","",0
 1,27901,"",0,"",0,0,1,0,0,"魔陶器：咒印解除","清除本<Switch(PlayerParameter(109))><Case(1)>层</Case><Case(2)>层</Case><Case(3)>层</Case><Case(4)>朝圣路</Case></Switch>所有陷阱",6259

@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
 0,"",0,"",0,0,1,0,0
 1,"矿脉",0,"",0,0,1,0,0

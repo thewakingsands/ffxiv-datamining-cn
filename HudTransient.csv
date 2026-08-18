@@ -1,5 +1,5 @@
-﻿#,Unknown0,Unknown1,Unknown2,Unknown3
-int32,sbyte,sbyte,sbyte,sbyte
+﻿#,EditCategory,Unknown1,Size,SimpleModeSize
+int32,sbyte,sbyte,AddonHudSize,AddonHudSize
 0,1,2,1,0
 1,1,2,1,0
 2,1,2,1,0

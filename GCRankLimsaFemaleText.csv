@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown1,Pronoun,Article,NameRank,Unknown0
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,NameRank,Unknown0
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
 0,"",0,"",0,0,0,0,0,"",""
 1,"二等漩兵",0,"",0,0,0,0,0,"",""

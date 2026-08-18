@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Name
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str
 0,"",0,"",0,0,1,0,0,""
 1,"",0,"",0,0,1,0,0,"优雷卡以太壶"

@@ -1,4 +1,4 @@
-﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown0,Pronoun,Article,Title,Map,Unknown1
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Title,Map,Unknown1
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,byte,bit&01
 1000000,"",0,"",0,0,1,0,0,"",3,False
 1000001,"",0,"",0,0,0,0,0,"",0,False

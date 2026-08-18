@@ -1,4 +1,4 @@
-﻿#,Unknown0,Unknown2,Unknown1,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,SGB,Unknown8,Unknown9,Unknown_70
+﻿#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,SGB,Unknown8,Unknown9,Unknown_70
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ExportedSG,bit&01,bit&02,byte
 0,"宝箱",0,"",0,0,1,0,0,0,False,False,0
 1,"",0,"",0,0,1,0,0,1598,False,False,0

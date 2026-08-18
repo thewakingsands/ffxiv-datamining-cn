@@ -1,4 +1,4 @@
-﻿#,Model,Style,Icon,Unknown_70_8,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Unknown_70_4,Pronoun,Article,Description,Name
+﻿#,Model,Style,Icon,Unknown_70_8,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Description,Name
 int32,uint32,GlassesStyle,Image,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
 0,0,-1,0,0,"",0,"",0,0,1,0,0,"",""
 1,71037,0,200049,0,"椭圆眼镜",0,"",0,0,1,0,0,"基础色的面部配饰。","椭圆眼镜"
