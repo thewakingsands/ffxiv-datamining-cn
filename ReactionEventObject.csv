@@ -1,5 +1,5 @@
-﻿#,Unknown0,Unknown1
-int32,uint32,uint32
+﻿#,ObjectInfo,SharedGroup
+int32,ReactionEventObjectInfo,uint32
 0.0,0,0
 1.0,0,0
 1.1,0,0

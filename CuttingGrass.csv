@@ -1,5 +1,5 @@
-﻿#,Unknown0,Unknown1,Unknown10,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9
-int32,str,uint32,int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,Unknown0,PopRange,,Duration,Unknown3,Unknown4,ScreenImageStart,ScreenImageEnd,Action,Unknown10,
+int32,str,uint32,int32,uint32,uint32,uint32,ScreenImage,ScreenImage,uint32,uint32,uint32
 0,"",0,0,0,0,0,0,0,0,0,0
 1,"",0,0,0,0,0,0,0,0,0,0
 2,"",12122044,1,180,300,63990,0,0,45127,42039,42038
