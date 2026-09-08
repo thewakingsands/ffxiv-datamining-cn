@@ -288,7 +288,7 @@ int32,str,str
 我以前一定很喜欢制作工艺品！"
 127,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_002","宰完羊后，我会用毛皮制作地毯，这里有这么多石屋，
 地毯作为防寒用品能卖个好价钱！"
-128,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_003","安登的家里也有很多毛绒绒的地毯哦！
+128,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_004_003","安登的家里也有很多毛茸茸的地毯哦！
 摸起来手感可真是太棒了！"
 129,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_004","当我回过神来的时候，我已经沉迷于制革的工作了。
 因此我将筹备皮革的工作委托给了猫秘族！
@@ -329,7 +329,7 @@ int32,str,str
 并且之后每次路过都会来做客！ "
 145,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_004_020","但最开始他们为什么会感到惊讶呢？
 有什么在意的地方吗？"
-146,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_100","说起来，安登总是会被毛绒绒的羊们包围起来，
+146,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_EOTYR_001_100","说起来，安登总是会被毛茸茸的羊们包围起来，
 看起来非常暖和，不过他现在这个样子大概会被羊群吃掉？"
 147,"TEXT_CTSSFSCHARACTER9_00815_LCUT_RANKUP_ANDEN_001_101","被你这么一说，
 我记得以前貌似还抱着小羊取暖来着？"
@@ -384,7 +384,7 @@ int32,str,str
 谢谢你，<Highlight>ObjectParameter(1)</Highlight>！"
 173,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_002_001","虽然可能算不上谢礼，
 但我希望你能去找一两只羊抱一抱，
-它们毛绒绒的羊毛一定可以将你的疲劳一扫而空！"
+它们毛茸茸的羊毛一定可以将你的疲劳一扫而空！"
 174,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_000","和<Highlight>ObjectParameter(1)</Highlight>做生意总是会
 让我回想起以前在孚布特王国的生活！"
 175,"TEXT_CTSSFSCHARACTER9_00815_RANKUP_ANDEN_003_001","可能是我平常很少与人打交道，

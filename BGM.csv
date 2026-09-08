@@ -1253,7 +1253,7 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 20259,"music/ex5/BGM_EX5_MKD_17.scd",1,False,True,True,90,0
 20260,"music/ex5/BGM_EX5_MKD_18.scd",1,False,False,True,90,0
 20261,"music/ffxiv/BGM_Ride_MKD02.scd",1,False,False,True,90,2
-20262,"",0,False,False,False,0,0
+20262,"music/ex5/BGM_EX5_EventMap09.scd",1,False,False,True,90,0
 20263,"music/ex5/BGM_EX5_Ban_21.scd",1,False,False,True,90,0
 20264,"music/ex5/BGM_EX5_Dan_D13.scd",1,False,False,True,90,0
 20265,"music/ex5/BGM_EX5_EoV_32.scd",1,False,False,True,90,0
@@ -1277,8 +1277,8 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 20283,"music/ffxiv/BGM_Ride_NO.scd",1,False,False,True,90,2
 20284,"music/ex5/BGM_EX5_Event_41.scd",1,False,False,True,90,0
 20285,"music/ffxiv/BGM_Season_Uematsu.scd",1,False,False,True,90,0
-20286,"",0,False,False,False,0,0
-20287,"",0,False,False,False,0,0
+20286,"music/ex5/BGM_EX5_Event_42.scd",1,False,False,True,90,0
+20287,"music/ex5/BGM_EX5_EndCredit02.scd",1,False,False,True,90,0
 20288,"music/ex4/BGM_EX4_WKS_09.scd",1,False,False,True,90,0
 20289,"music/ex5/BGM_EX5_Ban_22.scd",1,False,False,True,90,0
 20290,"music/ex5/BGM_EX5_Ban_23.scd",1,False,False,True,90,0
@@ -1286,10 +1286,10 @@ int32,str,byte,bit&01,bit&02,bit&04,single,byte
 20292,"music/ex5/BGM_EX5_Ban_25.scd",1,False,False,True,90,0
 20293,"music/ex5/BGM_EX5_Ban_26.scd",1,False,False,True,90,0
 20294,"music/ex5/BGM_EX5_Ban_27.scd",1,False,False,True,90,0
-20295,"",0,False,False,False,0,0
-20296,"",0,False,False,False,0,0
-20297,"",0,False,False,False,0,0
-20298,"",0,False,False,False,0,0
+20295,"music/ex5/BGM_EX5_XBM_01.scd",1,False,False,True,90,0
+20296,"music/ex5/BGM_EX5_XBM_02.scd",1,False,False,True,90,0
+20297,"music/ex5/BGM_EX5_XBM_03.scd",1,False,False,True,90,0
+20298,"music/ffxiv/BGM_Ride_XBM.scd",1,False,False,True,90,2
 20299,"music/ffxiv/BGM_GlodSaucer_KTG.scd",1,False,False,True,90,0
 20300,"music/ffxiv/BGM_KTG_01.scd",1,False,False,True,90,0
 20301,"music/ffxiv/BGM_KTG_02.scd",1,False,False,True,90,0

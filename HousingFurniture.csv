@@ -1757,7 +1757,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198361,1607,16,0,0,0,0,0,51265,False,False,0,0,0,True,False
 198362,1608,13,0,0,0,0,0,51266,False,False,0,0,0,True,False
 198363,1609,12,0,0,0,0,0,51267,False,False,0,0,0,True,False
-198364,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
+198364,1479,14,0,0,0,0,0,51273,False,False,5,0,0,True,False
 198365,0,0,0,0,0,0,0,0,False,False,0,0,0,False,False
 198366,1589,14,0,0,0,0,0,51275,False,False,5,0,0,True,False
 198367,1611,14,0,0,0,0,0,51276,False,False,5,0,0,True,False
