@@ -523,7 +523,7 @@ int32,str,byte,byte,bit&01,byte,uint16,BacklightColor,str
 520,"TERM_FILTER",255,255,False,3,29,0,"屏蔽词"
 521,"QUICK_PANEL",255,255,False,3,83,0,"快捷面板"
 522,"MENU_TOFU",255,255,False,3,62,0,"战术板"
-523,"",0,0,False,0,0,0,""
+523,"XBM_BOOK",255,255,False,3,19,0,"魔兽图鉴"
 524,"",0,0,False,0,0,0,""
 525,"",0,0,False,0,0,0,""
 526,"",0,0,False,0,0,0,""

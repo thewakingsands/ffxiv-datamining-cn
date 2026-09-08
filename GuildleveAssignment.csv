@@ -1,4 +1,4 @@
-﻿#,Type,Unknown1,AssignmentTalk,Quest,Unknown0,Unknown3,Unknown4,Unknown5,Unknown6,,Unknown2
+﻿#,Type,RequiredGrandCompanyRank,AssignmentTalk,Quest,Unknown0,Unknown3,Unknown4,Unknown5,Unknown6,,Unknown2
 int32,str,byte,GuildleveAssignmentTalk,uint32,uint32,bit&01,bit&02,bit&04,bit&08,bit&10,byte
 393216,"行会理符发行处",0,1,65756,65756,False,False,False,False,False,0
 393217,"行会理符发行处",1,2,65756,65756,False,False,False,False,False,0

@@ -1,4 +1,4 @@
-﻿#,Name,ActionTimeline,Order,LogMessageTargeted,LogMessageUntargeted,Patch,EmoteCategory,EmoteMode,DrawsWeapon,SheathesWeapon,,Unknown5,UsableWhenFishing,,,,,,HasMountedAnimation,TextCommand,Icon,HasSwimmingAnimation,HasDivingAnimation,UnlockLink,DontSetEmoteMode
+﻿#,Name,ActionTimeline,Order,LogMessageTargeted,LogMessageUntargeted,Patch,EmoteCategory,EmoteMode,DrawsWeapon,SheathesWeapon,,Unknown5,UsableWhenFishing,,,,,,UsableWhenMounted,TextCommand,Icon,UsableWhenSwimming,UsableWhenDiving,UnlockLink,DontSetEmoteMode
 int32,str,uint16,uint16,LogMessage,LogMessage,uint16,EmoteCategory,EmoteMode,bit&01,bit&02,bit&04,byte,byte,bit&08,bit&10,bit&20,bit&40,bit&80,uint16,TextCommand,Image,uint16,uint16,uint32,uint16
 0,"",0,0,0,0,0,0,0,True,True,True,0,0,False,False,False,False,False,0,0,0,0,0,0,1
 1,"惊讶",689,0,674,674,674,0,0,True,True,True,1,0,False,True,False,False,False,5016,402,246201,100,200,0,1

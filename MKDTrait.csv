@@ -22,7 +22,7 @@ int32,MKDSupportJob,byte,Image,str,str
 14,19,4,82214,"魔跳跃效果提高","魔跳跃的威力提到500，受伤减轻的效果量变为90%"
 15,21,1,82215,"魔学习I","可习得魔导弹和魔水流吐息
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔导弹效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>35%几率对目标造成等同于当前体力75%的伤害，仅对部分敌人有效
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔水纹吐息效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标及其周围的敌人发动无属性范围魔法攻击"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔水流吐息效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标及其周围的敌人发动无属性范围魔法攻击"
 16,21,2,82216,"魔学习II","可习得魔烈风和魔强力守护
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔烈风效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>对目标发动风属性魔法攻击
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔强力守护效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一定时间内，令自身和周围队员所受到的伤害减轻20％"
