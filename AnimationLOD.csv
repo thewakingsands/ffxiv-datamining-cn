@@ -1,4 +1,4 @@
-﻿#,CameraDistance,SampleInterval,BoneLOD,AnimationEnable,,,,,,,
+﻿#,CameraDistance,SampleInterval,BoneLOD,AnimationEnable0,AnimationEnable1,AnimationEnable2,AnimationEnable3,AnimationEnable4,AnimationEnable5,AnimationEnable6,AnimationEnable7
 int32,single,single,sbyte,bool,bool,bool,bool,bool,bool,bool,bool
 0,30,1,0,True,True,True,True,True,True,True,True
 1,50,2,1,False,True,False,True,True,True,True,True

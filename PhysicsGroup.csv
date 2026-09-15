@@ -1,4 +1,4 @@
-﻿#,SimulationTime,PS3SimulationTime,RootFollowingGame,RootFollowingCutScene,ConfigSwitch,ResetByLookAt,ForceAttractByPhysicsOff,,,,,,,,,,,,
+﻿#,SimulationTime0,SimulationTime1,SimulationTime2,SimulationTime3,SimulationTime4,SimulationTime5,PS3SimulationTime0,PS3SimulationTime1,PS3SimulationTime2,PS3SimulationTime3,PS3SimulationTime4,PS3SimulationTime5,ResetByLookAt,RootFollowingGame,RootFollowingCutScene,ConfigSwitch0,ConfigSwitch1,ConfigSwitch2,ForceAttractByPhysicsOff
 int32,single,single,single,single,single,single,single,single,single,single,single,single,bit&01,single,single,sbyte,sbyte,sbyte,bit&02
 1,60,60,30,30,60,0,30,30,30,30,60,0,False,0.3,0.3,0,0,0,False
 2,60,60,30,30,60,0,0,0,0,0,0,0,False,0.3,0.8,0,2,2,False

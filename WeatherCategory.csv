@@ -1,5 +1,5 @@
-﻿#,Weather,,,,
-int32,int32,int32,int32,int32,int32
+﻿#,Weather0,Weather1,Weather2,Weather3,Weather4
+int32,Weather,Weather,Weather,Weather,Weather
 0,0,0,0,0,0
 1,1,2,0,0,0
 2,3,0,0,0,0

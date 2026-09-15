@@ -1,5 +1,5 @@
-﻿#,,,,,,VillageAppearanceData,,,,
-int32,uint16,uint16,uint16,uint16,uint16,uint32,uint32,uint32,uint32,uint32
+﻿#,VillageAppearanceData0SGB,VillageAppearanceData1SGB,VillageAppearanceData2SGB,VillageAppearanceData3SGB,VillageAppearanceData4SGB,VillageAppearanceData0UnknownParam,VillageAppearanceData1UnknownParam,VillageAppearanceData2UnknownParam,VillageAppearanceData3UnknownParam,VillageAppearanceData4UnknownParam
+int32,ExportedSG,ExportedSG,ExportedSG,ExportedSG,ExportedSG,uint32,uint32,uint32,uint32,uint32
 0,0,0,0,0,0,0,0,0,0,0
 1,30025,30041,30061,32640,34887,11,12,13,0,0
 2,30026,30042,30062,32694,35030,11,12,13,0,0

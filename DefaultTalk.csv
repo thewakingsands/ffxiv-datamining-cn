@@ -1,5 +1,5 @@
-﻿#,,,Unknown0,,,DefaultTalkParams,,,Unknown1,,,Text,,,,,,,,,,,
-int32,uint32,byte,byte,byte,byte,uint16,uint16,uint16,byte,byte,byte,uint16,uint16,uint16,byte,byte,byte,bit&01,bit&01,bit&01,str,str,str
+﻿#,Unknown0,Unknown1,DefaultTalkParams0Unknown1,DefaultTalkParams1Unknown1,DefaultTalkParams2Unknown1,DefaultTalkParams0ActionTimelinePose,DefaultTalkParams1ActionTimelinePose,DefaultTalkParams2ActionTimelinePose,DefaultTalkParams0Unknown2,DefaultTalkParams1Unknown2,DefaultTalkParams2Unknown2,DefaultTalkParams0Unknown0,DefaultTalkParams1Unknown0,DefaultTalkParams2Unknown0,DefaultTalkParams0Unknown3,DefaultTalkParams1Unknown3,DefaultTalkParams2Unknown3,DefaultTalkParams0Unknown4,DefaultTalkParams1Unknown4,DefaultTalkParams2Unknown4,Text0,Text1,Text2
+int32,uint32,byte,byte,byte,byte,ActionTimeline,ActionTimeline,ActionTimeline,byte,byte,byte,uint16,uint16,uint16,byte,byte,byte,bit&01,bit&01,bit&01,str,str,str
 589824,0,1,1,0,0,799,796,854,1,1,1,0,0,0,3,4,5,False,False,False,"0","0","0"
 589825,0,1,2,0,0,764,0,0,1,1,1,0,0,0,0,0,0,False,False,False,"0","0","0"
 589826,0,1,2,0,0,764,0,0,1,1,1,0,0,0,0,0,0,False,False,False,"0","0","0"

@@ -1,5 +1,5 @@
-﻿#,TargetLocations,,,,,,,,PlaceName
-int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,str
+﻿#,TargetLocations0,TargetLocations1,TargetLocations2,TargetLocations3,TargetLocations4,TargetLocations5,TargetLocations6,TargetLocations7,PlaceName
+int32,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,str
 1179648,1,0,0,0,0,0,0,0,"剧情君1"
 1179649,0,0,0,0,0,0,0,0,"剧情君2"
 1179650,16,2,4,18,8,12,0,0,"格里达尼亚"

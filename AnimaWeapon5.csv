@@ -1,5 +1,5 @@
-﻿#,Item,Unknown0,SecondaryStatTotal,Parameter,,,,
-int32,Item,byte,byte,byte,byte,byte,byte,byte
+﻿#,Item,Unknown0,SecondaryStatTotal,Parameter0,Parameter1,Parameter2,Parameter3,Parameter4
+int32,Item,byte,byte,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param
 0,0,0,0,0,0,0,0,0
 1,14870,1,128,2,3,4,5,6
 2,14871,2,180,2,3,4,5,6

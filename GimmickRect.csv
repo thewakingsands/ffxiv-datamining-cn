@@ -1,4 +1,4 @@
-﻿#,LayoutID,,Params,TriggerIn,TriggerOut,,,,,,
+﻿#,LayoutID,TriggerIn,Params0,Params1,Params2,Params3,TriggerOut,Params4,Params5,Params6,Params7
 int32,uint32,byte,uint32,uint32,uint32,uint32,byte,uint32,uint32,uint32,uint32
 0,0,0,0,0,0,0,0,0,0,0,0
 1,0,3,8,0,0,0,0,0,0,0,0

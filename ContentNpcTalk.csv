@@ -1,5 +1,5 @@
-﻿#,,ContentTalk,Type,,,,,,
-int32,int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,Type,ContentTalk0,ContentTalk1,ContentTalk2,ContentTalk3,ContentTalk4,ContentTalk5,ContentTalk6,ContentTalk7
+int32,int32,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentTalk,ContentTalk
 0,0,0,0,0,0,0,0,0,0
 1,1,1,2,0,0,0,0,0,0
 2,2,3,4,0,0,0,0,0,0

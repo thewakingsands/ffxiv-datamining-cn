@@ -1,4 +1,4 @@
-﻿#,Slot,AnimationStates,AttributeFlag0,ModelState,Idle,Attribute0,AttributeFlag1,Attribute1,AttributeFlag2,Attribute2,Unknown3,Scale,ModelScale,LoopTimeline,
+﻿#,Slot,AnimationStates0,AnimationStates1,ModelState,Idle,Attribute0,AttributeFlag0,Attribute1,AttributeFlag1,Attribute2,AttributeFlag2,Scale,ModelScale,LoopTimeline,Unknown3
 int32,byte,sbyte,sbyte,byte,uint16,byte,bool,byte,bool,byte,bool,single,ModelScale,int32,bit&01
 0,0,0,0,0,0,0,False,0,False,0,False,0,0,0,False
 1,0,1,0,0,0,0,False,0,False,0,False,0,0,0,False

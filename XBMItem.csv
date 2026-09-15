@@ -1,5 +1,5 @@
-﻿#,Type,Unknown11,Unknown12,Unknown0,Unknown5,Unknown1,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10,Unknown2,Unknown3,Unknown4
-int32,XBMItemType,uint32,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str
+﻿#,Type,Icon,SellPrice,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name,Description,ShortDescription
+int32,XBMItemType,Image,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,str
 0,0,0,0,"",0,"",0,0,1,0,0,"","",""
 1,1,243001,98,"体力腰带",0,"",0,0,1,0,0,"体力腰带","最大体力+20%","最大体力提高"
 2,1,243002,35,"替身戒指",0,"",0,0,1,0,0,"替身戒指","特殊效果：陷入无法战斗状态时，牺牲魔兽，玩家得以复活，魔兽尚未召唤时无法发动此效果","陷入无法战斗状态时牺牲魔兽得以复活"

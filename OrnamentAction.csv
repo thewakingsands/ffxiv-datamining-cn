@@ -1,5 +1,5 @@
-﻿#,Actions,,,,,
-int32,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,Actions0,Actions1,Actions2,Actions3,Actions4,Actions5
+int32,Action,Action,Action,Action,Action,Action
 0,0,0,0,0,0,0
 1,0,0,0,0,0,0
 2,30869,30868,0,0,0,0

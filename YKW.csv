@@ -1,5 +1,5 @@
-﻿#,Companion,Item,Location,,,,,,Transient
-int32,Companion,Item,uint16,uint16,uint16,uint16,uint16,uint16,str
+﻿#,Companion,Item,Location0,Location1,Location2,Location3,Location4,Location5,Transient
+int32,Companion,Item,TerritoryType,TerritoryType,TerritoryType,TerritoryType,TerritoryType,TerritoryType,str
 0,0,0,0,0,0,0,0,0,""
 1,200,15168,148,135,141,0,0,0,"　喵　"
 2,201,15169,152,138,145,0,0,0,"萌给"

@@ -1,5 +1,5 @@
-﻿#,NpcYell,Unknown0,Unknown1,,,,,,,
-int32,int32,int32,int32,int32,int32,int32,int32,int32,uint16,uint16
+﻿#,NpcYell0,NpcYell1,NpcYell2,NpcYell3,NpcYell4,NpcYell5,NpcYell6,NpcYell7,Unknown0,Unknown1
+int32,NpcYell,NpcYell,NpcYell,NpcYell,NpcYell,NpcYell,NpcYell,NpcYell,uint16,uint16
 0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0,0,0,0
 2,2383,2409,2424,0,2383,2409,2424,0,110,0

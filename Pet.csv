@@ -1,5 +1,5 @@
-﻿#,Name,Abilities,AutoAction,SmallScalePercentage,MediumScalePercentage,LargeScalePercentage,,,,AllowedPetMirage,Unknown18,Unknown14,,AutoDespawn,NonCombatSummon,ShowPetActionBar,,,,
-int32,str,uint16,Action,uint16,uint16,uint16,bit&01,bit&02,bit&04,byte,byte,byte,sbyte,byte,byte,byte,byte,byte,byte,byte
+﻿#,Name,Abilities0,Abilities1,Abilities2,Abilities3,AutoAction,AutoDespawn,NonCombatSummon,ShowPetActionBar,SmallScalePercentage,MediumScalePercentage,LargeScalePercentage,Unknown14,AllowedPetMirage0,AllowedPetMirage1,AllowedPetMirage2,AllowedPetMirage3,AllowedPetMirage4,AllowedPetMirage5,Unknown18
+int32,str,Action,Action,Action,Action,Action,bit&01,bit&02,bit&04,byte,byte,byte,sbyte,PetMirage,PetMirage,PetMirage,PetMirage,PetMirage,PetMirage,byte
 0,"",0,0,0,0,0,False,False,False,100,100,100,-1,0,0,0,0,0,0,0
 1,"绿宝石兽",0,0,0,0,0,False,True,True,100,100,100,-1,0,0,0,0,0,0,0
 2,"黄宝石兽",0,0,0,0,0,False,True,True,100,100,100,-1,0,0,0,0,0,0,0

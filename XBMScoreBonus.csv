@@ -1,4 +1,4 @@
-﻿#,Unknown2,Unknown0,Unknown1
+﻿#,AlwaysActive,Name,Description
 int32,bit&01,str,str
 0,True,"伴随牺牲的胜利I","通关时，有3只魔兽陷入了无法战斗状态。"
 1,True,"伴随牺牲的胜利II","通关时，有2只魔兽陷入了无法战斗状态。"

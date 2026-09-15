@@ -1,5 +1,5 @@
-﻿#,Icon,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,Icon0,Icon1,Icon2,Icon3,Icon4,Icon5,Icon6,Icon7,Icon8,Icon9,Icon10,Icon11,Icon12,Icon13,Icon14,Icon15,Icon16,Icon17,Icon18,Icon19,Icon20,Icon21,Icon22,Icon23,Icon24,Icon25,Icon26,Icon27,Icon28
+int32,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image,Image
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,60091,70993,70987,71342,71222,71215,71355,71235,71211,71213,71216,71351,71353,71356,71231,71233,71236,71352,71232,71255,70984,70996,70990,70982,70992,70986,70994,70988
 2,71214,71354,71234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

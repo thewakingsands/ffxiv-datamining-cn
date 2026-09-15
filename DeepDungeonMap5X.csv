@@ -1,5 +1,5 @@
-﻿#,DeepDungeonRoom,,,,
-int32,uint16,uint16,uint16,uint16,uint16
+﻿#,DeepDungeonRoom0,DeepDungeonRoom1,DeepDungeonRoom2,DeepDungeonRoom3,DeepDungeonRoom4
+int32,DeepDungeonRoom,DeepDungeonRoom,DeepDungeonRoom,DeepDungeonRoom,DeepDungeonRoom
 0.0,0,0,0,0,0
 1.0,0,4,9,14,0
 1.1,1,5,10,15,19

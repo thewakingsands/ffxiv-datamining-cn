@@ -1,5 +1,5 @@
-﻿#,,,,,,,,,,,,,,,,,,Message,ChoicesText,NextTalk,ActionTimeline,ChoicesTalk,Unknown23,Unknown24,Unknown25,Unknown26,Unknown27,
-int32,byte,byte,bit&01,uint16,byte,uint16,bit&02,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,str,str,GoldSaucerTalk,ActionTimeline,str,str,str,str,str,str,str
+﻿#,Unknown23,Unknown24,Unknown26,NextTalk,Unknown25,ActionTimeline,Unknown27,ChoicesTalk0,ChoicesTalk1,ChoicesTalk2,ChoicesTalk3,ChoicesTalk4,ChoicesTalk5,ChoicesTalk6,ChoicesTalk7,ChoicesTalk8,ChoicesTalk9,Message,ChoicesText0,ChoicesText1,ChoicesText2,ChoicesText3,ChoicesText4,ChoicesText5,ChoicesText6,ChoicesText7,ChoicesText8,ChoicesText9
+int32,byte,byte,bit&01,GoldSaucerTalk,byte,ActionTimeline,bit&02,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,GoldSaucerTalk,str,str,str,str,str,str,str,str,str,str,str
 0,0,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,"","","","","","","","","","",""
 1,0,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,"","","","","","","","","","",""
 2,0,0,False,0,0,0,False,0,0,0,0,0,0,0,0,0,0,"","","","","","","","","","",""

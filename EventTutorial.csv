@@ -1,5 +1,5 @@
-﻿#,Singular,Plural,UnlockLink,Pages,,,,,,,
-int32,str,str,uint32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,Singular,Plural,UnlockLink,Pages0,Pages1,Pages2,Pages3,Pages4,Pages5,Pages6,Pages7
+int32,str,str,uint32,EventTutorialPage,EventTutorialPage,EventTutorialPage,EventTutorialPage,EventTutorialPage,EventTutorialPage,EventTutorialPage,EventTutorialPage
 0,"","",0,0,0,0,0,0,0,0,0
 1,"","",0,0,0,0,0,0,0,0,0
 2,"","",0,0,0,0,0,0,0,0,0

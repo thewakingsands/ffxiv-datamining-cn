@@ -1,5 +1,5 @@
-﻿#,LeveRewardItemGroup,,ProbabilityPercent,,,,,,,,,,,,,
-int32,uint16,byte,uint16,byte,uint16,byte,uint16,byte,uint16,byte,uint16,byte,uint16,byte,uint16,byte
+﻿#,LeveRewardItemGroup0,ProbabilityPercent0,LeveRewardItemGroup1,ProbabilityPercent1,LeveRewardItemGroup2,ProbabilityPercent2,LeveRewardItemGroup3,ProbabilityPercent3,LeveRewardItemGroup4,ProbabilityPercent4,LeveRewardItemGroup5,ProbabilityPercent5,LeveRewardItemGroup6,ProbabilityPercent6,LeveRewardItemGroup7,ProbabilityPercent7
+int32,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte,LeveRewardItemGroup,byte
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,1,90,3,10,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,5 @@
-﻿#,Unknown0,Name,SGB,Unknown1,,Unknown2,Unknown3
-int32,uint32,EObjName,uint32,uint32,byte,int16,int16
+﻿#,Unknown0,Name,SGB0,SGB1,Unknown3,Unknown1,Unknown2
+int32,uint32,EObjName,ExportedSG,ExportedSG,byte,int16,int16
 0,9260149,2013010,35164,30266,2,-348,100
 1,9260150,2013011,35164,30266,3,-267,336
 2,9260151,2013012,35164,30266,4,-186,228

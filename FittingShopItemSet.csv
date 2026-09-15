@@ -1,5 +1,5 @@
-﻿#,Item,Name,,,,,
-int32,int32,int32,int32,int32,int32,int32,str
+﻿#,Item0,Item1,Item2,Item3,Item4,Item5,Name
+int32,Item,Item,Item,Item,Item,Item,str
 1000000,0,0,0,0,0,0,""
 1000001,14854,14855,14856,0,0,0,"东方公子套装"
 1000002,14857,14858,14859,0,0,0,"东方秀女套装"

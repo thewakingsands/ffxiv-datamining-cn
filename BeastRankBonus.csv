@@ -1,4 +1,4 @@
-﻿#,Neutral,Recognized,Friendly,Trusted,Respected,Honored,Sworn,AlliedBloodsworn,Item,ItemQuantity,,,,,,,
+﻿#,Neutral,Recognized,Friendly,Trusted,Respected,Honored,Sworn,AlliedBloodsworn,Item,ItemQuantity0,ItemQuantity1,ItemQuantity2,ItemQuantity3,ItemQuantity4,ItemQuantity5,ItemQuantity6,ItemQuantity7
 int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,Item,byte,byte,byte,byte,byte,byte,byte,byte
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,180,180,195,195,210,210,225,240,0,0,0,0,0,0,0,0,0

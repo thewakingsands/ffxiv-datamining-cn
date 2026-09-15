@@ -1,5 +1,5 @@
-﻿#,MaxTotalStats,MaxEachStat,BaseParam,Unknown0,,,Image,
-int32,uint16,uint16,byte,byte,byte,byte,Image,byte
+﻿#,MaxTotalStats,MaxEachStat,BaseParam0,BaseParam1,BaseParam2,BaseParam3,Image,Unknown0
+int32,uint16,uint16,BaseParam,BaseParam,BaseParam,BaseParam,Image,byte
 0,0,0,0,0,0,0,0,0
 32669,331,144,19,27,44,45,80812,0
 32670,462,202,22,27,44,45,80813,0

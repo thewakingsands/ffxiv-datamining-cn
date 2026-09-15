@@ -1,5 +1,5 @@
-﻿#,Item,,,,
-int32,uint32,uint32,uint32,uint32,uint32
+﻿#,Item0,Item1,Item2,Item3,Item4
+int32,Item,Item,Item,Item,Item
 1,0,0,0,0,0
 2642,45094,0,0,0,0
 2643,45095,0,0,0,0

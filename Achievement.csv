@@ -1,5 +1,5 @@
-﻿#,Unknown4,Name,Description,Type,Unknown5,AchievementHideCondition,Unknown2,Item,,,,Icon,,,Key,Data,Title,Order,AchievementCategory,AchievementTarget,Unknown0,Points,Unknown1,Unknown3,,
-int32,byte,str,str,byte,byte,AchievementHideCondition,uint16,Item,byte,byte,byte,Image,byte,byte,Type,int32,Title,int32,AchievementCategory,AchievementTarget,int32,int32,int32,uint16,byte,byte
+﻿#,AchievementCategory,Name,Description,AchievementTarget,Unknown0,Points,Title,Item,Unknown1,Unknown2,Unknown3,Icon,Unknown4,Type,Key,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Order,Unknown5,AchievementHideCondition
+int32,AchievementCategory,str,str,AchievementTarget,byte,byte,Title,Item,byte,byte,byte,Image,byte,byte,Type,Type,Type,Type,Type,Type,Type,Type,Type,uint16,byte,AchievementHideCondition
 0,0,"","",0,0,0,0,0,255,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 1,1,"胜利的荣光1","讨伐100个敌人。",0,0,5,0,0,255,255,0,2565,3,1,11,100,0,0,0,0,0,0,0,1,1,0
 2,1,"胜利的荣光2","讨伐500个敌人。",0,0,5,0,0,255,255,0,2565,3,1,11,500,0,0,0,0,0,0,0,2,1,0

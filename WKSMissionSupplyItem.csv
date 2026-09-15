@@ -1,5 +1,5 @@
-﻿#,Item,,ItemCount,,,
-int32,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,Item0,ItemCount0,Item1,ItemCount1,Item2,ItemCount2
+int32,WKSItemInfo,uint16,WKSItemInfo,uint16,WKSItemInfo,uint16
 0,0,0,0,0,0,0
 1,0,0,0,0,0,0
 2,0,0,0,0,0,0

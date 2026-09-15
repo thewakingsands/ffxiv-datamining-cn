@@ -1,5 +1,5 @@
-﻿#,Territory,AetherCurrents,,,,,,,,,,,,,,
-int32,TerritoryType,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,Territory,AetherCurrents0,AetherCurrents1,AetherCurrents2,AetherCurrents3,AetherCurrents4,AetherCurrents5,AetherCurrents6,AetherCurrents7,AetherCurrents8,AetherCurrents9,AetherCurrents10,AetherCurrents11,AetherCurrents12,AetherCurrents13,AetherCurrents14
+int32,TerritoryType,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,397,2818048,2818049,2818050,2818051,2818052,2818053,0,2818055,0,2818057,2818058,0,0,0,0
 2,398,2818063,2818064,2818065,2818066,2818067,2818068,0,2818070,0,0,0,2818074,0,0,2818077

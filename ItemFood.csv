@@ -1,5 +1,5 @@
-﻿#,IsRelative,,,,Max,,BaseParam,,,,MaxHQ,,Value,,,,EXPBonusPercent,,ValueHQ
-int32,byte,byte,bool,sbyte,int16,sbyte,int16,byte,bool,sbyte,int16,sbyte,int16,byte,bool,sbyte,int16,sbyte,int16
+﻿#,EXPBonusPercent,BaseParam0,IsRelative0,Value0,Max0,ValueHQ0,MaxHQ0,BaseParam1,IsRelative1,Value1,Max1,ValueHQ1,MaxHQ1,BaseParam2,IsRelative2,Value2,Max2,ValueHQ2,MaxHQ2
+int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sbyte,int16
 0,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
 1,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0
 2,3,0,False,0,0,0,0,0,False,0,0,0,0,0,False,0,0,0,0

@@ -1,5 +1,5 @@
-﻿#,Recipe,Unknown0,,,,
-int32,uint32,uint32,uint32,uint32,uint32,bit&01
+﻿#,Recipe0,Recipe1,Recipe2,Recipe3,Recipe4,Unknown0
+int32,Recipe,Recipe,Recipe,Recipe,Recipe,bit&01
 0,0,0,0,0,0,False
 1,0,0,0,0,0,False
 2,36165,0,0,0,0,False

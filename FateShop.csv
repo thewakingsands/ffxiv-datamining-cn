@@ -1,5 +1,5 @@
-﻿#,SpecialShop,DefaultTalk,,,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,SpecialShop0,SpecialShop1,SpecialShop2,DefaultTalk0,DefaultTalk1,DefaultTalk2,DefaultTalk3,DefaultTalk4,DefaultTalk5,DefaultTalk6,DefaultTalk7,DefaultTalk8
+int32,SpecialShop,SpecialShop,SpecialShop,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk,DefaultTalk
 0,0,0,0,0,0,0,0,0,0,0,0,0
 1037055,1770470,0,0,597600,597601,597602,597603,597610,597604,0,0,0
 1037304,1770471,0,0,597605,597606,597607,597608,597610,597609,0,0,0

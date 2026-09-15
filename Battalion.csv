@@ -1,4 +1,4 @@
-﻿#,IsEnemyTo,,,,,,,,,,,,,,
+﻿#,IsEnemyTo0,IsEnemyTo1,IsEnemyTo2,IsEnemyTo3,IsEnemyTo4,IsEnemyTo5,IsEnemyTo6,IsEnemyTo7,IsEnemyTo8,IsEnemyTo9,IsEnemyTo10,IsEnemyTo11,IsEnemyTo12,IsEnemyTo13,IsEnemyTo14
 int32,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool
 0,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True
 1,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True

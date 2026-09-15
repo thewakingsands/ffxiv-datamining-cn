@@ -1,5 +1,5 @@
-﻿#,NotoriousMonsters,,,,,,,,,
-int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,NotoriousMonsters0,NotoriousMonsters1,NotoriousMonsters2,NotoriousMonsters3,NotoriousMonsters4,NotoriousMonsters5,NotoriousMonsters6,NotoriousMonsters7,NotoriousMonsters8,NotoriousMonsters9
+int32,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster,NotoriousMonster
 0,0,0,0,0,0,0,0,0,0,0
 1,28,29,30,0,0,0,0,0,0,0
 2,31,32,33,0,0,0,0,0,0,0

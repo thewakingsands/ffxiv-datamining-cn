@@ -1,4 +1,4 @@
-﻿#,StartTime,,Duration,,,
+﻿#,StartTime0,Duration0,StartTime1,Duration1,StartTime2,Duration2
 int32,uint16,uint16,uint16,uint16,uint16,uint16
 0,65535,0,65535,0,65535,0
 1,900,300,65535,0,65535,0

@@ -1,5 +1,5 @@
-﻿#,Item,,Unknown_70_2,Unknown1,QuestRequired,AchievementRequired,StateRequired,IsHQ,Patch,Unknown_70_1
-int32,Item,bit&01,byte,byte,int32,Achievement,int32,byte,uint16,uint16
+﻿#,Item,IsHQ,Unknown_70_1,Unknown_70_2,QuestRequired0,QuestRequired1,AchievementRequired,Unknown1,StateRequired,Patch
+int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262144.0,4594,False,0,0,0,0,0,0,0,0
 262144.1,4595,False,0,0,0,0,0,0,0,0
 262144.2,4596,False,0,0,0,0,0,0,0,0

@@ -1,5 +1,5 @@
-﻿#,,CrystalSand,,Item,,,Order,,,ReceiveQuantity,,,Quantity,,,Category,,,IsHQ,,,,,,,,,
-int32,byte,Item,byte,uint32,bool,byte,uint32,bool,byte,uint32,bool,byte,uint32,bool,byte,AnimaWeapon5PatternGroup,bool,byte,uint32,bool,byte,uint32,bool,byte,uint32,bool,byte,byte
+﻿#,Order,CrystalSand,ReceiveQuantity,Item0,IsHQ0,Quantity0,Item1,IsHQ1,Quantity1,Item2,IsHQ2,Quantity2,Item3,IsHQ3,Quantity3,Item4,IsHQ4,Quantity4,Item5,IsHQ5,Quantity5,Item6,IsHQ6,Quantity6,Item7,IsHQ7,Quantity7,Category
+int32,byte,Item,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,Item,bool,byte,AnimaWeapon5PatternGroup
 0,0,0,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0
 1,1,15841,2,12839,False,5,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,1
 2,2,15841,2,12841,False,5,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,2

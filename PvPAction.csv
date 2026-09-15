@@ -1,4 +1,4 @@
-﻿#,Action,Unknown3,Unknown0,Unknown1,Unknown2,GrandCompany,,,Unknown4
+﻿#,Action,Unknown3,Unknown0,Unknown1,Unknown2,GrandCompany0,GrandCompany1,GrandCompany2,Unknown4
 int32,Action,byte,uint16,uint16,uint16,bool,bool,bool,byte
 0,0,0,0,0,0,False,False,False,0
 1,1558,0,0,0,0,True,True,True,0

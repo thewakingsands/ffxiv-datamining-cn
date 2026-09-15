@@ -1,5 +1,5 @@
-﻿#,Leve,CraftLeveTalk,,Item,,ItemCount,,Repeats,,,
-int32,Leve,CraftLeveTalk,byte,int32,uint16,int32,uint16,int32,uint16,int32,uint16
+﻿#,Leve,CraftLeveTalk,Repeats,Item0,ItemCount0,Item1,ItemCount1,Item2,ItemCount2,Item3,ItemCount3
+int32,Leve,CraftLeveTalk,byte,Item,uint16,Item,uint16,Item,uint16,Item,uint16
 917504,0,0,0,0,0,0,0,0,0,0,0
 917505,36,3,0,1823,1,0,0,0,0,0,0
 917506,37,3,0,2457,1,0,0,0,0,0,0

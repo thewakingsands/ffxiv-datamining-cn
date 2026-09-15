@@ -1,4 +1,4 @@
-﻿#,,Scale,CameraHeight,Unknown4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿#,Unknown4,Scale0,Scale1,Scale2,Scale3,Scale4,Scale5,Scale6,Scale7,Scale8,Scale9,Scale10,Scale11,Scale12,Scale13,Scale14,Scale15,Scale16,Scale17,Scale18,Scale19,Scale20,CameraHeight0,CameraHeight1,CameraHeight2,CameraHeight3,CameraHeight4,CameraHeight5,CameraHeight6,CameraHeight7,CameraHeight8,CameraHeight9,CameraHeight10,CameraHeight11,CameraHeight12,CameraHeight13,CameraHeight14,CameraHeight15,CameraHeight16,CameraHeight17,CameraHeight18,CameraHeight19,CameraHeight20
 int32,bit&01,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
 0,False,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
 1,False,100,90,100,90,105,100,60,60,90,85,110,110,108,82,102,100,100,107,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100

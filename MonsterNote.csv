@@ -1,5 +1,5 @@
-﻿#,MonsterNoteTarget,Count,,,,,,,Reward,Name
-int32,uint16,uint16,uint16,uint16,byte,byte,byte,byte,uint32,str
+﻿#,MonsterNoteTarget0,MonsterNoteTarget1,MonsterNoteTarget2,MonsterNoteTarget3,Count0,Count1,Count2,Count3,Reward,Name
+int32,MonsterNoteTarget,MonsterNoteTarget,MonsterNoteTarget,MonsterNoteTarget,byte,byte,byte,byte,uint32,str
 10001,1,0,0,0,3,0,0,0,75,"剑术师01"
 10002,206,0,0,0,3,0,0,0,180,"剑术师02"
 10003,208,0,0,0,3,0,0,0,360,"剑术师03"

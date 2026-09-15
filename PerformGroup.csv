@@ -1,4 +1,4 @@
-﻿#,Perform,,,,
-int32,byte,byte,byte,byte,byte
+﻿#,Perform0,Perform1,Perform2,Perform3,Perform4
+int32,Perform,Perform,Perform,Perform,Perform
 0,0,0,0,0,0
 1,24,25,26,27,28

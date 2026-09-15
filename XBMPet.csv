@@ -1,5 +1,5 @@
-﻿#,Pet,Unknown7,Unknown8,Unknown9,Unknown3,Action,LocationKey,Location,Unknown0,Unknown1,Unknown2,,,,,,,,,,,,Unknown11,,,,
-int32,Pet,byte,byte,byte,uint32,Action,byte,LocationKey,str,str,str,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,byte,byte,byte,byte,byte
+﻿#,Pet,Classification,ParamGrow,SatietyMax,Icon,Action,LocationKey,Location,Description,TrickDescription,TemperedDescription,InflictsStatus0,InflictsStatus1,InflictsStatus2,InflictsStatus3,InflictsStatus4,InflictsStatus5,InflictsStatus6,InflictsStatus7,InflictsStatus8,InflictsStatus9,InflictsStatus10,Unknown120,Unknown121,Unknown122,Unknown123,Unknown124
+int32,Pet,byte,byte,byte,Image,Action,byte,LocationKey,str,str,str,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,byte,byte,byte,byte,byte
 0,0,0,0,1,0,0,0,0,"","","",False,False,False,False,False,False,False,False,False,False,False,0,0,0,0,0
 1,47,1,42,3,242001,45187,0,0,"原产于伊尔萨巴德的肉食野兽。曾经主要栖息于兰蒂斯地区，但后来在加雷马帝国的统治下，其个体数量急剧减少，如今甚至很难目击到它的出现了。在当地，它们因同伴间的深厚情谊而为人所熟知。","斩击属性物理伤害","对敌人造成6次斩击属性物理攻击伤害",False,False,False,False,False,False,False,False,False,False,False,100,91,100,79,100
 2,48,1,35,3,242002,48643,1,54,"分布在世界各地的小动物，门牙特别发达。虽然是一种会糟蹋果园和谷仓的害兽，但一部分不从事农业生产的人却认为它们是大地神诺菲卡的仆从，所以并没有到人人喊打的程度，还经常成为绘画和木雕的主题。","火属性魔法伤害","对己方施加加速",False,False,False,False,False,False,False,False,False,False,False,91,100,91,91,91

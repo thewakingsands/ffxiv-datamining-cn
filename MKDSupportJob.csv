@@ -1,5 +1,5 @@
-﻿#,Name,NameShort,NameFemale,Description,NameEnglish,,,,Action,,LevelMax,,JobIndex,,LevelUnlock,,
-int32,str,str,str,str,str,byte,byte,byte,uint32,byte,uint32,byte,uint32,byte,uint32,byte,uint32
+﻿#,Name,NameShort,NameFemale,Description,NameEnglish,LevelMax,JobIndex,LevelUnlock0,Action0,LevelUnlock1,Action1,LevelUnlock2,Action2,LevelUnlock3,Action3,LevelUnlock4,Action4
+int32,str,str,str,str,str,byte,byte,byte,Action,byte,Action,byte,Action,byte,Action,byte,Action
 0,"辅助自由人","辅助自由人","","源自某位冒险者的起点与终点的记忆。
 能够习得利于探索的辅助技能。","Phantom Freelancer",24,24,5,41650,10,41651,15,46606,20,49102,0,0
 1,"辅助骑士","辅助骑士","","源自某位骑士的忠心与名誉的记忆。

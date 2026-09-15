@@ -1,4 +1,4 @@
-﻿#,NQOvermeldPercentSlot,HQOvermeldPercentSlot,,,,,,
+﻿#,NQOvermeldPercentSlot0,NQOvermeldPercentSlot1,NQOvermeldPercentSlot2,NQOvermeldPercentSlot3,HQOvermeldPercentSlot0,HQOvermeldPercentSlot1,HQOvermeldPercentSlot2,HQOvermeldPercentSlot3
 int32,single,single,single,single,single,single,single,single
 0,80,40,20,10,90,48,28,16
 1,72,36,18,10,82,44,26,16

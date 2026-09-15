@@ -1,4 +1,4 @@
-﻿#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4
+﻿#,Strength,Intelligence,PhysicalResistance,MagicalResistance,Constitution
 int32,uint16,uint16,uint16,uint16,uint16
 0.0,0,0,0,0,0
 1.0,0,0,0,0,0

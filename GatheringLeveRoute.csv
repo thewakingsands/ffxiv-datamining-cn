@@ -1,5 +1,5 @@
-﻿#,GatheringPoint,,PopRange,,,,,,,,,,,,,,,,,,,,,
-int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,GatheringPoint0,PopRange0,GatheringPoint1,PopRange1,GatheringPoint2,PopRange2,GatheringPoint3,PopRange3,GatheringPoint4,PopRange4,GatheringPoint5,PopRange5,GatheringPoint6,PopRange6,GatheringPoint7,PopRange7,GatheringPoint8,PopRange8,GatheringPoint9,PopRange9,GatheringPoint10,PopRange10,GatheringPoint11,PopRange11
+int32,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level,GatheringPoint,Level
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

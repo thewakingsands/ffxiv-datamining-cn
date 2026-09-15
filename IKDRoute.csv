@@ -1,5 +1,5 @@
-﻿#,Spot,,Image,,AltImage,,Unknown1,Instance,PrerequisiteQuest,Time,,Name
-int32,uint32,byte,Image,byte,Image,byte,uint32,ContentFinderCondition,Quest,uint32,uint32,str
+﻿#,Spot0,Time0,Spot1,Time1,Spot2,Time2,Image,AltImage,Unknown1,Instance,PrerequisiteQuest,Name
+int32,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,Image,Image,uint32,ContentFinderCondition,Quest,str
 0,0,0,0,0,0,0,0,0,0,0,0,""
 1,2,1,1,2,3,3,63172,0,0,721,0,"梅尔托尔海峡北航线"
 2,2,2,1,3,3,1,63172,0,0,730,0,"梅尔托尔海峡北航线"

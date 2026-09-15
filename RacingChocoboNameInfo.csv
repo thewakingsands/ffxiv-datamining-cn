@@ -1,5 +1,5 @@
-﻿#,Unknown1,Unknown2,Unknown3,,,Name,Unknown4,RacingChocoboNameCategory,Unknown0
-int32,byte,bool,bool,bool,bool,uint16,uint16,RacingChocoboNameCategory,uint16
+﻿#,RacingChocoboNameCategory,Unknown0,Unknown1,Unknown2,Unknown3,Name0,Name1,Name2,Unknown4
+int32,RacingChocoboNameCategory,bool,bool,bool,bool,RacingChocoboName,RacingChocoboName,RacingChocoboName,uint16
 0,0,False,False,False,False,0,0,0,0
 1,0,False,False,False,False,0,0,0,0
 2,0,False,False,False,False,0,0,0,0

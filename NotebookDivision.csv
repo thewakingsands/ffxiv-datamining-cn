@@ -1,5 +1,5 @@
-﻿#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,MinimumQuestSequence,Unknown0,,SecretRecipeBookGroups,AllowedCraftTypes,RequiresSecretRecipeBookGroupUnlock,,,,,,,
-int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,byte,bit&01,byte,byte,bool,bool,bool,bool,bool,bool,bool,bool
+﻿#,Name,NotebookDivisionCategory,CraftOpeningLevel,GatheringOpeningLevel,QuestUnlock,MinimumQuestSequence,Unknown0,RequiresSecretRecipeBookGroupUnlock,SecretRecipeBookGroups0,SecretRecipeBookGroups1,AllowedCraftTypes0,AllowedCraftTypes1,AllowedCraftTypes2,AllowedCraftTypes3,AllowedCraftTypes4,AllowedCraftTypes5,AllowedCraftTypes6,AllowedCraftTypes7
+int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,byte,bit&01,SecretRecipeBookGroup,SecretRecipeBookGroup,bool,bool,bool,bool,bool,bool,bool,bool
 0,"1-5",0,0,0,0,0,0,False,0,0,True,True,True,True,True,True,True,True
 1,"6-10",0,3,5,0,0,0,False,0,0,True,True,True,True,True,True,True,True
 2,"11-15",0,8,10,0,0,0,False,0,0,True,True,True,True,True,True,True,True

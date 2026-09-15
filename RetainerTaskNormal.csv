@@ -1,4 +1,4 @@
-﻿#,Item,Quantity,,,,,GatheringLog,FishingLog
+﻿#,Item,Quantity0,Quantity1,Quantity2,Quantity3,Quantity4,GatheringLog,FishingLog
 int32,Item,byte,byte,byte,byte,byte,GatheringItem,Row
 0,0,0,0,0,0,0,0,0
 1,5291,5,7,10,12,15,0,0

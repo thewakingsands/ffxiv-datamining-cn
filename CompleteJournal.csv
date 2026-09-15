@@ -1,5 +1,5 @@
-﻿#,Unknown0,,,Icon,Unknown1,Name,Cutscene,RequiredLevel,Unknown2,,,,,,,,,,,,,,,,,,,,,
-int32,uint32,uint16,byte,Image,uint32,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,Unknown0,RequiredLevel,Unknown2,Icon,Unknown1,Name,Cutscene0,Cutscene1,Cutscene2,Cutscene3,Cutscene4,Cutscene5,Cutscene6,Cutscene7,Cutscene8,Cutscene9,Cutscene10,Cutscene11,Cutscene12,Cutscene13,Cutscene14,Cutscene15,Cutscene16,Cutscene17,Cutscene18,Cutscene19,Cutscene20,Cutscene21,Cutscene22,Cutscene23
+int32,uint32,uint16,byte,Image,uint32,str,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene,Cutscene
 0,0,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,0,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

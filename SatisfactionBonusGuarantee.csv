@@ -1,4 +1,4 @@
-﻿#,BonusDoH,BonusDoL,BonusFisher,,,
+﻿#,BonusDoH0,BonusDoH1,BonusDoL0,BonusDoL1,BonusFisher0,BonusFisher1
 int32,byte,byte,byte,byte,byte,byte
 0,2,4,8,6,3,5
 1,1,5,10,2,12,11

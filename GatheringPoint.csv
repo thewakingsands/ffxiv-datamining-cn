@@ -1,5 +1,5 @@
-﻿#,Unknown0,Count,,GatheringPointBase,Unknown1,GatheringPointBonus,TerritoryType,PlaceName,GatheringSubCategory,Type
-int32,byte,byte,bit&01,GatheringPointBase,byte,uint16,TerritoryType,PlaceName,GatheringSubCategory,uint16
+﻿#,Type,Unknown0,Unknown1,GatheringPointBase,Count,GatheringPointBonus0,GatheringPointBonus1,TerritoryType,PlaceName,GatheringSubCategory
+int32,byte,byte,bit&01,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,TerritoryType,PlaceName,GatheringSubCategory
 30000,1,0,False,0,0,0,0,1,0,0
 30001,1,0,False,153,4,0,0,1,0,0
 30002,1,0,False,154,4,0,0,1,0,0

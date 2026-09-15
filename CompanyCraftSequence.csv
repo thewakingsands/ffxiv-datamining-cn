@@ -1,5 +1,5 @@
-﻿#,ResultItem,Category,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart,,,,,,,,Order
-int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint32
+﻿#,ResultItem,Category,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart0,CompanyCraftPart1,CompanyCraftPart2,CompanyCraftPart3,CompanyCraftPart4,CompanyCraftPart5,CompanyCraftPart6,CompanyCraftPart7,Order
+int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,uint32
 0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
 1,9462,1,0,1,-1,1,0,0,0,0,0,0,0,1
 2,9463,1,0,1,14,2,0,0,0,0,0,0,0,2

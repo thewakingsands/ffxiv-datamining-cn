@@ -1,5 +1,5 @@
-﻿#,UnlockType2,UnlockCriteria1,UnlockCriteria2,PrerequisiteType,UnlockCriteria3,UnlockCriteria4,Unknown1,Prerequisite,UnlockHint,UnlockType1,Unknown0,
-int32,byte,uint32,UnlockType2,byte,UnlockType2,UnlockType2,uint32,PrerequisiteType,BannerObtainHintType,uint32,byte,bit&01
+﻿#,UnlockType1,UnlockCriteria10,UnlockCriteria11,UnlockType2,UnlockCriteria2,UnlockCriteria3,UnlockCriteria4,Unknown1,PrerequisiteType,Prerequisite,UnlockHint,Unknown0
+int32,byte,UnlockType1,UnlockType1,byte,UnlockType2,UnlockType2,UnlockType2,uint32,byte,PrerequisiteType,BannerObtainHintType,bit&01
 0,0,0,0,0,0,0,0,0,0,0,0,False
 1,10,0,0,1,0,0,0,0,0,0,0,False
 2,5,81,0,16,1011039,5581045,22497,0,1,65970,51,False

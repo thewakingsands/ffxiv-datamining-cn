@@ -1,5 +1,5 @@
-﻿#,LGBSharedGroup,,RequirementRow,Unknown10,,,Unknown0,Unknown11,,,RequirementQuestSequence,Unknown12,,,Unknown1,Unknown13,,,RequirementType,Unknown14,,,Unknown8,Unknown15,,,Unknown9,,
-int32,uint32,byte,uint32,uint32,bool,byte,uint32,uint32,bool,byte,uint32,uint32,bool,byte,uint32,uint32,bool,byte,uint32,uint32,bool,byte,uint32,uint32,bool,byte,uint32,uint32,bool
+﻿#,LGBSharedGroup,RequirementType0,RequirementRow0,RequirementQuestSequence0,Unknown9,RequirementType1,RequirementRow1,RequirementQuestSequence1,Unknown10,RequirementType2,RequirementRow2,RequirementQuestSequence2,Unknown11,RequirementType3,RequirementRow3,RequirementQuestSequence3,Unknown12,RequirementType4,RequirementRow4,RequirementQuestSequence4,Unknown13,RequirementType5,RequirementRow5,RequirementQuestSequence5,Unknown14,Unknown8,Unknown0,Unknown1,Unknown15
+int32,uint32,byte,Row,uint32,bool,byte,Row,uint32,bool,byte,Row,uint32,bool,byte,Row,uint32,bool,byte,Row,uint32,bool,byte,Row,uint32,bool,byte,uint32,uint32,bool
 0.0,0,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 1.0,5421598,2,67201,3,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False
 1.1,5421599,2,67201,3,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False,0,0,0,False

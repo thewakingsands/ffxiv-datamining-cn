@@ -1,5 +1,5 @@
-﻿#,SeedIcon,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,SeedIcon0,SeedIcon1,SeedIcon2,SeedIcon3,SeedIcon4,SeedIcon5,SeedIcon6,SeedIcon7,SeedIcon8
+int32,Image,Image,Image,Image,Image,Image,Image,Image,Image
 0,0,0,0,0,0,0,0,0,0
 1,66751,66752,66753,66754,66755,66756,66757,66758,66759
 2,66760,66761,66762,66763,66764,66765,66766,66767,66768

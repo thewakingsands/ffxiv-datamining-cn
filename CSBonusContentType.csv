@@ -1,5 +1,5 @@
-﻿#,,Dialogue,Image,Level,UnlockQuest,UnlockLink,ContentFinderCondition,,ContentType,Unknown6,
-int32,byte,uint32,Image,Level,Quest,uint32,ContentFinderCondition,bit&01,ContentType,uint32,uint32
+﻿#,ContentType,Dialogue0,Dialogue1,Dialogue2,Dialogue3,Image,Level,Unknown6,UnlockQuest,UnlockLink,ContentFinderCondition
+int32,ContentType,Addon,Addon,Addon,Addon,Image,Level,bit&01,Quest,uint32,ContentFinderCondition
 0,0,0,0,0,0,0,0,False,0,0,0
 1,2,15938,15916,15922,0,0,0,False,0,0,0
 2,4,15938,15916,15922,0,0,0,False,0,0,0

@@ -1,5 +1,5 @@
-﻿#,GatheringType,,Item,GatheringLevel,,,,,,
-int32,GatheringType,byte,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,GatheringType,GatheringLevel,Item0,Item1,Item2,Item3,Item4,Item5,Item6,Item7
+int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row
 0,0,0,0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0,0,0,0

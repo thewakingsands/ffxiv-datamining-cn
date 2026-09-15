@@ -1,5 +1,5 @@
-﻿#,TemporaryAction,MissionType,,BronzeScore,RequiredItem,Unknown10,RequiredItemQuantity,Unknown11,RequiredFishVariety,Unknown12,,MapMarker,,Unknown1,,Unknown18,Unknown19,WKSMissionText,TemporaryActionCount,Unknown15,Unknown16,RequiredFishQuantity
-int32,Row,byte,byte,uint32,uint16,uint16,uint16,uint16,uint16,uint16,byte,WKSMissionMapMarker,byte,uint32,byte,uint16,uint16,WKSMissionText,uint16,uint16,uint16,uint16
+﻿#,TemporaryAction,TemporaryActionCount,Unknown15,BronzeScore,RequiredItem0,RequiredItemQuantity0,RequiredItem1,RequiredItemQuantity1,RequiredItem2,RequiredItemQuantity2,Unknown16,RequiredFishVariety,RequiredFishQuantity,Unknown1,MissionType,Unknown10,Unknown11,Unknown12,MapMarker,Unknown18,Unknown19,WKSMissionText
+int32,Row,byte,byte,uint32,WKSItemInfo,uint16,WKSItemInfo,uint16,WKSItemInfo,uint16,byte,uint16,byte,uint32,byte,uint16,uint16,uint16,WKSMissionMapMarker,uint16,uint16,WKSMissionText
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,100,0,0
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

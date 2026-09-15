@@ -1,5 +1,5 @@
-﻿#,Name,,Action,Unknown3,Unknown4,,,,,
-int32,str,sbyte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,bit&01
+﻿#,Name,Unknown3,Action0,Action1,Action2,Action3,Action4,Action5,Action6,Unknown4
+int32,str,sbyte,Action,Action,Action,Action,Action,Action,Action,bit&01
 0,"",0,0,0,0,0,0,0,0,True
 1,"战女神之怒连击",0,17355,0,0,0,0,0,0,False
 2,"王权剑连击",0,17355,0,0,0,0,0,0,False

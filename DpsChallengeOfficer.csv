@@ -1,5 +1,5 @@
-﻿#,,ChallengeName,UnlockQuest,,,,,,,,,,,,,,,,,,,,,,,,
-int32,uint32,uint16,Quest,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,UnlockQuest,ChallengeName0,ChallengeName1,ChallengeName2,ChallengeName3,ChallengeName4,ChallengeName5,ChallengeName6,ChallengeName7,ChallengeName8,ChallengeName9,ChallengeName10,ChallengeName11,ChallengeName12,ChallengeName13,ChallengeName14,ChallengeName15,ChallengeName16,ChallengeName17,ChallengeName18,ChallengeName19,ChallengeName20,ChallengeName21,ChallengeName22,ChallengeName23,ChallengeName24,ChallengeName25
+int32,Quest,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge,DpsChallenge
 3080192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3080193,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3080194,67654,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,77,0,0,0

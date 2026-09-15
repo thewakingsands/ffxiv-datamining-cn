@@ -1,5 +1,5 @@
-﻿#,,Category,,Name,Objects,Unknown10,Unknown11,Unknown12,Unknown13,,,,,
-int32,bit&01,TofuPresetCategory,uint16,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,Unknown13,Category,Unknown12,Name,Objects0,Objects1,Objects2,Objects3,Objects4,Objects5,Objects6,Objects7,Unknown10,Unknown11
+int32,bit&01,TofuPresetCategory,uint16,str,TofuPresetObject,TofuPresetObject,TofuPresetObject,TofuPresetObject,TofuPresetObject,TofuPresetObject,TofuPresetObject,TofuPresetObject,int32,int32
 0,False,0,0,"",0,0,0,0,0,0,0,0,0,0
 1,True,1,0,"圆形格子底",21,0,0,0,0,0,0,0,0,0
 2,True,1,0,"正方形格子底",25,0,0,0,0,0,0,0,0,0

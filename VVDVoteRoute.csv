@@ -1,5 +1,5 @@
-﻿#,Title,Options,,,
-int32,VVDVoteRouteLabel,int32,int32,int32,int32
+﻿#,Title,Options0,Options1,Options2,Options3
+int32,VVDVoteRouteLabel,VVDVoteRouteLabel,VVDVoteRouteLabel,VVDVoteRouteLabel,VVDVoteRouteLabel
 0,0,0,0,0,0
 1,1,2,3,5,4
 2,9,2,6,8,7

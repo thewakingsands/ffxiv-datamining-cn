@@ -1,5 +1,5 @@
-﻿#,Data,,,,,,,,,,,,,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Data8,Data9,Data10,Data11,Data12,Data13,Data14,Data15
+int32,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row
 851968,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 851969,65538,0,66249,0,0,0,66997,0,0,0,0,0,0,0,0,0
 851970,65573,66726,0,0,0,0,0,65663,0,65747,65754,65755,65559,65557,65558,0

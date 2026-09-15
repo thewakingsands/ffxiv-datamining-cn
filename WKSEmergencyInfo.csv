@@ -1,5 +1,5 @@
-﻿#,WKSEmergencyWarningText,,EmergencyProblem,WKSEmergencyMissionRowId,Name
-int32,WKSEmergencyInfoText,byte,uint16,uint16,WKSEmergencyInfoText
+﻿#,Name,WKSEmergencyWarningText,EmergencyProblem0,EmergencyProblem1,WKSEmergencyMissionRowId
+int32,WKSEmergencyInfoText,WKSEmergencyInfoText,WKSEmergencyProblem,WKSEmergencyProblem,uint16
 0.0,0,0,0,0,0
 1.0,9,3,1,2,1
 1.1,9,3,3,4,2

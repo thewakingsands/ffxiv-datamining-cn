@@ -1,5 +1,5 @@
-﻿#,Unknown12,Unknown13,UnlockLink,SGB,Material,Unknown1,Amount,Unknown2,,Unknown3,,Unknown4,,Unknown5,,,,,,,Unknown6,Unknown7,Unknown8,Unknown9,Unknown10,,,,,,Name,Unknown11,Icon
-int32,byte,byte,uint16,uint16,uint16,uint16,byte,uint16,byte,uint16,byte,uint16,byte,uint16,byte,byte,byte,byte,byte,byte,uint16,uint16,uint16,uint16,uint16,byte,byte,byte,byte,byte,MJIText,uint16,Image
+﻿#,Unknown2,Unknown3,UnlockLink,SGB0,SGB1,SGB2,Unknown4,SGB3,Unknown5,SGB4,Unknown6,SGB5,Unknown7,SGB6,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown13,Material0,Material1,Material2,Material3,Material4,Amount0,Amount1,Amount2,Amount3,Amount4,Name,Unknown1,Icon
+int32,byte,byte,uint16,ExportedSG,ExportedSG,ExportedSG,byte,ExportedSG,byte,ExportedSG,byte,ExportedSG,byte,ExportedSG,byte,byte,byte,byte,byte,byte,MJIItemPouch,MJIItemPouch,MJIItemPouch,MJIItemPouch,MJIItemPouch,byte,byte,byte,byte,byte,MJIText,uint16,Image
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,255,255,255,255,0,0,0,0,0,0,0,0
 1,2,0,0,30118,35164,35165,31,30266,27,30267,28,30268,29,30118,30,12,10,4,0,12,9,14,10,11,13,15,15,10,5,5,20,57,53914
 2,2,0,0,30121,35164,35165,36,30272,32,30281,33,30282,34,30121,35,12,10,4,0,12,10,9,14,7,11,15,15,10,5,5,21,58,53911

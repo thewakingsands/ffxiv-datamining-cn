@@ -1,5 +1,5 @@
-﻿#,SupplyItem,,,SetQuantity,,,SetsRequired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,SupplyItem0,SetQuantity0,SetsRequired0,SupplyItem1,SetQuantity1,SetsRequired1,SupplyItem2,SetQuantity2,SetsRequired2,SupplyItem3,SetQuantity3,SetsRequired3,SupplyItem4,SetQuantity4,SetsRequired4,SupplyItem5,SetQuantity5,SetsRequired5,SupplyItem6,SetQuantity6,SetsRequired6,SupplyItem7,SetQuantity7,SetsRequired7,SupplyItem8,SetQuantity8,SetsRequired8,SupplyItem9,SetQuantity9,SetsRequired9,SupplyItem10,SetQuantity10,SetsRequired10,SupplyItem11,SetQuantity11,SetsRequired11
+int32,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,112,3,3,113,3,3,229,3,3,340,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,9,3,3,216,3,3,340,3,3,630,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

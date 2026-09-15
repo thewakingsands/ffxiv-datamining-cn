@@ -1,5 +1,5 @@
-﻿#,BNpcName,Icon,,PlaceNameZone,,PlaceNameLocation,,Town,
-int32,BNpcName,Image,byte,uint16,uint16,uint16,uint16,Town,uint16
+﻿#,BNpcName,Icon,Town,PlaceNameZone0,PlaceNameLocation0,PlaceNameZone1,PlaceNameLocation1,PlaceNameZone2,PlaceNameLocation2
+int32,BNpcName,Image,Town,PlaceName,PlaceName,PlaceName,PlaceName,PlaceName,PlaceName
 0,0,0,0,0,0,0,0,0,0
 1,49,63036,1,30,161,54,68,42,261
 2,417,63028,1,30,161,0,0,0,0

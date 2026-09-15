@@ -1,4 +1,4 @@
-﻿#,,Index,,MaxValue,,DataType,,,,,,,,,
+﻿#,DataType,Index0,MaxValue0,Index1,MaxValue1,Index2,MaxValue2,Index3,MaxValue3,Index4,MaxValue4,Index5,MaxValue5,Index6,MaxValue6
 int32,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0,65535,0
 65565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

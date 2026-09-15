@@ -1,5 +1,5 @@
-﻿#,Name,Material,,Quantity,,,,,,,,,,,,,
-int32,str,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
+﻿#,Name,Material0,Quantity0,Material1,Quantity1,Material2,Quantity2,Material3,Quantity3,Material4,Quantity4,Material5,Quantity5,Material6,Quantity6,Material7,Quantity7
+int32,str,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte,ValentionSweetsMaterial,byte
 0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,"爱心莓果蛋糕",4,4,10,4,16,4,22,4,0,0,0,0,0,0,0,0
 2,"爱心莓果蛋糕",4,4,7,2,8,2,13,2,14,2,22,4,0,0,0,0

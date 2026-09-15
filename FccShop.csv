@@ -1,5 +1,5 @@
-﻿#,Name,ItemData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,str,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
+﻿#,Name,ItemData0Item,ItemData1Item,ItemData2Item,ItemData3Item,ItemData4Item,ItemData5Item,ItemData6Item,ItemData7Item,ItemData8Item,ItemData9Item,ItemData0Cost,ItemData1Cost,ItemData2Cost,ItemData3Cost,ItemData4Cost,ItemData5Cost,ItemData6Cost,ItemData7Cost,ItemData8Cost,ItemData9Cost,ItemData0FCRankRequired,ItemData1FCRankRequired,ItemData2FCRankRequired,ItemData3FCRankRequired,ItemData4FCRankRequired,ItemData5FCRankRequired,ItemData6FCRankRequired,ItemData7FCRankRequired,ItemData8FCRankRequired,ItemData9FCRankRequired
+int32,str,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,FCRank,FCRank,FCRank,FCRank,FCRank,FCRank,FCRank,FCRank,FCRank,FCRank
 2752512,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2752513,"部队战绩交易",10155,15855,15856,7968,8730,8731,17018,12237,22317,0,100,300,300,12500,12500,12500,12500,10000,10000,0,6,6,6,6,6,6,6,6,6,0
 2752514,"",8168,12671,14063,15158,7087,7094,7093,8727,8728,17031,1500,1800,1800,2000,2300,2300,3300,75000,100000,2000,6,6,6,6,6,6,6,6,6,6

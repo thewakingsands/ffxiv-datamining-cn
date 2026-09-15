@@ -1,5 +1,5 @@
-﻿#,Name,,,,Shop,Unknown0,Unknown1,Unknown2,,,,,,
-int32,str,bit&01,byte,uint16,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,Name,Unknown2,Unknown1,Unknown0,Shop0,Shop1,Shop2,Shop3,Shop4,Shop5,Shop6,Shop7,Shop8,Shop9
+int32,str,bit&01,byte,uint16,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row
 3276800,"",False,0,0,0,0,0,0,0,0,0,0,0,0
 3276801,"",False,0,0,0,0,0,0,0,0,0,0,0,0
 3276802,"戈耳狄相关道具交易（190品级）",False,0,0,1769579,1769605,1769580,0,0,0,0,0,0,0

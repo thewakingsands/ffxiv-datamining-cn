@@ -1,5 +1,5 @@
-﻿#,Level,,,,
-int32,uint32,uint32,uint32,uint32,uint32
+﻿#,Level0,Level1,Level2,Level3,Level4
+int32,Level,Level,Level,Level,Level
 0,0,0,0,0,0
 1,6264186,0,0,0,1
 2,6264249,0,0,0,1

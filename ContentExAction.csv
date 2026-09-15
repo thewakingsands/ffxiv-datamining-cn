@@ -1,5 +1,5 @@
-﻿#,Name,Charges,,
-int32,uint32,uint32,byte,byte
+﻿#,Name0,Name1,Charges0,Charges1
+int32,Action,Action,byte,byte
 0,0,0,0,0
 1,7816,0,9,0
 2,8517,0,3,0

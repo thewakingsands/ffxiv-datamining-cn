@@ -1,5 +1,5 @@
-﻿#,Weather,,Rate,,,,,,,,,,,,,
-int32,int32,byte,int32,byte,int32,byte,int32,byte,int32,byte,int32,byte,int32,byte,int32,byte
+﻿#,Weather0,Rate0,Weather1,Rate1,Weather2,Rate2,Weather3,Rate3,Weather4,Rate4,Weather5,Rate5,Weather6,Rate6,Weather7,Rate7
+int32,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte
 0,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,7,5,7,15,4,10,3,10,2,15,1,30,2,15,0,0
 2,7,5,7,15,4,10,3,10,2,15,1,30,2,15,0,0

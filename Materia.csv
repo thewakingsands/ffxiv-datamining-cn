@@ -1,5 +1,5 @@
-﻿#,Item,Value,BaseParam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,int32,int32,BaseParam,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,byte,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16
+﻿#,Item0,Item1,Item2,Item3,Item4,Item5,Item6,Item7,Item8,Item9,Item10,Item11,Item12,Item13,Item14,Item15,BaseParam,Value0,Value1,Value2,Value3,Value4,Value5,Value6,Value7,Value8,Value9,Value10,Value11,Value12,Value13,Value14,Value15
+int32,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,BaseParam,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,5724,5725,5726,5727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,5604,5605,5606,5607,5608,18006,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,5 @@
-﻿#,,,,WarpParams,ResponseYes,WarpName,CanSkipCutscene,,,,,,,Question,ResponseNo,Icon,,,,,,,,,,
-int32,uint32,str,bit&01,str,str,str,str,str,str,str,str,str,str,uint32,uint32,Image,uint32,uint32,uint32,uint32,uint32,uint32,uint32,str,str,str
+﻿#,Icon,WarpName,CanSkipCutscene,WarpParams0Function,WarpParams1Function,WarpParams2Function,WarpParams3Function,WarpParams4Function,WarpParams5Function,WarpParams6Function,WarpParams7Function,WarpParams8Function,WarpParams9Function,WarpParams0Argument,WarpParams1Argument,WarpParams2Argument,WarpParams3Argument,WarpParams4Argument,WarpParams5Argument,WarpParams6Argument,WarpParams7Argument,WarpParams8Argument,WarpParams9Argument,Question,ResponseYes,ResponseNo
+int32,Image,str,bit&01,str,str,str,str,str,str,str,str,str,str,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row,str,str,str
 0,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","",""
 1,0,"",False,"","","","","","","","","","",0,0,0,0,0,0,0,0,0,0,"","是","否"
 2,0,"WarpRentalChocobo",True,"HOWTO_ABOUT_RENTAL_CHOCOBO","","","","","","","","","",81,0,0,0,0,0,0,0,0,0,"租借陆行鸟","",""

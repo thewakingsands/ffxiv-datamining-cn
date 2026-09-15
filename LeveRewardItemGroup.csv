@@ -1,5 +1,5 @@
-﻿#,Item,,,Count,,,IsHQ,,,,,,,,,,,,,,,,,,,,
-int32,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool,int32,byte,bool
+﻿#,Item0,Count0,IsHQ0,Item1,Count1,IsHQ1,Item2,Count2,IsHQ2,Item3,Count3,IsHQ3,Item4,Count4,IsHQ4,Item5,Count5,IsHQ5,Item6,Count6,IsHQ6,Item7,Count7,IsHQ7,Item8,Count8,IsHQ8
+int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 0,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False
 1,4,3,False,3,3,False,5380,2,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False
 2,4,7,False,3,7,False,5380,5,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False,0,0,False

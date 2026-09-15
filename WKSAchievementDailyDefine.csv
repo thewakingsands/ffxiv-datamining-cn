@@ -1,5 +1,5 @@
-﻿#,,RequiredQuest,,,RewardItem,,,RewardQuantity,,,SuccessPointsRequired,,
-int32,uint16,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32
+﻿#,SuccessPointsRequired,RequiredQuest0,RewardItem0,RewardQuantity0,RequiredQuest1,RewardItem1,RewardQuantity1,RequiredQuest2,RewardItem2,RewardQuantity2,RequiredQuest3,RewardItem3,RewardQuantity3
+int32,uint16,Quest,Item,uint32,Quest,Item,uint32,Quest,Item,uint32,Quest,Item,uint32
 0,0,65536,0,0,65536,0,0,65536,0,0,65536,0,0
 1,50,70789,45690,150,70945,45690,150,70984,45690,150,71019,45690,150
 2,100,70789,45690,450,70945,45690,450,70984,45690,450,71019,45690,450

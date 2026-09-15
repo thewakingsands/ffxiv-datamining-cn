@@ -1,5 +1,5 @@
-﻿#,Name,WKSMissionText,ClassJobCategory,Unknown1,WKSMissionLotterySpecialCond,,,MissionTime,IsSynced,MissionReward,MissionToDo,SilverStarRequirement,GoldStarRequirement,LockedBehind,WKSMissionSupplyItem,WKSMissionRecipe,IsSpecialQuest,Unknown2,PlaceName,SortKey,,WKSFunction,LevelGroup,MissionLotteryCond
-int32,str,WKSMissionText,uint16,uint16,WKSMissionLotterySpecialCond,bit&01,bit&02,uint16,byte,WKSMissionReward,uint16,uint32,uint32,WKSMissionUnit,WKSMissionSupplyItem,WKSMissionRecipe,byte,byte,PlaceName,uint16,byte,WKSFunction,uint16,WKSMissionLotteryCond
+﻿#,Name,WKSMissionText,ClassJobCategory0,ClassJobCategory1,WKSFunction,IsSpecialQuest,Unknown2,Unknown1,LevelGroup,MissionTime,MissionReward,SilverStarRequirement,GoldStarRequirement,MissionToDo0,MissionToDo1,MissionToDo2,MissionLotteryCond,WKSMissionLotterySpecialCond,LockedBehind,WKSMissionSupplyItem,IsSynced,WKSMissionRecipe,PlaceName,SortKey
+int32,str,WKSMissionText,ClassJobCategory,ClassJobCategory,WKSFunction,bit&01,bit&02,uint16,byte,uint16,WKSMissionReward,uint32,uint32,WKSMissionToDo,WKSMissionToDo,WKSMissionToDo,WKSMissionLotteryCond,WKSMissionLotterySpecialCond,WKSMissionUnit,WKSMissionSupplyItem,byte,WKSMissionRecipe,PlaceName,uint16
 0,"",0,0,0,0,False,False,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1," 制作通用型纤维板",17,9,0,0,False,False,100,1,0,1,1200,2400,143,0,0,0,0,0,50,1,2,0,0
 2," 筹备据点外工作所需的燃料",20,9,0,0,False,False,100,1,0,2,1200,2400,144,0,0,0,0,0,51,1,3,0,0

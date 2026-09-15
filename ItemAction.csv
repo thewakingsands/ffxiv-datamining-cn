@@ -1,4 +1,4 @@
-﻿#,,,,,Action,Data,DataHQ,CondLv,CondBattle,CondPVP,CondPVPOnly,,,,,,,,,,,,
+﻿#,CondLv,CondBattle,CondPVP,CondPVPOnly,Action,Data0,Data1,Data2,Data3,Data4,Data5,Data6,Data7,Data8,DataHQ0,DataHQ1,DataHQ2,DataHQ3,DataHQ4,DataHQ5,DataHQ6,DataHQ7,DataHQ8
 int32,byte,bit&01,bit&02,bit&04,Action,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,True,True,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,0,True,True,False,847,32,160,0,0,0,0,0,0,0,40,200,0,0,0,0,0,0,0

@@ -1,5 +1,5 @@
-﻿#,Text,Type,Property,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-int32,str,str,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32,int32
+﻿#,Text,Type,Property0,Property1,Property2,Property3,Property4,Property5,Property6,Property7,Property8,Property9,Property10,Property11,Property12,Property13,Property14,Property15,Property16,Property17,Property18,Property19,Property20,Property21,Property22,Property23,Property24,Property25,Property26,Property27,Property28,Property29,Property30,Property31
+int32,str,str,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property,UDS_Property
 0,"","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,"Update_activityStart","activityStart",2,1,3,4,5,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,"Update_activityEnd","activityEnd",14,2,8,1,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

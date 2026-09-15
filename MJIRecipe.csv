@@ -1,5 +1,5 @@
-﻿#,LogMessage,KeyItem,ItemPouch,Yield,Material,,Amount,,Order,,,,,,
-int32,LogMessage,MJIKeyItem,MJIItemPouch,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte,byte
+﻿#,LogMessage,KeyItem,ItemPouch,Yield,Material0,Amount0,Material1,Amount1,Material2,Amount2,Material3,Amount3,Material4,Amount4,Order
+int32,LogMessage,MJIKeyItem,MJIItemPouch,byte,MJIRecipeMaterial,byte,MJIRecipeMaterial,byte,MJIRecipeMaterial,byte,MJIRecipeMaterial,byte,MJIRecipeMaterial,byte,byte
 0,9904,1,0,1,3,2,4,2,21,3,0,0,0,0,20
 1,9905,2,0,1,4,3,7,2,9,4,0,0,0,0,21
 2,9906,3,0,1,7,3,9,3,11,4,0,0,0,0,22

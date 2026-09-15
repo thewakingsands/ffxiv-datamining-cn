@@ -1,5 +1,5 @@
-﻿#,,Customize,AttachmentPoint,,,,,,,,,,,,,,,,,,,
-int32,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16
+﻿#,AttachmentPoint,Customize0,Customize1,Customize2,Customize3,Customize4,Customize5,Customize6,Customize7,Customize8,Customize9,Customize10,Customize11,Customize12,Customize13,Customize14,Customize15,Customize16,Customize17,Customize18,Customize19,Customize20
+int32,byte,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize,OrnamentCustomize
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,77,1,5,1,5,2,1,4,4,1,6,3,1,1,6,3,1,1,1,0,0,0
 2,28,7,11,7,11,8,12,10,10,7,11,9,12,7,11,9,12,7,11,0,0,0

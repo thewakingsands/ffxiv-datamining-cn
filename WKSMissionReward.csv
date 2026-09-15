@@ -1,5 +1,5 @@
-﻿#,ExpModifier,CosmoCredits,PlanetCredits,BaseDronebits,ResearchReward,ItemCount,,,,Unknown19,,,Tool,,,TypeIndex,Item,
-int32,uint16,uint16,uint16,uint16,uint16,uint16,byte,byte,byte,uint16,byte,byte,uint16,byte,byte,uint16,Item,uint16
+﻿#,ExpModifier0,ExpModifier1,ExpModifier2,CosmoCredits,PlanetCredits,BaseDronebits,Unknown19,Tool0,TypeIndex0,ResearchReward0,Tool1,TypeIndex1,ResearchReward1,Tool2,TypeIndex2,ResearchReward2,Item,ItemCount
+int32,uint16,uint16,uint16,uint16,uint16,uint16,byte,WKSCosmoToolClass,byte,uint16,WKSCosmoToolClass,byte,uint16,WKSCosmoToolClass,byte,uint16,Item,uint16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,115,5,5,2,5,0,0,1,1,7,0,0,0,0,0,0,0,0
 2,120,10,5,2,5,0,0,1,1,7,0,0,0,0,0,0,0,0

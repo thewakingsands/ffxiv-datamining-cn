@@ -1,4 +1,4 @@
-﻿#,ReturnRate,MeldFee,OvermeldNQPercent,OvermeldHQPercent,,,,,,
+﻿#,ReturnRate,MeldFee,OvermeldNQPercent0,OvermeldNQPercent1,OvermeldNQPercent2,OvermeldNQPercent3,OvermeldHQPercent0,OvermeldHQPercent1,OvermeldHQPercent2,OvermeldHQPercent3
 int32,byte,uint16,byte,byte,byte,byte,byte,byte,byte,byte
 0,100,50,80,40,20,10,90,48,28,16
 1,100,100,72,36,18,10,82,44,26,16

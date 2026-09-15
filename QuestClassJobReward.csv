@@ -1,5 +1,5 @@
-﻿#,Unknown1,RewardItem,RequiredItem,Unknown8,Unknown9,Unknown2,Unknown3,Unknown4,Unknown5,ClassJobCategory,RewardAmount,RequiredAmount,Unknown10,Unknown11,Unknown0,Unknown6,Unknown7,Unknown12,Unknown13,Unknown14,Unknown15,,,,,,,,,,,,
-int32,byte,uint32,uint32,uint32,uint32,byte,byte,byte,byte,ClassJobCategory,uint32,uint32,uint32,uint32,uint32,byte,byte,byte,byte,byte,byte,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool
+﻿#,ClassJobCategory,RewardItem0,RewardItem1,RewardItem2,RewardItem3,RewardAmount0,RewardAmount1,RewardAmount2,RewardAmount3,RequiredItem0,RequiredItem1,RequiredItem2,RequiredItem3,Unknown8,Unknown9,RequiredAmount0,RequiredAmount1,RequiredAmount2,RequiredAmount3,Unknown10,Unknown11,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown12,Unknown13,Unknown14,Unknown15
+int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,Item,uint32,uint32,byte,byte,byte,byte,byte,byte,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool,bool
 0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
 1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
 1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False

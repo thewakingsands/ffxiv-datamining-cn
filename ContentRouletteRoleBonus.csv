@@ -1,5 +1,5 @@
-﻿#,GilMultiplier,GCSealsMultiplier,CurrencyA,CurrencyB,CurrencyC,ItemQuantity,Item,ItemMaxLevelCondition,,BaseExperience,,
-int32,uint16,uint16,uint16,uint16,uint16,uint16,uint32,byte,byte,uint32,byte,byte
+﻿#,BaseExperience,GilMultiplier,GCSealsMultiplier,CurrencyA,CurrencyB,CurrencyC,Item0,ItemQuantity0,ItemMaxLevelCondition0,Item1,ItemQuantity1,ItemMaxLevelCondition1
+int32,uint16,uint16,uint16,uint16,uint16,uint16,Item,byte,byte,Item,byte,byte
 0,0,0,0,0,0,0,0,0,0,0,0,0
 1,500,2500,42000,0,0,0,43944,1,6,43942,2,6
 2,500,1500,0,0,0,0,0,0,0,0,0,0

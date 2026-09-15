@@ -1,4 +1,4 @@
-﻿#,ItemLevelDoW,PerceptionDoL,PerceptionFSH,,,,,,,,,
+﻿#,ItemLevelDoW0,ItemLevelDoW1,ItemLevelDoW2,ItemLevelDoW3,PerceptionDoL0,PerceptionDoL1,PerceptionDoL2,PerceptionDoL3,PerceptionFSH0,PerceptionFSH1,PerceptionFSH2,PerceptionFSH3
 int32,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16
 0,0,0,0,0,164,1350,1485,1620,0,0,0,0
 1,5,11,16,21,20,29,32,35,13,19,21,23

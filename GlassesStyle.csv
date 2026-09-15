@@ -1,5 +1,5 @@
-﻿#,,Icon,Order,Glasses,GlassesSlot,,,,,,,,,,,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name
-int32,int16,Image,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str
+﻿#,GlassesSlot,Icon,Order,Glasses0,Glasses1,Glasses2,Glasses3,Glasses4,Glasses5,Glasses6,Glasses7,Glasses8,Glasses9,Glasses10,Glasses11,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,Countability,Pronoun,Article,Name
+int32,int16,Image,uint16,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,Glasses,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str
 0,0,200049,0,1,2,3,4,5,6,7,8,9,10,11,12,"椭圆眼镜",0,"",0,0,1,0,0,"椭圆眼镜"
 1,0,200085,1,13,14,15,16,17,18,19,20,21,22,23,24,"金边墨镜",0,"",0,0,1,0,0,"金边墨镜"
 2,0,200061,2,25,26,27,28,29,30,31,32,33,34,35,36,"经典眼镜",0,"",0,0,1,0,0,"经典眼镜"

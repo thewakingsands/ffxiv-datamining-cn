@@ -1,4 +1,4 @@
-﻿#,,SatisfactionSupplyRewardData,SatisfactionLow,SatisfactionMid,SatisfactionHigh,GilLow,GilMid,GilHigh,BonusMultiplier,,MinLevelForSecondReward,,,,,
+﻿#,BonusMultiplier,SatisfactionSupplyRewardData0RewardCurrency,SatisfactionSupplyRewardData0QuantityLow,SatisfactionSupplyRewardData0QuantityMid,SatisfactionSupplyRewardData0QuantityHigh,SatisfactionSupplyRewardData1RewardCurrency,SatisfactionSupplyRewardData1QuantityLow,SatisfactionSupplyRewardData1QuantityMid,SatisfactionSupplyRewardData1QuantityHigh,MinLevelForSecondReward,SatisfactionLow,SatisfactionMid,SatisfactionHigh,GilLow,GilMid,GilHigh
 int32,byte,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,byte,uint16,uint16,uint16,uint16,uint16,uint16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,100,2,94,117,140,6,82,100,116,0,30,30,30,670,840,1000

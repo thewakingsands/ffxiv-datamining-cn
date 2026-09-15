@@ -1,5 +1,5 @@
-﻿#,Items,ItemIcons,ItemValues,BannerType,,,
-int32,uint32,uint32,uint32,uint32,uint32,uint32,byte
+﻿#,Items0,Items1,ItemIcons0,ItemIcons1,ItemValues0,ItemValues1,BannerType
+int32,EventItem,EventItem,Image,Image,uint32,uint32,byte
 0,0,0,0,0,0,0,0
 1,0,0,0,0,0,0,0
 2,0,0,0,0,0,0,0

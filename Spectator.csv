@@ -1,4 +1,4 @@
-﻿#,Spot,,,,,,,,Unknown40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+﻿#,Spot0X,Spot1X,Spot2X,Spot3X,Spot4X,Spot5X,Spot6X,Spot7X,Spot0Y,Spot1Y,Spot2Y,Spot3Y,Spot4Y,Spot5Y,Spot6Y,Spot7Y,Spot0Z,Spot1Z,Spot2Z,Spot3Z,Spot4Z,Spot5Z,Spot6Z,Spot7Z,Spot0DirH,Spot1DirH,Spot2DirH,Spot3DirH,Spot4DirH,Spot5DirH,Spot6DirH,Spot7DirH,Spot0DirV,Spot1DirV,Spot2DirV,Spot3DirV,Spot4DirV,Spot5DirV,Spot6DirV,Spot7DirV,Unknown40
 int32,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,single,byte
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,16.96,-23.93,-48.38,-55.44,-16.96,23.93,48.38,55.44,36.5,16.25,15.5,27.75,36.5,16.25,15.5,27.75,48.91,22.56,71.38,-22.78,-48.91,-22.56,-71.38,22.78,-2.867,-2.575,2.541,-0.997,0.2745,0.5665,-0.6005,2.1445,-0.671,-0.598,-0.644,-0.556,-0.671,-0.598,-0.644,-0.556,1
