@@ -20225,7 +20225,7 @@ A类的基础探索任务或临时探索任务时，
 17786,""
 17787,"确定要在存在以下问题的情况下开始挑战吗？
 <If(IntegerParameter(1))>·魔兽未满编
-<Else/></If><If(IntegerParameter(2))>·魔兽编队中编入了兽级比推荐低3级或以上的魔兽
+<Else/></If><If(IntegerParameter(2))>·魔兽编队中编入了兽级比推荐低的魔兽
 <Else/></If><If(IntegerParameter(3))>·排名统计时间已不足10分钟
 <Else/></If>"
 17788,"确定要放弃编队，返回选择奇盘吗？"
@@ -20362,6 +20362,7 @@ A类的基础探索任务或临时探索任务时，
 17910,"设置条件筛选魔兽。"
 17911,"兽级 <Value>IntegerParameter(1)</Value>"
 17912,"<Value>IntegerParameter(1)</Value>级 ※超过等级上限时会自动进行等级同步。
+平均品级不低于<Value>IntegerParameter(5)</Value>级
 <If(IntegerParameter(2))>品级同步：<Value>IntegerParameter(2)</Value>
 <Else/></If>推荐兽级 <Value>IntegerParameter(3)</Value>～<Value>IntegerParameter(4)</Value>
 ※超过兽级上限时会自动进行同步。"
