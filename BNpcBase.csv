@@ -30,7 +30,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 26,0,4,0,0,1.5,126,0,0,0,0,False,852030,0,0,1,True,True,True,False,0,0,5,120,0,False,False,0
 27,0,4,0,0,1.5,127,0,0,0,0,False,852157,0,0,1,True,True,True,False,0,0,5,261,0,False,False,0
 28,0,4,0,0,1.5,69,0,0,0,0,False,852074,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
-29,0,4,0,0,1.5,125,0,422,0,0,False,852658,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
+29,0,4,0,0,1.5,125,0,422,0,0,False,852658,0,0,1,True,True,True,False,0,0,5,277,0,False,False,0
 30,0,4,0,0,2,81,0,0,0,0,False,852147,0,0,1,True,True,True,False,0,0,5,91,0,False,False,0
 31,0,4,0,0,1,71,0,418,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 32,0,4,0,0,0.5,35,0,0,0,0,False,851988,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
@@ -1504,7 +1504,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 1500,0,4,0,0,1,19,0,431,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 1501,0,4,0,0,1.5,168,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 1502,0,4,0,0,1,18,0,427,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
-1503,0,4,0,0,3,125,0,422,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
+1503,0,4,0,0,3,125,0,422,0,0,False,0,0,0,1,True,True,True,False,0,0,5,278,0,False,False,0
 1504,0,4,0,0,1,237,0,0,0,0,False,0,3,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 1505,0,4,0,0,1,249,0,0,0,0,False,0,3,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 1506,0,4,0,0,1,249,0,0,0,0,False,0,3,0,1,True,True,True,False,0,0,0,0,0,False,False,0
@@ -3091,7 +3091,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 3087,0,4,0,3,1,294,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 3088,0,4,0,3,1.5,690,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 3089,0,4,0,3,2,53,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
-3090,0,4,0,3,2,125,0,422,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
+3090,0,4,0,3,2,125,0,422,0,0,False,0,0,0,1,True,True,True,False,0,0,5,278,0,False,False,0
 3091,0,4,0,3,1.5,717,0,772,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 3092,0,4,0,3,1,717,0,772,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 3093,0,4,0,3,1,601,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
