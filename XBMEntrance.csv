@@ -1,5 +1,5 @@
-﻿#,Unknown1,Unknown2,Unknown0
-int32,uint16,byte,uint32
+﻿#,Unknown1,Unknown2,UnlockRequirement
+int32,uint16,byte,Quest
 0,0,0,0
 1,1,1,71030
 2,2,1,71032

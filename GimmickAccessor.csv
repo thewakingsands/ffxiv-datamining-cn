@@ -1,5 +1,5 @@
-﻿#,Param0,Param1,Param2,Type,Unknown0,Unknown1,Unknown2,Unknown6,Unknown3,Unknown4,Unknown5
-int32,int32,Param0,uint32,uint32,uint32,uint32,uint32,bit&01,bit&02,bit&04,bit&08
+﻿#,Type,Param0,Param1,Param2,Param3,Param4,Param5,Unknown6,Unknown3,Unknown4,Unknown5
+int32,int32,Type,Type,Type,uint32,uint32,uint32,bit&01,bit&02,bit&04,bit&08
 0,1,0,0,0,0,0,0,False,False,False,False
 1,2,1,0,0,0,0,0,False,False,False,False
 2,4,2007,0,0,0,0,0,False,False,False,False

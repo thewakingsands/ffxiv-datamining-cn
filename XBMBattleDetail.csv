@@ -1,4 +1,4 @@
-﻿#,Name,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9,Unknown2,Unknown3,Element,Resist,Unknown1
+﻿#,Name,Strength,Intelligence,PhysResistance,MagResistance,Constitution,Action1,Action2,Weakness,Resist,Icon
 int32,BNpcName,byte,byte,byte,byte,byte,XBMBattleDetailAction,XBMBattleDetailAction,XBMElement,BNpcResist,Image
 0.0,0,0,0,0,0,0,0,0,0,0,0
 1.0,14531,2,1,2,2,3,1,2,7,247,242501

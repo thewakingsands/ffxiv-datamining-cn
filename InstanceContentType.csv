@@ -1,4 +1,4 @@
-﻿#,Unknown2,LookupIndex,Unknown3,StartLogMessage,Unknown4,Unknown5,Unknown6,SupportsPartyMemberPortraits,Unknown8
+﻿#,IsCompletable,LookupIndex,Unknown3,StartLogMessage,Unknown4,Unknown5,Unknown6,SupportsPartyMemberPortraits,Unknown8
 int32,bit&01,byte,bit&02,LogMessage,bit&04,bit&08,bit&10,bit&20,bit&40
 0,False,0,False,0,True,True,True,False,False
 1,True,0,False,1531,True,True,True,True,False

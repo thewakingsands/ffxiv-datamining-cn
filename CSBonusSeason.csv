@@ -1,5 +1,5 @@
-﻿#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Item,Unknown13,Category0,Unknown14,Category1,Unknown15,Category2,Unknown16,Category3,Unknown17,Text0,Text1,Unknown12
-int32,bit&01,uint16,uint16,bool,bool,Item,uint32,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,CSBonusTextData,CSBonusTextData,byte
+﻿#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Currency1,Currency2,Category0,Unknown14,Category1,Unknown15,Category2,Unknown16,Category3,Unknown17,Text0,Text1,Unknown12
+int32,bit&01,uint16,uint16,bool,bool,Item,Item,uint16,uint16,uint16,uint16,uint16,uint16,uint16,uint16,CSBonusTextData,CSBonusTextData,byte
 0,False,0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,1
 1,False,0,0,False,False,0,0,0,0,0,0,0,0,0,0,0,0,1
 2,True,2,4,True,False,41305,0,1,0,2,0,3,0,4,0,1,2,26

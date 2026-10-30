@@ -1,5 +1,5 @@
-﻿#,InternalName,Name,DataCenter,Unknown0,UserType,Unknown2,Unknown1,Region,IsPublic
-int32,str,str,WorldDCGroupType,byte,byte,bit&01,byte,byte,bit&02
+﻿#,InternalName,Name,DataCenter,LogicalDataCenter,UserType,IsContent,Unknown1,Region,IsPublic
+int32,str,str,WorldDCGroupType,WorldDCGroupType,byte,bit&01,byte,byte,bit&02
 0,"crossworld","Dev",0,0,0,False,0,0,False
 1,"reserved1","Dev",0,0,0,False,0,0,False
 2,"","",0,0,0,False,0,0,False

@@ -1,5 +1,5 @@
-﻿#,UpgradeAction,Unknown3,Unknown4,BaseAction,ComboTreeLayout,GroupedCell,Unknown5
-int32,Action,byte,byte,Action,uint16,bit&01,byte
+﻿#,UpgradeAction,Unknown3,Unknown4,BaseAction,ComboTreeLayout,GroupedCell,Category
+int32,Action,byte,byte,Action,uint16,bit&01,ClassJobActionUICategory
 0.0,0,0,0,0,0,False,0
 1.0,9,0,0,0,100,False,0
 1.1,15,0,0,0,110,False,0
