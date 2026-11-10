@@ -23,7 +23,7 @@ int32,str,str
 17,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_010","关于“咒具纲”"
 18,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_011","关于“妖异纲”"
 19,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_012","关于“妖灵纲”"
-20,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_013","关于“合成兽”"
+20,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_013","关于“合成生物”"
 21,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_100_013","关于原种和亚种"
 22,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_A2_000_014","返回"
 23,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_010","“百兽纲”主要指那些依靠自己的四肢在地面活动的魔兽，
@@ -102,15 +102,15 @@ int32,str,str
 也有形态更复杂的阿帕斯及阿那罗之类的生物。"
 51,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_066","除此之外，水晶生命体以及部分魔法师抽取以太创造的使魔
 也在此分类下哥布。"
-52,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_070","“合成兽”，其外观看上去由多种生物的特征融合而成哥布。
-以前人们曾认为合成兽天生便是那副模样的，但最近的研究表明，
+52,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_070","“合成生物”，其外观看上去由多种生物的特征融合而成哥布。
+以前人们曾认为合成生物天生便是那副模样的，但最近的研究表明，
 它们其实是古代亚拉戈帝国制造的人造生物哥布！"
 53,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_071","在古亚拉戈帝国末期，发展到极致的魔科学
-逐渐从军用领域过渡到民用领域，亚拉戈开发制造了各种合成兽，
+逐渐从军用领域过渡到民用领域，亚拉戈开发制造了各种合成生物，
 来满足各种需要……都是些很残酷的事哥布。"
 54,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_072","但做这些事的并不只有那个帝国哥布。
 听说我的同胞……一个哥布林族科学家组织就利用同胞的身体，
-制作了合成兽……真是太糟糕了哥布。"
+制作了合成生物……真是太糟糕了哥布。"
 55,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_080","在博物学中，
 人们一般将同一物种中最广泛的类型称为“原种”哥布。"
 56,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_081","在魔兽图鉴中，
@@ -118,7 +118,7 @@ int32,str,str
 57,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_082","与之相对的，与原种为同一物种，
 但体色或其他特征略有不同的近亲则被称为“亚种”哥布。"
 58,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_LOOSEFROX_000_083","也有些驯兽师太过喜爱自己的搭档，
-专门用幻影术将搭档的外观该为更有特点的亚种模样哥布。
+专门用幻影术将搭档的外观改为更有特点的亚种模样哥布。
 不过唯有感情深，这种幻影术才能生效，有自信的话请务必试试！"
 59,"TEXT_CTSETCXBMLOOSEFROXTALK_00992_SYSTEM_000_084","无论捕获的魔兽是原种还是亚种，
 结下契约后，都可以以原种的外观召唤。"

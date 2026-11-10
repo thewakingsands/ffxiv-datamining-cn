@@ -55165,7 +55165,7 @@ int32,str
 与主人的兽心技战技相同，魔兽使用的兽心技战技也可以触发兽心协作技"
 44968,"令召唤出的魔兽使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>粘稠液<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，对目标及其周围的敌人造成无属性范围魔法攻击　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>550
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>止步
-该止步状态不会因受到伤害而解除<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+该止步状态不会因受到伤害而解除　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>最后一击效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身处于战斗状态，魔兽处于同行状态，且处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>人兽同调<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
@@ -55509,7 +55509,7 @@ int32,str
 <If(Equal(PlayerParameter(68),43))><If(GreaterThanOrEqualTo(PlayerParameter(72),44))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>最后一击效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身处于战斗状态，魔兽处于同行状态，且处于<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>人兽同调<UIGlow>01</UIGlow><UIForeground>01</UIForeground>状态中"
-45029,"令召唤出的魔兽使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>藤鞭穿刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，对目标发动突刺属性物理攻击
+45029,"令召唤出的魔兽使用<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>穿刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，对目标发动突刺属性物理攻击
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500～1250　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>兽心技属性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>坚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 技力消耗量越多威力越大
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔兽处于同行状态，且技力为100

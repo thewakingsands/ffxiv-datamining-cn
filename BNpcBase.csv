@@ -19014,7 +19014,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 19010,0,0,0,0,1,4632,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19011,0,0,0,0,1,4633,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19012,0,0,0,0,1,4634,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
-19013,0,0,0,0,0,0,0,0,0,0,False,0,0,0,0,False,False,False,False,0,0,0,0,0,False,False,0
+19013,0,0,0,0,1,4635,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19014,0,0,0,0,1,4636,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19015,0,0,0,0,1,4637,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
 19016,0,0,0,0,1,4638,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,0,0,0,False,False,0
@@ -19738,7 +19738,7 @@ int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,
 19734,0,4,0,0,2,629,0,0,0,2,False,0,3,0,1,True,False,True,False,0,0,0,0,0,False,False,0
 19735,0,0,0,0,3.5,476,0,0,0,2,False,0,3,0,0,False,False,False,False,0,0,0,0,0,False,True,0
 19736,0,4,0,2,0.7,351,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,7,71,0,False,False,0
-19737,0,4,0,0,1,476,0,0,0,0,False,0,3,0,0,True,True,True,False,0,0,7,61,0,False,True,0
+19737,0,4,0,0,0.7,5336,0,0,0,0,False,0,3,0,0,True,True,True,False,0,0,7,61,0,False,True,0
 19738,0,4,0,0,1,4909,0,0,0,0,False,0,0,0,0,True,False,True,False,0,0,0,0,0,False,False,0
 19739,0,4,0,0,2,774,0,886,0,0,False,0,0,0,0,False,False,True,False,0,0,0,0,0,False,False,0
 19740,0,4,0,0,1.6,778,0,0,0,0,False,0,0,0,1,True,True,True,False,0,0,7,63,0,False,False,0

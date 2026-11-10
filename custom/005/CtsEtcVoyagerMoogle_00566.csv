@@ -16,3 +16,10 @@ int32,str,str
 7,"TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003","攒到足够多的稀少神典石后，
 请拿到莫古这里来库啵。
 莫古会用珍藏的道具和你交换库啵！"
+8,"TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001","如果完成了<If(Equal(IntegerParameter(1),1))>每周小莫古挑战<Else/><If(Equal(IntegerParameter(1),2))>每周任务<Else/><If(Equal(IntegerParameter(1),3))>每周小莫古挑战和每周任务<Else/></If></If></If>，
+可以通过莫古莫古指南书确认库啵！"
+9,"TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002","莫古莫古指南书中
+关于“莫古莫古★大收集 天文的行路 第1阶段”的
+部分任务的完成期限与活动的终止日期出现了不一致的情况。"
+10,"TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003","对于未能在活动终止日期前完成相关任务挑战的各位玩家，
+作为补偿，系统会自动达成任务目标。"
