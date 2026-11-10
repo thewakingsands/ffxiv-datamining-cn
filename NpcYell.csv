@@ -21303,7 +21303,7 @@ int32,Row,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,byte
 奇怪玩意……",0
 16352,0,False,False,False,3,0,0,0,5,False,False,1,25,"简直就像一只
 会喷火的鼹鼠！",0
-16353,0,False,False,False,3,0,0,0,5,False,False,1,25,"是嘉·恩艾大人！
+16353,0,False,False,False,3,0,0,0,5,False,False,1,25,"是嘉恩·艾大人！
 艾默里克总长也在！",0
 16354,0,False,False,False,3,0,0,0,5,False,False,1,25,"我们上！",0
 16355,0,False,False,False,3,0,0,0,5,False,False,1,25,"友军中的强者
@@ -21312,7 +21312,7 @@ int32,Row,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,byte
 16357,0,False,False,False,3,0,0,0,5,False,False,1,25,"真是太可靠了！",0
 16358,0,False,False,False,3,0,0,0,5,False,False,1,25,"居然抗住了那种攻击！",0
 16359,0,False,False,False,3,0,0,0,5,False,False,1,25,"真不愧是
-嘉·恩艾大人！",0
+嘉恩·艾大人！",0
 16360,0,False,False,False,3,0,0,0,5,False,False,1,25,"好厉害的障壁！",0
 16361,0,False,False,False,3,0,0,0,5,False,False,1,25,"用拳头击穿钢铁……
 真是厉害！",0
@@ -22990,7 +22990,7 @@ int32,Row,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,byte
 17569,0,False,False,False,3,0,0,0,4,False,False,1,25,"这是什么呀？！",0
 17570,0,False,False,False,3,0,0,0,4,False,False,1,25,"人居然变异了……",0
 17571,0,False,False,False,3,0,0,0,4,False,False,1,25,"就好像是亚拉戈
-文明的合成兽一样。",0
+文明的合成生物一样。",0
 17572,0,False,False,False,3,0,0,0,4,False,False,1,25,"嘿……骗不了我！",0
 17573,0,False,False,False,3,0,0,0,4,False,False,1,25,"这是幻影？！",0
 17574,0,False,False,False,3,0,0,0,4,False,False,1,25,"这么劣质的话……",0
@@ -24691,7 +24691,7 @@ int32,Row,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,byte
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"该结束了……",0
 18852,0,False,False,False,2,0,0,0,3,False,False,1,25,"轰隆！",0
 18853,0,False,False,False,2,0,0,0,3,False,False,1,25,"嗡嗡……",0
-18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18854,0,False,False,False,2,0,0,0,3,False,False,1,25,"梦梦！",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"咔！",0
 18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"我会跟在你身边的，我的小树苗！",0
 18857,0,False,False,False,2,0,0,0,3,False,False,1,25,"耶！",0

@@ -734,19 +734,17 @@ int32,str
 
 
 拆除个人房间
-如果不需要个人房间了，也可以将它拆除。
-
-■拆除个人房间的条件
-　1.　撤除所有家具。
-　2.　从房屋的仓库中取出所有的家具。
+如果不需要个人房间了，
+也可以通过快捷指令→社交→房屋→住房设置进行拆除。
 
 
 自动拆除个人房间
 在拥有“个人房间”的状态下被所属部队除名后，
 该部队成员的个人房间会被自动拆除。
 
-如果个人房间被自动拆除，
-在实行自动拆除后35天（地球时间）之内，
+■拆除后的资产
+不论以何种形式，如果个人房间被拆除，
+在实行拆除后35天（地球时间）之内，
 可以从住宅区管理人那里回收部分资产。
 
 
@@ -5625,7 +5623,7 @@ int32,str
 或点击角色界面左下角的装备栏，
 便可以显示已习得的面部配饰。"
 1084,"玩家可以从面部配饰界面中，
-自由挑选喜欢的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>风格<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>颜色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
+自由挑选喜欢的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>样式<UIGlow>01</UIGlow><UIForeground>01</UIForeground>与<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>颜色<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 1085,"使用<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>染剂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，可以自由改变装备和房屋道具的颜色。
 
 染剂有很多种，有的可以染很多种颜色，有的只能染一种颜色。

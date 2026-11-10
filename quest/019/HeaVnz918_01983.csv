@@ -3,7 +3,7 @@ int32,str,str
 0,"TEXT_HEAVNZ918_01983_SEQ_00","第三传送环的研究系统安静地伫立着。"
 1,"TEXT_HEAVNZ918_01983_SEQ_01","研究系统向亚拉戈帝国军兵将请求协助。在阿济兹拉的贝塔管区讨伐2只<Sheet(BNpcName,3540,0)/>。"
 2,"TEXT_HEAVNZ918_01983_SEQ_02","成功讨伐了<Sheet(BNpcName,3540,0)/>。向第三传送环的研究系统报告。"
-3,"TEXT_HEAVNZ918_01983_SEQ_03","向研究系统报告完毕。<Sheet(BNpcName,3540,0)/>是一种精神极度不稳定，而且繁殖能力过强的问题合成兽。"
+3,"TEXT_HEAVNZ918_01983_SEQ_03","向研究系统报告完毕。<Sheet(BNpcName,3540,0)/>是一种精神极度不稳定，而且繁殖能力过强的问题合成生物。"
 4,"TEXT_HEAVNZ918_01983_SEQ_04","空"
 5,"TEXT_HEAVNZ918_01983_SEQ_05","空"
 6,"TEXT_HEAVNZ918_01983_SEQ_06","空"
@@ -50,7 +50,7 @@ int32,str,str
 47,"TEXT_HEAVNZ918_01983_TODO_23","空"
 48,"TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000","咔……咔咔……来自重组实验室的消息。
 请求诸位忠诚的亚拉戈帝国军兵将的协助。"
-49,"TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001","<Sheet(BNpcName,3540,0)/>是从生体培养局逃出的试验合成兽……
+49,"TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001","<Sheet(BNpcName,3540,0)/>是从生体培养局逃出的试验合成生物……
 因其不断地繁殖，数量持续在增长。
 请每人消灭2只。"
 50,"TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010","<Sheet(BNpcName,3540,0)/>是从生体培养局逃出的试验合成兽……

@@ -50,7 +50,8 @@ int32,str,str
 47,"TEXT_JOBXBM193_05509_TODO_23",""
 48,"TEXT_JOBXBM193_05509_SYSTEM_100_000","若要领取或继续推进本任务，
 需要满足以下条件。"
-49,"TEXT_JOBXBM193_05509_SYSTEM_110_000","1.当前职业为驯兽师2.已突破“斗兽奇弈高段 第二盘”"
+49,"TEXT_JOBXBM193_05509_SYSTEM_110_000","1.当前职业为驯兽师
+2.已突破“斗兽奇弈高段 第二盘”"
 50,"TEXT_JOBXBM193_05509_SYLMOND_000_001","<Highlight>ObjectParameter(1)</Highlight>，你来了！
 一定已经突破了上次的高段第二盘了吧！"
 51,"TEXT_JOBXBM193_05509_SYLMOND_000_002","这回加特勒比上次的劳妲还要不甘心。

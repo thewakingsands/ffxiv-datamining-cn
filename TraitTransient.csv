@@ -1538,7 +1538,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔兽的自动攻击或以太爆发命中时"
 692,"为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>人兽同调<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持续时间：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔时"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔兽时"
 693,"为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>兽灵之心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用魔兽的战技，成功发动兽心协作技时"
 694,"为自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>御兽之心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1611,9 +1611,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>盾牌冲击威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300"
 753,""
 754,"重置释放的复唱时间
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔时"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔兽时"
 755,"重置借用的复唱时间
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔时"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>发动条件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召唤魔兽时"
 756,"鼓劲的复唱时间缩短至90秒"
 757,"声援的复唱时间缩短至90秒"
 758,"山崩斧变为狂猛怒火、 寒风斧变为利鹰坚爪、 回旋斧变为升魔暴落、风啸斧变为灾祸天翔

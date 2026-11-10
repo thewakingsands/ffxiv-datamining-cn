@@ -15,7 +15,7 @@ int32,str
 12,"德文"
 13,"法文"
 14,"简体中文"
-15,"在线帐号：<Highlight>StringParameter(1)</Highlight>"
+15,"在线账号：<Highlight>StringParameter(1)</Highlight>"
 16,"..."
 17,"<Format(IntegerParameter(1),FF022C)/>"
 18,"<Format(IntegerParameter(1),FF022C)/>"
@@ -3597,8 +3597,8 @@ int32,str
 3352,"总成绩"
 3353,"种类"
 3354,"奖励"
-3355,"没有获得任何成就"
-3356,"传奇"
+3355,"没有获得任何成就。"
+3356,"遗产"
 3357,"称号 <Highlight>StringParameter(1)</Highlight>"
 3358,"首页"
 3359,"最新解锁"
@@ -7061,7 +7061,10 @@ A：Assist，协助他人打倒敌人的次数"
 6475,"请输入房间的名称"
 6476,"房间名称"
 6477,"确定要拆除房间吗？
-拆除之后所有的装潢配件都会废弃，而且不会返还扩建房间的费用。"
+拆除之后所有的装潢配件都会废弃，而且不会返还扩建房间的费用。
+
+房间和仓库内的家具可以从“住宅区管理人”处回收。
+（回收期限：35天）"
 6478,"禁止外人拜访"
 6479,"<Sheet(PlaceName,IntegerParameter(1),0)/>第<Value>IntegerParameter(2)</Value>区<Value>IntegerParameter(3)</Value>号<Value>IntegerParameter(4)</Value>号房间"
 6480,"查看个人房间资料"
@@ -10707,7 +10710,7 @@ Immerse Gamepack尚未安装。
 9694,"<Highlight>StringParameter(1)</Highlight>"
 9695,"积分 <Value>IntegerParameter(1)</Value>"
 9696,"得失分差 <Value>IntegerParameter(1)</Value> "
-9697,"在线帐号：<Highlight>StringParameter(1)</Highlight> "
+9697,"在线账号：<Highlight>StringParameter(1)</Highlight> "
 9698,"对局"
 9699,"关闭"
 9700,"奥秘核石A"
@@ -13140,7 +13143,8 @@ Immerse Gamepack尚未安装。
 　·小队内全员都没有加入战队
 　·小队人数为4～6人（可跨服）
 　·小队内全员都已开放对战任务
-　·小队内全员的原始服务器都属于当前大区"
+　·小队内没有免费试玩期的成员
+　·小队内全员的原始服务器都属于当前物理大区"
 11728,"关于战队段位积分"
 11729,"“战队段位积分”是体现战队实力的数字。
 该积分会在参加战队专用的段位赛时发生增减，获胜时增加，败北时减少。
@@ -18170,7 +18174,7 @@ Immerse Gamepack尚未安装。
 16050,"面部配饰"
 16051,"面部配饰"
 16052,""
-16053,"风格"
+16053,"样式"
 16054,"颜色"
 16055,"总数：<Value>IntegerParameter(1)</Value>"
 16056,""
@@ -19950,8 +19954,8 @@ A类的基础探索任务或临时探索任务时，
 17535,""
 17536,""
 17537,""
-17538,""
-17539,""
+17538,""
+17539,"(<Value>IntegerParameter(1)</Value>)"
 17540,"スタート地点です。"
 17541,"敌人#<Value>IntegerParameter(1)</Value>：和<Value>IntegerParameter(2)</Value>种怪物战斗。"
 17542,"强敌#<Value>IntegerParameter(1)</Value>：和<Value>IntegerParameter(2)</Value>种怪物战斗。"
@@ -20370,7 +20374,7 @@ A类的基础探索任务或临时探索任务时，
 17915,""
 17916,"推荐编队"
 17917,"选择魔兽以组建挑战斗兽奇弈的队伍。"
-17918,"确定要启用此编队吗？"
+17918,"确定要用推荐魔兽填满空位并启用此编队吗？"
 17919,"确定要保存此编队吗？"
 17920,"确定要读取此编队吗？"
 17921,"奇弈道具<Value>IntegerParameter(1)</Value>"

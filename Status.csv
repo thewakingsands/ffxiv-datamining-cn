@@ -4865,11 +4865,11 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 4644,"百兽本能","暂时借用百兽纲的本能，效果时间内可以发动百兽肤",229008,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4645,"百虫本能","暂时借用百虫纲的本能，效果时间内可以发动百虫肤",229009,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4646,"有翼本能","暂时借用有翼纲的本能，效果时间内可以发动有翼飞掠",229010,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4647,"草木本能","暂时借用百兽纲的本能，效果时间内可以发动草木播种",229011,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4648,"水栖本能","暂时借用百兽纲的本能，效果时间内可以发动水栖波",229012,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4649,"甲鳞本能","暂时借用百兽纲的本能，效果时间内可以发动甲鳞肤",229013,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4650,"咒具本能","暂时借用百兽纲的本能，效果时间内可以发动咒具碎魂",229014,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-4651,"死尸本能","暂时借用百兽纲的本能，效果时间内可以发动死尸净化",229015,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4647,"草木本能","暂时借用草木纲的本能，效果时间内可以发动草木播种",229011,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4648,"水栖本能","暂时借用水栖纲的本能，效果时间内可以发动水栖波",229012,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4649,"甲鳞本能","暂时借用甲鳞纲的本能，效果时间内可以发动甲鳞肤",229013,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4650,"咒具本能","暂时借用咒具纲的本能，效果时间内可以发动咒具碎魂",229014,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+4651,"死尸本能","暂时借用死尸纲的本能，效果时间内可以发动死尸净化",229015,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,True,100,2,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4652,"猛毒","毒素会导致体力逐渐减少",215517,0,0,1,2,1,0,False,False,False,False,False,False,False,False,False,False,10,0,False,False,100,0,False,0,False,5,False,0,0,0,False,False,False,0
 4653,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 4654,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
@@ -5536,7 +5536,7 @@ int32,str,str,Image,byte,byte,ClassJobCategory,byte,StatusHitEffect,StatusLoopVF
 5311,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5312,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5313,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
-5314,"电气填充","枪中充满了雷属性以太。积累到2档后，变为强硬电火花",217378,0,2,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
+5314,"电气填充","枪中充满了雷属性以太。积累到2档后，变为强硬电火花预备",217378,0,2,1,1,16,0,False,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5315,"先发制人","自动攻击间隔时间缩短，战技与魔法的咏唱时间和复唱时间缩短",229977,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,-15,0,False,0,False,0,False,0,0,0,False,False,False,0
 5316,"魔闪躲","自身所受到的一次魔法攻击无效，部分攻击除外",229978,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,False,0
 5317,"魔蛙变","变成一只青蛙，无法发动任何技能",215580,69,0,1,2,0,0,False,False,False,False,True,False,False,False,False,False,100,0,False,False,-99,2,False,0,False,0,False,0,0,0,False,False,False,0
